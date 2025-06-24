@@ -3,9 +3,9 @@
 2 VERS 6.0.1
 2 NAME Gramps
 1 DATE 24 JUN 2025
-2 TIME 00:55:09
+2 TIME 23:53:42
 1 SUBM @SUBM@
-1 FILE /home/bert/data.ged
+1 FILE /home/bert/Untitled_1.ged
 1 COPR Copyright (c) 2025 .
 1 GEDC
 2 VERS 5.5.1
@@ -10934,13 +10934,15 @@
 2 DATE 5 MAY 1765
 1 DEAT
 2 DATE 10 SEP 1826
+1 FACT Timmerman
+2 TYPE Occupation
 1 FAMC @F0285@
 2 PEDI birth
 1 FAMS @F0489@
 1 FAMS @F0515@
 1 CHAN
-2 DATE 7 JUN 2025
-3 TIME 23:15:53
+2 DATE 24 JUN 2025
+3 TIME 22:26:50
 0 @I0698@ INDI
 1 NAME Aaltje Gerrits /Timmerman/
 2 TYPE birth
@@ -10955,13 +10957,15 @@
 3 TIME 06:00
 2 PLAC Ommen
 2 NOTE @N0655@
+1 FACT Landbouwster
+2 TYPE Occupation
 1 FAMC @F0285@
 2 PEDI birth
 1 FAMS @F0559@
 1 FAMS @F0560@
 1 CHAN
-2 DATE 10 JUN 2025
-3 TIME 23:35:13
+2 DATE 24 JUN 2025
+3 TIME 22:27:20
 0 @I0699@ INDI
 1 NAME Jan Hendrik /Timmerman/
 2 TYPE birth
@@ -10972,18 +10976,22 @@
 2 DATE 6 MAR 1772
 2 PLAC Giethmen
 2 NOTE @N0659@
+2 NOTE @N0700@
 1 DEAT
 2 DATE 29 JAN 1824
 3 TIME 16:00
 2 PLAC Giethmen
 2 NOTE @N0660@
+2 NOTE @N0702@
 1 FACT Schipper
 2 TYPE Occupation
+2 NOTE @N0701@
 1 FAMC @F0285@
 2 PEDI birth
+1 NOTE @N0699@
 1 CHAN
-2 DATE 28 MAY 2025
-3 TIME 13:39:17
+2 DATE 24 JUN 2025
+3 TIME 22:25:30
 0 @I0700@ INDI
 1 NAME Wiegmantje Gerrits /Timmerman/
 2 TYPE birth
@@ -11004,13 +11012,15 @@
 1 BAPM
 2 DATE 19 JAN 1777
 2 PLAC Ommen
+1 FACT Arbeidster
+2 TYPE Occupation
 1 FAMC @F0285@
 2 PEDI birth
 1 FAMS @F0561@
 1 NOTE @N0661@
 1 CHAN
-2 DATE 10 JUN 2025
-3 TIME 23:58:28
+2 DATE 24 JUN 2025
+3 TIME 22:28:00
 0 @I0701@ INDI
 1 NAME Berend Jan Gerritszn /Timmerman/
 2 TYPE birth
@@ -22075,8 +22085,8 @@
 2 PEDI birth
 1 FAMS @F0515@
 1 CHAN
-2 DATE 23 JUN 2025
-3 TIME 23:39:57
+2 DATE 24 JUN 2025
+3 TIME 19:06:26
 0 @I1400@ INDI
 1 NAME Harmen /Timmerman/
 2 TYPE birth
@@ -24097,10 +24107,11 @@
 2 GIVN Geert
 2 SURN Roelofs
 1 SEX M
+1 FAMS @F0680@
 1 FAMS @F0559@
 1 CHAN
-2 DATE 10 JUN 2025
-3 TIME 23:22:55
+2 DATE 24 JUN 2025
+3 TIME 22:14:17
 0 @I1496@ INDI
 1 NAME Berendina /Hogenkamp/
 2 TYPE birth
@@ -24138,14 +24149,16 @@
 2 NOTE @N0657@
 1 FACT Landbouwer
 2 TYPE Occupation
+1 FAMC @F0681@
+2 PEDI birth
 1 FAMS @F0560@
 1 CHAN
-2 DATE 10 JUN 2025
-3 TIME 23:35:13
+2 DATE 24 JUN 2025
+3 TIME 22:16:25
 0 @I1498@ INDI
-1 NAME Egbert /Wevers/
+1 NAME Egbert Janssen /Wevers/
 2 TYPE birth
-2 GIVN Egbert
+2 GIVN Egbert Janssen
 2 SURN Wevers
 1 SEX M
 1 BIRT
@@ -24160,10 +24173,12 @@
 2 NOTE @N0667@
 1 FACT Landbouwer te Ommen
 2 TYPE Occupation
+1 FAMC @F0682@
+2 PEDI birth
 1 FAMS @F0561@
 1 CHAN
-2 DATE 10 JUN 2025
-3 TIME 23:58:28
+2 DATE 24 JUN 2025
+3 TIME 22:42:15
 0 @I1499@ INDI
 1 NAME Lefert /Immink/
 2 TYPE birth
@@ -27399,19 +27414,21 @@
 2 DATE 23 JUN 2025
 3 TIME 23:34:55
 0 @I1721@ INDI
-1 NAME Harm /Schutmaat/
+1 NAME Harm Gerrits /Schutmaat/
 2 TYPE birth
-2 GIVN Harm
+2 GIVN Harm Gerrits
 2 SURN Schutmaat
 1 SEX M
 1 BIRT
 2 DATE 1734
 1 DEAT
 2 DATE 1811
+1 FAMC @F0675@
+2 PEDI birth
 1 FAMS @F0670@
 1 CHAN
-2 DATE 23 JUN 2025
-3 TIME 23:41:39
+2 DATE 24 JUN 2025
+3 TIME 21:13:00
 0 @I1722@ INDI
 1 NAME Geertruid /Spenkelink/
 2 TYPE birth
@@ -27424,6 +27441,337 @@
 1 CHAN
 2 DATE 23 JUN 2025
 3 TIME 23:42:20
+0 @I1723@ INDI
+1 NAME Gerrit Harmens /Schutmaat/
+2 TYPE birth
+2 GIVN Gerrit Harmens
+2 SURN Schutmaat
+1 SEX M
+1 BIRT
+2 DATE 1757
+2 PLAC Den Ham
+1 BAPM
+2 DATE 8 APR 1757
+2 PLAC Den Ham
+2 NOTE @N0697@
+1 FAMC @F0670@
+2 PEDI birth
+1 FAMS @F0671@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 19:25:52
+0 @I1724@ INDI
+1 NAME Aaltje Jansen /Bosch/
+2 TYPE birth
+2 GIVN Aaltje Jansen
+2 SURN Bosch
+1 SEX F
+1 FAMS @F0671@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 19:25:52
+0 @I1725@ INDI
+1 NAME Geertje Gerrits /Schutmaat/
+2 TYPE birth
+2 GIVN Geertje Gerrits
+2 SURN Schutmaat
+1 SEX F
+1 BIRT
+2 DATE 4 FEB 1791
+1 BAPM
+2 DATE 6 FEB 1791
+2 PLAC Den Ham
+2 NOTE @N0698@
+1 FAMC @F0671@
+2 PEDI birth
+1 FAMS @F0672@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 19:46:35
+0 @I1726@ INDI
+1 NAME Zwier Derks /Staarman/
+2 TYPE birth
+2 GIVN Zwier Derks
+2 SURN Staarman
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1791
+2 PLAC Besthmen
+1 FAMS @F0672@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 19:46:35
+0 @I1727@ INDI
+1 NAME Jan /Staarman/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Staarman
+1 SEX M
+1 BIRT
+2 DATE 1818
+2 PLAC Den Ham
+1 DEAT
+2 DATE 9 FEB 1863
+2 PLAC Den Ham
+1 FACT Bakker
+2 TYPE Occupation
+1 FAMC @F0672@
+2 PEDI birth
+1 FAMS @F0673@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 20:47:08
+0 @I1728@ INDI
+1 NAME Hendrika /Aaftink/
+2 TYPE birth
+2 GIVN Hendrika
+2 SURN Aaftink
+1 SEX F
+1 FAMS @F0673@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 20:47:08
+0 @I1729@ INDI
+1 NAME Gerridina /Staarman/
+2 TYPE birth
+2 GIVN Gerridina
+2 SURN Staarman
+1 SEX F
+1 BIRT
+2 DATE 8 APR 1853
+2 PLAC Den Ham
+1 DEAT
+2 DATE 15 OCT 1922
+2 PLAC Zwolle
+1 FAMC @F0673@
+2 PEDI birth
+1 FAMS @F0674@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 21:02:48
+0 @I1730@ INDI
+1 NAME Hendrik Jan /Havers/
+2 TYPE birth
+2 GIVN Hendrik Jan
+2 SURN Havers
+1 SEX M
+1 BIRT
+2 DATE 21 OCT 1853
+2 PLAC Dalfsen
+1 DEAT
+2 DATE 20 AUG 1933
+2 PLAC Zwolle
+1 FAMS @F0674@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 21:02:48
+0 @I1731@ INDI
+1 NAME Gerrit /Havers/
+2 TYPE birth
+2 GIVN Gerrit
+2 SURN Havers
+1 SEX M
+1 BIRT
+2 DATE 18 JUN 1886
+2 PLAC Zwolle
+1 DEAT
+2 DATE 12 SEP 1927
+2 PLAC Zwolle
+1 BURI
+2 PLAC Zwolle
+1 FAMC @F0674@
+2 PEDI birth
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 21:04:50
+0 @I1732@ INDI
+1 NAME Roelofje Harmsen /Schutmaat/
+2 TYPE birth
+2 GIVN Roelofje Harmsen
+2 SURN Schutmaat
+1 SEX F
+1 BIRT
+2 DATE 1710
+2 PLAC Meer (Den Ham)
+1 DEAT
+2 DATE 1748
+1 FAMC @F0677@
+2 PEDI birth
+1 FAMS @F0675@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:04:12
+0 @I1733@ INDI
+1 NAME Gerrit Hendriks /van de Haar/
+2 TYPE birth
+2 GIVN Gerrit Hendriks
+2 SPFX van de
+2 SURN Haar
+1 SEX M
+1 BIRT
+2 DATE 1710
+2 PLAC Rectum / Wierden
+1 DEAT
+2 DATE 1751
+1 FAMC @F0676@
+2 PEDI birth
+1 FAMS @F0675@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 21:48:37
+0 @I1734@ INDI
+1 NAME Hendrik /van de Haar/
+2 TYPE birth
+2 GIVN Hendrik
+2 SPFX van de
+2 SURN Haar
+1 SEX M
+1 BIRT
+2 DATE 1688
+1 FAMS @F0676@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 21:48:37
+0 @I1735@ INDI
+1 NAME Arntjen /Hendriksen/
+2 TYPE birth
+2 GIVN Arntjen
+2 SURN Hendriksen
+1 SEX F
+1 BIRT
+2 DATE 1690
+1 FAMS @F0676@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 21:48:37
+0 @I1736@ INDI
+1 NAME Berentje /Jansen/
+2 TYPE birth
+2 GIVN Berentje
+2 SURN Jansen
+1 SEX F
+1 DEAT
+2 DATE 1734
+1 FAMS @F0677@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:04:12
+0 @I1737@ INDI
+1 NAME Harm Roelofs /Schutmaat/
+2 TYPE birth
+2 GIVN Harm Roelofs
+2 SURN Schutmaat
+1 SEX M
+1 DEAT
+2 DATE 1734
+1 FAMC @F0678@
+2 PEDI birth
+1 FAMS @F0677@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:06:59
+0 @I1738@ INDI
+1 NAME Roelof Jansen /Schutmaat/
+2 TYPE birth
+2 GIVN Roelof Jansen
+2 SURN Schutmaat
+1 SEX M
+1 DEAT
+2 DATE 1700
+1 FAMC @F0679@
+2 PEDI birth
+1 FAMS @F0678@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:07:42
+0 @I1739@ INDI
+1 NAME Ida /Wilems/
+2 TYPE birth
+2 GIVN Ida
+2 SURN Wilems
+1 SEX F
+1 FAMS @F0678@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:06:59
+0 @I1740@ INDI
+1 NAME Jan /Schutmaat/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Schutmaat
+1 SEX M
+1 FAMS @F0679@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:07:42
+0 @I1741@ INDI
+1 NAME Berendina /Jansen/
+2 TYPE birth
+2 GIVN Berendina
+2 SURN Jansen
+1 SEX F
+1 FAMS @F0680@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:13:46
+0 @I1742@ INDI
+1 NAME Meindert /Meppelink/
+2 TYPE birth
+2 GIVN Meindert
+2 SURN Meppelink
+1 SEX M
+1 FAMS @F0681@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:16:25
+0 @I1743@ INDI
+1 NAME Marrigje /Hendriks/
+2 TYPE birth
+2 GIVN Marrigje
+2 SURN Hendriks
+1 SEX F
+1 FAMS @F0681@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:16:25
+0 @I1744@ INDI
+1 NAME Jan /Wevers/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Wevers
+1 SEX M
+1 FAMS @F0682@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:41:52
+0 @I1745@ INDI
+1 NAME Derkjen /Albers/
+2 TYPE birth
+2 GIVN Derkjen
+2 SURN Albers
+1 SEX F
+1 FAMS @F0682@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:41:52
+0 @I1746@ INDI
+1 NAME Gerridina /Wevers/
+2 TYPE birth
+2 GIVN Gerridina
+2 SURN Wevers
+1 SEX F
+1 BIRT
+2 DATE 19 NOV 1810
+2 NOTE @N0703@
+1 DEAT
+2 DATE 7 JUN 1815
+2 PLAC Ommen
+2 NOTE @N0704@
+1 FAMC @F0561@
+2 PEDI birth
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:44:17
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -32953,9 +33301,10 @@
 2 DATE 30 APR 1809
 2 PLAC Ommen
 2 NOTE @N0669@
+1 CHIL @I1746@
 1 CHAN
-2 DATE 10 JUN 2025
-3 TIME 23:58:28
+2 DATE 24 JUN 2025
+3 TIME 22:44:17
 0 @F0562@ FAM
 1 HUSB @I1499@
 1 WIFE @I1500@
@@ -33888,10 +34237,106 @@
 0 @F0670@ FAM
 1 HUSB @I1721@
 1 WIFE @I1722@
+1 CHIL @I1723@
 1 CHIL @I1399@
 1 CHAN
-2 DATE 23 JUN 2025
-3 TIME 23:39:57
+2 DATE 24 JUN 2025
+3 TIME 19:06:26
+0 @F0671@ FAM
+1 HUSB @I1723@
+1 WIFE @I1724@
+1 MARR
+2 DATE 11 JUN 1786
+2 PLAC Den Ham
+1 CHIL @I1725@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 19:25:52
+0 @F0672@ FAM
+1 HUSB @I1726@
+1 WIFE @I1725@
+1 MARR
+2 DATE 28 NOV 1811
+1 CHIL @I1727@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 19:46:35
+0 @F0673@ FAM
+1 HUSB @I1727@
+1 WIFE @I1728@
+1 MARR
+2 DATE 19 APR 1845
+2 PLAC Den Ham
+1 CHIL @I1729@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 20:47:08
+0 @F0674@ FAM
+1 HUSB @I1730@
+1 WIFE @I1729@
+1 MARR
+2 DATE 20 MAY 1880
+2 PLAC Zwolle
+1 CHIL @I1731@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 21:02:48
+0 @F0675@ FAM
+1 HUSB @I1733@
+1 WIFE @I1732@
+1 MARR
+2 DATE 13 OCT 1732
+1 CHIL @I1721@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 21:13:00
+0 @F0676@ FAM
+1 HUSB @I1734@
+1 WIFE @I1735@
+1 CHIL @I1733@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 21:48:37
+0 @F0677@ FAM
+1 HUSB @I1737@
+1 WIFE @I1736@
+1 CHIL @I1732@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:04:12
+0 @F0678@ FAM
+1 HUSB @I1738@
+1 WIFE @I1739@
+1 CHIL @I1737@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:06:59
+0 @F0679@ FAM
+1 HUSB @I1740@
+1 CHIL @I1738@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:07:42
+0 @F0680@ FAM
+1 HUSB @I1495@
+1 WIFE @I1741@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:13:46
+0 @F0681@ FAM
+1 HUSB @I1742@
+1 WIFE @I1743@
+1 CHIL @I1497@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:16:25
+0 @F0682@ FAM
+1 HUSB @I1744@
+1 WIFE @I1745@
+1 CHIL @I1498@
+1 CHAN
+2 DATE 24 JUN 2025
+3 TIME 22:41:52
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -35432,6 +35877,23 @@
 0 @N0693@ NOTE Annette denkt 1764
 0 @N0694@ NOTE ref. dopen 1791-1812- pag. 30.
 0 @N0695@ NOTE Geloof: Gereformeerde Gemeente.
+0 @N0696@ NOTE 138. Gedoopt op 8 april 1757 te Den Ham.
+0 @N0697@ NOTE 138. Gedoopt op 8 april 1757 te Den Ham.
+0 @N0698@ NOTE 69. Gedoopt op 6 februari 1791 te Den Ham.
+0 @N0699@ NOTE Jan Hendrik heeft op 6 december 1823 in Ommen een testament opgemaa
+1 CONC kt. Hij is op dat moment ziek en is bij zijn broer Lefert. In dit testam
+1 CONC ent staat onder meer vermeld: Ik legateer aan:
+1 CONT - Lefert Timmerman, Timmerman te Gietem
+1 CONT - Aaltje Timmerman, echtgenoote van Derk Meppelink, landbouwer te Varsen
+1 CONT - Hendrik Timmerman, Timmerman te Varsen
+1 CONT - Wiegmentje Timmerman, gehuwd met Egbert Wevers, arbeider te Ommen
+0 @N0700@ NOTE Namenlijst 1811, Ommen
+0 @N0701@ NOTE Testament 06-12-1823
+0 @N0702@ NOTE Overlijdensregister Ommen, akte nr. 4
+0 @N0703@ NOTE register van naamsaanneming Ommen, Stad
+0 @N0704@ NOTE B.S. Ommen, akte 24
+1 CONT 
+1 CONT     huis nr 1
 0 @O0000@ OBJE
 1 FILE /home/bert/Downloads/van der Wel, Goebel, Huwelijk, 5-2-1897, 46361351-a600-2122-ed87-77bbcff52667.jpg
 2 FORM jpg
