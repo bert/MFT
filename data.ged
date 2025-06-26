@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 25 JUN 2025
-2 TIME 22:17:51
+1 DATE 27 JUN 2025
+2 TIME 00:42:08
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2025 .
@@ -27920,8 +27920,8 @@
 2 PEDI birth
 1 FAMS @F0685@
 1 CHAN
-2 DATE 25 JUN 2025
-3 TIME 21:35:04
+2 DATE 27 JUN 2025
+3 TIME 00:39:32
 0 @I1754@ INDI
 1 NAME Maria /van Keulen/
 2 TYPE birth
@@ -27948,8 +27948,8 @@
 2 PEDI birth
 1 FAMS @F0685@
 1 CHAN
-2 DATE 25 JUN 2025
-3 TIME 22:16:22
+2 DATE 26 JUN 2025
+3 TIME 23:39:53
 0 @I1755@ INDI
 1 NAME Jacob /van Keulen/
 2 TYPE birth
@@ -28015,9 +28015,114 @@
 2 TYPE Occupation
 1 FAMC @F0686@
 2 PEDI birth
+1 FAMS @F0687@
 1 CHAN
-2 DATE 25 JUN 2025
-3 TIME 22:16:22
+2 DATE 26 JUN 2025
+3 TIME 23:39:53
+0 @I1758@ INDI
+1 NAME Egberdina /Meulman/
+2 TYPE birth
+2 GIVN Egberdina
+2 SURN Meulman
+1 SEX F
+1 BIRT
+2 DATE 1 SEP 1887
+3 TIME 13:00
+2 PLAC Varsen
+2 NOTE @N0732@
+1 DEAT
+2 DATE 27 APR 1965
+1 BURI
+2 PLAC Ommen, Hardenbergerweg
+3 MAP
+4 LATI N52.521527
+4 LONG E6.426837
+1 FAMS @F0687@
+1 CHAN
+2 DATE 26 JUN 2025
+3 TIME 22:31:54
+0 @I1759@ INDI
+1 NAME Jacob /van Keulen/
+2 TYPE birth
+2 GIVN Jacob
+2 SPFX van
+2 SURN Keulen
+1 SEX M
+1 BIRT
+2 DATE 23 JAN 1916
+3 TIME 11:00
+2 PLAC Ommen
+2 NOTE @N0734@
+1 DEAT
+2 DATE 30 JUN 1985
+1 BURI
+2 PLAC Ommen, Laarmanshoek
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMC @F0687@
+2 PEDI birth
+1 FAMS @F0688@
+1 CHAN
+2 DATE 27 JUN 2025
+3 TIME 00:18:56
+0 @I1760@ INDI
+1 NAME Gerridina /Thomassen/
+2 TYPE birth
+2 GIVN Gerridina
+2 SURN Thomassen
+1 SEX F
+1 BIRT
+2 DATE 18 DEC 1917
+3 TIME 02:30
+2 PLAC Arrien (Ommen)
+2 NOTE @N0736@
+1 DEAT
+2 DATE 9 OCT 1993
+1 BURI
+2 PLAC Ommen, Laarmanshoek
+1 FAMS @F0688@
+1 CHAN
+2 DATE 27 JUN 2025
+3 TIME 00:16:55
+0 @I1761@ INDI
+1 NAME niet openbaar /van Keulen/
+2 TYPE birth
+2 GIVN niet openbaar
+2 SPFX van
+2 SURN Keulen
+1 FAMC @F0687@
+2 PEDI birth
+1 CHAN
+2 DATE 27 JUN 2025
+3 TIME 00:18:56
+0 @I1762@ INDI
+1 NAME Roelof /Kouwen/
+2 TYPE birth
+2 GIVN Roelof
+2 SURN Kouwen
+1 SEX M
+1 BIRT
+2 DATE 22 OCT 1880
+3 TIME 22:00
+2 PLAC Ommen
+2 NOTE @N0737@
+1 DEAT
+2 DATE 23 MAY 1973
+3 TIME 14:40
+2 PLAC Ommen
+2 NOTE @N0738@
+1 BURI
+2 PLAC Ommen, Hardenbergerweg
+3 MAP
+4 LATI N52.521527
+4 LONG E6.426837
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMC @F0684@
+2 PEDI birth
+1 CHAN
+2 DATE 27 JUN 2025
+3 TIME 00:39:32
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -34605,9 +34710,10 @@
 2 PLAC Ommen
 2 NOTE @N0718@
 1 CHIL @I1753@
+1 CHIL @I1762@
 1 CHAN
-2 DATE 25 JUN 2025
-3 TIME 20:29:50
+2 DATE 27 JUN 2025
+3 TIME 00:39:32
 0 @F0685@ FAM
 1 HUSB @I1753@
 1 WIFE @I1754@
@@ -34628,8 +34734,30 @@
 1 CHIL @I1754@
 1 CHIL @I1757@
 1 CHAN
-2 DATE 25 JUN 2025
-3 TIME 22:16:22
+2 DATE 26 JUN 2025
+3 TIME 23:39:53
+0 @F0687@ FAM
+1 HUSB @I1757@
+1 WIFE @I1758@
+1 MARR
+2 DATE 8 APR 1915
+2 PLAC Ommen
+2 NOTE @N0733@
+1 CHIL @I1759@
+1 CHIL @I1761@
+1 CHAN
+2 DATE 27 JUN 2025
+3 TIME 00:18:56
+0 @F0688@ FAM
+1 HUSB @I1759@
+1 WIFE @I1760@
+1 MARR
+2 DATE 20 MAY 1942
+2 PLAC Ommen
+2 NOTE @N0735@
+1 CHAN
+2 DATE 27 JUN 2025
+3 TIME 00:16:55
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -36231,6 +36359,18 @@
 0 @N0730@ NOTE B.S. Ambt Ommen, akte 96
 1 CONT 
 1 CONT     huis nr. 5
+0 @N0731@ NOTE B.S. Stad Ommen, akte 4
+0 @N0732@ NOTE B.S. Ambt Ommen, akte 88
+1 CONT 
+1 CONT     huis nr. 36
+0 @N0733@ NOTE B.S. Stad Ommen, akte 4
+0 @N0734@ NOTE B.S. Stad Ommen, akte 4
+0 @N0735@ NOTE B.S. Ommen, akte 27
+0 @N0736@ NOTE B.S. Ambt Ommen, akte 138
+0 @N0737@ NOTE B.S. Stad Ommen, akte 55
+1 CONT 
+1 CONT     huis nr. 13
+0 @N0738@ NOTE B.S. Ommen, akte 33
 0 @O0000@ OBJE
 1 FILE /home/bert/Downloads/van der Wel, Goebel, Huwelijk, 5-2-1897, 46361351-a600-2122-ed87-77bbcff52667.jpg
 2 FORM jpg
