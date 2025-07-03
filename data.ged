@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 30 JUN 2025
-2 TIME 23:47:07
+1 DATE 4 JUL 2025
+2 TIME 00:10:14
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2025 .
@@ -4868,8 +4868,8 @@
 2 PEDI birth
 1 FAMS @F0139@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 01:09:56
+2 DATE 2 JUL 2025
+3 TIME 23:49:00
 0 @I0309@ INDI
 1 NAME Janna Dirks /van Heijningen/
 2 TYPE birth
@@ -9747,7 +9747,7 @@
 2 DATE 27 JAN 1956
 2 PLAC Zwolle
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -9842,7 +9842,7 @@
 1 DEAT
 2 DATE 1 JUN 1985
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -11770,27 +11770,54 @@
 2 DATE 28 MAY 2025
 3 TIME 18:11:30
 0 @I0750@ INDI
-1 NAME Hendrik /van der Wel/
+1 NAME Hendrik Jansz /van der Wel/
 2 TYPE birth
-2 GIVN Hendrik
+2 GIVN Hendrik Jansz
 2 SPFX van der
 2 SURN Wel
 1 SEX M
+1 BIRT
+2 DATE 1804
+2 PLAC Alphen aan de Rijn
+1 DEAT
+2 DATE 1849
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FACT Bouwman
+2 TYPE Occupation
+2 NOTE @N0873@
+1 FAMC @F0729@
+2 PEDI birth
 1 FAMS @F0297@
+1 RESI
+2 DATE 1839
+2 ADDR Nieuwe sloot 107
+3 CONT Oudshoorn
+3 CONT Alphen aan de Rijn
+3 CONT Zuid Holland
+3 CONT Nederland
+3 ADR1 Nieuwe sloot 107
+3 ADR2 Oudshoorn
+3 CITY Alphen aan de Rijn
+3 STAE Zuid Holland
+3 CTRY Nederland
+2 NOTE @N0874@
+1 NOTE @N0925@
 1 CHAN
-2 DATE 28 MAY 2025
-3 TIME 18:15:08
+2 DATE 2 JUL 2025
+3 TIME 23:55:49
 0 @I0751@ INDI
-1 NAME Johanna /van den Bos/
+1 NAME Johanna Philippus /van den Bos/
 2 TYPE birth
-2 GIVN Johanna
+2 GIVN Johanna Philippus
 2 SPFX van den
 2 SURN Bos
 1 SEX F
+1 FAMC @F0730@
+2 PEDI birth
 1 FAMS @F0297@
 1 CHAN
-2 DATE 28 MAY 2025
-3 TIME 18:15:08
+2 DATE 2 JUL 2025
+3 TIME 20:20:04
 0 @I0752@ INDI
 1 NAME Adriana /Muzerie/
 2 TYPE birth
@@ -12454,8 +12481,8 @@
 2 PEDI birth
 1 FAMS @F0307@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 00:14:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:23
 0 @I0793@ INDI
 1 NAME Adriana /Spruijtenburg/
 2 TYPE birth
@@ -12676,8 +12703,8 @@
 2 PEDI birth
 1 FAMS @F0315@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 00:21:08
+2 DATE 1 JUL 2025
+3 TIME 22:16:23
 0 @I0808@ INDI
 1 NAME Adrianus / Andre /Moucherie Mucherie/
 2 TYPE birth
@@ -12690,8 +12717,8 @@
 1 FAMC @F0310@
 2 PEDI birth
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 00:14:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:23
 0 @I0809@ INDI
 1 NAME Cornelis /Mucherij/
 2 TYPE birth
@@ -12703,8 +12730,8 @@
 1 FAMC @F0310@
 2 PEDI birth
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 00:14:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:23
 0 @I0810@ INDI
 1 NAME Maria /Moucherie/
 2 TYPE birth
@@ -12716,8 +12743,8 @@
 1 FAMC @F0310@
 2 PEDI birth
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 00:14:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:23
 0 @I0811@ INDI
 1 NAME Marie /Margo Margot/
 2 TYPE birth
@@ -12748,8 +12775,8 @@
 2 PEDI birth
 1 FAMS @F0312@
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 19:41:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:30
 0 @I0813@ INDI
 1 NAME Corinthe /Margo Margot/
 2 TYPE birth
@@ -20200,7 +20227,7 @@
 1 DEAT
 2 DATE 11 AUG 1982
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -20224,7 +20251,7 @@
 1 DEAT
 2 DATE 9 FEB 1968
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -20248,7 +20275,7 @@
 3 TIME 09:00
 2 PLAC Ommen
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -20701,7 +20728,7 @@
 2 PLAC Ommen
 2 NOTE @N0336@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -20727,7 +20754,7 @@
 1 DEAT
 2 DATE 17 OCT 1966
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -20771,7 +20798,7 @@
 1 DEAT
 2 DATE 5 APR 1984
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -20816,7 +20843,7 @@
 1 DEAT
 2 DATE 24 SEP 1967
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -20843,7 +20870,7 @@
 1 DEAT
 2 DATE 12 AUG 1976
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -20906,7 +20933,7 @@
 1 DEAT
 2 DATE 27 FEB 1980
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -20981,7 +21008,10 @@
 1 DEAT
 2 DATE 16 JUN 1981
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMC @F0490@
 2 PEDI birth
 1 FAMS @F0495@
@@ -21002,7 +21032,10 @@
 1 DEAT
 2 DATE 16 SEP 1993
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMS @F0495@
 1 CHAN
 2 DATE 4 JUN 2025
@@ -21020,7 +21053,10 @@
 1 DEAT
 2 DATE 24 SEP 2003
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMC @F0495@
 2 PEDI birth
 1 FAMS @F0496@
@@ -21037,7 +21073,10 @@
 1 DEAT
 2 DATE 23 JAN 1977
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMS @F0496@
 1 CHAN
 2 DATE 4 JUN 2025
@@ -21076,7 +21115,10 @@
 1 DEAT
 2 DATE 24 SEP 1988
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMC @F0490@
 2 PEDI birth
 1 FAMS @F0497@
@@ -21097,7 +21139,10 @@
 1 DEAT
 2 DATE 22 SEP 1991
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMS @F0497@
 1 CHAN
 2 DATE 4 JUN 2025
@@ -21139,7 +21184,7 @@
 2 PLAC Ommen
 2 NOTE @N0365@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -21346,7 +21391,7 @@
 2 PLAC Ommen
 2 NOTE @N0382@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -21369,7 +21414,7 @@
 1 DEAT
 2 DATE 1 JUN 1986
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -21396,7 +21441,7 @@
 2 PLAC Ommen
 2 NOTE @N0385@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -21441,7 +21486,10 @@
 1 DEAT
 2 DATE 22 JUL 1998
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FACT Timmerman
 2 TYPE Occupation
 1 FAMC @F0498@
@@ -21464,7 +21512,10 @@
 1 DEAT
 2 DATE 2 MAR 1982
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMS @F0502@
 1 CHAN
 2 DATE 5 JUN 2025
@@ -21485,7 +21536,7 @@
 2 PLAC Ommen
 2 NOTE @N0393@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -21508,7 +21559,10 @@
 1 DEAT
 2 DATE 27 SEP 1989
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMC @F0498@
 2 PEDI birth
 1 FAMS @F0503@
@@ -21529,7 +21583,10 @@
 1 DEAT
 2 DATE 18 JUN 1988
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FACT Metselaar
 2 TYPE Occupation
 1 FAMS @F0503@
@@ -21635,7 +21692,7 @@
 1 DEAT
 2 DATE 7 NOV 1970
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -21661,7 +21718,7 @@
 2 PLAC Ommen
 2 NOTE @N0410@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -22301,7 +22358,7 @@
 2 PLAC Ommen
 2 NOTE @N0471@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -22330,7 +22387,7 @@
 2 PLAC Ommen
 2 NOTE @N0473@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -22354,7 +22411,7 @@
 2 PLAC Oldebroek
 2 NOTE @N0476@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -22381,7 +22438,7 @@
 2 PLAC Zwolle
 2 NOTE @N0478@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -22426,7 +22483,10 @@
 1 DEAT
 2 DATE 8 OCT 1988
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FACT Timmerman
 2 TYPE Occupation
 1 FACT Aanspreker
@@ -22451,7 +22511,10 @@
 1 DEAT
 2 DATE 18 OCT 1982
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMS @F0522@
 1 CHAN
 2 DATE 8 JUN 2025
@@ -22508,7 +22571,10 @@
 1 DEAT
 2 DATE 28 OCT 1994
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMC @F0522@
 2 PEDI birth
 1 CHAN
@@ -22529,7 +22595,7 @@
 2 PLAC Ommen
 2 NOTE @N0488@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -22552,7 +22618,10 @@
 1 DEAT
 2 DATE 24 SEP 1982
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FACT Venter
 2 TYPE Occupation
 1 FAMC @F0519@
@@ -22580,7 +22649,7 @@
 2 PLAC Ommen
 2 NOTE @N0491@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -22603,7 +22672,7 @@
 2 PLAC Ommen
 2 NOTE @N0493@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -22625,7 +22694,10 @@
 1 DEAT
 2 DATE 4 APR 1990
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMS @F0525@
 1 CHAN
 2 DATE 8 JUN 2025
@@ -22644,7 +22716,10 @@
 1 DEAT
 2 DATE 11 FEB 1994
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMC @F0519@
 2 PEDI birth
 1 FAMS @F0526@
@@ -22666,7 +22741,10 @@
 1 DEAT
 2 DATE 21 FEB 1994
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FACT Voerman
 2 TYPE Occupation
 1 FAMS @F0526@
@@ -22687,7 +22765,10 @@
 1 DEAT
 2 DATE 15 MAY 1995
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMC @F0519@
 2 PEDI birth
 1 FAMS @F0527@
@@ -22712,7 +22793,7 @@
 2 PLAC Ommen
 2 NOTE @N0500@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -24101,7 +24182,7 @@
 1 DEAT
 2 DATE 17 JUN 1966
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -24127,7 +24208,7 @@
 2 PLAC Ommen
 2 NOTE @N0650@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -27977,7 +28058,7 @@
 2 PLAC Ommen
 2 NOTE @N0722@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -28044,7 +28125,7 @@
 1 DEAT
 2 DATE 23 JUL 1965
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -28070,7 +28151,7 @@
 1 DEAT
 2 DATE 27 APR 1965
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -28093,7 +28174,10 @@
 1 DEAT
 2 DATE 30 JUN 1985
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FACT Landbouwer
 2 TYPE Occupation
 1 FAMC @F0687@
@@ -28116,7 +28200,10 @@
 1 DEAT
 2 DATE 9 OCT 1993
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMC @F0714@
 2 PEDI birth
 1 FAMS @F0688@
@@ -28151,7 +28238,7 @@
 2 PLAC Ommen
 2 NOTE @N0738@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -28482,8 +28569,8 @@
 1 FAMC @F0693@
 2 PEDI birth
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 19:41:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:31
 0 @I1782@ INDI
 1 NAME Mayken /Muchery/
 2 TYPE birth
@@ -28499,8 +28586,8 @@
 1 FAMC @F0693@
 2 PEDI birth
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 19:41:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:30
 0 @I1783@ INDI
 1 NAME Antoinette /Muchery/
 2 TYPE birth
@@ -28513,8 +28600,8 @@
 1 FAMC @F0693@
 2 PEDI birth
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 19:41:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:30
 0 @I1784@ INDI
 1 NAME Michelle /Muchery/
 2 TYPE birth
@@ -28527,8 +28614,8 @@
 1 FAMC @F0693@
 2 PEDI birth
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 19:41:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:31
 0 @I1785@ INDI
 1 NAME Reignier /Muchery/
 2 TYPE birth
@@ -28541,8 +28628,8 @@
 1 FAMC @F0693@
 2 PEDI birth
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 19:41:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:31
 0 @I1786@ INDI
 1 NAME Antoine /Muchery/
 2 TYPE birth
@@ -28557,8 +28644,8 @@
 1 FAMC @F0693@
 2 PEDI birth
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 19:41:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:31
 0 @I1787@ INDI
 1 NAME Maiken /Muchery/
 2 TYPE birth
@@ -28571,8 +28658,8 @@
 1 FAMC @F0693@
 2 PEDI birth
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 19:41:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:31
 0 @I1788@ INDI
 1 NAME Maiken /Muchery/
 2 TYPE birth
@@ -28585,8 +28672,8 @@
 1 FAMC @F0693@
 2 PEDI birth
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 19:41:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:30
 0 @I1789@ INDI
 1 NAME Susane /Muchery/
 2 TYPE birth
@@ -28599,8 +28686,8 @@
 1 FAMC @F0693@
 2 PEDI birth
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 19:41:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:31
 0 @I1790@ INDI
 1 NAME Dilliana / Dawina /Colpin ? Collepijn/
 2 TYPE birth
@@ -28628,7 +28715,10 @@
 1 SEX M
 1 BIRT
 2 DATE 30 MAY 1706
-2 PLAC Kerk Brouwersgracht, Amsterdam, North Holland, Netherlands
+2 PLAC Amsterdam, SchuilKerk, Brouwersgracht 132, Amsterdam, North Holland, Netherlands
+3 MAP
+4 LATI N52.380491
+4 LONG E4.889622
 1 BAPM
 2 DATE 30 MAY 1706
 2 NOTE @N0773@
@@ -29151,7 +29241,10 @@
 1 DEAT
 2 DATE 26 OCT 1988
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMS @F0708@
 1 FAMS @F0709@
 1 CHAN
@@ -29191,7 +29284,10 @@
 1 DEAT
 2 DATE 19 SEP 1978
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FACT Landbouwer te Dalfsen
 2 TYPE Occupation
 1 FAMC @F0710@
@@ -29304,7 +29400,7 @@
 2 PLAC Ommen
 2 NOTE @N0816@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -29346,7 +29442,7 @@
 2 PLAC Ommen
 2 NOTE @N0819@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -29375,7 +29471,7 @@
 2 PLAC Ommen
 2 NOTE @N0821@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -29483,7 +29579,10 @@
 1 DEAT
 2 DATE 28 OCT 1991
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FACT Landbouwer
 2 TYPE Occupation
 1 FAMC @F0712@
@@ -29506,7 +29605,10 @@
 2 PLAC Hardenberg
 1 BURI
 2 DATE 17 JAN 1991
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMS @F0713@
 1 CHAN
 2 DATE 29 JUN 2025
@@ -29569,7 +29671,7 @@
 2 PLAC Ommen
 2 NOTE @N0838@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -29594,7 +29696,7 @@
 2 PLAC Ommen
 2 NOTE @N0840@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -30167,7 +30269,7 @@
 2 PLAC Ommen
 2 NOTE @N0846@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -30177,8 +30279,8 @@
 2 PEDI birth
 1 FAMS @F0720@
 1 CHAN
-2 DATE 30 JUN 2025
-3 TIME 22:15:43
+2 DATE 3 JUL 2025
+3 TIME 22:24:39
 0 @I1882@ INDI
 1 NAME Willemina /Hesselink/
 2 TYPE birth
@@ -30196,7 +30298,7 @@
 2 PLAC Hardenberg
 2 NOTE @N0848@
 1 BURI
-2 PLAC Ommen, Hardenbergerweg
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
 3 MAP
 4 LATI N52.521527
 4 LONG E6.426837
@@ -30218,13 +30320,16 @@
 1 DEAT
 2 DATE 8 MAY 2005
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMC @F0720@
 2 PEDI birth
 1 FAMS @F0721@
 1 CHAN
-2 DATE 30 JUN 2025
-3 TIME 23:12:29
+2 DATE 3 JUL 2025
+3 TIME 20:51:36
 0 @I1884@ INDI
 1 NAME Gerrit Willem /Hageman/
 2 TYPE birth
@@ -30239,7 +30344,10 @@
 1 DEAT
 2 DATE 26 DEC 1984
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FACT Landbouwer
 2 TYPE Occupation
 1 FAMS @F0721@
@@ -30260,13 +30368,16 @@
 1 DEAT
 2 DATE 30 JAN 2006
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMC @F0720@
 2 PEDI birth
 1 FAMS @F0722@
 1 CHAN
-2 DATE 30 JUN 2025
-3 TIME 23:17:05
+2 DATE 3 JUL 2025
+3 TIME 20:51:36
 0 @I1886@ INDI
 1 NAME Willem Gerard /Timmerman/
 2 TYPE birth
@@ -30281,15 +30392,18 @@
 1 DEAT
 2 DATE 21 OCT 1983
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FACT Landbouwer
 2 TYPE Occupation
 1 FAMC @F0723@
 2 PEDI birth
 1 FAMS @F0722@
 1 CHAN
-2 DATE 30 JUN 2025
-3 TIME 23:40:04
+2 DATE 1 JUL 2025
+3 TIME 19:09:23
 0 @I1887@ INDI
 1 NAME Geertje /Baarslag/
 2 TYPE birth
@@ -30307,9 +30421,10 @@
 2 PLAC Ommen
 2 NOTE @N0857@
 1 FAMS @F0723@
+1 FAMS @F0726@
 1 CHAN
-2 DATE 30 JUN 2025
-3 TIME 23:38:05
+2 DATE 1 JUL 2025
+3 TIME 22:16:02
 0 @I1888@ INDI
 1 NAME Christina Gezina /Timmerman/
 2 TYPE birth
@@ -30324,12 +30439,1239 @@
 1 DEAT
 2 DATE 16 SEP 1983
 1 BURI
-2 PLAC Ommen, Laarmanshoek
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
 1 FAMC @F0723@
 2 PEDI birth
+1 FAMS @F0724@
 1 CHAN
-2 DATE 30 JUN 2025
-3 TIME 23:42:33
+2 DATE 1 JUL 2025
+3 TIME 19:09:23
+0 @I1889@ INDI
+1 NAME Johan /Jansen/
+2 TYPE birth
+2 GIVN Johan
+2 SURN Jansen
+1 SEX M
+1 BIRT
+2 DATE 11 AUG 1911
+3 TIME 03:00
+2 PLAC Ommen
+2 NOTE @N0861@
+1 DEAT
+2 DATE 25 MAR 1993
+1 BURI
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
+1 FAMS @F0724@
+1 CHAN
+2 DATE 1 JUL 2025
+3 TIME 18:07:59
+0 @I1890@ INDI
+1 NAME Geertje Egberdina Rodriguez /Jansen/
+2 TYPE birth
+2 GIVN Geertje Egberdina Rodriguez
+2 SURN Jansen
+1 SEX F
+1 BIRT
+2 DATE 7 DEC 1942
+1 DEAT
+2 DATE 11 MAR 2004
+1 BURI
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
+1 FAMC @F0724@
+2 PEDI birth
+1 CHAN
+2 DATE 1 JUL 2025
+3 TIME 18:29:33
+0 @I1891@ INDI
+1 NAME n.n. /Jansen/
+2 TYPE birth
+2 GIVN n.n.
+2 SURN Jansen
+1 SEX M
+1 BIRT
+2 DATE 19 JUL 1950
+1 DEAT
+2 DATE 19 JUL 1950
+3 TIME 08:00
+2 PLAC Ommen
+2 NOTE @N0862@
+1 EVEN
+2 TYPE Stillbirth
+2 DATE 19 JUL 1950
+1 FAMC @F0724@
+2 PEDI birth
+1 CHAN
+2 DATE 1 JUL 2025
+3 TIME 18:29:33
+0 @I1892@ INDI
+1 NAME Gerrit /Timmerman/
+2 TYPE birth
+2 GIVN Gerrit
+2 SURN Timmerman
+1 SEX M
+1 BIRT
+2 DATE 27 SEP 1914
+3 TIME 23:00
+2 PLAC Varsen
+2 NOTE @N0863@
+1 DEAT
+2 DATE 30 SEP 1946
+3 TIME 09:45
+2 PLAC Varsen
+2 NOTE @N0864@
+1 BURI
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
+3 MAP
+4 LATI N52.521527
+4 LONG E6.426837
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMC @F0723@
+2 PEDI birth
+1 FAMS @F0725@
+1 CHAN
+2 DATE 1 JUL 2025
+3 TIME 20:39:50
+0 @I1893@ INDI
+1 NAME Hendrika Berendina /Jansen/
+2 TYPE birth
+2 GIVN Hendrika Berendina
+2 SURN Jansen
+1 SEX F
+1 BIRT
+2 DATE 7 OCT 1916
+3 TIME 22:00
+2 PLAC Varsen
+2 NOTE @N0865@
+2 NOTE @N0866@
+1 DEAT
+2 DATE 20 JAN 1942
+3 TIME 16:00
+2 PLAC Witharen
+2 NOTE @N0867@
+1 BURI
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
+3 MAP
+4 LATI N52.521527
+4 LONG E6.426837
+1 FAMS @F0725@
+1 CHAN
+2 DATE 1 JUL 2025
+3 TIME 20:39:50
+0 @I1894@ INDI
+1 NAME n.n. /Timmerman/
+2 TYPE birth
+2 GIVN n.n.
+2 SURN Timmerman
+1 BIRT
+2 DATE 6 JAN 1942
+1 DEAT
+2 DATE 6 JAN 1942
+3 TIME 06:00
+2 PLAC Ommen
+2 NOTE @N0869@
+1 EVEN
+2 TYPE Stillbirth
+2 DATE 6 JAN 1942
+1 FAMC @F0725@
+2 PEDI birth
+1 CHAN
+2 DATE 1 JUL 2025
+3 TIME 20:42:11
+0 @I1895@ INDI
+1 NAME Egbert /Mooijers/
+2 TYPE birth
+2 GIVN Egbert
+2 SURN Mooijers
+1 SEX M
+1 BIRT
+2 DATE 17 SEP 1877
+3 TIME 00:30
+2 PLAC Stegeren
+2 NOTE @N0871@
+1 DEAT
+2 DATE 26 JUL 1942
+3 TIME 09:00
+2 PLAC Ommen
+2 NOTE @N0872@
+1 BURI
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
+3 MAP
+4 LATI N52.521527
+4 LONG E6.426837
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMS @F0726@
+1 CHAN
+2 DATE 1 JUL 2025
+3 TIME 22:16:02
+0 @I1896@ INDI
+1 NAME niet openbaar /Mooijers/
+2 TYPE birth
+2 GIVN niet openbaar
+2 SURN Mooijers
+1 FAMC @F0726@
+2 PEDI birth
+1 CHAN
+2 DATE 1 JUL 2025
+3 TIME 22:16:13
+0 @I1897@ INDI
+1 NAME n.n. /van der Wel/
+2 TYPE birth
+2 GIVN n.n.
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 25 MAY 1828
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 DEAT
+2 DATE 25 MAY 1828
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 EVEN
+2 TYPE Stillbirth
+2 DATE 25 MAY 1828
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F0297@
+2 PEDI birth
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:49:00
+0 @I1898@ INDI
+1 NAME Willemijntje /van der Wel/
+2 TYPE birth
+2 GIVN Willemijntje
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE 22 JUN 1829
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0877@
+1 DEAT
+2 DATE 3 JAN 1917
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0878@
+1 FACT Zonder beroep
+2 TYPE Occupation
+2 NOTE @N0879@
+1 FAMC @F0297@
+2 PEDI birth
+1 FAMS @F0727@
+1 RESI
+2 ADDR Nieuwe sloot 107
+3 CONT Oudshoorn
+3 CONT Alphen aan de Rijn
+3 CONT Zuid Holland
+3 CONT Nederland
+3 ADR1 Nieuwe sloot 107
+3 ADR2 Oudshoorn
+3 CITY Alphen aan de Rijn
+3 STAE Zuid Holland
+3 CTRY Nederland
+2 NOTE @N0880@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:49:00
+0 @I1899@ INDI
+1 NAME Dirk /Roest/
+2 TYPE birth
+2 GIVN Dirk
+2 SURN Roest
+1 SEX M
+1 BIRT
+2 DATE 1825
+2 PLAC Aarlanderveen
+1 FACT Bouwmansknecht
+2 TYPE Occupation
+1 FAMC @F0728@
+2 PEDI birth
+1 FAMS @F0727@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 19:47:36
+0 @I1900@ INDI
+1 NAME Hendrik /Roest/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Roest
+1 SEX M
+1 DEAT
+2 DATE 1847
+1 FAMS @F0728@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 19:47:36
+0 @I1901@ INDI
+1 NAME Cornelia /van der Mik/
+2 TYPE birth
+2 GIVN Cornelia
+2 SPFX van der
+2 SURN Mik
+1 SEX F
+1 FACT Zonder beroep te Aarlanderveen
+2 TYPE Occupation
+2 NOTE @N0882@
+1 FAMS @F0728@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 19:47:36
+0 @I1902@ INDI
+1 NAME Jan /van der Wel/
+2 TYPE birth
+2 GIVN Jan
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 FAMS @F0729@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 20:00:59
+0 @I1903@ INDI
+1 NAME Willemijn /Verham/
+2 TYPE birth
+2 GIVN Willemijn
+2 SURN Verham
+1 SEX F
+1 FAMS @F0729@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 20:00:59
+0 @I1904@ INDI
+1 NAME Phillipus /van den Bos/
+2 TYPE birth
+2 GIVN Phillipus
+2 SPFX van den
+2 SURN Bos
+1 SEX M
+1 BIRT
+2 DATE 1770
+1 DEAT
+2 DATE 1814
+1 FAMS @F0730@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 20:02:22
+0 @I1905@ INDI
+1 NAME Aaltje /Landzaat/
+2 TYPE birth
+2 GIVN Aaltje
+2 SURN Landzaat
+1 SEX F
+1 BIRT
+2 DATE 1770
+2 PLAC IJsselstein
+1 DEAT
+2 DATE 25 JUL 1814
+2 PLAC Aarlanderveen
+1 FAMC @F0731@
+2 PEDI birth
+1 FAMS @F0730@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 20:15:12
+0 @I1906@ INDI
+1 NAME Rijk /Landzaat/
+2 TYPE birth
+2 GIVN Rijk
+2 SURN Landzaat
+1 SEX M
+1 FAMS @F0731@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 20:15:12
+0 @I1907@ INDI
+1 NAME Vijgje /van ('t) Lint/
+2 TYPE birth
+2 GIVN Vijgje
+2 SPFX van ('t)
+2 SURN Lint
+1 SEX F
+1 FAMS @F0731@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 20:15:12
+0 @I1908@ INDI
+1 NAME Jan /van der Wel/
+2 TYPE birth
+2 GIVN Jan
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 26 JAN 1832
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0884@
+1 DEAT
+2 DATE 18 APR 1835
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0885@
+1 FAMC @F0297@
+2 PEDI birth
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:49:00
+0 @I1909@ INDI
+1 NAME Grietje /van der Wel/
+2 TYPE birth
+2 GIVN Grietje
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE 1834
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 DEAT
+2 DATE 10 FEB 1837
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0886@
+1 FAMC @F0297@
+2 PEDI birth
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:49:00
+0 @I1910@ INDI
+1 NAME Grietje Hendriks /van der Wel/
+2 TYPE birth
+2 GIVN Grietje Hendriks
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE 6 JUN 1837
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0887@
+1 DEAT
+2 DATE 24 APR 1897
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0888@
+1 FACT Bouwvrouw
+2 TYPE Occupation
+2 NOTE @N0889@
+1 FAMC @F0297@
+2 PEDI birth
+1 FAMS @F0732@
+1 FAMS @F0733@
+1 NOTE @N0890@
+1 NOTE @N0891@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:49:00
+0 @I1911@ INDI
+1 NAME Gerrit /Boer/
+2 TYPE birth
+2 GIVN Gerrit
+2 SURN Boer
+1 SEX M
+1 BIRT
+2 DATE 1830
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 DEAT
+2 DATE 1862
+1 FACT Bouwman
+2 TYPE Occupation
+1 FAMC @F0734@
+2 PEDI birth
+1 FAMS @F0732@
+1 NOTE @N0899@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 22:17:17
+0 @I1912@ INDI
+1 NAME Maartje /de Regt/
+2 TYPE birth
+2 GIVN Maartje
+2 SPFX de
+2 SURN Regt
+1 SEX F
+1 BIRT
+2 DATE 3 MAY 1865
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0896@
+1 DEAT
+2 DATE 8 MAY 1937
+2 PLAC Hazerswoude
+2 NOTE @N0897@
+1 FAMC @F0733@
+2 PEDI birth
+1 FAMS @F0735@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 22:56:34
+0 @I1913@ INDI
+1 NAME Gerrit /de Regt/
+2 TYPE birth
+2 GIVN Gerrit
+2 SPFX de
+2 SURN Regt
+1 SEX M
+1 BIRT
+2 DATE 18 JUN 1832
+2 PLAC Zevenhuizen
+2 NOTE @N0892@
+1 DEAT
+2 DATE 15 DEC 1897
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0895@
+1 FACT Landbouwer
+2 TYPE Occupation
+2 NOTE @N0893@
+1 FACT Veehouder
+2 TYPE Occupation
+2 NOTE @N0894@
+1 FAMS @F0733@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 22:09:13
+0 @I1914@ INDI
+1 NAME Maarten /Boer/
+2 TYPE birth
+2 GIVN Maarten
+2 SURN Boer
+1 SEX M
+1 FACT Bouwman te Alphen
+2 TYPE Occupation
+2 NOTE @N0900@
+1 FAMS @F0734@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 22:16:29
+0 @I1915@ INDI
+1 NAME Marchje /Hogenboom/
+2 TYPE birth
+2 GIVN Marchje
+2 SURN Hogenboom
+1 SEX F
+1 BIRT
+2 PLAC Alphen
+1 FAMS @F0734@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 22:17:02
+0 @I1916@ INDI
+1 NAME Robbert Christiaan /van Ommering/
+2 TYPE birth
+2 GIVN Robbert Christiaan
+2 SPFX van
+2 SURN Ommering
+1 SEX M
+1 BIRT
+2 DATE 6 DEC 1855
+2 PLAC Hazerswoude
+2 NOTE @N0901@
+1 DEAT
+2 DATE 12 NOV 1921
+2 PLAC Hazerswoude
+2 NOTE @N0902@
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMS @F0735@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 22:56:34
+0 @I1917@ INDI
+1 NAME Beatrix /van Ommering/
+2 TYPE birth
+2 GIVN Beatrix
+2 SPFX van
+2 SURN Ommering
+2 NICK Bea
+1 SEX F
+1 BIRT
+2 DATE 20 SEP 1890
+2 PLAC Ter Aar
+2 NOTE @N0904@
+1 DEAT
+2 DATE 10 AUG 1980
+2 PLAC Koudekerk aan de Rijn
+1 FAMC @F0735@
+2 PEDI birth
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:01:00
+0 @I1918@ INDI
+1 NAME Jan /van der Wel/
+2 TYPE birth
+2 GIVN Jan
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 1839
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0905@
+1 FACT Bouwman
+2 TYPE Occupation
+1 FAMC @F0297@
+2 PEDI birth
+1 FAMS @F0736@
+1 NOTE @N0906@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:49:00
+0 @I1919@ INDI
+1 NAME Neeltje Maria /van der Elst/
+2 TYPE birth
+2 GIVN Neeltje Maria
+2 SPFX van der
+2 SURN Elst
+1 SEX F
+1 FAMS @F0736@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:05:19
+0 @I1920@ INDI
+1 NAME Philippus /van der Wel/
+2 TYPE birth
+2 GIVN Philippus
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 19 MAR 1842
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0907@
+1 DEAT
+2 DATE 23 APR 1842
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0908@
+1 FAMC @F0297@
+2 PEDI birth
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:49:00
+0 @I1921@ INDI
+1 NAME Maartje /van der Wel/
+2 TYPE birth
+2 GIVN Maartje
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE 24 APR 1843
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0909@
+1 FACT Zonder beroep
+2 TYPE Occupation
+2 NOTE @N0910@
+1 FAMC @F0297@
+2 PEDI birth
+1 FAMS @F0737@
+1 NOTE @N0911@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:49:00
+0 @I1922@ INDI
+1 NAME Ponsio /de Jong/
+2 TYPE birth
+2 GIVN Ponsio
+2 SPFX de
+2 SURN Jong
+1 SEX M
+1 BIRT
+2 DATE 1836
+2 PLAC Hazerswoude
+1 FACT Bouwman
+2 TYPE Occupation
+2 NOTE @N0914@
+1 FAMC @F0738@
+2 PEDI birth
+1 FAMS @F0737@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:17:13
+0 @I1923@ INDI
+1 NAME Cornelis /de Jong/
+2 TYPE birth
+2 GIVN Cornelis
+2 SPFX de
+2 SURN Jong
+1 SEX M
+1 FACT Bouwman te Rietveld
+2 TYPE Occupation
+2 NOTE @N0915@
+1 FAMS @F0738@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:27:08
+0 @I1924@ INDI
+1 NAME Bootje /Hoogendoorn/
+2 TYPE birth
+2 GIVN Bootje
+2 SURN Hoogendoorn
+1 SEX F
+1 FACT Zonder beroep te Rietveld
+2 TYPE Occupation
+2 NOTE @N0916@
+1 FAMS @F0738@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:28:18
+0 @I1925@ INDI
+1 NAME Johanna Hendrika /van der Wel/
+2 TYPE birth
+2 GIVN Johanna Hendrika
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE 25 APR 1845
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0917@
+1 DEAT
+2 DATE 22 JUN 1845
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0918@
+1 FAMC @F0297@
+2 PEDI birth
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:49:00
+0 @I1926@ INDI
+1 NAME n.n. /van der Wel/
+2 TYPE birth
+2 GIVN n.n.
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 1 JUN 1847
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 DEAT
+2 DATE 1 JUN 1847
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0919@
+1 EVEN
+2 TYPE Stillbirth
+2 DATE 1 JUN 1847
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F0297@
+2 PEDI birth
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:49:00
+0 @I1927@ INDI
+1 NAME Johanna Hendrika /van der Wel/
+2 TYPE birth
+2 GIVN Johanna Hendrika
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE 23 JUL 1849
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0920@
+1 FACT Zonder beroep
+2 TYPE Occupation
+2 NOTE @N0921@
+1 FAMC @F0297@
+2 PEDI birth
+1 FAMS @F0739@
+1 NOTE @N0922@
+1 NOTE @N0923@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:51:50
+0 @I1928@ INDI
+1 NAME Willem /Niekerk/
+2 TYPE birth
+2 GIVN Willem
+2 SURN Niekerk
+1 SEX M
+1 BIRT
+2 DATE 1840
+2 PLAC Aarlanderveen
+1 FACT Timmermansknecht
+2 TYPE Occupation
+1 FAMC @F0740@
+2 PEDI birth
+1 FAMS @F0739@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:54:48
+0 @I1929@ INDI
+1 NAME Pieter jan /Niekerk/
+2 TYPE birth
+2 GIVN Pieter jan
+2 SURN Niekerk
+1 SEX M
+1 FAMS @F0740@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:54:48
+0 @I1930@ INDI
+1 NAME Geertje /Kop/
+2 TYPE birth
+2 GIVN Geertje
+2 SURN Kop
+1 SEX F
+1 DEAT
+2 DATE 1867
+1 FAMS @F0740@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:54:48
+0 @I1931@ INDI
+1 NAME Leida /Dankelman/
+2 TYPE birth
+2 GIVN Leida
+2 SURN Dankelman
+1 SEX F
+1 BIRT
+2 DATE 27 NOV 1922
+3 TIME 04:00
+2 PLAC Beerze
+2 NOTE @N0926@
+1 DEAT
+2 DATE 2 MAR 2013
+2 PLAC Beerze
+1 BURI
+2 DATE 7 MAR 2013
+2 PLAC Beerzerveld (Begraafplaats)
+3 MAP
+4 LATI N52.49977
+4 LONG E6.560215
+1 FAMC @F0720@
+2 PEDI birth
+1 FAMS @F0741@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 20:51:36
+0 @I1932@ INDI
+1 NAME Albertus /Grotemarsink/
+2 TYPE birth
+2 GIVN Albertus
+2 SURN Grotemarsink
+1 SEX M
+1 BIRT
+2 DATE 3 MAY 1923
+3 TIME 09:30
+2 PLAC Stegeren
+2 NOTE @N0927@
+1 DEAT
+2 DATE 23 JUL 2005
+2 PLAC Hardenberg
+1 BURI
+2 DATE 28 JUL 2005
+2 PLAC Beerzerveld (Begraafplaats)
+3 MAP
+4 LATI N52.49977
+4 LONG E6.560215
+1 FAMS @F0741@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 19:53:06
+0 @I1933@ INDI
+1 NAME Hendrikje /Grotemarsink/
+2 TYPE birth
+2 GIVN Hendrikje
+2 SURN Grotemarsink
+2 NICK Hennie
+1 SEX F
+1 BIRT
+2 DATE 4 SEP 1951
+2 PLAC Beerze
+1 DEAT
+2 DATE 25 MAR 2016
+2 PLAC Beerze
+1 BURI
+2 DATE 31 MAR 2016
+2 PLAC Rheeze, De Lariks (Crematiecentrum)
+1 FAMC @F0741@
+2 PEDI birth
+1 FAMS @F0742@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 19:55:52
+0 @I1934@ INDI
+1 NAME niet openbaar //
+2 TYPE birth
+2 GIVN niet openbaar
+1 SEX M
+1 FAMS @F0742@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 19:55:22
+0 @I1935@ INDI
+1 NAME niet openbaar //
+2 TYPE birth
+2 GIVN niet openbaar
+1 FAMC @F0742@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 19:55:22
+0 @I1936@ INDI
+1 NAME niet openbaar //
+2 TYPE birth
+2 GIVN niet openbaar
+1 FAMC @F0742@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 19:55:22
+0 @I1937@ INDI
+1 NAME niet openbaar //
+2 TYPE birth
+2 GIVN niet openbaar
+1 FAMC @F0742@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 19:55:22
+0 @I1938@ INDI
+1 NAME niet openbaar /Grotemarsink/
+2 TYPE birth
+2 GIVN niet openbaar
+2 SURN Grotemarsink
+1 FAMC @F0741@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 19:55:52
+0 @I1939@ INDI
+1 NAME Willemina /Dankelman/
+2 TYPE birth
+2 GIVN Willemina
+2 SURN Dankelman
+1 SEX F
+1 BIRT
+2 DATE 17 SEP 1924
+1 DEAT
+2 DATE 24 MAR 2003
+1 BURI
+2 PLAC Beerzerveld (Begraafplaats)
+3 MAP
+4 LATI N52.49977
+4 LONG E6.560215
+1 FAMC @F0720@
+2 PEDI birth
+1 FAMS @F0743@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 20:56:13
+0 @I1940@ INDI
+1 NAME Egbert /Brinkhuis/
+2 TYPE birth
+2 GIVN Egbert
+2 SURN Brinkhuis
+1 SEX M
+1 BIRT
+2 DATE 7 APR 1925
+2 PLAC Arrien (Ommen)
+1 DEAT
+2 DATE 24 AUG 2017
+2 PLAC Ommen
+2 NOTE @N0928@
+1 BURI
+2 DATE 30 AUG 2017
+2 PLAC Beerzerveld (Begraafplaats)
+3 MAP
+4 LATI N52.49977
+4 LONG E6.560215
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMS @F0743@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 20:56:13
+0 @I1941@ INDI
+1 NAME niet openbaar /Brinkhuis/
+2 TYPE birth
+2 GIVN niet openbaar
+2 SURN Brinkhuis
+1 FAMC @F0743@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 20:56:13
+0 @I1942@ INDI
+1 NAME Gerrit /Dankelman/
+2 TYPE birth
+2 GIVN Gerrit
+2 SURN Dankelman
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1894
+3 TIME 10:00
+2 PLAC Arrien (Ommen)
+2 NOTE @N0930@
+1 DEAT
+2 DATE 7 JAN 1894
+3 TIME 23:30
+2 PLAC Arrien (Ommen)
+2 NOTE @N0931@
+1 FAMC @F0711@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 22:24:39
+0 @I1943@ INDI
+1 NAME Gerrit /Dankelman/
+2 TYPE birth
+2 GIVN Gerrit
+2 SURN Dankelman
+1 SEX M
+1 BIRT
+2 DATE 12 JAN 1895
+3 TIME 01:30
+2 PLAC Arrien (Ommen)
+2 NOTE @N0932@
+1 DEAT
+2 DATE 15 JAN 1992
+1 BURI
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMC @F0711@
+2 PEDI birth
+1 FAMS @F0744@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 22:24:39
+0 @I1944@ INDI
+1 NAME Geesje /Boezelman/
+2 TYPE birth
+2 GIVN Geesje
+2 SURN Boezelman
+1 SEX F
+1 BIRT
+2 DATE 8 APR 1897
+3 TIME 10:00
+2 PLAC Arrien (Ommen)
+2 NOTE @N0933@
+1 DEAT
+2 DATE 5 SEP 1973
+2 PLAC Hardenberg
+2 NOTE @N0934@
+1 BURI
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
+1 FAMS @F0744@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 22:01:09
+0 @I1945@ INDI
+1 NAME Gerrit /Dankelman/
+2 TYPE birth
+2 GIVN Gerrit
+2 SURN Dankelman
+1 SEX M
+1 BIRT
+2 DATE 31 JUL 1919
+3 TIME 05:00
+2 PLAC Arrien (Ommen)
+2 NOTE @N0936@
+1 DEAT
+2 DATE 12 JAN 1971
+1 BURI
+2 PLAC Ommen, Begraafplaats Laarmanshoek
+3 MAP
+4 LATI N52.512321
+4 LONG E6.397614
+1 FAMC @F0744@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 22:06:20
+0 @I1946@ INDI
+1 NAME Rutje /Dankelman/
+2 TYPE birth
+2 GIVN Rutje
+2 SURN Dankelman
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 1922
+3 TIME 02:00
+2 PLAC Arrien (Ommen)
+2 NOTE @N0937@
+1 DEAT
+2 DATE 2 MAY 1923
+3 TIME 18:00
+2 PLAC Arrien (Ommen)
+2 NOTE @N0938@
+1 FAMC @F0744@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 22:06:20
+0 @I1947@ INDI
+1 NAME Berendina /Dankelman/
+2 TYPE birth
+2 GIVN Berendina
+2 SURN Dankelman
+1 SEX F
+1 BIRT
+2 DATE 26 MAR 1898
+3 TIME 11:00
+2 PLAC Arrien (Ommen)
+2 NOTE @N0939@
+1 DEAT
+2 DATE 14 NOV 1926
+3 TIME 03:30
+2 PLAC Stegeren
+2 NOTE @N0940@
+1 BURI
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
+3 MAP
+4 LATI N52.521527
+4 LONG E6.426837
+1 FAMC @F0711@
+2 PEDI birth
+1 FAMS @F0745@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 22:50:35
+0 @I1948@ INDI
+1 NAME Jan Hendrik /Grotemarsink/
+2 TYPE birth
+2 GIVN Jan Hendrik
+2 SURN Grotemarsink
+1 SEX M
+1 BIRT
+2 DATE 23 OCT 1894
+3 TIME 02:30
+2 PLAC Stegeren
+2 NOTE @N0941@
+1 DEAT
+2 DATE 15 DEC 1968
+3 TIME 06:00
+2 PLAC Ommen
+2 NOTE @N0942@
+1 BURI
+2 PLAC Ommen, Begraafplaats Hardenbergerweg
+3 MAP
+4 LATI N52.521527
+4 LONG E6.426837
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMC @F0746@
+2 PEDI birth
+1 FAMS @F0745@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 23:11:26
+0 @I1949@ INDI
+1 NAME Hendrik Jan /Grotemarsink/
+2 TYPE birth
+2 GIVN Hendrik Jan
+2 SURN Grotemarsink
+1 SEX M
+1 BIRT
+2 DATE 4 MAR 1922
+3 TIME 04:30
+2 PLAC Stegeren
+2 NOTE @N0944@
+1 DEAT
+2 DATE 1 NOV 1992
+2 PLAC Den Ham
+1 FAMC @F0745@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 22:53:51
+0 @I1950@ INDI
+1 NAME Hendrik Jan /Grotemarsink/
+2 TYPE birth
+2 GIVN Hendrik Jan
+2 SURN Grotemarsink
+1 SEX M
+1 BIRT
+2 DATE 1861
+1 DEAT
+2 DATE 1941
+1 FAMC @F0747@
+2 PEDI birth
+1 FAMS @F0746@
+1 CHAN
+2 DATE 4 JUL 2025
+3 TIME 00:00:26
+0 @I1951@ INDI
+1 NAME Alberta /Vrielink/
+2 TYPE birth
+2 GIVN Alberta
+2 SURN Vrielink
+1 SEX F
+1 BIRT
+2 DATE 1860
+1 DEAT
+2 DATE 1913
+1 FAMC @F0748@
+2 PEDI birth
+1 FAMS @F0746@
+1 CHAN
+2 DATE 4 JUL 2025
+3 TIME 00:02:27
+0 @I1952@ INDI
+1 NAME Hendrik /Grotemarsink/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Grotemarsink
+1 SEX M
+1 BIRT
+2 DATE 1836
+1 DEAT
+2 DATE 1897
+1 FAMS @F0747@
+1 CHAN
+2 DATE 4 JUL 2025
+3 TIME 00:00:26
+0 @I1953@ INDI
+1 NAME Egberdina /Immink/
+2 TYPE birth
+2 GIVN Egberdina
+2 SURN Immink
+1 SEX F
+1 BIRT
+2 DATE 1831
+1 DEAT
+2 DATE 1871
+1 FAMS @F0747@
+1 CHAN
+2 DATE 4 JUL 2025
+3 TIME 00:00:26
+0 @I1954@ INDI
+1 NAME Hendrik /Vrielink/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Vrielink
+1 SEX M
+1 BIRT
+2 DATE 1829
+1 DEAT
+2 DATE 1872
+1 FAMS @F0748@
+1 CHAN
+2 DATE 4 JUL 2025
+3 TIME 00:02:27
+0 @I1955@ INDI
+1 NAME Jennigjen /Scholten/
+2 TYPE birth
+2 GIVN Jennigjen
+2 SURN Scholten
+1 SEX F
+1 BIRT
+2 DATE 1837
+1 DEAT
+2 DATE 1888
+1 FAMS @F0748@
+1 CHAN
+2 DATE 4 JUL 2025
+3 TIME 00:02:27
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -33189,10 +34531,28 @@
 0 @F0297@ FAM
 1 HUSB @I0750@
 1 WIFE @I0751@
+1 MARR
+2 DATE 25 MAY 1828
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0875@
+1 ENGA
+2 DATE 11 MAY 1828
+2 NOTE @N0876@
+1 CHIL @I1897@
+1 CHIL @I1898@
+1 CHIL @I1908@
+1 CHIL @I1909@
+1 CHIL @I1910@
+1 CHIL @I1918@
 1 CHIL @I0308@
+1 CHIL @I1920@
+1 CHIL @I1921@
+1 CHIL @I1925@
+1 CHIL @I1926@
+1 CHIL @I1927@
 1 CHAN
-2 DATE 28 MAY 2025
-3 TIME 18:15:08
+2 DATE 2 JUL 2025
+3 TIME 23:49:00
 0 @F0298@ FAM
 1 HUSB @I0766@
 1 WIFE @I0767@
@@ -33317,8 +34677,8 @@
 1 CHIL @I0810@
 1 CHIL @I0792@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 00:14:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:23
 0 @F0311@ FAM
 1 HUSB @I0805@
 1 WIFE @I0806@
@@ -37036,8 +38396,8 @@
 1 CHIL @I1789@
 1 CHIL @I0812@
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 19:41:58
+2 DATE 1 JUL 2025
+3 TIME 22:16:31
 0 @F0694@ FAM
 1 HUSB @I0830@
 1 WIFE @I1790@
@@ -37204,9 +38564,12 @@
 2 PLAC Ommen
 2 NOTE @N0822@
 1 CHIL @I1881@
+1 CHIL @I1942@
+1 CHIL @I1943@
+1 CHIL @I1947@
 1 CHAN
-2 DATE 30 JUN 2025
-3 TIME 22:10:18
+2 DATE 3 JUL 2025
+3 TIME 22:24:39
 0 @F0712@ FAM
 1 HUSB @I1835@
 1 WIFE @I1836@
@@ -37324,9 +38687,11 @@
 2 NOTE @N0849@
 1 CHIL @I1883@
 1 CHIL @I1885@
+1 CHIL @I1931@
+1 CHIL @I1939@
 1 CHAN
-2 DATE 30 JUN 2025
-3 TIME 23:12:29
+2 DATE 3 JUL 2025
+3 TIME 20:51:36
 0 @F0721@ FAM
 1 HUSB @I1884@
 1 WIFE @I1883@
@@ -37355,10 +38720,239 @@
 2 PLAC Ommen
 2 NOTE @N0858@
 1 CHIL @I1888@
+1 CHIL @I1892@
 1 CHIL @I1886@
 1 CHAN
-2 DATE 30 JUN 2025
-3 TIME 23:40:04
+2 DATE 1 JUL 2025
+3 TIME 19:09:23
+0 @F0724@ FAM
+1 HUSB @I1889@
+1 WIFE @I1888@
+1 MARR
+2 DATE 8 MAY 1940
+2 PLAC Ommen
+2 NOTE @N0860@
+1 CHIL @I1890@
+1 CHIL @I1891@
+1 CHAN
+2 DATE 1 JUL 2025
+3 TIME 18:29:33
+0 @F0725@ FAM
+1 HUSB @I1892@
+1 WIFE @I1893@
+1 MARR
+2 DATE 21 MAY 1941
+2 PLAC Ommen
+2 NOTE @N0868@
+1 CHIL @I1894@
+1 CHAN
+2 DATE 1 JUL 2025
+3 TIME 20:42:11
+0 @F0726@ FAM
+1 HUSB @I1895@
+1 WIFE @I1887@
+1 MARR
+2 DATE 14 NOV 1919
+2 PLAC Ommen
+2 NOTE @N0870@
+1 CHIL @I1896@
+1 CHAN
+2 DATE 1 JUL 2025
+3 TIME 22:16:13
+0 @F0727@ FAM
+1 HUSB @I1899@
+1 WIFE @I1898@
+1 MARR
+2 DATE 5 DEC 1847
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0881@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 19:36:42
+0 @F0728@ FAM
+1 HUSB @I1900@
+1 WIFE @I1901@
+1 CHIL @I1899@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 19:47:36
+0 @F0729@ FAM
+1 HUSB @I1902@
+1 WIFE @I1903@
+1 CHIL @I0750@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 20:00:59
+0 @F0730@ FAM
+1 HUSB @I1904@
+1 WIFE @I1905@
+1 ENGA
+2 DATE 19 APR 1793
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0883@
+1 CHIL @I0751@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 20:20:04
+0 @F0731@ FAM
+1 HUSB @I1906@
+1 WIFE @I1907@
+1 CHIL @I1905@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 20:15:12
+0 @F0732@ FAM
+1 HUSB @I1911@
+1 WIFE @I1910@
+1 MARR
+2 DATE 28 JUN 1853
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 21:55:28
+0 @F0733@ FAM
+1 HUSB @I1913@
+1 WIFE @I1910@
+1 MARR
+2 DATE 2 MAR 1862
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0898@
+1 CHIL @I1912@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 22:09:13
+0 @F0734@ FAM
+1 HUSB @I1914@
+1 WIFE @I1915@
+1 CHIL @I1911@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 22:17:17
+0 @F0735@ FAM
+1 HUSB @I1916@
+1 WIFE @I1912@
+1 MARR
+2 DATE 17 APR 1890
+2 PLAC Hazerswoude
+2 NOTE @N0903@
+1 CHIL @I1917@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:01:00
+0 @F0736@ FAM
+1 HUSB @I1918@
+1 WIFE @I1919@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:05:19
+0 @F0737@ FAM
+1 HUSB @I1922@
+1 WIFE @I1921@
+1 MARR
+2 DATE 4 OCT 1863
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0912@
+2 NOTE @N0913@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:14:17
+0 @F0738@ FAM
+1 HUSB @I1923@
+1 WIFE @I1924@
+1 CHIL @I1922@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:17:13
+0 @F0739@ FAM
+1 HUSB @I1928@
+1 WIFE @I1927@
+1 MARR
+2 DATE 28 JUN 1867
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N0924@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:51:50
+0 @F0740@ FAM
+1 HUSB @I1929@
+1 WIFE @I1930@
+1 CHIL @I1928@
+1 CHAN
+2 DATE 2 JUL 2025
+3 TIME 23:54:48
+0 @F0741@ FAM
+1 HUSB @I1932@
+1 WIFE @I1931@
+1 MARR
+2 DATE 17 MAY 1950
+1 CHIL @I1933@
+1 CHIL @I1938@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 19:55:52
+0 @F0742@ FAM
+1 HUSB @I1934@
+1 WIFE @I1933@
+1 CHIL @I1935@
+1 CHIL @I1936@
+1 CHIL @I1937@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 19:55:22
+0 @F0743@ FAM
+1 HUSB @I1940@
+1 WIFE @I1939@
+1 MARR
+2 DATE 6 JUN 1945
+2 PLAC Ommen
+2 NOTE @N0929@
+1 CHIL @I1941@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 20:56:13
+0 @F0744@ FAM
+1 HUSB @I1943@
+1 WIFE @I1944@
+1 MARR
+2 DATE 9 MAY 1919
+2 PLAC Ommen
+2 NOTE @N0935@
+1 CHIL @I1945@
+1 CHIL @I1946@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 22:06:20
+0 @F0745@ FAM
+1 HUSB @I1948@
+1 WIFE @I1947@
+1 MARR
+2 DATE JUN 1921
+2 PLAC Ommen
+2 NOTE @N0943@
+1 CHIL @I1949@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 22:53:51
+0 @F0746@ FAM
+1 HUSB @I1950@
+1 WIFE @I1951@
+1 CHIL @I1948@
+1 CHAN
+2 DATE 3 JUL 2025
+3 TIME 23:11:26
+0 @F0747@ FAM
+1 HUSB @I1952@
+1 WIFE @I1953@
+1 CHIL @I1950@
+1 CHAN
+2 DATE 4 JUL 2025
+3 TIME 00:00:26
+0 @F0748@ FAM
+1 HUSB @I1954@
+1 WIFE @I1955@
+1 CHIL @I1951@
+1 CHAN
+2 DATE 4 JUL 2025
+3 TIME 00:02:27
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -39189,6 +40783,179 @@
 0 @N0857@ NOTE B.S. Ommen, akte 31
 0 @N0858@ NOTE B.S. Ambt Ommen, akte 15
 0 @N0859@ NOTE B.S. Ambt Ommen, akte 58
+0 @N0860@ NOTE B.S. Ommen, akte 19
+0 @N0861@ NOTE B.S. Stad Ommen, akte 29
+0 @N0862@ NOTE B.S. Ommen, akte 59
+0 @N0863@ NOTE B.S. Ambt Ommen, akte 109
+0 @N0864@ NOTE B.S. Ommen, akte 88
+0 @N0865@ NOTE B.S. Stad Ommen, akte 35
+0 @N0866@ NOTE in de buurtschap Emsland
+0 @N0867@ NOTE B.S. Ommen, akte 7
+0 @N0868@ NOTE B.S. Ommen, akte 31
+0 @N0869@ NOTE B.S. Ommen, akte 1
+0 @N0870@ NOTE B.S. Ambt Ommen, akte 43
+0 @N0871@ NOTE B.S. Ambt Ommen, akte 102
+1 CONT 
+1 CONT     huis nr. 6
+0 @N0872@ NOTE B.S. Ommen, akte 60
+0 @N0873@ NOTE 1828
+0 @N0874@ NOTE Archief Alphen aan den Rijn
+0 @N0875@ NOTE Huwelijks-akte, Nationaal archief. scan niet beschikbaar
+0 @N0876@ NOTE afkondigingen 11-05-1828 en 18-05-1828 te Oudshoorn
+1 CONT De grootmoeder van moederszijde van de bruid is Vijgje van 't Lint, wone
+1 CONC nde te Leiderdorp, weduwe van Rijk Landzaat, overleden in militairen die
+1 CONC nst onbekend waar gesneuveld
+0 @N0877@ NOTE Archief Alphen aan den Rijn
+0 @N0878@ NOTE Archief Alphen aan den Rijn
+0 @N0879@ NOTE 1847
+0 @N0880@ NOTE 1839
+0 @N0881@ NOTE Archief Alphen aan den Rijn
+0 @N0882@ NOTE 1847
+0 @N0883@ NOTE Gemeente: Oudshoorn
+1 CONT Toegangsnummer: 113.1.04 Collectie doop-, trouw- en begraafregisters va
+1 CONC n Oudshoorn, 1661-1826
+1 CONT Inventarisnummer: 3 [Aanvragen (verzoek tot inzage op de studiezaal) ]
+1 CONT Bladzijde: 157
+0 @N0884@ NOTE Archief Alphen aan den Rijn
+0 @N0885@ NOTE Archief Alphen aan den Rijn
+0 @N0886@ NOTE Archief Alphen aan den Rijn
+0 @N0887@ NOTE Nationaal Archief, geen scan beschikbaar
+0 @N0888@ NOTE Archief Alphen aan den Rijn
+0 @N0889@ NOTE 1826
+0 @N0890@ NOTE Woonachtig: Oudshoorn.
+1 CONT 
+1 CONT     Wijk 4 nr.133
+1 CONT     Wijk 6 nr. 239
+0 @N0891@ NOTE Geloof: Nederlands Hervormd
+0 @N0892@ NOTE Geboorte-akte, Streekarchief midden-Holland, scan niet beschikbaar
+0 @N0893@ NOTE 1862
+0 @N0894@ NOTE 1862
+0 @N0895@ NOTE Streekarchief Rijnlands Midden:
+1 CONT 
+1 CONT Overlijdensakte Gerrit de Regt, 15-12-1897, Oudshoorn
+1 CONT Aktedatum: 15-12-1897
+1 CONT Aktenummer: 50
+1 CONT Datum overlijden: 15-12-1897
+1 CONT Plaats overlijden: Oudshoorn
+1 CONT 
+1 CONT Overledene: Gerrit de Regt
+1 CONT Voornaam: Gerrit
+1 CONT Tussenvoegsel: de
+1 CONT Achternaam: Regt
+1 CONT Geslacht: man
+1 CONT Leeftijd: 65 jaar
+1 CONT Burgerlijke staat: weduwnaar
+1 CONT Partner: Grietje van der Wel
+1 CONT Voornaam: Grietje
+1 CONT Tussenvoegsel: van der
+1 CONT Achternaam: Wel
+1 CONT Vader: Gerrit de Regt
+1 CONT Voornaam: Gerrit
+1 CONT Tussenvoegsel: de
+1 CONT Achternaam: Regt
+1 CONT Moeder: Geertrui van Driel
+1 CONT Voornaam: Geertrui
+1 CONT Tussenvoegsel: van
+1 CONT Achternaam: Driel
+1 CONT 
+1 CONT Soort akte: Akte van overlijden
+1 CONT Gemeente: Oudshoorn
+1 CONT Toegangsnummer: 113.1.06 Archief van de ambtenaar van de Burgerlijke Sta
+1 CONC nd van Oudshoorn, 1811- 1917
+1 CONT Inventarisnummer: 63
+0 @N0896@ NOTE Nationaal Archief, geen scan beschikbaar
+0 @N0897@ NOTE Nationaal Archief, geen scan beschikbaar
+0 @N0898@ NOTE Streekarchief Rijnlands Midden:
+1 CONT 
+1 CONT Gemeente: Oudshoorn
+1 CONT Soort akte: Huwelijksakte
+1 CONT Aktenummer: 2
+1 CONT Datum: 02-03-1862
+1 CONT Bruidegom Gerrit de Regt
+1 CONT Leeftijd: 29
+1 CONT Geboorteplaats: Zevenhuizen
+1 CONT Bruid Grietje van der Wel
+1 CONT Leeftijd: 24
+1 CONT Geboorteplaats: Oudshoorn
+1 CONT Vader bruidegom Gerrit de Regt
+1 CONT Moeder bruidegom Geertruida van Driel
+1 CONT Vader bruid Hendrik van der Wel
+1 CONT Moeder bruid Johanna van den Bos
+1 CONT Nadere informatie Bruid weduwe van Gerrit Boer
+0 @N0899@ NOTE Woonplaats: Alphen
+0 @N0900@ NOTE 1853
+0 @N0901@ NOTE Nationaal Archief, geen scan beschikbaar
+0 @N0902@ NOTE Nationaal Archief, geen scan beschikbaar
+0 @N0903@ NOTE Huwelijks-akte, Nationaal archief. scan niet beschikbaar
+0 @N0904@ NOTE Woonplaat: Wijk C, nr.2
+1 CONT Beatrix van Ommering is geboren in het huis, staande in wijk C nr. 2. Zi
+1 CONC j is aangegeven door Robbert Christiaan, 34 jaar, landobuwer, wonende t
+1 CONC e Ter Aar (Aardam). De getuigen bij de geboorteaangifte zijn Willem Hoog
+1 CONC straten, 26 jaar,
+1 CONT landbouwer, wonende te Ter Aar (Aardam) en Johannes Hogenboom, 24 jaar
+1 CONC , secretaris van de gemeente, wonende te Ter Aar (Kerkbuurt).
+0 @N0905@ NOTE Archief Alphen aan den Rijn
+0 @N0906@ NOTE Woonachtig:
+1 CONT 
+1 CONT     Oudshoorn.
+1 CONT 
+1 CONT         Wijk 4 nr. 133
+1 CONT 
+1 CONT     Oudshoorn.Bron 2
+1 CONT 
+1 CONT         Wijk 2 nr.133, 189
+0 @N0907@ NOTE Archief Alphen aan den Rijn
+0 @N0908@ NOTE Archief Alphen aan den Rijn
+0 @N0909@ NOTE Archief Alphen aan den Rijn
+0 @N0910@ NOTE 1863
+0 @N0911@ NOTE Woonachtig:
+1 CONT 
+1 CONT     Oudshoorn.Bron 2
+1 CONT 
+1 CONT         Wijk 4 nr.133 V Wijk 2 nr.133
+1 CONT 
+1 CONT     op 12 oktober 1863: Rietveld.
+0 @N0912@ NOTE Archief Alphen aan den Rijn
+0 @N0913@ NOTE afkondigingen 20-09-1863 en 27-09-1863 te Oudshoorn en Rietveld
+0 @N0914@ NOTE 1863
+0 @N0915@ NOTE 1863
+0 @N0916@ NOTE 1863
+0 @N0917@ NOTE Archief Alphen aan den Rijn
+0 @N0918@ NOTE Archief Alphen aan den Rijn
+0 @N0919@ NOTE Archief Alphen aan den Rijn
+0 @N0920@ NOTE Archief Alphen aan den Rijn
+0 @N0921@ NOTE 1867
+0 @N0922@ NOTE Woonachtig: Oudshoorn.Bron 2
+1 CONT 
+1 CONT     Wijk 4 nr.1849
+0 @N0923@ NOTE Geloof: Nederlands Hervormd
+0 @N0924@ NOTE afkondigingen 16-06-1867 en 23-06-1867 te Oudshoorn en Aarlandervee
+1 CONC n
+1 CONT Huwelijkstoestemming voor de bruid is verleend door Jan van der Wel, lan
+1 CONC dbouwer te Oudshoorn, voogd en Dirk Roest, landbouwer te Oudshoorn, toez
+1 CONC iende voogd
+0 @N0925@ NOTE Geloof: Gereformeerd
+0 @N0926@ NOTE B.S. Ambt Ommen, akte 149
+0 @N0927@ NOTE B.S. Ommen, akte 51
+0 @N0928@ NOTE Oldenhagen
+0 @N0929@ NOTE B.S. Ommen, akte 20
+0 @N0930@ NOTE B.S. Ambt Ommen, akte 1
+0 @N0931@ NOTE B.S. Ambt Ommen, akte 5
+1 CONT 
+1 CONT     huis nr. 15
+0 @N0932@ NOTE B.S. Ambt Ommen, akte 5
+0 @N0933@ NOTE B.S. Ambt Ommen, akte 35
+0 @N0934@ NOTE B.S. Hardenberg, akte 147
+0 @N0935@ NOTE B.S. Ambt Ommen, akte 20
+0 @N0936@ NOTE B.S. Ambt Ommen, akte 69
+0 @N0937@ NOTE B.S. Ambt Ommen, akte 59
+0 @N0938@ NOTE B.S. Ambt Ommen, akte 20
+0 @N0939@ NOTE B.S. Ambt Ommen, akte 38
+0 @N0940@ NOTE B.S. Ommen, akte 83
+0 @N0941@ NOTE B.S. Ambt Ommen, akte 107
+0 @N0942@ NOTE B.S. Ommen, akte 62
+0 @N0943@ NOTE B.S. Ambt Ommen, akte 21
+0 @N0944@ NOTE B.S. Ambt Ommen, akte 23
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
