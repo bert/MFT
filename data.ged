@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 6 JUL 2025
-2 TIME 22:27:31
+1 DATE 8 JUL 2025
+2 TIME 23:16:31
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2025 .
@@ -4702,8 +4702,8 @@
 2 PEDI birth
 1 FAMS @F0137@
 1 CHAN
-2 DATE 25 JAN 2025
-3 TIME 16:48:41
+2 DATE 6 JUL 2025
+3 TIME 22:57:22
 0 @I0300@ INDI
 1 NAME Neeltje Johanna /van der Wel/
 2 TYPE birth
@@ -4850,10 +4850,14 @@
 2 DATE 22 JAN 1836
 2 PLAC Alkemade
 1 DEAT Y
+1 FAMC @F0803@
+2 PEDI birth
 1 FAMS @F0138@
+1 NOTE @N0949@
+1 NOTE @N0950@
 1 CHAN
-2 DATE 28 MAY 2025
-3 TIME 18:05:00
+2 DATE 7 JUL 2025
+3 TIME 21:11:30
 0 @I0308@ INDI
 1 NAME Willem /van der Wel/
 2 TYPE birth
@@ -4903,8 +4907,8 @@
 1 FAMC @F0138@
 2 PEDI birth
 1 CHAN
-2 DATE 25 JAN 2025
-3 TIME 12:13:23
+2 DATE 6 JUL 2025
+3 TIME 22:57:22
 0 @I0311@ INDI
 1 NAME Filipus Adrianus /Goebel/
 2 TYPE birth
@@ -4916,8 +4920,8 @@
 1 FAMC @F0138@
 2 PEDI birth
 1 CHAN
-2 DATE 25 JAN 2025
-3 TIME 12:11:58
+2 DATE 6 JUL 2025
+3 TIME 22:57:22
 0 @I0312@ INDI
 1 NAME Hendrik /van der Wel/
 2 TYPE birth
@@ -33461,6 +33465,1131 @@
 1 CHAN
 2 DATE 6 JUL 2025
 3 TIME 22:25:51
+0 @I2082@ INDI
+1 NAME Jan /Eggink/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1804
+2 PLAC Katwijk
+1 DEAT
+2 DATE 30 AUG 1877
+2 NOTE @N0982@
+2 NOTE @N0983@
+1 FACT Verver
+2 TYPE Occupation
+1 FACT Meester schilder
+2 TYPE Occupation
+1 FAMC @F0810@
+2 PEDI birth
+1 FAMS @F0803@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 20:39:29
+0 @I2083@ INDI
+1 NAME Antje /van Staveren/
+2 TYPE birth
+2 GIVN Antje
+2 SPFX van
+2 SURN Staveren
+1 SEX F
+1 BIRT
+2 DATE 30 MAY 1805
+2 PLAC Oude Wetering
+1 DEAT
+2 DATE 18 JAN 1879
+2 NOTE @N0984@
+2 NOTE @N0985@
+1 BAPM
+2 DATE 2 JUN 1805
+2 PLAC Oude Wetering
+2 NOTE @N0992@
+1 FAMC @F0811@
+2 PEDI birth
+1 FAMS @F0803@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 21:21:31
+0 @I2084@ INDI
+1 NAME Dirk /Eggink/
+2 TYPE birth
+2 GIVN Dirk
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 6 OCT 1832
+2 PLAC Alkemade
+2 NOTE @N0951@
+2 NOTE @N0952@
+1 FACT Gemeentesecretaris
+2 TYPE Occupation
+1 FAMC @F0803@
+2 PEDI birth
+1 FAMS @F0804@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 21:11:30
+0 @I2085@ INDI
+1 NAME Antje /Eggink/
+2 TYPE birth
+2 GIVN Antje
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 11 MAY 1840
+2 NOTE @N0953@
+2 NOTE @N0954@
+1 FACT Naaister
+2 TYPE Occupation
+1 FAMC @F0803@
+2 PEDI birth
+1 FAMS @F0806@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 21:11:30
+0 @I2086@ INDI
+1 NAME Jan /Eggink/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 4 APR 1843
+2 NOTE @N0955@
+2 NOTE @N0956@
+1 FAMC @F0803@
+2 PEDI birth
+1 FAMS @F0812@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 22:07:27
+0 @I2087@ INDI
+1 NAME Emerentie Eliezabeth /Eggink/
+2 TYPE birth
+2 GIVN Emerentie Eliezabeth
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 7 MAR 1848
+2 NOTE @N0957@
+2 NOTE @N0958@
+1 DEAT
+2 DATE 26 AUG 1848
+2 NOTE @N0959@
+2 NOTE @N0960@
+1 FAMC @F0803@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 21:11:30
+0 @I2088@ INDI
+1 NAME Anna Josina /Tibboel/
+2 TYPE birth
+2 GIVN Anna Josina
+2 SURN Tibboel
+1 SEX F
+1 BIRT
+2 PLAC Heemstede
+3 MAP
+4 LATI N52.350916
+4 LONG E4.61956
+1 FAMC @F0805@
+2 PEDI birth
+1 FAMS @F0804@
+1 CHAN
+2 DATE 6 JUL 2025
+3 TIME 23:06:18
+0 @I2089@ INDI
+1 NAME Martinus /Tibboel/
+2 TYPE birth
+2 GIVN Martinus
+2 SURN Tibboel
+1 SEX M
+1 FACT Broodbakker
+2 TYPE Occupation
+1 FAMS @F0805@
+1 CHAN
+2 DATE 6 JUL 2025
+3 TIME 23:06:18
+0 @I2090@ INDI
+1 NAME Gezina Margaretha /Koning/
+2 TYPE birth
+2 GIVN Gezina Margaretha
+2 SURN Koning
+1 SEX F
+1 FAMS @F0805@
+1 CHAN
+2 DATE 6 JUL 2025
+3 TIME 23:06:18
+0 @I2091@ INDI
+1 NAME Alida Maria /Eggink/
+2 TYPE birth
+2 GIVN Alida Maria
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 25 SEP 1828
+2 NOTE @N0970@
+2 NOTE @N0971@
+1 DEAT
+2 DATE 19 MAY 1861
+2 PLAC Oegstgeest
+2 NOTE @N0968@
+2 NOTE @N0969@
+1 FAMC @F0803@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 21:26:13
+0 @I2092@ INDI
+1 NAME Jacob /Vuijk/
+2 TYPE birth
+2 GIVN Jacob
+2 SURN Vuijk
+1 SEX M
+1 FACT Tuinder
+2 TYPE Occupation
+1 FAMC @F0807@
+2 PEDI birth
+1 FAMS @F0806@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 11:16:00
+0 @I2093@ INDI
+1 NAME Jan /Vuijk/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Vuijk
+1 SEX M
+1 FAMS @F0807@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 11:16:00
+0 @I2094@ INDI
+1 NAME Pietertje /van Amerongen/
+2 TYPE birth
+2 GIVN Pietertje
+2 SPFX van
+2 SURN Amerongen
+1 SEX F
+1 FAMS @F0807@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 11:16:00
+0 @I2095@ INDI
+1 NAME Maria Hendrika /Eggink/
+2 TYPE birth
+2 GIVN Maria Hendrika
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 20 APR 1830
+2 NOTE @N0993@
+2 NOTE @N0994@
+1 FACT Naaister
+2 TYPE Occupation
+1 FAMC @F0803@
+2 PEDI birth
+1 FAMS @F0808@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 21:25:25
+0 @I2096@ INDI
+1 NAME Maarten /Zuijdhoorn/
+2 TYPE birth
+2 GIVN Maarten
+2 SURN Zuijdhoorn
+1 SEX M
+1 BIRT
+2 PLAC Boskoop
+1 FACT Werkman
+2 TYPE Occupation
+1 FAMC @F0809@
+2 PEDI birth
+1 FAMS @F0808@
+1 RESI
+2 DATE 27 MAR 1872
+2 ADDR Haarlemmermeer
+3 CITY Haarlemmermeer
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 20:35:39
+0 @I2097@ INDI
+1 NAME Matthijs /Zuijdhoorn/
+2 TYPE birth
+2 GIVN Matthijs
+2 SURN Zuijdhoorn
+1 SEX M
+1 FAMS @F0809@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 20:35:39
+0 @I2098@ INDI
+1 NAME Antje /van der Krans/
+2 TYPE birth
+2 GIVN Antje
+2 SPFX van der
+2 SURN Krans
+1 SEX F
+1 FAMS @F0809@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 20:35:39
+0 @I2099@ INDI
+1 NAME Dirk /Eggink/
+2 TYPE birth
+2 GIVN Dirk
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1775
+1 DEAT
+2 DATE 1824
+1 FAMC @F0814@
+2 PEDI birth
+1 FAMS @F0810@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:21:15
+0 @I2100@ INDI
+1 NAME Alida /Francken/
+2 TYPE birth
+2 GIVN Alida
+2 SURN Francken
+1 SEX F
+1 FAMS @F0810@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 20:39:29
+0 @I2101@ INDI
+1 NAME Gijsbert /van Staveren/
+2 TYPE birth
+2 GIVN Gijsbert
+2 SPFX van
+2 SURN Staveren
+1 SEX M
+1 FAMS @F0811@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 21:07:13
+0 @I2102@ INDI
+1 NAME Gerritje /Laurier/
+2 TYPE birth
+2 GIVN Gerritje
+2 SURN Laurier
+1 SEX F
+1 FAMS @F0811@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 21:07:13
+0 @I2103@ INDI
+1 NAME Gerdina /Koolhaas/
+2 TYPE birth
+2 GIVN Gerdina
+2 SURN Koolhaas
+1 SEX F
+1 BIRT
+2 PLAC Pouderoijen
+1 FAMC @F0813@
+2 PEDI birth
+1 FAMS @F0812@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 22:10:00
+0 @I2104@ INDI
+1 NAME Gerhardus /Koolhaas/
+2 TYPE birth
+2 GIVN Gerhardus
+2 SURN Koolhaas
+1 SEX M
+1 FACT Arbeider
+2 TYPE Occupation
+1 FAMS @F0813@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 22:10:00
+0 @I2105@ INDI
+1 NAME Geertrui Anna /van Os/
+2 TYPE birth
+2 GIVN Geertrui Anna
+2 SPFX van
+2 SURN Os
+1 SEX F
+1 FAMS @F0813@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 22:10:00
+0 @I2106@ INDI
+1 NAME Jan /Eggink/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 4 JAN 1867
+2 PLAC Haarlemmermeer
+2 NOTE @N1002@
+1 FAMC @F0804@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 22:16:59
+0 @I2107@ INDI
+1 NAME Hendrikus /Eggink/
+2 TYPE birth
+2 GIVN Hendrikus
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1735
+1 DEAT
+2 DATE 1780
+1 FAMC @F0815@
+2 PEDI birth
+1 FAMS @F0814@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:52:06
+0 @I2108@ INDI
+1 NAME Emmerentia /van den Bergh/
+2 TYPE birth
+2 GIVN Emmerentia
+2 SPFX van den
+2 SURN Bergh
+1 SEX F
+1 BIRT
+2 DATE 1737
+1 DEAT
+2 DATE 1802
+1 FAMC @F0816@
+2 PEDI birth
+1 FAMS @F0814@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:06:17
+0 @I2109@ INDI
+1 NAME Hendrik /Eggink/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1706
+1 BAPM
+2 DATE 5 FEB 1706
+2 PLAC Laren, Gelderland
+1 FAMC @F0817@
+2 PEDI birth
+1 FAMS @F0815@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:48:43
+0 @I2110@ INDI
+1 NAME Fennechien Wolters /Valk/
+2 TYPE birth
+2 GIVN Fennechien Wolters
+2 SURN Valk
+1 SEX F
+1 BIRT
+2 DATE 1717
+1 FAMC @F0818@
+2 PEDI birth
+1 FAMS @F0815@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:21:23
+0 @I2111@ INDI
+1 NAME Anthonij /van den Bergh/
+2 TYPE birth
+2 GIVN Anthonij
+2 SPFX van den
+2 SURN Bergh
+1 SEX M
+1 FAMS @F0816@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:06:17
+0 @I2112@ INDI
+1 NAME Elisabeth /Dijkers/
+2 TYPE birth
+2 GIVN Elisabeth
+2 SURN Dijkers
+1 SEX F
+1 FAMS @F0816@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:06:17
+0 @I2113@ INDI
+1 NAME Teunis Egberts /Nagelvoort/
+2 TYPE birth
+2 GIVN Teunis Egberts
+2 SURN Nagelvoort
+1 SEX M
+1 BIRT
+2 DATE 1676
+1 DEAT
+2 DATE 1747
+1 FAMC @F0823@
+2 PEDI birth
+1 FAMS @F0817@
+1 FAMS @F0825@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:25:24
+0 @I2114@ INDI
+1 NAME Hendrikjen Stevens /Egginck/
+2 TYPE birth
+2 GIVN Hendrikjen Stevens
+2 SURN Egginck
+1 SEX F
+1 BIRT
+2 DATE 1682
+1 DEAT
+2 DATE 1706
+1 BAPM
+2 DATE 8 OCT 1682
+2 PLAC Lochem
+1 FAMC @F0822@
+2 PEDI birth
+1 FAMS @F0817@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:47:04
+0 @I2115@ INDI
+1 NAME Wolter Jurrien /Valk/
+2 TYPE birth
+2 GIVN Wolter Jurrien
+2 SURN Valk
+1 SEX M
+1 BIRT
+2 DATE 1667
+1 DEAT
+2 DATE 1740
+1 FAMC @F0819@
+2 PEDI birth
+1 FAMS @F0818@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:22:57
+0 @I2116@ INDI
+1 NAME Janna Hendriks /Grootschipper/
+2 TYPE birth
+2 GIVN Janna Hendriks
+2 SURN Grootschipper
+1 SEX F
+1 BIRT
+2 DATE 1680
+1 DEAT
+2 DATE 1750
+1 FAMS @F0818@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:21:23
+0 @I2117@ INDI
+1 NAME Claes Jurriens /Valk/
+2 TYPE birth
+2 GIVN Claes Jurriens
+2 SURN Valk
+1 SEX M
+1 BIRT
+2 DATE 1665
+1 FAMC @F0820@
+2 PEDI birth
+1 FAMS @F0819@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:27:51
+0 @I2118@ INDI
+1 NAME Hendrikje Harms /Croese/
+2 TYPE birth
+2 GIVN Hendrikje Harms
+2 SURN Croese
+1 SEX F
+1 FAMS @F0819@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:22:57
+0 @I2119@ INDI
+1 NAME Jorrien Clasen Schipper /Valk/
+2 TYPE birth
+2 GIVN Jorrien Clasen Schipper
+2 SURN Valk
+1 SEX M
+1 BIRT
+2 DATE 1627
+1 FAMC @F0821@
+2 PEDI birth
+1 FAMS @F0820@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:29:31
+0 @I2120@ INDI
+1 NAME Jenneken Wolters /Hulsener/
+2 TYPE birth
+2 GIVN Jenneken Wolters
+2 SURN Hulsener
+1 SEX F
+1 BIRT
+2 DATE 1630
+1 FAMS @F0820@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:27:51
+0 @I2121@ INDI
+1 NAME Claes Jurrien /Valck of Mulder/
+2 TYPE birth
+2 GIVN Claes Jurrien
+2 SURN Valck of Mulder
+1 SEX M
+1 BIRT
+2 DATE 1570
+1 FAMS @F0821@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:29:31
+0 @I2122@ INDI
+1 NAME Jenne //
+2 TYPE birth
+2 GIVN Jenne
+1 SEX F
+1 FAMS @F0821@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:29:31
+0 @I2123@ INDI
+1 NAME Steeven Theunis /Leeuwencamp (Egginck)/
+2 TYPE birth
+2 GIVN Steeven Theunis
+2 SURN Leeuwencamp (Egginck)
+1 SEX M
+1 FAMC @F0824@
+2 PEDI birth
+1 FAMS @F0822@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:42:01
+0 @I2124@ INDI
+1 NAME Aeltjen Goossen /ter Haeijr/
+2 TYPE birth
+2 GIVN Aeltjen Goossen
+2 SPFX ter
+2 SURN Haeijr
+1 SEX F
+1 FAMS @F0822@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:11:17
+0 @I2125@ INDI
+1 NAME Hendrik /Eggink/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1759
+1 DEAT
+2 DATE 1811
+1 FAMC @F0814@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:21:15
+0 @I2126@ INDI
+1 NAME Anthony /Eggink/
+2 TYPE birth
+2 GIVN Anthony
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1761
+1 DEAT
+2 DATE 1810
+1 FAMC @F0814@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:21:15
+0 @I2127@ INDI
+1 NAME Elisabeth /Eggink/
+2 TYPE birth
+2 GIVN Elisabeth
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 1763
+1 FAMC @F0814@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:21:15
+0 @I2128@ INDI
+1 NAME Frederika /Eggink/
+2 TYPE birth
+2 GIVN Frederika
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 1765
+1 FAMC @F0814@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:21:15
+0 @I2129@ INDI
+1 NAME Alida /Eggink/
+2 TYPE birth
+2 GIVN Alida
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 1768
+1 DEAT
+2 DATE 1834
+1 FAMC @F0814@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:21:15
+0 @I2130@ INDI
+1 NAME Janna /Eggink/
+2 TYPE birth
+2 GIVN Janna
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 1771
+1 FAMC @F0814@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:21:15
+0 @I2131@ INDI
+1 NAME Jan /Eggink/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1772
+1 DEAT
+2 DATE 1814
+1 FAMC @F0814@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:21:15
+0 @I2132@ INDI
+1 NAME Johannes /Eggink/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1777
+1 DEAT
+2 DATE 1796
+1 FAMC @F0814@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:21:15
+0 @I2133@ INDI
+1 NAME Johanna /Eggink/
+2 TYPE birth
+2 GIVN Johanna
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 1780
+1 FAMC @F0814@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:21:15
+0 @I2134@ INDI
+1 NAME Wolter /Eggink/
+2 TYPE birth
+2 GIVN Wolter
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1736
+1 BAPM
+2 DATE 20 SEP 1736
+2 PLAC Dalfsen
+1 FAMC @F0815@
+2 PEDI birth
+1 FAMS @F0829@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 22:49:07
+0 @I2135@ INDI
+1 NAME Derkien / Dirkje / Derkjen / Derkje /Eggink/
+2 TYPE birth
+2 GIVN Derkien / Dirkje / Derkjen / Derkje
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 1739
+1 FAMC @F0815@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:52:06
+0 @I2136@ INDI
+1 NAME Dirk Jan /Eggink/
+2 TYPE birth
+2 GIVN Dirk Jan
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1740
+1 DEAT
+2 DATE 1820
+1 FAMC @F0815@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:52:06
+0 @I2137@ INDI
+1 NAME Dirkje /Eggink/
+2 TYPE birth
+2 GIVN Dirkje
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 1743
+1 FAMC @F0815@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:52:06
+0 @I2138@ INDI
+1 NAME Hendrick /Eggink/
+2 TYPE birth
+2 GIVN Hendrick
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1746
+1 DEAT
+2 DATE 1785
+1 FAMC @F0815@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:52:06
+0 @I2139@ INDI
+1 NAME Garrit /Eggink/
+2 TYPE birth
+2 GIVN Garrit
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1747
+1 DEAT
+2 DATE 1816
+1 FAMC @F0815@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:52:06
+0 @I2140@ INDI
+1 NAME Harmannes /Eggink/
+2 TYPE birth
+2 GIVN Harmannes
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1749
+1 DEAT
+2 DATE 1817
+1 FAMC @F0815@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:52:06
+0 @I2141@ INDI
+1 NAME Jan Hendrik /Eggink/
+2 TYPE birth
+2 GIVN Jan Hendrik
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1753
+1 DEAT
+2 DATE 1801
+1 FAMC @F0815@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:52:06
+0 @I2142@ INDI
+1 NAME Egbert Thonissen /Heetcamp/
+2 TYPE birth
+2 GIVN Egbert Thonissen
+2 SURN Heetcamp
+1 SEX M
+1 FAMC @F0826@
+2 PEDI birth
+1 FAMS @F0823@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:01:22
+0 @I2143@ INDI
+1 NAME Gerritjen Hermens /Groot Nagelvoort/
+2 TYPE birth
+2 GIVN Gerritjen Hermens
+2 SURN Groot Nagelvoort
+1 SEX F
+1 FAMS @F0823@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:40:34
+0 @I2144@ INDI
+1 NAME Tonnis / Theunis /Leeuwencamp/
+2 TYPE birth
+2 GIVN Tonnis / Theunis
+2 SURN Leeuwencamp
+1 SEX M
+1 FAMS @F0824@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:42:01
+0 @I2145@ INDI
+1 NAME Hendersken Theunissen /op het Brummel/
+2 TYPE birth
+2 GIVN Hendersken Theunissen
+2 SPFX op het
+2 SURN Brummel
+1 SEX F
+1 FAMS @F0825@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:44:51
+0 @I2146@ INDI
+1 NAME Teunis /Brummelman/
+2 TYPE birth
+2 GIVN Teunis
+2 SURN Brummelman
+1 SEX M
+1 BIRT
+2 DATE 1709
+1 FAMC @F0825@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:52:36
+0 @I2147@ INDI
+1 NAME Jenneken /Brummelman/
+2 TYPE birth
+2 GIVN Jenneken
+2 SURN Brummelman
+1 SEX F
+1 BIRT
+2 DATE 1713
+1 FAMC @F0825@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:52:36
+0 @I2148@ INDI
+1 NAME Elsken /Brummelman/
+2 TYPE birth
+2 GIVN Elsken
+2 SURN Brummelman
+1 SEX F
+1 BIRT
+2 DATE 1715
+1 FAMC @F0825@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:52:36
+0 @I2149@ INDI
+1 NAME Joanna /Brummelman/
+2 TYPE birth
+2 GIVN Joanna
+2 SURN Brummelman
+1 SEX F
+1 BIRT
+2 DATE 1718
+1 FAMC @F0825@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:52:36
+0 @I2150@ INDI
+1 NAME Tonnis /Heetcamp/
+2 TYPE birth
+2 GIVN Tonnis
+2 SURN Heetcamp
+1 SEX M
+1 FAMC @F0827@
+2 PEDI birth
+1 FAMS @F0826@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:56:43
+0 @I2151@ INDI
+1 NAME n.n. 1 //
+2 TYPE birth
+2 GIVN n.n. 1
+1 SEX F
+1 FAMS @F0826@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:57:25
+0 @I2152@ INDI
+1 NAME n.n. 2 //
+2 TYPE birth
+2 GIVN n.n. 2
+1 SEX M
+1 FAMC @F0828@
+2 PEDI birth
+1 FAMS @F0827@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:23:47
+0 @I2153@ INDI
+1 NAME n.n. 3 //
+2 TYPE birth
+2 GIVN n.n. 3
+1 SEX F
+1 FAMS @F0827@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:58:13
+0 @I2154@ INDI
+1 NAME Toennys /Hietkamp/
+2 TYPE birth
+2 GIVN Toennys
+2 SURN Hietkamp
+1 SEX M
+1 FAMS @F0828@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:59:34
+0 @I2155@ INDI
+1 NAME Jutte /Esselyncks/
+2 TYPE birth
+2 GIVN Jutte
+2 SURN Esselyncks
+1 SEX F
+1 FAMS @F0828@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:59:34
+0 @I2156@ INDI
+1 NAME Marie Tonnis /Heetcamp/
+2 TYPE birth
+2 GIVN Marie Tonnis
+2 SURN Heetcamp
+1 SEX F
+1 FAMC @F0826@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:01:22
+0 @I2157@ INDI
+1 NAME Wolter Theunissen /Heetcamp/
+2 TYPE birth
+2 GIVN Wolter Theunissen
+2 SURN Heetcamp
+1 SEX M
+1 FAMC @F0826@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:01:22
+0 @I2158@ INDI
+1 NAME Janneke /Eggink/
+2 TYPE birth
+2 GIVN Janneke
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 1767
+1 FAMC @F0829@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 23:06:44
+0 @I2159@ INDI
+1 NAME Hendrik /Eggink/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1769
+1 BAPM
+2 DATE 12 MAR 1769
+2 PLAC Kollum
+1 FAMC @F0829@
+2 PEDI birth
+1 FAMS @F0830@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 23:11:45
+0 @I2160@ INDI
+1 NAME Jan /Eggink/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1774
+1 FAMC @F0829@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 23:06:44
+0 @I2161@ INDI
+1 NAME Jetske /Eggink/
+2 TYPE birth
+2 GIVN Jetske
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 1776
+1 FAMC @F0829@
+2 PEDI birth
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 23:06:44
+0 @I2162@ INDI
+1 NAME Grietje /Eggink/
+2 TYPE birth
+2 GIVN Grietje
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 5 JUN 1797
+1 DEAT
+2 DATE 29 JUL 1865
+2 PLAC Kollumerland
+1 BAPM
+2 DATE 25 JUN 1797
+2 PLAC Kollum
+1 FAMC @F0830@
+2 PEDI birth
+1 FAMS @F0831@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 23:13:23
+0 @I2163@ INDI
+1 NAME Albert Luitjens /Bakkers/
+2 TYPE birth
+2 GIVN Albert Luitjens
+2 SURN Bakkers
+1 SEX M
+1 FAMS @F0831@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 23:13:23
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -34784,12 +35913,29 @@
 0 @F0138@ FAM
 1 HUSB @I0306@
 1 WIFE @I0307@
+1 MARR
+2 DATE 28 MAY 1857
+2 PLAC Alkemade
+2 NOTE @N0961@
+2 NOTE @N0962@
+1 FACT Jean van Meurs
+2 TYPE Witness
+2 NOTE @N0963@
+1 FACT Hendrik Nigten
+2 TYPE Witness
+2 NOTE @N0964@
+1 FACT Gerrit den Dubbelden
+2 TYPE Witness
+2 NOTE @N0965@
+1 FACT Hendrik van Opzeeland
+2 TYPE Witness
+2 NOTE @N0966@
 1 CHIL @I0310@
 1 CHIL @I0311@
 1 CHIL @I0299@
 1 CHAN
-2 DATE 25 JAN 2025
-3 TIME 11:59:45
+2 DATE 6 JUL 2025
+3 TIME 22:57:22
 0 @F0139@ FAM
 1 HUSB @I0308@
 1 WIFE @I0309@
@@ -41176,6 +42322,285 @@
 1 CHAN
 2 DATE 6 JUL 2025
 3 TIME 22:27:09
+0 @F0803@ FAM
+1 HUSB @I2082@
+1 WIFE @I2083@
+1 MARR
+2 DATE 29 MAY 1828
+2 PLAC Alkemade
+2 NOTE @N0986@
+2 NOTE @N0987@
+1 CHIL @I2091@
+1 CHIL @I2095@
+1 CHIL @I2084@
+1 CHIL @I0307@
+1 CHIL @I2085@
+1 CHIL @I2086@
+1 CHIL @I2087@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 21:11:30
+0 @F0804@ FAM
+1 HUSB @I2084@
+1 WIFE @I2088@
+1 MARR
+2 DATE 23 SEP 1858
+2 PLAC Heemstede
+3 MAP
+4 LATI N52.350916
+4 LONG E4.61956
+2 NOTE @N0967@
+1 CHIL @I2106@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 22:16:59
+0 @F0805@ FAM
+1 HUSB @I2089@
+1 WIFE @I2090@
+1 CHIL @I2088@
+1 CHAN
+2 DATE 6 JUL 2025
+3 TIME 23:06:18
+0 @F0806@ FAM
+1 HUSB @I2092@
+1 WIFE @I2085@
+1 MARR
+2 DATE 27 MAR 1872
+2 PLAC Alkemade
+2 NOTE @N0976@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 11:12:53
+0 @F0807@ FAM
+1 HUSB @I2093@
+1 WIFE @I2094@
+1 CHIL @I2092@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 11:16:00
+0 @F0808@ FAM
+1 HUSB @I2096@
+1 WIFE @I2095@
+1 MARR
+2 DATE 27 MAR 1872
+2 PLAC Alkemade
+2 NOTE @N0977@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 20:33:22
+0 @F0809@ FAM
+1 HUSB @I2097@
+1 WIFE @I2098@
+1 CHIL @I2096@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 20:35:39
+0 @F0810@ FAM
+1 HUSB @I2099@
+1 WIFE @I2100@
+1 CHIL @I2082@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 20:39:29
+0 @F0811@ FAM
+1 HUSB @I2101@
+1 WIFE @I2102@
+1 CHIL @I2083@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 21:07:13
+0 @F0812@ FAM
+1 HUSB @I2086@
+1 WIFE @I2103@
+1 FACT Louis Goebel
+2 TYPE Witness
+2 NOTE @N0998@
+1 FACT Wijbrand Schouten
+2 TYPE Witness
+2 NOTE @N0999@
+1 FACT Benjamin Keijzer
+2 TYPE Witness
+2 NOTE @N1000@
+1 FACT Leonardus van Leeuwen
+2 TYPE Witness
+2 NOTE @N1001@
+1 NOTE @N0996@
+1 NOTE @N0995@
+1 NOTE @N0997@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 22:07:27
+0 @F0813@ FAM
+1 HUSB @I2104@
+1 WIFE @I2105@
+1 CHIL @I2103@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 22:10:00
+0 @F0814@ FAM
+1 HUSB @I2107@
+1 WIFE @I2108@
+1 CHIL @I2125@
+1 CHIL @I2126@
+1 CHIL @I2127@
+1 CHIL @I2128@
+1 CHIL @I2129@
+1 CHIL @I2130@
+1 CHIL @I2131@
+1 CHIL @I2099@
+1 CHIL @I2132@
+1 CHIL @I2133@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:21:15
+0 @F0815@ FAM
+1 HUSB @I2109@
+1 WIFE @I2110@
+1 MARR
+2 DATE 28 NOV 1734
+2 PLAC Hellendoorn
+1 CHIL @I2107@
+1 CHIL @I2134@
+1 CHIL @I2135@
+1 CHIL @I2136@
+1 CHIL @I2137@
+1 CHIL @I2138@
+1 CHIL @I2139@
+1 CHIL @I2140@
+1 CHIL @I2141@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:52:06
+0 @F0816@ FAM
+1 HUSB @I2111@
+1 WIFE @I2112@
+1 CHIL @I2108@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:06:17
+0 @F0817@ FAM
+1 HUSB @I2113@
+1 WIFE @I2114@
+1 MARR
+2 DATE 26 APR 1705
+2 PLAC Laren, Gelderland
+1 CHIL @I2109@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:45:28
+0 @F0818@ FAM
+1 HUSB @I2115@
+1 WIFE @I2116@
+1 CHIL @I2110@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:21:23
+0 @F0819@ FAM
+1 HUSB @I2117@
+1 WIFE @I2118@
+1 CHIL @I2115@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:22:57
+0 @F0820@ FAM
+1 HUSB @I2119@
+1 WIFE @I2120@
+1 CHIL @I2117@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:27:51
+0 @F0821@ FAM
+1 HUSB @I2121@
+1 WIFE @I2122@
+1 CHIL @I2119@
+1 CHAN
+2 DATE 7 JUL 2025
+3 TIME 23:29:31
+0 @F0822@ FAM
+1 HUSB @I2123@
+1 WIFE @I2124@
+1 CHIL @I2114@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:11:17
+0 @F0823@ FAM
+1 HUSB @I2142@
+1 WIFE @I2143@
+1 MARR
+2 DATE 29 JAN 1673
+2 PLAC Lochem
+1 CHIL @I2113@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:25:24
+0 @F0824@ FAM
+1 HUSB @I2144@
+1 CHIL @I2123@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:42:01
+0 @F0825@ FAM
+1 HUSB @I2113@
+1 WIFE @I2145@
+1 MARR
+2 DATE 1706
+1 CHIL @I2146@
+1 CHIL @I2147@
+1 CHIL @I2148@
+1 CHIL @I2149@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:52:36
+0 @F0826@ FAM
+1 HUSB @I2150@
+1 WIFE @I2151@
+1 CHIL @I2142@
+1 CHIL @I2156@
+1 CHIL @I2157@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:01:22
+0 @F0827@ FAM
+1 HUSB @I2152@
+1 WIFE @I2153@
+1 CHIL @I2150@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 20:56:43
+0 @F0828@ FAM
+1 HUSB @I2154@
+1 WIFE @I2155@
+1 MARR
+2 DATE 24 MAR 1594
+2 PLAC Lochem
+1 CHIL @I2152@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 21:23:47
+0 @F0829@ FAM
+1 HUSB @I2134@
+1 CHIL @I2158@
+1 CHIL @I2159@
+1 CHIL @I2160@
+1 CHIL @I2161@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 23:06:44
+0 @F0830@ FAM
+1 HUSB @I2159@
+1 CHIL @I2162@
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 23:11:45
+0 @F0831@ FAM
+1 HUSB @I2163@
+1 WIFE @I2162@
+1 MARR
+2 DATE 24 MAY 1849
+2 PLAC Kollumerland
+1 CHAN
+2 DATE 8 JUL 2025
+3 TIME 23:13:23
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -43185,6 +44610,131 @@
 1 CONC , 1854, 1857-1858, 1860, 1864
 0 @N0947@ NOTE 1843-03-04
 0 @N0948@ NOTE Graf 0283
+0 @N0949@ NOTE Jaar akte: 1836
+0 @N0950@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Geboorte
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 4, Periode: 1832-
+1 CONC 1841, Onbekend, archief 170.1.18, inventaris­num­mer 4, Geboorteregiste
+1 CONC r van Alkemade, 1832 - 1841;, aktenummer 5
+0 @N0951@ NOTE Jaar akte: 1832
+0 @N0952@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Geboorte
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 4, Periode: 1832-
+1 CONC 1841, Onbekend, archief 170.1.18, inventaris­num­mer 4, Geboorteregiste
+1 CONC r van Alkemade, 1832 - 1841;, aktenummer 91
+0 @N0953@ NOTE Jaar akte: 1840
+0 @N0954@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Geboorte
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 4, Periode: 1832-
+1 CONC 1841, Onbekend, archief 170.1.18, inventaris­num­mer 4, Geboorteregiste
+1 CONC r van Alkemade, 1832 - 1841;, aktenummer 46
+0 @N0955@ NOTE Jaar akte: 1843
+0 @N0956@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Geboorte
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 5, Periode: 1842-
+1 CONC 1851, Onbekend, archief 170.1.18, inventaris­num­mer 5, Geboorteregiste
+1 CONC r van Alkemade, 1842 - 1851;, aktenummer 41
+0 @N0957@ NOTE Jaar akte: 1848
+0 @N0958@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Geboorte
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 5, Periode: 1842-
+1 CONC 1851, Onbekend, archief 170.1.18, inventaris­num­mer 5, Geboorteregiste
+1 CONC r van Alkemade, 1842 - 1851;, aktenummer 30
+0 @N0959@ NOTE Jaar akte: 1848
+0 @N0960@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Overlijden
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 60, Periode: 1842
+1 CONC -1851, Onbekend, archief 170.1.18, inventaris­num­mer 60, Overlijdensreg
+1 CONC ister van Alkemade, 1842 - 1851;, aktenummer 96
+0 @N0961@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Huwelijk
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 16, Periode: 1852
+1 CONC -1861, Alkemade, archief 170.1.18, inventaris­num­mer 16, 28 mei 1857, H
+1 CONC uwelijksregister en echtscheidingsregister van Alkemade, 1852 - 1861;, a
+1 CONC ktenummer 17
+0 @N0962@ NOTE afkondigingen 17-05-1857 en 24-05-1857 in Alkemade en in Koudekerk
+0 @N0963@ NOTE  64 jaar oud, boekverkoper van beroep
+0 @N0964@ NOTE 44 jaar oud, bouwman van beroep
+0 @N0965@ NOTE 37 jaar oud, kleermaker van beroep
+0 @N0966@ NOTE 29 jaar oud, kleermaker van beroep
+0 @N0967@ NOTE Noord-Hollands Archief, BS Huwelijk
+1 CONT burgerlijke stand van de gemeente Heemstede, Archiefdeel van (dubbele) r
+1 CONC egisters van de, Heemstede, archief 358.51, inventaris­num­mer 21858, 23
+1 CONC -09-1858, Huwelijksakten van de gemeente Heemstede, 1858, aktenummer 23-
+1 CONC 09
+0 @N0968@ NOTE Jaar akte: 1861
+0 @N0969@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Overlijden
+1 CONT Gemeentebestuur van Oegstgeest (en Poelgeest) (1813-1930), Deel: 929, Pe
+1 CONC riode: 1857-..., Onbekend, archief 0351, inventaris­num­mer 929, Overlij
+1 CONC densregister van Oegstgeest, 1857-1861., aktenummer 38
+0 @N0970@ NOTE Jaar akte: 1828
+0 @N0971@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Geboorte
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 3, Periode: 1822-
+1 CONC 1831, Onbekend, archief 170.1.18, inventaris­num­mer 3, Geboorteregiste
+1 CONC r van Alkemade, 1822 - 1831;, aktenummer 102
+0 @N0972@ NOTE 28 jaar oud, wonende te Haarlemmermeer, gemeente ambtenaar van bero
+1 CONC ep, broer van de bruid
+0 @N0973@ NOTE 31 jaar oud, wonende te Boskoop, arbeider van beroep
+0 @N0974@ NOTE 46 jaar oud, visser van beroep
+0 @N0975@ NOTE 61 jaar oud, veldwachter van beroep
+0 @N0976@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Huwelijk
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 18, Periode: 1872
+1 CONC -1882, Alkemade, archief 170.1.18, inventaris­num­mer 18, 27 maart 1872
+1 CONC , Huwelijksregister en echtscheidingsregister van Alkemade, 1872 - 1882;
+1 CONC , aktenummer 8
+0 @N0977@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Huwelijk
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 18, Periode: 1872
+1 CONC -1882, Alkemade, archief 170.1.18, inventaris­num­mer 18, 27 maart 1872
+1 CONC , Huwelijksregister en echtscheidingsregister van Alkemade, 1872 - 1882;
+1 CONC , aktenummer 7
+0 @N0978@ NOTE 31 jaar oud, wonende te Boskoop arbeider van beroep, zwager van d
+1 CONC e bruidegom
+0 @N0979@ NOTE 28 jaar oud, wonende te Haarlemmermeer, gemeente ambtenaar van bero
+1 CONC ep, broer van de bruid
+0 @N0980@ NOTE 46 jaar oud, visser van beroep
+0 @N0981@ NOTE 61 jaar oud, veldwachter van beroep
+0 @N0982@ NOTE Jaar akte: 1877
+0 @N0983@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Overlijden
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 63, Periode: 1872
+1 CONC -1882, Onbekend, archief 170.1.18, inventaris­num­mer 63, Overlijdensreg
+1 CONC ister van Alkemade, 1872 - 1882;, aktenummer 97
+0 @N0984@ NOTE Jaar akte: 1879
+0 @N0985@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Overlijden
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 63, Periode: 1872
+1 CONC -1882, Onbekend, archief 170.1.18, inventaris­num­mer 63, Overlijdensreg
+1 CONC ister van Alkemade, 1872 - 1882;, aktenummer 8
+0 @N0986@ NOTE afkondigingen 11-05-1828 en 18-05-1828 in Alkemade en in Valkenburg
+0 @N0987@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Huwelijk
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 13, Periode: 1822
+1 CONC -1831, Alkemade, archief 170.1.18, inventaris­num­mer 13, 29 mei 1828, H
+1 CONC uwelijksregister en echtscheidingsregister van Alkemade, 1822 - 1831;, a
+1 CONC ktenummer 11
+0 @N0988@ NOTE 53 jaar oud, wonende te Leimuiden, arbeider van beroep, vader van d
+1 CONC e bruid
+0 @N0989@ NOTE 59 jaar oud, boekhouder van beroep
+0 @N0990@ NOTE 53 jaar oud, dienaar van politie van beroep
+0 @N0991@ NOTE 27 jaar oud, wonende te Leimuiden, timmerman van beroep
+0 @N0992@ NOTE Erfgoed Leiden en omstreken te Leiden, DTB Dopen
+1 CONT Doop-, trouw- en begraafregisters van Alkemade, Deel: 25, Periode: 1683-
+1 CONC 1811, Oude Wetering, archief 170.1.05, inventaris­num­mer 25, Doopboek v
+1 CONC an Remonstrantse gemeente van Oude Wetering, 1683 - 1811., folio 171
+0 @N0993@ NOTE Jaar akte: 1830
+0 @N0994@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Geboorte
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 3, Periode: 1822-
+1 CONC 1831, Onbekend, archief 170.1.18, inventaris­num­mer 3, Geboorteregiste
+1 CONC r van Alkemade, 1822 - 1831;, aktenummer 34
+0 @N0995@ NOTE afkondigingen 14-05-1865 en 21-05-1865 in Alkemade en in Haarlemmer
+1 CONC meer
+0 @N0996@ NOTE Jaar akte: 1865
+0 @N0997@ NOTE Erfgoed Leiden en omstreken te Leiden, BS Huwelijk
+1 CONT Ambtenaar van de Burgerlijke Stand van Alkemade, Deel: 17, Periode: 1862
+1 CONC -1871, Alkemade, Alkemade, archief 170.1.18, inventaris­num­mer 17, 25 m
+1 CONC ei 1865, Huwelijksregister en echtscheidingsregister van Alkemade, 186
+1 CONC 2 - 1871;, aktenummer 15
+0 @N0998@ NOTE 29 jaar oud, wonende te Haarlemmermeer, kleermaker van beroep, zwag
+1 CONC er van de bruidegom
+0 @N0999@ NOTE 28 jaar oud, wonende te Haarlemmermeer, arbeider van beroep, zwage
+1 CONC r van de bruid
+0 @N1000@ NOTE 52 jaar oud, veldwachter van beroep
+0 @N1001@ NOTE 54 jaar oud, veldwachter van beroep
+0 @N1002@ NOTE Noord-Hollands Archief te Haarlem, BS Geboorte
+1 CONT burgerlijke stand van de gemeente Haarlemmermeer, Archiefdeel van (dubbe
+1 CONC le) registers van de, Haarlemmermeer, archief 358.48, inventaris­num­me
+1 CONC r 11867, 05-01-1867, Geboorteakten van de gemeente Haarlemmermeer, 1867
+1 CONC , aktenummer 7
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
