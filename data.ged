@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 10 JUL 2025
-2 TIME 22:28:51
+1 DATE 12 JUL 2025
+2 TIME 14:32:08
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2025 .
@@ -465,6 +465,7 @@
 2 NOTE @N0006@
 1 DEAT
 2 DATE 19 JAN 1990
+2 PLAC Vinkeveen
 1 FAMC @F0137@
 2 PEDI birth
 1 FAMS @F0008@
@@ -11925,7 +11926,7 @@
 2 PLAC Koudekerk
 1 DEAT
 2 DATE 5 SEP 1877
-2 PLAC Rotterdam Kralingen
+2 PLAC Kralingen
 1 FAMC @F0187@
 2 PEDI birth
 1 CHAN
@@ -33488,8 +33489,8 @@
 2 PEDI birth
 1 FAMS @F0803@
 1 CHAN
-2 DATE 9 JUL 2025
-3 TIME 23:02:07
+2 DATE 11 JUL 2025
+3 TIME 21:49:05
 0 @I2083@ INDI
 1 NAME Antje /van Staveren/
 2 TYPE birth
@@ -34794,9 +34795,10 @@
 1 FAMC @F0810@
 2 PEDI birth
 1 FAMS @F0838@
+1 FAMS @F0852@
 1 CHAN
-2 DATE 9 JUL 2025
-3 TIME 23:21:54
+2 DATE 11 JUL 2025
+3 TIME 21:49:05
 0 @I2179@ INDI
 1 NAME Maria /Zitman/
 2 TYPE birth
@@ -34826,7 +34828,7 @@
 1 FAMS @F0839@
 1 CHAN
 2 DATE 10 JUL 2025
-3 TIME 20:21:08
+3 TIME 22:33:01
 0 @I2181@ INDI
 1 NAME Hendrik Johannes /Eggink/
 2 TYPE birth
@@ -34870,7 +34872,7 @@
 2 PEDI birth
 1 CHAN
 2 DATE 10 JUL 2025
-3 TIME 20:21:08
+3 TIME 22:33:01
 0 @I2184@ INDI
 1 NAME Frans /Eggink/
 2 TYPE birth
@@ -34886,7 +34888,7 @@
 1 FAMS @F0841@
 1 CHAN
 2 DATE 10 JUL 2025
-3 TIME 20:21:08
+3 TIME 22:33:01
 0 @I2185@ INDI
 1 NAME Maria Wilhelmina /Uitenhout/
 2 TYPE birth
@@ -34913,7 +34915,7 @@
 1 FAMS @F0842@
 1 CHAN
 2 DATE 10 JUL 2025
-3 TIME 20:21:08
+3 TIME 22:33:01
 0 @I2187@ INDI
 1 NAME Wilhelmina /Nederbragt/
 2 TYPE birth
@@ -34981,7 +34983,7 @@
 1 FAMS @F0844@
 1 CHAN
 2 DATE 10 JUL 2025
-3 TIME 20:22:30
+3 TIME 22:33:01
 0 @I2192@ INDI
 1 NAME Maria /Spoel/
 2 TYPE birth
@@ -35156,6 +35158,583 @@
 1 CHAN
 2 DATE 10 JUL 2025
 3 TIME 22:28:07
+0 @I2206@ INDI
+1 NAME Anna /Eggink/
+2 TYPE birth
+2 GIVN Anna
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 1853
+1 DEAT
+2 DATE 13 AUG 1927
+2 PLAC Harderwijk
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F0838@
+2 PEDI birth
+1 FAMS @F0851@
+1 CHAN
+2 DATE 10 JUL 2025
+3 TIME 22:34:15
+0 @I2207@ INDI
+1 NAME Jan /van Mantgem/
+2 TYPE birth
+2 GIVN Jan
+2 SPFX van
+2 SURN Mantgem
+1 SEX M
+1 FAMS @F0851@
+1 CHAN
+2 DATE 10 JUL 2025
+3 TIME 22:34:15
+0 @I2208@ INDI
+1 NAME Elisabeth /Ranselaar/
+2 TYPE birth
+2 GIVN Elisabeth
+2 SURN Ranselaar
+1 SEX F
+1 BIRT
+2 DATE 26 AUG 1804
+1 FAMS @F0852@
+1 CHAN
+2 DATE 10 JUL 2025
+3 TIME 22:36:25
+0 @I2209@ INDI
+1 NAME Hendrik Johannes /Eggink/
+2 TYPE birth
+2 GIVN Hendrik Johannes
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 31 MAR 1839
+1 FAMC @F0852@
+2 PEDI birth
+1 CHAN
+2 DATE 10 JUL 2025
+3 TIME 22:38:53
+0 @I2210@ INDI
+1 NAME Frans /Eggink/
+2 TYPE birth
+2 GIVN Frans
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 12 SEP 1843
+1 DEAT
+2 DATE 11 MAY 1873
+1 FAMC @F0852@
+2 PEDI birth
+1 CHAN
+2 DATE 10 JUL 2025
+3 TIME 22:38:53
+0 @I2211@ INDI
+1 NAME Pieter /Eggink/
+2 TYPE birth
+2 GIVN Pieter
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 1806
+1 DEAT
+2 DATE 28 FEB 1885
+2 PLAC Kralingen
+1 FAMC @F0810@
+2 PEDI birth
+1 FAMS @F0853@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:49:05
+0 @I2212@ INDI
+1 NAME Maria /Bonefaas/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Bonefaas
+1 SEX F
+1 DEAT
+2 DATE 16 JAN 1878
+1 FAMS @F0853@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 07:59:51
+0 @I2213@ INDI
+1 NAME Dirk /Eggink/
+2 TYPE birth
+2 GIVN Dirk
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 3 APR 1836
+2 PLAC Kralingen
+1 DEAT
+2 DATE 6 JUN 1860
+2 PLAC Made en Drimmelen
+1 FACT Smid te Made en Drimmelen
+2 TYPE Occupation
+1 FAMC @F0853@
+2 PEDI birth
+1 RESI
+2 ADDR Kralingen
+3 CITY Kralingen
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:12:02
+0 @I2214@ INDI
+1 NAME Gerrit /Eggink/
+2 TYPE birth
+2 GIVN Gerrit
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 23 MAY 1838
+1 DEAT
+2 DATE 18 OCT 1861
+1 FAMC @F0853@
+2 PEDI birth
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:12:02
+0 @I2215@ INDI
+1 NAME Alida /Eggink/
+2 TYPE birth
+2 GIVN Alida
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 9 MAR 1840
+1 DEAT
+2 DATE 29 SEP 1873
+1 FAMC @F0853@
+2 PEDI birth
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:12:02
+0 @I2216@ INDI
+1 NAME Pieter Adrianus /Eggink/
+2 TYPE birth
+2 GIVN Pieter Adrianus
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 11 MAR 1842
+1 DEAT
+2 DATE 26 JUN 1843
+1 FAMC @F0853@
+2 PEDI birth
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:12:02
+0 @I2217@ INDI
+1 NAME Pieter Adriaan /Eggink/
+2 TYPE birth
+2 GIVN Pieter Adriaan
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 14 APR 1844
+2 PLAC Kralingen
+1 DEAT
+2 DATE 8 JUN 1860
+2 PLAC Made en Drimmelen
+1 FACT Smid
+2 TYPE Occupation
+1 FAMC @F0853@
+2 PEDI birth
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:12:02
+0 @I2218@ INDI
+1 NAME Johanna Maria /Eggink/
+2 TYPE birth
+2 GIVN Johanna Maria
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 23 OCT 1847
+2 PLAC Kralingen
+1 DEAT
+2 DATE 1 APR 1939
+2 PLAC Gouda
+1 FAMC @F0853@
+2 PEDI birth
+1 NOTE @N1007@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:12:02
+0 @I2219@ INDI
+1 NAME Adriana Cornelia /Eggink/
+2 TYPE birth
+2 GIVN Adriana Cornelia
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 12 AUG 1850
+2 PLAC Kralingen
+1 DEAT
+2 DATE 5 OCT 1927
+2 PLAC Middelburg, Zeeland
+2 NOTE @N1008@
+2 NOTE @N1010@
+1 FAMC @F0853@
+2 PEDI birth
+1 FAMS @F0854@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:13:49
+0 @I2220@ INDI
+1 NAME Arie /Littooy/
+2 TYPE birth
+2 GIVN Arie
+2 SURN Littooy
+1 SEX M
+1 BIRT
+2 PLAC Klundert
+1 DEAT
+2 DATE 26 JUN 1909
+2 PLAC Middelburg, Zeeland
+2 NOTE @N1009@
+1 FACT Predikant
+2 TYPE Occupation
+1 FAMC @F0856@
+2 PEDI birth
+1 FAMS @F0855@
+1 FAMS @F0854@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:21:36
+0 @I2221@ INDI
+1 NAME Lijntje Clazina /Walraven/
+2 TYPE birth
+2 GIVN Lijntje Clazina
+2 SURN Walraven
+1 SEX F
+1 FAMS @F0855@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:19:47
+0 @I2222@ INDI
+1 NAME Nicolaas /Littooij/
+2 TYPE birth
+2 GIVN Nicolaas
+2 SURN Littooij
+1 SEX M
+1 FAMS @F0856@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:21:36
+0 @I2223@ INDI
+1 NAME Maaike /Vis/
+2 TYPE birth
+2 GIVN Maaike
+2 SURN Vis
+1 SEX F
+1 FAMS @F0856@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:21:36
+0 @I2224@ INDI
+1 NAME Maria /Eggink/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 1808
+1 DEAT
+2 DATE 13 NOV 1811
+1 FAMC @F0810@
+2 PEDI birth
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:49:05
+0 @I2225@ INDI
+1 NAME Dirk /Eggink/
+2 TYPE birth
+2 GIVN Dirk
+2 SURN Eggink
+1 SEX M
+1 DEAT
+2 DATE 16 NOV 1811
+2 PLAC Zoeterwoude
+1 BAPM
+2 DATE 2 DEC 1810
+2 PLAC Alkmaar
+3 MAP
+4 LATI N52.632329
+4 LONG E4.75351
+1 FAMC @F0810@
+2 PEDI birth
+1 NOTE @N1011@
+1 NOTE @N1012@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:49:05
+0 @I2226@ INDI
+1 NAME Dirk /Eggink/
+2 TYPE birth
+2 GIVN Dirk
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 22 AUG 1812
+2 PLAC Zoeterwoude
+1 DEAT
+2 DATE 31 AUG 1882
+1 FAMC @F0810@
+2 PEDI birth
+1 FAMS @F0857@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:52:48
+0 @I2227@ INDI
+1 NAME Adriana /de Klerk/
+2 TYPE birth
+2 GIVN Adriana
+2 SPFX de
+2 SURN Klerk
+1 SEX F
+1 BIRT
+2 PLAC Rotterdam
+1 FAMS @F0857@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:52:48
+0 @I2228@ INDI
+1 NAME Alida /Eggink/
+2 TYPE birth
+2 GIVN Alida
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 21 JUL 1837
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 31 AUG 1867
+1 FAMC @F0857@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:25:04
+0 @I2229@ INDI
+1 NAME Eldert /Eggink/
+2 TYPE birth
+2 GIVN Eldert
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 20 APR 1839
+1 DEAT
+2 DATE 17 JUL 1842
+1 FAMC @F0857@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:25:04
+0 @I2230@ INDI
+1 NAME Dirk /Eggink/
+2 TYPE birth
+2 GIVN Dirk
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 16 JAN 1842
+1 DEAT
+2 DATE 14 MAY 1842
+1 FAMC @F0857@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:25:04
+0 @I2231@ INDI
+1 NAME Eldert /Eggink/
+2 TYPE birth
+2 GIVN Eldert
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 26 APR 1843
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 10 JUN 1935
+2 PLAC Zwolle
+1 FAMC @F0857@
+2 PEDI birth
+1 FAMS @F0858@
+1 FAMS @F0860@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:25:04
+0 @I2232@ INDI
+1 NAME Elisabeth /Maal/
+2 TYPE birth
+2 GIVN Elisabeth
+2 SURN Maal
+1 SEX F
+1 BIRT
+2 DATE 1847
+1 DEAT
+2 DATE 28 DEC 1880
+1 FAMS @F0858@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 00:21:54
+0 @I2233@ INDI
+1 NAME Adriana Maria /Eggink/
+2 TYPE birth
+2 GIVN Adriana Maria
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 29 MAY 1876
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 6 AUG 1876
+1 FAMC @F0858@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 00:41:11
+0 @I2234@ INDI
+1 NAME Christina Margaretha /Eggink/
+2 TYPE birth
+2 GIVN Christina Margaretha
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 29 MAY 1876
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 11 AUG 1876
+1 FAMC @F0858@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 00:41:11
+0 @I2235@ INDI
+1 NAME Dirk /Eggink/
+2 TYPE birth
+2 GIVN Dirk
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 22 SEP 1877
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 1 DEC 1877
+1 FAMC @F0858@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 00:41:11
+0 @I2236@ INDI
+1 NAME Adriana /Eggink/
+2 TYPE birth
+2 GIVN Adriana
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 27 MAY 1879
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 3 NOV 1879
+1 FAMC @F0858@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 00:41:11
+0 @I2237@ INDI
+1 NAME n.n. /Eggink/
+2 TYPE birth
+2 GIVN n.n.
+2 SURN Eggink
+1 BIRT
+2 DATE 1 DEC 1880
+1 DEAT
+2 DATE 1 DEC 1880
+1 FAMC @F0858@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 00:41:11
+0 @I2238@ INDI
+1 NAME Elizabeth Adriana /Eggink/
+2 TYPE birth
+2 GIVN Elizabeth Adriana
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 12 APR 1875
+1 ADOP Y
+2 FAMC @F0860@
+3 ADOP HUSB
+1 FAMC @F0860@
+2 _FREL Adopted
+2 _MREL birth
+1 NOTE @N1014@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 00:46:57
+0 @I2239@ INDI
+1 NAME Dirk /Eggink/
+2 TYPE birth
+2 GIVN Dirk
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 25 NOV 1844
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 25 APR 1845
+1 FAMC @F0857@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:25:04
+0 @I2240@ INDI
+1 NAME Adriana /Eggink/
+2 TYPE birth
+2 GIVN Adriana
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 3 FEB 1847
+2 PLAC Rotterdam
+1 FAMC @F0857@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:25:04
+0 @I2241@ INDI
+1 NAME Margaretha /Eggink/
+2 TYPE birth
+2 GIVN Margaretha
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 10 APR 1849
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 22 APR 1855
+1 FAMC @F0857@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:25:04
+0 @I2242@ INDI
+1 NAME Dirk Nicolaas /Eggink/
+2 TYPE birth
+2 GIVN Dirk Nicolaas
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 14 JUN 1851
+2 PLAC Rotterdam
+1 FAMC @F0857@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:25:04
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -42969,9 +43548,13 @@
 2 PLAC Zoeterwoude
 1 CHIL @I2178@
 1 CHIL @I2082@
+1 CHIL @I2211@
+1 CHIL @I2224@
+1 CHIL @I2225@
+1 CHIL @I2226@
 1 CHAN
-2 DATE 9 JUL 2025
-3 TIME 23:02:07
+2 DATE 11 JUL 2025
+3 TIME 21:49:05
 0 @F0811@ FAM
 1 HUSB @I2101@
 1 WIFE @I2102@
@@ -43242,9 +43825,10 @@
 1 CHIL @I2184@
 1 CHIL @I2186@
 1 CHIL @I2191@
+1 CHIL @I2206@
 1 CHAN
 2 DATE 10 JUL 2025
-3 TIME 20:21:08
+3 TIME 22:33:01
 0 @F0839@ FAM
 1 HUSB @I2180@
 1 CHIL @I2181@
@@ -43356,6 +43940,101 @@
 1 CHAN
 2 DATE 10 JUL 2025
 3 TIME 22:28:07
+0 @F0851@ FAM
+1 HUSB @I2207@
+1 WIFE @I2206@
+1 MARR
+2 DATE 29 APR 1886
+1 CHAN
+2 DATE 10 JUL 2025
+3 TIME 22:34:15
+0 @F0852@ FAM
+1 HUSB @I2178@
+1 WIFE @I2208@
+1 MARR
+2 DATE 19 MAR 1862
+2 PLAC Leiden
+1 CHIL @I2209@
+1 CHIL @I2210@
+1 CHAN
+2 DATE 10 JUL 2025
+3 TIME 22:38:53
+0 @F0853@ FAM
+1 HUSB @I2211@
+1 WIFE @I2212@
+1 MARR
+2 DATE 24 MAY 1834
+2 PLAC Leiden
+1 CHIL @I2213@
+1 CHIL @I2214@
+1 CHIL @I2215@
+1 CHIL @I2216@
+1 CHIL @I2217@
+1 CHIL @I2218@
+1 CHIL @I2219@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:12:02
+0 @F0854@ FAM
+1 HUSB @I2220@
+1 WIFE @I2219@
+1 MARR
+2 DATE 10 OCT 1895
+2 PLAC Rotterdam
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:13:49
+0 @F0855@ FAM
+1 HUSB @I2220@
+1 WIFE @I2221@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:19:47
+0 @F0856@ FAM
+1 HUSB @I2222@
+1 WIFE @I2223@
+1 CHIL @I2220@
+1 CHAN
+2 DATE 11 JUL 2025
+3 TIME 21:21:36
+0 @F0857@ FAM
+1 HUSB @I2226@
+1 WIFE @I2227@
+1 MARR
+2 DATE 10 AUG 1836
+2 PLAC Rotterdam
+2 NOTE @N1013@
+1 CHIL @I2228@
+1 CHIL @I2229@
+1 CHIL @I2230@
+1 CHIL @I2231@
+1 CHIL @I2239@
+1 CHIL @I2240@
+1 CHIL @I2241@
+1 CHIL @I2242@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:25:04
+0 @F0858@ FAM
+1 HUSB @I2231@
+1 WIFE @I2232@
+1 MARR
+2 DATE 15 MAR 1876
+2 PLAC Rotterdam
+1 CHIL @I2233@
+1 CHIL @I2234@
+1 CHIL @I2235@
+1 CHIL @I2236@
+1 CHIL @I2237@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 00:41:11
+0 @F0860@ FAM
+1 HUSB @I2231@
+1 CHIL @I2238@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 00:46:57
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -45494,6 +46173,68 @@
 0 @N1004@ NOTE mogelijk op 12-9-1900 getrouwd met Wilhelmina atharina van Dijl
 0 @N1005@ NOTE wordt zwerveling genoemd
 0 @N1006@ NOTE overleden te Halderen in Duitsland; datum aangifte op 19-6-1947
+0 @N1007@ NOTE Burgerlijke stand - overlijden Gouda 1939
+1 CONT 
+1 CONT aktenummer 105
+1 CONT naam Johanna Maria Eggink (geb. te Kralingen; 91 jr.)
+1 CONT aktedatum 3-4-1939
+1 CONT overlijdensdatum 1-4-1939
+1 CONT vader Pieter Eggink (ov.)
+1 CONT moeder Maria Bonefaas (ov.)
+1 CONT plaatsnaam Gouda
+0 @N1008@ NOTE Successiememorie overledene op woensdag 5 oktober 1927 Middelburg
+1 CONT 
+1 CONT Kantoor (office) : Middelburg
+1 CONT Nummer (number) : 9/6127
+1 CONT Adriana Cornelia Eggink
+1 CONT Overleden te (died in) : Middelburg
+1 CONT Overleden op (died on) : 5 okt. 1927
+1 CONT Inventarisnummer (inventory number) : 909
+1 CONT Filmcassettenummer (number of filmbox) : 158
+1 CONT 
+0 @N1009@ NOTE Aktejaar (year) : 1909
+1 CONT Aktenummer (number) : 165
+1 CONT Overleden op (died on) : 26-6-1909
+1 CONT Overleden te (died in) : Middelburg
+1 CONT Arie Littooij
+1 CONT Leeftijd bij overlijden (age) : 74 jaar
+1 CONT Geslacht (gender) : mannelijk
+1 CONT Burgerlijke staat (marital status) : gehuwd
+1 CONT Beroep (occupation) : predikant
+1 CONT Geboorteplaats (place of birth) : Klundert
+1 CONT PARTNER : Adriana Cornelia Eggink
+1 CONT Beroep (occupation) : zonder
+1 CONT VADER (father) : Nicolaas Littooij
+1 CONT MOEDER (mother) : Maaike Vis
+1 CONT Opmerking (note) : Weduwnaar van Lijntje Clazina Walraven
+0 @N1010@ NOTE Aktejaar (year) : 1927
+1 CONT Aktenummer (number) : 187
+1 CONT Overleden op (died on) : 5-10-1927
+1 CONT Overleden te (died in) : Middelburg
+1 CONT Adriana Cornelia Eggink
+1 CONT Leeftijd bij overlijden (age) : 77 jaar
+1 CONT Geslacht (gender) : vrouwelijk
+1 CONT Burgerlijke staat (marital status) : weduwe
+1 CONT Beroep (occupation) : zonder
+1 CONT Geboorteplaats (place of birth) : Kralingen
+1 CONT PARTNER : Arie Littooij
+1 CONT VADER (father) : Pieter Eggink
+1 CONT MOEDER (mother) : Maria Boonefaas
+0 @N1011@ NOTE Religie Gereformeerd 
+0 @N1012@ NOTE DTB Alkmaar inv. 18
+0 @N1013@ NOTE Bruidegom Dirk Eggink , geb. Soeterwoude , 23 jaar
+1 CONT Vader Dirk Eggink
+1 CONT Moeder Alida Francken
+1 CONT Bruid Adriana de Klerk , geb. Rotterdam 23 jaar
+1 CONT Vader Eldert de Klerk
+1 CONT Moeder Gerritje Vijgeboom
+1 CONT 
+1 CONT Plaats Rotterdam
+1 CONT Huwelijksdatum 10-08-1836
+1 CONT 
+1 CONT DTB Alkmaar inv. 18
+0 @N1014@ NOTE erkenning van ouders op 15-03-1876
+1 CONT woonde na 1900 in vlissingen
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
