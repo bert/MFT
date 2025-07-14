@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 12 JUL 2025
-2 TIME 14:32:08
+1 DATE 14 JUL 2025
+2 TIME 23:44:54
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2025 .
@@ -4878,8 +4878,8 @@
 2 PEDI birth
 1 FAMS @F0139@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:49:00
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @I0309@ INDI
 1 NAME Janna Dirks /van Heijningen/
 2 TYPE birth
@@ -11787,10 +11787,10 @@
 2 SURN Wel
 1 SEX M
 1 BIRT
-2 DATE 1804
+2 DATE 2 OCT 1804
 2 PLAC Alphen aan de Rijn
 1 DEAT
-2 DATE 1849
+2 DATE 25 OCT 1849
 2 PLAC Oudshoorn (Alphen aan de Rijn)
 1 FACT Bouwman
 2 TYPE Occupation
@@ -11813,8 +11813,8 @@
 2 NOTE @N0874@
 1 NOTE @N0925@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:55:49
+2 DATE 14 JUL 2025
+3 TIME 21:35:49
 0 @I0751@ INDI
 1 NAME Johanna Philippus /van den Bos/
 2 TYPE birth
@@ -30657,8 +30657,8 @@
 1 FAMC @F0297@
 2 PEDI birth
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:49:00
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @I1898@ INDI
 1 NAME Willemijntje /van der Wel/
 2 TYPE birth
@@ -30693,8 +30693,8 @@
 3 CTRY Nederland
 2 NOTE @N0880@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:49:00
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @I1899@ INDI
 1 NAME Dirk /Roest/
 2 TYPE birth
@@ -30739,26 +30739,40 @@
 2 DATE 2 JUL 2025
 3 TIME 19:47:36
 0 @I1902@ INDI
-1 NAME Jan /van der Wel/
+1 NAME Jan Theunisz /van der Wel/
 2 TYPE birth
-2 GIVN Jan
+2 GIVN Jan Theunisz
 2 SPFX van der
 2 SURN Wel
 1 SEX M
+1 BIRT
+2 DATE 25 JUL 1762
+2 PLAC Zwammerdam
+1 DEAT
+2 DATE 23 AUG 1808
+2 PLAC Alphen aan de Rijn
+1 FAMC @F0929@
+2 PEDI birth
 1 FAMS @F0729@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 20:00:59
+2 DATE 14 JUL 2025
+3 TIME 21:41:12
 0 @I1903@ INDI
-1 NAME Willemijn /Verham/
+1 NAME Willemijntje /Verham/
 2 TYPE birth
-2 GIVN Willemijn
+2 GIVN Willemijntje
 2 SURN Verham
 1 SEX F
+1 BIRT
+2 DATE 9 FEB 1766
+1 DEAT
+2 DATE 1828
+1 FAMC @F0910@
+2 PEDI birth
 1 FAMS @F0729@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 20:00:59
+2 DATE 14 JUL 2025
+3 TIME 00:39:26
 0 @I1904@ INDI
 1 NAME Phillipus /van den Bos/
 2 TYPE birth
@@ -30799,9 +30813,10 @@
 2 SURN Landzaat
 1 SEX M
 1 FAMS @F0731@
+1 NOTE @N1064@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 20:15:12
+2 DATE 14 JUL 2025
+3 TIME 00:29:46
 0 @I1907@ INDI
 1 NAME Vijgje /van ('t) Lint/
 2 TYPE birth
@@ -30810,9 +30825,10 @@
 2 SURN Lint
 1 SEX F
 1 FAMS @F0731@
+1 NOTE @N1065@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 20:15:12
+2 DATE 14 JUL 2025
+3 TIME 00:30:26
 0 @I1908@ INDI
 1 NAME Jan /van der Wel/
 2 TYPE birth
@@ -30831,8 +30847,8 @@
 1 FAMC @F0297@
 2 PEDI birth
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:49:00
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @I1909@ INDI
 1 NAME Grietje /van der Wel/
 2 TYPE birth
@@ -30850,8 +30866,8 @@
 1 FAMC @F0297@
 2 PEDI birth
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:49:00
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @I1910@ INDI
 1 NAME Grietje Hendriks /van der Wel/
 2 TYPE birth
@@ -30877,8 +30893,8 @@
 1 NOTE @N0890@
 1 NOTE @N0891@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:49:00
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @I1911@ INDI
 1 NAME Gerrit /Boer/
 2 TYPE birth
@@ -31029,8 +31045,8 @@
 1 FAMS @F0736@
 1 NOTE @N0906@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:49:00
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @I1919@ INDI
 1 NAME Neeltje Maria /van der Elst/
 2 TYPE birth
@@ -31060,8 +31076,8 @@
 1 FAMC @F0297@
 2 PEDI birth
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:49:00
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @I1921@ INDI
 1 NAME Maartje /van der Wel/
 2 TYPE birth
@@ -31081,8 +31097,8 @@
 1 FAMS @F0737@
 1 NOTE @N0911@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:49:00
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @I1922@ INDI
 1 NAME Ponsio /de Jong/
 2 TYPE birth
@@ -31147,8 +31163,8 @@
 1 FAMC @F0297@
 2 PEDI birth
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:49:00
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @I1926@ INDI
 1 NAME n.n. /van der Wel/
 2 TYPE birth
@@ -31170,8 +31186,8 @@
 1 FAMC @F0297@
 2 PEDI birth
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:49:00
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @I1927@ INDI
 1 NAME Johanna Hendrika /van der Wel/
 2 TYPE birth
@@ -31192,8 +31208,8 @@
 1 NOTE @N0922@
 1 NOTE @N0923@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:51:50
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @I1928@ INDI
 1 NAME Willem /Niekerk/
 2 TYPE birth
@@ -33489,8 +33505,8 @@
 2 PEDI birth
 1 FAMS @F0803@
 1 CHAN
-2 DATE 11 JUL 2025
-3 TIME 21:49:05
+2 DATE 12 JUL 2025
+3 TIME 14:56:48
 0 @I2083@ INDI
 1 NAME Antje /van Staveren/
 2 TYPE birth
@@ -34797,8 +34813,8 @@
 1 FAMS @F0838@
 1 FAMS @F0852@
 1 CHAN
-2 DATE 11 JUL 2025
-3 TIME 21:49:05
+2 DATE 12 JUL 2025
+3 TIME 14:56:48
 0 @I2179@ INDI
 1 NAME Maria /Zitman/
 2 TYPE birth
@@ -35244,8 +35260,8 @@
 2 PEDI birth
 1 FAMS @F0853@
 1 CHAN
-2 DATE 11 JUL 2025
-3 TIME 21:49:05
+2 DATE 12 JUL 2025
+3 TIME 14:56:48
 0 @I2212@ INDI
 1 NAME Maria /Bonefaas/
 2 TYPE birth
@@ -35446,8 +35462,8 @@
 1 FAMC @F0810@
 2 PEDI birth
 1 CHAN
-2 DATE 11 JUL 2025
-3 TIME 21:49:05
+2 DATE 12 JUL 2025
+3 TIME 14:56:48
 0 @I2225@ INDI
 1 NAME Dirk /Eggink/
 2 TYPE birth
@@ -35468,8 +35484,8 @@
 1 NOTE @N1011@
 1 NOTE @N1012@
 1 CHAN
-2 DATE 11 JUL 2025
-3 TIME 21:49:05
+2 DATE 12 JUL 2025
+3 TIME 14:56:48
 0 @I2226@ INDI
 1 NAME Dirk /Eggink/
 2 TYPE birth
@@ -35485,8 +35501,8 @@
 2 PEDI birth
 1 FAMS @F0857@
 1 CHAN
-2 DATE 11 JUL 2025
-3 TIME 21:52:48
+2 DATE 12 JUL 2025
+3 TIME 14:56:48
 0 @I2227@ INDI
 1 NAME Adriana /de Klerk/
 2 TYPE birth
@@ -35496,10 +35512,12 @@
 1 SEX F
 1 BIRT
 2 PLAC Rotterdam
+1 FAMC @F0862@
+2 PEDI birth
 1 FAMS @F0857@
 1 CHAN
-2 DATE 11 JUL 2025
-3 TIME 21:52:48
+2 DATE 12 JUL 2025
+3 TIME 16:02:08
 0 @I2228@ INDI
 1 NAME Alida /Eggink/
 2 TYPE birth
@@ -35515,7 +35533,7 @@
 2 PEDI birth
 1 CHAN
 2 DATE 12 JUL 2025
-3 TIME 14:25:04
+3 TIME 14:38:43
 0 @I2229@ INDI
 1 NAME Eldert /Eggink/
 2 TYPE birth
@@ -35530,7 +35548,7 @@
 2 PEDI birth
 1 CHAN
 2 DATE 12 JUL 2025
-3 TIME 14:25:04
+3 TIME 14:38:43
 0 @I2230@ INDI
 1 NAME Dirk /Eggink/
 2 TYPE birth
@@ -35545,7 +35563,7 @@
 2 PEDI birth
 1 CHAN
 2 DATE 12 JUL 2025
-3 TIME 14:25:04
+3 TIME 14:38:43
 0 @I2231@ INDI
 1 NAME Eldert /Eggink/
 2 TYPE birth
@@ -35564,7 +35582,7 @@
 1 FAMS @F0860@
 1 CHAN
 2 DATE 12 JUL 2025
-3 TIME 14:25:04
+3 TIME 14:38:43
 0 @I2232@ INDI
 1 NAME Elisabeth /Maal/
 2 TYPE birth
@@ -35690,7 +35708,7 @@
 2 PEDI birth
 1 CHAN
 2 DATE 12 JUL 2025
-3 TIME 14:25:04
+3 TIME 14:38:43
 0 @I2240@ INDI
 1 NAME Adriana /Eggink/
 2 TYPE birth
@@ -35704,7 +35722,7 @@
 2 PEDI birth
 1 CHAN
 2 DATE 12 JUL 2025
-3 TIME 14:25:04
+3 TIME 14:38:43
 0 @I2241@ INDI
 1 NAME Margaretha /Eggink/
 2 TYPE birth
@@ -35720,7 +35738,7 @@
 2 PEDI birth
 1 CHAN
 2 DATE 12 JUL 2025
-3 TIME 14:25:04
+3 TIME 14:38:43
 0 @I2242@ INDI
 1 NAME Dirk Nicolaas /Eggink/
 2 TYPE birth
@@ -35732,9 +35750,2867 @@
 2 PLAC Rotterdam
 1 FAMC @F0857@
 2 PEDI birth
+1 FAMS @F0861@
 1 CHAN
 2 DATE 12 JUL 2025
-3 TIME 14:25:04
+3 TIME 14:38:43
+0 @I2243@ INDI
+1 NAME Dirk /Eggink/
+2 TYPE birth
+2 GIVN Dirk
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 7 NOV 1884
+2 PLAC Kralingen
+1 FAMC @F0861@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:36:15
+0 @I2244@ INDI
+1 NAME Adriaan /Eggink/
+2 TYPE birth
+2 GIVN Adriaan
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 10 OCT 1853
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 16 OCT 1861
+1 FAMC @F0857@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:38:43
+0 @I2245@ INDI
+1 NAME Maria Adriana /Eggink/
+2 TYPE birth
+2 GIVN Maria Adriana
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 18 APR 1855
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 16 JUN 1863
+1 FAMC @F0857@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:38:43
+0 @I2246@ INDI
+1 NAME Nicolaas /Eggink/
+2 TYPE birth
+2 GIVN Nicolaas
+2 SURN Eggink
+1 SEX M
+1 BIRT
+2 DATE 4 OCT 1814
+1 FAMC @F0810@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:56:48
+0 @I2247@ INDI
+1 NAME Maria /Eggink/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Eggink
+1 SEX F
+1 BIRT
+2 DATE 11 DEC 1816
+2 PLAC Delft
+1 DEAT
+2 DATE 27 MAR 1817
+2 PLAC Delft
+1 FAMC @F0810@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:56:48
+0 @I2248@ INDI
+1 NAME Elert /de Klerk/
+2 TYPE birth
+2 GIVN Elert
+2 SPFX de
+2 SURN Klerk
+1 SEX M
+1 FAMS @F0862@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 15:56:25
+0 @I2249@ INDI
+1 NAME Gerritje /Vijgeboom/
+2 TYPE birth
+2 GIVN Gerritje
+2 SURN Vijgeboom
+1 SEX F
+1 FAMS @F0862@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 15:56:25
+0 @I2250@ INDI
+1 NAME Cornelis /de Klerk/
+2 TYPE birth
+2 GIVN Cornelis
+2 SPFX de
+2 SURN Klerk
+1 SEX M
+1 BIRT
+2 DATE 18 MAY 1795
+2 PLAC Kralingen
+1 DEAT
+2 DATE 18 DEC 1824
+2 PLAC Rotterdam
+2 NOTE @N1015@
+1 BAPM
+2 DATE 24 MAY 1795
+2 PLAC Kralingen
+1 FAMC @F0862@
+2 PEDI birth
+1 FAMS @F0863@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 16:05:42
+0 @I2251@ INDI
+1 NAME Anna Christina Evert /Schallenberg/
+2 TYPE birth
+2 GIVN Anna Christina Evert
+2 SURN Schallenberg
+1 SEX F
+1 BIRT
+2 DATE 29 APR 1793
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 1852
+1 BAPM
+2 DATE 5 MAY 1793
+2 PLAC Rotterdam
+1 FAMC @F0864@
+2 PEDI birth
+1 FAMS @F0863@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 16:08:23
+0 @I2252@ INDI
+1 NAME Evert Willem /Schallenberg/
+2 TYPE birth
+2 GIVN Evert Willem
+2 SURN Schallenberg
+1 SEX M
+1 BIRT
+2 DATE 1761
+1 DEAT
+2 DATE 1831
+1 FAMS @F0864@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 23:19:38
+0 @I2253@ INDI
+1 NAME Alida /de Haag ? Haaij/
+2 TYPE birth
+2 GIVN Alida
+2 SPFX de
+2 SURN Haag ? Haaij
+1 SEX F
+1 FAMS @F0864@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 23:18:33
+0 @I2254@ INDI
+1 NAME Evert Willem /de Klerk/
+2 TYPE birth
+2 GIVN Evert Willem
+2 SPFX de
+2 SURN Klerk
+1 SEX M
+1 BIRT
+2 DATE 17 MAR 1815
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 12 NOV 1870
+2 PLAC Rotterdam
+1 FACT Touwslager
+2 TYPE Occupation
+1 FAMC @F0863@
+2 PEDI birth
+1 FAMS @F0865@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 18:35:17
+0 @I2255@ INDI
+1 NAME Charlotta Susanna /de Riem/
+2 TYPE birth
+2 GIVN Charlotta Susanna
+2 SPFX de
+2 SURN Riem
+1 SEX F
+1 BIRT
+2 DATE 18 AUG 1814
+3 TIME 24:00
+2 PLAC Amsterdam
+2 NOTE @N1017@
+2 NOTE @N1018@
+1 DEAT
+2 DATE 15 MAR 1893
+2 PLAC Rotterdam
+1 FAMC @F0867@
+2 PEDI birth
+1 FAMS @F0865@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 18:40:46
+0 @I2256@ INDI
+1 NAME Cornelis /de Klerk/
+2 TYPE birth
+2 GIVN Cornelis
+2 SPFX de
+2 SURN Klerk
+1 SEX M
+1 BIRT
+2 DATE 15 MAY 1838
+2 PLAC Rotterdam
+1 FAMC @F0865@
+2 PEDI birth
+1 FAMS @F0866@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 19:01:06
+0 @I2257@ INDI
+1 NAME Stijntje /Koekkoek/
+2 TYPE birth
+2 GIVN Stijntje
+2 SURN Koekkoek
+1 SEX F
+1 BIRT
+2 DATE 1838
+2 PLAC Nieuwe Tonge
+1 FAMS @F0866@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 18:34:34
+0 @I2258@ INDI
+1 NAME Suzanna Magdelena /de Klerk/
+2 TYPE birth
+2 GIVN Suzanna Magdelena
+2 SPFX de
+2 SURN Klerk
+1 SEX F
+1 BIRT
+2 DATE 25 DEC 1840
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 1848
+1 FAMC @F0865@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 19:01:06
+0 @I2259@ INDI
+1 NAME Isaac /Riem/
+2 TYPE birth
+2 GIVN Isaac
+2 SURN Riem
+1 SEX M
+1 FAMS @F0867@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 18:40:46
+0 @I2260@ INDI
+1 NAME Susanna Magdalena /Becker/
+2 TYPE birth
+2 GIVN Susanna Magdalena
+2 SURN Becker
+1 SEX F
+1 FAMS @F0867@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 18:40:46
+0 @I2261@ INDI
+1 NAME Johannes /de Klerk/
+2 TYPE birth
+2 GIVN Johannes
+2 SPFX de
+2 SURN Klerk
+1 SEX M
+1 BIRT
+2 DATE 30 MAR 1842
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 12 AUG 1893
+2 PLAC Rotterdam
+1 FAMC @F0865@
+2 PEDI birth
+1 FAMS @F0868@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 19:42:47
+0 @I2262@ INDI
+1 NAME Geertruij /Baardman/
+2 TYPE birth
+2 GIVN Geertruij
+2 SURN Baardman
+1 SEX F
+1 BIRT
+2 DATE 2 JAN 1844
+2 PLAC Charlois, Rotterdam
+1 DEAT
+2 DATE 28 JAN 1929
+2 PLAC Charlois, Rotterdam
+1 FAMC @F0869@
+2 PEDI birth
+1 FAMS @F0868@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:15:33
+0 @I2263@ INDI
+1 NAME Barend /Baardman/
+2 TYPE birth
+2 GIVN Barend
+2 SURN Baardman
+1 SEX M
+1 BIRT
+2 DATE 19 JUN 1806
+2 PLAC Streefkerk
+1 DEAT
+2 DATE 11 NOV 1881
+2 PLAC Streefkerk
+1 FACT Schoenmaker
+2 TYPE Occupation
+1 FAMC @F0886@
+2 PEDI birth
+1 FAMS @F0869@
+1 FAMS @F0909@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:11:55
+0 @I2264@ INDI
+1 NAME Adriaantje /Baas/
+2 TYPE birth
+2 GIVN Adriaantje
+2 SURN Baas
+1 SEX F
+1 BIRT
+2 DATE 1812
+1 DEAT
+2 DATE 1870
+1 FAMC @F0887@
+2 PEDI birth
+1 FAMS @F0869@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:59:06
+0 @I2265@ INDI
+1 NAME Charlotta Susanna /de Klerk/
+2 TYPE birth
+2 GIVN Charlotta Susanna
+2 SPFX de
+2 SURN Klerk
+1 SEX F
+1 BIRT
+2 DATE 17 FEB 1865
+2 PLAC Rotterdam
+2 NOTE @N1020@
+1 DEAT
+2 DATE 1875
+1 FAMC @F0868@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:59:54
+0 @I2266@ INDI
+1 NAME Adriaantje /de Klerk/
+2 TYPE birth
+2 GIVN Adriaantje
+2 SPFX de
+2 SURN Klerk
+1 SEX F
+1 BIRT
+2 DATE 7 DEC 1866
+2 PLAC Rotterdam
+2 NOTE @N1021@
+2 NOTE @N1022@
+1 DEAT
+2 DATE 1872
+1 FAMC @F0868@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:59:54
+0 @I2267@ INDI
+1 NAME Suzanna Magdelena /de Klerk/
+2 TYPE birth
+2 GIVN Suzanna Magdelena
+2 SPFX de
+2 SURN Klerk
+1 SEX F
+1 BIRT
+2 DATE 14 NOV 1869
+2 PLAC Rotterdam
+2 NOTE @N1023@
+2 NOTE @N1024@
+1 FAMC @F0868@
+2 PEDI birth
+1 FAMS @F0870@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:59:54
+0 @I2268@ INDI
+1 NAME Willem /Rieke/
+2 TYPE birth
+2 GIVN Willem
+2 SURN Rieke
+1 SEX M
+1 FAMC @F0871@
+2 PEDI birth
+1 FAMS @F0870@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 21:14:18
+0 @I2269@ INDI
+1 NAME Jan /Rieke/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Rieke
+1 SEX M
+1 FAMS @F0871@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 21:14:18
+0 @I2270@ INDI
+1 NAME Willemina Apolonia /van der Berg/
+2 TYPE birth
+2 GIVN Willemina Apolonia
+2 SPFX van der
+2 SURN Berg
+1 SEX F
+1 FAMS @F0871@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 21:14:18
+0 @I2271@ INDI
+1 NAME Adriaantje /de Klerk/
+2 TYPE birth
+2 GIVN Adriaantje
+2 SPFX de
+2 SURN Klerk
+1 SEX F
+1 BIRT
+2 DATE 4 OCT 1872
+2 PLAC Rotterdam
+2 NOTE @N1026@
+2 NOTE @N1027@
+1 DEAT
+2 DATE 13 SEP 1934
+2 PLAC Rotterdam
+2 NOTE @N1028@
+1 FACT Verkocht vis op de markt
+2 TYPE Occupation
+1 FACT Geldschieter
+2 TYPE Occupation
+1 FAMC @F0868@
+2 PEDI birth
+1 FAMS @F0872@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:59:54
+0 @I2272@ INDI
+1 NAME Tomas /Stuifzand/
+2 TYPE birth
+2 GIVN Tomas
+2 SURN Stuifzand
+1 SEX M
+1 BIRT
+2 DATE 26 AUG 1868
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 27 JUN 1939
+2 PLAC Rotterdam
+1 FAMC @F0873@
+2 PEDI birth
+1 FAMS @F0872@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 22:11:39
+0 @I2273@ INDI
+1 NAME Tomas /Stuifzand/
+2 TYPE birth
+2 GIVN Tomas
+2 SURN Stuifzand
+1 SEX M
+1 FAMS @F0873@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 22:11:39
+0 @I2274@ INDI
+1 NAME Jansje /Koster/
+2 TYPE birth
+2 GIVN Jansje
+2 SURN Koster
+1 SEX F
+1 FAMS @F0873@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 22:11:39
+0 @I2275@ INDI
+1 NAME Thomas /Stuifzand/
+2 TYPE birth
+2 GIVN Thomas
+2 SURN Stuifzand
+1 SEX M
+1 BIRT
+2 DATE 18 JUL 1891
+2 PLAC Rotterdam
+2 NOTE @N1030@
+2 NOTE @N1031@
+1 FAMC @F0872@
+2 PEDI birth
+1 FAMS @F0874@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:48:55
+0 @I2276@ INDI
+1 NAME Hendrika /van Rij/
+2 TYPE birth
+2 GIVN Hendrika
+2 SPFX van
+2 SURN Rij
+1 SEX F
+1 BIRT
+2 DATE 1891
+2 PLAC Spijkenisse
+1 FAMC @F0875@
+2 PEDI birth
+1 FAMS @F0874@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 23:04:45
+0 @I2277@ INDI
+1 NAME Leendert /van Rij/
+2 TYPE birth
+2 GIVN Leendert
+2 SPFX van
+2 SURN Rij
+1 SEX M
+1 FAMS @F0875@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 23:04:45
+0 @I2278@ INDI
+1 NAME Paulina /den Belder/
+2 TYPE birth
+2 GIVN Paulina
+2 SPFX den
+2 SURN Belder
+1 SEX F
+1 FAMS @F0875@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 23:04:45
+0 @I2279@ INDI
+1 NAME Reinier Franciscus /Stuifzand/
+2 TYPE birth
+2 GIVN Reinier Franciscus
+2 SURN Stuifzand
+1 SEX M
+1 BIRT
+2 DATE 5 DEC 1892
+2 PLAC Rotterdam
+2 NOTE @N1033@
+2 NOTE @N1034@
+1 FAMC @F0872@
+2 PEDI birth
+1 FAMS @F0876@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:48:55
+0 @I2280@ INDI
+1 NAME Maria Petronella /Hendriks/
+2 TYPE birth
+2 GIVN Maria Petronella
+2 SURN Hendriks
+1 SEX F
+1 BIRT
+2 DATE 1889
+2 PLAC Rotterdam
+1 FAMC @F0877@
+2 PEDI birth
+1 FAMS @F0876@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 23:11:39
+0 @I2281@ INDI
+1 NAME 1916 /Stuifzand/
+2 TYPE birth
+2 GIVN 1916
+2 SURN Stuifzand
+1 SEX X
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 23:09:21
+0 @I2282@ INDI
+1 NAME Charles Frederik /Hendriks/
+2 TYPE birth
+2 GIVN Charles Frederik
+2 SURN Hendriks
+1 SEX M
+1 FAMS @F0877@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 23:11:39
+0 @I2283@ INDI
+1 NAME Johanna Catharina /Kuijper/
+2 TYPE birth
+2 GIVN Johanna Catharina
+2 SURN Kuijper
+1 SEX F
+1 FAMS @F0877@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 23:11:39
+0 @I2284@ INDI
+1 NAME Piet /Stuifzand/
+2 TYPE birth
+2 GIVN Piet
+2 SURN Stuifzand
+1 SEX M
+1 BIRT
+2 DATE 1893
+1 FAMC @F0872@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:48:55
+0 @I2285@ INDI
+1 NAME Adriaantje /Stuifzand/
+2 TYPE birth
+2 GIVN Adriaantje
+2 SURN Stuifzand
+1 SEX F
+1 BIRT
+2 DATE 2 JUN 1895
+2 PLAC Rotterdam
+2 NOTE @N1036@
+2 NOTE @N1037@
+1 FAMC @F0872@
+2 PEDI birth
+1 FAMS @F0878@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:48:55
+0 @I2286@ INDI
+1 NAME Thomas /van Hamersveld/
+2 TYPE birth
+2 GIVN Thomas
+2 SPFX van
+2 SURN Hamersveld
+1 SEX M
+1 BIRT
+2 DATE 1900
+2 PLAC Rotterdam
+1 FAMC @F0879@
+2 PEDI birth
+1 FAMS @F0878@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 09:50:43
+0 @I2287@ INDI
+1 NAME Sijke /Pitstra/
+2 TYPE birth
+2 GIVN Sijke
+2 SURN Pitstra
+1 SEX F
+1 FAMS @F0879@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 09:50:43
+0 @I2288@ INDI
+1 NAME Hendrik Johannes /van Hamersveld/
+2 TYPE birth
+2 GIVN Hendrik Johannes
+2 SPFX van
+2 SURN Hamersveld
+1 SEX M
+1 FAMS @F0879@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 09:50:43
+0 @I2289@ INDI
+1 NAME Susanna Magdalena /Stuifzand/
+2 TYPE birth
+2 GIVN Susanna Magdalena
+2 SURN Stuifzand
+1 SEX F
+1 BIRT
+2 DATE 24 DEC 1896
+2 PLAC Rotterdam
+2 NOTE @N1039@
+2 NOTE @N1040@
+1 FAMC @F0872@
+2 PEDI birth
+1 FAMS @F0880@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:48:55
+0 @I2290@ INDI
+1 NAME Marinus /van Hattem/
+2 TYPE birth
+2 GIVN Marinus
+2 SPFX van
+2 SURN Hattem
+1 SEX M
+1 BIRT
+2 DATE 1893
+2 PLAC Rotterdam
+1 FAMC @F0881@
+2 PEDI birth
+1 FAMS @F0880@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 09:56:59
+0 @I2291@ INDI
+1 NAME Hendrik /van Hattem/
+2 TYPE birth
+2 GIVN Hendrik
+2 SPFX van
+2 SURN Hattem
+1 SEX M
+1 FAMS @F0881@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 09:56:59
+0 @I2292@ INDI
+1 NAME Antonia Maria /Venderbos/
+2 TYPE birth
+2 GIVN Antonia Maria
+2 SURN Venderbos
+1 SEX F
+1 FAMS @F0881@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 09:56:59
+0 @I2293@ INDI
+1 NAME Johannes Jan /Stuifzand/
+2 TYPE birth
+2 GIVN Johannes Jan
+2 SURN Stuifzand
+1 SEX M
+1 BIRT
+2 DATE 28 DEC 1898
+2 PLAC Rotterdam
+2 NOTE @N1042@
+2 NOTE @N1043@
+1 DEAT
+2 DATE 2 MAR 1979
+2 PLAC Rotterdam
+2 NOTE @N1044@
+1 FACT Marktkoopman
+2 TYPE Occupation
+1 FAMC @F0872@
+2 PEDI birth
+1 FAMS @F0882@
+1 NOTE @N1045@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:48:55
+0 @I2294@ INDI
+1 NAME Maria /van der Linden/
+2 TYPE birth
+2 GIVN Maria
+2 SPFX van der
+2 SURN Linden
+1 SEX F
+1 BIRT
+2 DATE 26 JAN 1899
+2 PLAC Rotterdam
+2 NOTE @N1047@
+2 NOTE @N1048@
+1 DEAT
+2 DATE 1975
+2 PLAC Rotterdam
+1 FAMC @F0883@
+2 PEDI birth
+1 FAMS @F0882@
+1 NOTE @N1049@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:27:49
+0 @I2295@ INDI
+1 NAME Tom /Stuifzand/
+2 TYPE birth
+2 GIVN Tom
+2 SURN Stuifzand
+1 SEX M
+1 BIRT
+2 DATE 14 SEP 1920
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 1998
+2 PLAC Hellevoetsluis
+1 FAMC @F0882@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:28:30
+0 @I2296@ INDI
+1 NAME Jan /van der Linden/
+2 TYPE birth
+2 GIVN Jan
+2 SPFX van der
+2 SURN Linden
+1 SEX M
+1 BIRT
+2 DATE 1867
+1 DEAT
+2 DATE 1956
+1 FAMS @F0883@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:20:20
+0 @I2297@ INDI
+1 NAME Elisabeth Maria /Bakker/
+2 TYPE birth
+2 GIVN Elisabeth Maria
+2 SURN Bakker
+1 SEX F
+1 BIRT
+2 DATE 1867
+1 DEAT
+2 DATE 1940
+1 FAMS @F0883@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:20:20
+0 @I2298@ INDI
+1 NAME not public /Stuifzand/
+2 TYPE birth
+2 GIVN not public
+2 SURN Stuifzand
+1 FAMC @F0882@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:28:30
+0 @I2299@ INDI
+1 NAME Sjaan /Stuifzand/
+2 TYPE birth
+2 GIVN Sjaan
+2 SURN Stuifzand
+1 SEX F
+1 BIRT
+2 DATE 1925
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 1975
+2 PLAC Amsterdam
+1 FAMC @F0882@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:28:30
+0 @I2300@ INDI
+1 NAME Jan Johannes /Stuifzand/
+2 TYPE birth
+2 GIVN Jan Johannes
+2 SURN Stuifzand
+1 SEX M
+1 BIRT
+2 DATE 25 FEB 1928
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 29 JUL 2015
+2 PLAC Twello
+1 FAMC @F0882@
+2 PEDI birth
+1 FAMS @F0884@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:28:30
+0 @I2301@ INDI
+1 NAME not public /Stuifzand/
+2 TYPE birth
+2 GIVN not public
+2 SURN Stuifzand
+1 FAMC @F0884@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:26:50
+0 @I2302@ INDI
+1 NAME not public /Stuifzand/
+2 TYPE birth
+2 GIVN not public
+2 SURN Stuifzand
+1 FAMC @F0884@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:26:50
+0 @I2303@ INDI
+1 NAME not publc /Stuifzand/
+2 TYPE birth
+2 GIVN not publc
+2 SURN Stuifzand
+1 FAMC @F0884@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:26:50
+0 @I2304@ INDI
+1 NAME not public /Stuifzand/
+2 TYPE birth
+2 GIVN not public
+2 SURN Stuifzand
+1 FAMC @F0884@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:26:50
+0 @I2305@ INDI
+1 NAME not public /Stuifzand/
+2 TYPE birth
+2 GIVN not public
+2 SURN Stuifzand
+1 FAMC @F0884@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:26:50
+0 @I2306@ INDI
+1 NAME not public /Stuifzand/
+2 TYPE birth
+2 GIVN not public
+2 SURN Stuifzand
+1 FAMC @F0882@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:28:30
+0 @I2307@ INDI
+1 NAME not public /Stuifzand/
+2 TYPE birth
+2 GIVN not public
+2 SURN Stuifzand
+1 FAMC @F0882@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:28:30
+0 @I2308@ INDI
+1 NAME Charlotte Susanna /Stuifzand/
+2 TYPE birth
+2 GIVN Charlotte Susanna
+2 SURN Stuifzand
+2 NICK Lotte
+1 SEX F
+1 BIRT
+2 DATE 18 JAN 1901
+2 PLAC Rotterdam
+2 NOTE @N1050@
+1 FAMC @F0872@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:48:55
+0 @I2309@ INDI
+1 NAME Barend /Stuifzand/
+2 TYPE birth
+2 GIVN Barend
+2 SURN Stuifzand
+1 SEX M
+1 BIRT
+2 DATE 1901
+1 DEAT
+2 PLAC Litouwen
+2 NOTE @N1051@
+1 FAMC @F0872@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:48:55
+0 @I2310@ INDI
+1 NAME Antonius /Stuifzand/
+2 TYPE birth
+2 GIVN Antonius
+2 SURN Stuifzand
+1 SEX M
+1 BIRT
+2 DATE 29 SEP 1909
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 19 MAY 1910
+2 PLAC Rotterdam
+1 FAMC @F0872@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:48:55
+0 @I2311@ INDI
+1 NAME Antonia /Stuifzand/
+2 TYPE birth
+2 GIVN Antonia
+2 SURN Stuifzand
+2 NICK Toos
+1 SEX F
+1 BIRT
+2 DATE 29 DEC 1911
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 8 JAN 1999
+1 FAMC @F0872@
+2 PEDI birth
+1 FAMS @F0885@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:50:45
+0 @I2312@ INDI
+1 NAME Johannes /Ameling/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Ameling
+1 SEX M
+1 BIRT
+2 DATE 25 JAN 1908
+2 PLAC Rotterdam
+1 FAMS @F0885@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:50:45
+0 @I2313@ INDI
+1 NAME Dirk /Baardman/
+2 TYPE birth
+2 GIVN Dirk
+2 SURN Baardman
+1 SEX M
+1 BIRT
+2 DATE 1 MAY 1774
+2 PLAC Brandwijk
+1 FAMC @F0888@
+2 PEDI birth
+1 FAMS @F0886@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:30:13
+0 @I2314@ INDI
+1 NAME Geertruy /van Tongeren/
+2 TYPE birth
+2 GIVN Geertruy
+2 SPFX van
+2 SURN Tongeren
+1 SEX F
+1 BIRT
+2 DATE 1780
+1 DEAT
+2 DATE 1870
+1 FAMS @F0886@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:55:55
+0 @I2315@ INDI
+1 NAME Huibert Michielsz /Baas/
+2 TYPE birth
+2 GIVN Huibert Michielsz
+2 SURN Baas
+1 SEX M
+1 BIRT
+2 DATE 1765
+1 FAMS @F0887@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:59:06
+0 @I2316@ INDI
+1 NAME Bastiaantje Arijsz /Bezemer/
+2 TYPE birth
+2 GIVN Bastiaantje Arijsz
+2 SURN Bezemer
+1 SEX F
+1 BIRT
+2 DATE 1770
+1 FAMS @F0887@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:59:06
+0 @I2317@ INDI
+1 NAME Barent /Baartman/
+2 TYPE birth
+2 GIVN Barent
+2 SURN Baartman
+1 SEX M
+1 BIRT
+2 DATE 3 FEB 1731
+2 PLAC Brandwijk
+1 DEAT
+2 DATE 1 JAN 1804
+2 PLAC Brandwijk
+1 FAMC @F0889@
+2 PEDI birth
+1 FAMS @F0888@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:24:57
+0 @I2318@ INDI
+1 NAME Aaltje Geerits /Smits/
+2 TYPE birth
+2 GIVN Aaltje Geerits
+2 SURN Smits
+1 SEX F
+1 BIRT
+2 DATE 1730
+1 DEAT
+2 DATE 1795
+1 FAMS @F0888@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:01:02
+0 @I2319@ INDI
+1 NAME Arie /Baartman/
+2 TYPE birth
+2 GIVN Arie
+2 SURN Baartman
+1 SEX M
+1 BIRT
+2 DATE 1 JUN 1704
+2 PLAC Brandwijk
+1 FAMC @F0890@
+2 PEDI birth
+1 FAMS @F0889@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:06:05
+0 @I2320@ INDI
+1 NAME Eigje Dirkse /de Bes/
+2 TYPE birth
+2 GIVN Eigje Dirkse
+2 SPFX de
+2 SURN Bes
+1 SEX F
+1 BIRT
+2 DATE 1703
+1 DEAT
+2 DATE 1795
+1 FAMC @F0891@
+2 PEDI birth
+1 FAMS @F0889@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:07:43
+0 @I2321@ INDI
+1 NAME Barent Ariens /Baartman/
+2 TYPE birth
+2 GIVN Barent Ariens
+2 SURN Baartman
+1 SEX M
+1 BIRT
+2 DATE 1670
+1 FAMC @F0892@
+2 PEDI birth
+1 FAMS @F0890@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:15:39
+0 @I2322@ INDI
+1 NAME Aaltje Aarts /de Winter/
+2 TYPE birth
+2 GIVN Aaltje Aarts
+2 SPFX de
+2 SURN Winter
+1 SEX F
+1 BIRT
+2 DATE 1670
+1 FAMS @F0890@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:06:05
+0 @I2323@ INDI
+1 NAME Dirk Ariense /de Bes/
+2 TYPE birth
+2 GIVN Dirk Ariense
+2 SPFX de
+2 SURN Bes
+1 SEX M
+1 BIRT
+2 DATE 1660
+1 FAMS @F0891@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:07:43
+0 @I2324@ INDI
+1 NAME Marigje /Willems/
+2 TYPE birth
+2 GIVN Marigje
+2 SURN Willems
+1 SEX F
+1 BIRT
+2 DATE 1675
+1 FAMS @F0891@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:07:43
+0 @I2325@ INDI
+1 NAME Arie Ariens /Baertman/
+2 TYPE birth
+2 GIVN Arie Ariens
+2 SURN Baertman
+1 SEX M
+1 BIRT
+2 DATE 1645
+2 PLAC Brandwijk
+1 FAMC @F0893@
+2 PEDI birth
+1 FAMS @F0892@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:12:28
+0 @I2326@ INDI
+1 NAME Neeltje /Pieters/
+2 TYPE birth
+2 GIVN Neeltje
+2 SURN Pieters
+1 SEX F
+1 BIRT
+2 DATE 1650
+1 FAMS @F0892@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:09:28
+0 @I2327@ INDI
+1 NAME Arie Ariens /Baertman/
+2 TYPE birth
+2 GIVN Arie Ariens
+2 SURN Baertman
+1 SEX M
+1 BIRT
+2 DATE 1615
+2 PLAC Brandwijk
+1 FAMC @F0894@
+2 PEDI birth
+1 FAMS @F0893@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:16:37
+0 @I2328@ INDI
+1 NAME Neeltje Sijmons /van de Donck/
+2 TYPE birth
+2 GIVN Neeltje Sijmons
+2 SPFX van de
+2 SURN Donck
+1 SEX F
+1 BIRT
+2 DATE 1617
+1 FAMC @F0895@
+2 PEDI birth
+1 FAMS @F0893@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:15:39
+0 @I2329@ INDI
+1 NAME Adriaen /Baertman/
+2 TYPE birth
+2 GIVN Adriaen
+2 SURN Baertman
+1 SEX M
+1 BIRT
+2 DATE 1580
+1 FAMC @F0896@
+2 PEDI birth
+1 FAMS @F0894@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:17:23
+0 @I2330@ INDI
+1 NAME Adriantgen /Willems/
+2 TYPE birth
+2 GIVN Adriantgen
+2 SURN Willems
+1 SEX F
+1 BIRT
+2 DATE 1583
+1 FAMS @F0894@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:14:09
+0 @I2331@ INDI
+1 NAME Sijmon Cornelis /van de Donck/
+2 TYPE birth
+2 GIVN Sijmon Cornelis
+2 SPFX van de
+2 SURN Donck
+1 SEX M
+1 BIRT
+2 DATE 1590
+1 FAMS @F0895@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:15:39
+0 @I2332@ INDI
+1 NAME Grietgen /Meeus/
+2 TYPE birth
+2 GIVN Grietgen
+2 SURN Meeus
+1 SEX F
+1 BIRT
+2 DATE 1590
+1 FAMS @F0895@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:15:39
+0 @I2333@ INDI
+1 NAME Cornelis /Baertman/
+2 TYPE birth
+2 GIVN Cornelis
+2 SURN Baertman
+1 SEX M
+1 BIRT
+2 DATE 1555
+1 FAMC @F0897@
+2 PEDI birth
+1 FAMS @F0896@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:19:02
+0 @I2334@ INDI
+1 NAME Cornelis Aryense /Baertman/
+2 TYPE birth
+2 GIVN Cornelis Aryense
+2 SURN Baertman
+1 SEX M
+1 BIRT
+2 DATE 1605
+1 FAMC @F0894@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:16:37
+0 @I2335@ INDI
+1 NAME Willem Ariens /Baertman/
+2 TYPE birth
+2 GIVN Willem Ariens
+2 SURN Baertman
+1 SEX M
+1 BIRT
+2 DATE 1610
+2 PLAC Bleskensgraaf
+1 FAMC @F0894@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:16:37
+0 @I2336@ INDI
+1 NAME Cornelis /Baertman/
+2 TYPE birth
+2 GIVN Cornelis
+2 SURN Baertman
+1 SEX M
+1 BIRT
+2 DATE 1670
+2 PLAC Brandwijk
+1 FAMC @F0892@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:15:39
+0 @I2337@ INDI
+1 NAME Neeltje /Baertman/
+2 TYPE birth
+2 GIVN Neeltje
+2 SURN Baertman
+1 SEX F
+1 BIRT
+2 DATE 1670
+2 PLAC Brandwijk
+1 FAMC @F0892@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:15:39
+0 @I2338@ INDI
+1 NAME Aart /Baertman/
+2 TYPE birth
+2 GIVN Aart
+2 SURN Baertman
+1 SEX M
+1 BIRT
+2 DATE 1680
+2 PLAC Brandwijk
+1 FAMC @F0892@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:15:39
+0 @I2339@ INDI
+1 NAME Govert /Baertman/
+2 TYPE birth
+2 GIVN Govert
+2 SURN Baertman
+1 SEX M
+1 BIRT
+2 DATE 1680
+2 PLAC Brandwijk
+1 FAMC @F0892@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:15:39
+0 @I2340@ INDI
+1 NAME Jan /Baertman/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Baertman
+1 SEX M
+1 BIRT
+2 DATE 1680
+2 PLAC Brandwijk
+1 FAMC @F0892@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:15:39
+0 @I2341@ INDI
+1 NAME Berber /Baertman/
+2 TYPE birth
+2 GIVN Berber
+2 SURN Baertman
+1 SEX M
+1 BIRT
+2 DATE 1615
+1 FAMC @F0894@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:16:37
+0 @I2342@ INDI
+1 NAME Adriaen Adriaenensz /de Baertman/
+2 TYPE birth
+2 GIVN Adriaen Adriaenensz
+2 SPFX de
+2 SURN Baertman
+1 SEX M
+1 BIRT
+2 DATE 1530
+1 FAMC @F0898@
+2 PEDI birth
+1 FAMS @F0897@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:19:47
+0 @I2343@ INDI
+1 NAME Adriaen /de Baertman/
+2 TYPE birth
+2 GIVN Adriaen
+2 SPFX de
+2 SURN Baertman
+1 SEX M
+1 FAMS @F0898@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:19:47
+0 @I2344@ INDI
+1 NAME Krijntje /Baartman/
+2 TYPE birth
+2 GIVN Krijntje
+2 SURN Baartman
+1 SEX F
+1 BIRT
+2 DATE 1 AUG 1764
+2 PLAC Brandwijk
+1 FAMC @F0888@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:30:13
+0 @I2345@ INDI
+1 NAME Eigie /Baartman/
+2 TYPE birth
+2 GIVN Eigie
+2 SURN Baartman
+1 SEX F
+1 BIRT
+2 DATE 1 NOV 1765
+2 PLAC Brandwijk
+1 FAMC @F0888@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:30:13
+0 @I2346@ INDI
+1 NAME Ary /Baartman/
+2 TYPE birth
+2 GIVN Ary
+2 SURN Baartman
+1 SEX M
+1 BIRT
+2 DATE 1 NOV 1767
+2 PLAC Brandwijk
+1 FAMC @F0888@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:30:13
+0 @I2347@ INDI
+1 NAME Geertuy /Baartman/
+2 TYPE birth
+2 GIVN Geertuy
+2 SURN Baartman
+1 SEX F
+1 BIRT
+2 DATE 1 DEC 1769
+2 PLAC Brandwijk
+1 FAMC @F0888@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:30:13
+0 @I2348@ INDI
+1 NAME Adriana /Baartman/
+2 TYPE birth
+2 GIVN Adriana
+2 SURN Baartman
+1 SEX F
+1 BIRT
+2 DATE 1 NOV 1771
+2 PLAC Brandwijk
+1 FAMC @F0888@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:30:13
+0 @I2349@ INDI
+1 NAME Bastiaantje /Baardman/
+2 TYPE birth
+2 GIVN Bastiaantje
+2 SURN Baardman
+1 SEX F
+1 BIRT
+2 DATE 30 MAY 1840
+2 PLAC Charlois, Rotterdam
+1 FAMC @F0869@
+2 PEDI birth
+1 FAMS @F0899@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:15:33
+0 @I2350@ INDI
+1 NAME Willem /Saclee/
+2 TYPE birth
+2 GIVN Willem
+2 SURN Saclee
+1 SEX M
+1 BIRT
+2 DATE 1835
+2 PLAC Rotterdam
+1 FAMC @F0900@
+2 PEDI birth
+1 FAMS @F0899@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:11:24
+0 @I2351@ INDI
+1 NAME Willem /Saclee/
+2 TYPE birth
+2 GIVN Willem
+2 SURN Saclee
+1 SEX M
+1 FAMS @F0900@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:11:24
+0 @I2352@ INDI
+1 NAME Klaasje /Klasing/
+2 TYPE birth
+2 GIVN Klaasje
+2 SURN Klasing
+1 SEX F
+1 FAMS @F0900@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:11:24
+0 @I2353@ INDI
+1 NAME Charlotte Susanna /de Klerk/
+2 TYPE birth
+2 GIVN Charlotte Susanna
+2 SPFX de
+2 SURN Klerk
+1 SEX F
+1 BIRT
+2 DATE 5 FEB 1875
+2 PLAC Rotterdam
+2 NOTE @N1053@
+2 NOTE @N1054@
+1 FAMC @F0868@
+2 PEDI birth
+1 FAMS @F0901@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:59:54
+0 @I2354@ INDI
+1 NAME Jacobus Hendrikus /Hensen/
+2 TYPE birth
+2 GIVN Jacobus Hendrikus
+2 SURN Hensen
+1 SEX M
+1 BIRT
+2 DATE 1874
+2 PLAC Rotterdam
+1 FAMC @F0902@
+2 PEDI birth
+1 FAMS @F0901@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:22:51
+0 @I2355@ INDI
+1 NAME Petrus Hendrikus /Hensen/
+2 TYPE birth
+2 GIVN Petrus Hendrikus
+2 SURN Hensen
+1 SEX M
+1 FAMS @F0902@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:22:51
+0 @I2356@ INDI
+1 NAME Hendrika Susanna /Fontein/
+2 TYPE birth
+2 GIVN Hendrika Susanna
+2 SURN Fontein
+1 SEX F
+1 FAMS @F0902@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:22:51
+0 @I2357@ INDI
+1 NAME Barend /de Klerk/
+2 TYPE birth
+2 GIVN Barend
+2 SPFX de
+2 SURN Klerk
+1 SEX M
+1 BIRT
+2 DATE 25 NOV 1877
+2 PLAC Rotterdam
+2 NOTE @N1057@
+2 NOTE @N1058@
+1 FAMC @F0868@
+2 PEDI birth
+1 FAMS @F0903@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:59:54
+0 @I2358@ INDI
+1 NAME Catharina Cornelia /Zuidmeer/
+2 TYPE birth
+2 GIVN Catharina Cornelia
+2 SURN Zuidmeer
+1 SEX F
+1 FAMS @F0903@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:39:52
+0 @I2359@ INDI
+1 NAME Wijntje /de Klerk/
+2 TYPE birth
+2 GIVN Wijntje
+2 SPFX de
+2 SURN Klerk
+1 SEX F
+1 BIRT
+2 DATE 1 SEP 1883
+2 PLAC Rotterdam
+2 NOTE @N1060@
+2 NOTE @N1061@
+1 FAMC @F0868@
+2 PEDI birth
+1 FAMS @F0904@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 22:17:21
+0 @I2360@ INDI
+1 NAME Hermanus /Dubbelt/
+2 TYPE birth
+2 GIVN Hermanus
+2 SURN Dubbelt
+1 SEX M
+1 BIRT
+2 DATE 1879
+2 PLAC Rotterdam
+1 FAMC @F0905@
+2 PEDI birth
+1 FAMS @F0904@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 22:18:17
+0 @I2361@ INDI
+1 NAME Antonius Arnoldus /Dubbelt/
+2 TYPE birth
+2 GIVN Antonius Arnoldus
+2 SURN Dubbelt
+1 SEX M
+1 FAMS @F0905@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 22:18:17
+0 @I2362@ INDI
+1 NAME Cornelia /van Driel/
+2 TYPE birth
+2 GIVN Cornelia
+2 SPFX van
+2 SURN Driel
+1 SEX F
+1 FAMS @F0905@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 22:18:17
+0 @I2363@ INDI
+1 NAME Huibert /Baardman/
+2 TYPE birth
+2 GIVN Huibert
+2 SURN Baardman
+1 SEX M
+1 BIRT
+2 DATE 28 DEC 1846
+2 PLAC Rotterdam
+1 FAMC @F0869@
+2 PEDI birth
+1 FAMS @F0906@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:15:33
+0 @I2364@ INDI
+1 NAME Anna Maria /Pens/
+2 TYPE birth
+2 GIVN Anna Maria
+2 SURN Pens
+1 SEX F
+1 BIRT
+2 DATE 1845
+2 PLAC Rotterdam
+1 FAMS @F0906@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:05:18
+0 @I2365@ INDI
+1 NAME Wijntje /Baardman/
+2 TYPE birth
+2 GIVN Wijntje
+2 SURN Baardman
+1 SEX F
+1 BIRT
+2 DATE 16 OCT 1851
+2 PLAC Rotterdam
+1 FAMC @F0869@
+2 PEDI birth
+1 FAMS @F0907@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:15:33
+0 @I2366@ INDI
+1 NAME Huibertus Gerardus /Uland/
+2 TYPE birth
+2 GIVN Huibertus Gerardus
+2 SURN Uland
+1 SEX M
+1 FAMC @F0908@
+2 PEDI birth
+1 FAMS @F0907@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:09:59
+0 @I2367@ INDI
+1 NAME Pieter Hendrik /Uland/
+2 TYPE birth
+2 GIVN Pieter Hendrik
+2 SURN Uland
+1 SEX M
+1 FAMS @F0908@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:09:59
+0 @I2368@ INDI
+1 NAME Francina /van Oosterhout/
+2 TYPE birth
+2 GIVN Francina
+2 SPFX van
+2 SURN Oosterhout
+1 SEX F
+1 FAMS @F0908@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:09:59
+0 @I2369@ INDI
+1 NAME Hendrikje /Stam/
+2 TYPE birth
+2 GIVN Hendrikje
+2 SURN Stam
+1 SEX F
+1 BIRT
+2 DATE 1821
+2 PLAC 's Gravendeel
+1 FAMS @F0909@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:11:55
+0 @I2370@ INDI
+1 NAME Hendrik /Verham/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Verham
+1 SEX M
+1 BIRT
+2 DATE 1720
+2 PLAC Stolwijk
+1 DEAT
+2 DATE 10 APR 1775
+2 PLAC Loon op Zand
+1 FAMC @F0912@
+2 PEDI birth
+1 FAMS @F0910@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:53:22
+0 @I2371@ INDI
+1 NAME Grietje /Verburg/
+2 TYPE birth
+2 GIVN Grietje
+2 SURN Verburg
+1 SEX F
+1 BIRT
+2 DATE 19 DEC 1728
+2 PLAC Stolwijk
+1 DEAT
+2 DATE 22 SEP 1770
+2 PLAC Stolwijk
+1 FAMC @F0911@
+2 PEDI birth
+1 FAMS @F0910@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:50:51
+0 @I2372@ INDI
+1 NAME Jacob Jansz /Verburg/
+2 TYPE birth
+2 GIVN Jacob Jansz
+2 SURN Verburg
+1 SEX M
+1 BIRT
+2 DATE 26 FEB 1699
+2 PLAC Stolwijk
+1 DEAT
+2 DATE 21 MAR 1783
+2 PLAC Stolwijk
+1 FAMC @F0913@
+2 PEDI birth
+1 FAMS @F0911@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:37:57
+0 @I2373@ INDI
+1 NAME Neeltje Ingensdr /Baas/
+2 TYPE birth
+2 GIVN Neeltje Ingensdr
+2 SURN Baas
+1 SEX F
+1 BIRT
+2 DATE 3 AUG 1698
+2 PLAC Stolwijk
+1 DEAT
+2 DATE 9 MAR 1746
+2 PLAC Stolwijk
+1 FAMC @F0917@
+2 PEDI birth
+1 FAMS @F0911@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:49:24
+0 @I2374@ INDI
+1 NAME Anthony /Verham/
+2 TYPE birth
+2 GIVN Anthony
+2 SURN Verham
+1 SEX M
+1 FAMS @F0912@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:53:22
+0 @I2375@ INDI
+1 NAME Johannes Jan /Verburg/
+2 TYPE birth
+2 GIVN Johannes Jan
+2 SURN Verburg
+1 SEX M
+1 BIRT
+2 DATE 1649
+1 DEAT
+2 DATE 1730
+1 FAMC @F0914@
+2 PEDI birth
+1 FAMS @F0913@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:37:45
+0 @I2376@ INDI
+1 NAME Jannechie Wilemsdr /Obergh/
+2 TYPE birth
+2 GIVN Jannechie Wilemsdr
+2 SURN Obergh
+1 SEX F
+1 BIRT
+2 DATE 1657
+1 DEAT
+2 DATE 1716
+1 FAMC @F0915@
+2 PEDI birth
+1 FAMS @F0913@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:40:13
+0 @I2377@ INDI
+1 NAME Gerrit Gijsensz /Verburg/
+2 TYPE birth
+2 GIVN Gerrit Gijsensz
+2 SURN Verburg
+1 SEX M
+1 BIRT
+2 DATE 1610
+1 DEAT
+2 DATE 1673
+1 FAMS @F0914@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:37:45
+0 @I2378@ INDI
+1 NAME Neeltje Jacobsdr /Amersfoorder/
+2 TYPE birth
+2 GIVN Neeltje Jacobsdr
+2 SURN Amersfoorder
+1 SEX F
+1 BIRT
+2 DATE 1622
+1 DEAT
+2 DATE 1669
+1 FAMS @F0914@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:37:45
+0 @I2379@ INDI
+1 NAME Willem Jansz /Obergh/
+2 TYPE birth
+2 GIVN Willem Jansz
+2 SURN Obergh
+1 SEX M
+1 BIRT
+2 DATE 1625
+1 DEAT
+2 DATE 1687
+1 FAMC @F0916@
+2 PEDI birth
+1 FAMS @F0915@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:42:39
+0 @I2380@ INDI
+1 NAME Jaepje Jacomijntje Dingemansdr //
+2 TYPE birth
+2 GIVN Jaepje Jacomijntje Dingemansdr
+1 SEX F
+1 BIRT
+2 DATE 1630
+1 DEAT
+2 DATE 1699
+1 FAMS @F0915@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:40:13
+0 @I2381@ INDI
+1 NAME Jan /Obergh/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Obergh
+1 SEX M
+1 BIRT
+2 DATE 1590
+1 FAMS @F0916@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:42:39
+0 @I2382@ INDI
+1 NAME Inge Dirksz /den Baas/
+2 TYPE birth
+2 GIVN Inge Dirksz
+2 SPFX den
+2 SURN Baas
+1 SEX M
+1 BIRT
+2 DATE 23 NOV 1668
+2 PLAC Moordrecht
+1 DEAT
+2 DATE 22 SEP 1751
+2 PLAC Stolwijk
+1 FAMC @F0918@
+2 PEDI birth
+1 FAMS @F0917@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:54:44
+0 @I2383@ INDI
+1 NAME Jannetje Teunisdr /van Dam/
+2 TYPE birth
+2 GIVN Jannetje Teunisdr
+2 SPFX van
+2 SURN Dam
+1 SEX F
+1 BIRT
+2 DATE 1671
+2 PLAC Stolwijk
+1 DEAT
+2 DATE 26 JUL 1752
+2 PLAC Stolwijk
+1 FAMC @F0924@
+2 PEDI birth
+1 FAMS @F0917@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:28:00
+0 @I2384@ INDI
+1 NAME Dirk Cornelisz /den Baes/
+2 TYPE birth
+2 GIVN Dirk Cornelisz
+2 SPFX den
+2 SURN Baes
+1 SEX M
+1 BIRT
+2 DATE 1622
+2 PLAC Stolwijk
+1 DEAT
+2 DATE 5 JUL 1689
+2 PLAC Stolwijk
+1 FAMC @F0919@
+2 PEDI birth
+1 FAMS @F0918@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:57:30
+0 @I2385@ INDI
+1 NAME Marrigje Dirks /Treest/
+2 TYPE birth
+2 GIVN Marrigje Dirks
+2 SURN Treest
+1 SEX F
+1 BIRT
+2 DATE 1620
+2 PLAC Stolwijk
+1 DEAT
+2 DATE 21 AUG 1675
+2 PLAC Stolwijk
+1 FAMC @F0922@
+2 PEDI birth
+1 FAMS @F0918@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:20:40
+0 @I2386@ INDI
+1 NAME Cornelis Ariensz /den Baes/
+2 TYPE birth
+2 GIVN Cornelis Ariensz
+2 SPFX den
+2 SURN Baes
+1 SEX M
+1 BIRT
+2 DATE 1585
+2 PLAC Haastrecht
+1 DEAT
+2 DATE 1644
+1 FAMC @F0920@
+2 PEDI birth
+1 FAMS @F0919@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:05:53
+0 @I2387@ INDI
+1 NAME Neeltje Cornelisdr /Quast/
+2 TYPE birth
+2 GIVN Neeltje Cornelisdr
+2 SURN Quast
+1 SEX F
+1 BIRT
+2 DATE 1586
+1 DEAT
+2 DATE 17 JAN 1681
+1 FAMC @F0921@
+2 PEDI birth
+1 FAMS @F0919@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:17:46
+0 @I2388@ INDI
+1 NAME Arie Cornelisz /den Baes/
+2 TYPE birth
+2 GIVN Arie Cornelisz
+2 SPFX den
+2 SURN Baes
+1 SEX M
+1 BIRT
+2 DATE 1559
+1 DEAT
+2 DATE 1585
+1 FAMS @F0920@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:05:53
+0 @I2389@ INDI
+1 NAME Geertje Cornelisdr /Simons/
+2 TYPE birth
+2 GIVN Geertje Cornelisdr
+2 SURN Simons
+1 SEX F
+1 BIRT
+2 DATE 1555
+1 FAMS @F0920@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:05:53
+0 @I2390@ INDI
+1 NAME Cornelis Pel /Quast/
+2 TYPE birth
+2 GIVN Cornelis Pel
+2 SURN Quast
+1 SEX M
+1 BIRT
+2 DATE 1556
+1 DEAT
+2 DATE 1586
+1 FAMS @F0921@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:17:46
+0 @I2391@ INDI
+1 NAME Grietje Pieters /Clos/
+2 TYPE birth
+2 GIVN Grietje Pieters
+2 SURN Clos
+1 SEX F
+1 BIRT
+2 DATE 1570
+1 DEAT
+2 DATE 1586
+1 FAMS @F0921@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:17:46
+0 @I2392@ INDI
+1 NAME Dirk Jans /Treest/
+2 TYPE birth
+2 GIVN Dirk Jans
+2 SURN Treest
+1 SEX M
+1 BIRT
+2 DATE 1580
+1 FAMC @F0923@
+2 PEDI birth
+1 FAMS @F0922@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:23:38
+0 @I2393@ INDI
+1 NAME Ingetje Jans /Deecken/
+2 TYPE birth
+2 GIVN Ingetje Jans
+2 SURN Deecken
+1 SEX F
+1 BIRT
+2 DATE 1590
+1 FAMS @F0922@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:20:40
+0 @I2394@ INDI
+1 NAME Jan Dirksz /Treest/
+2 TYPE birth
+2 GIVN Jan Dirksz
+2 SURN Treest
+1 SEX M
+1 BIRT
+2 DATE 1550
+1 FAMS @F0923@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:23:38
+0 @I2395@ INDI
+1 NAME Marrigje Ariens /Waddingsveen/
+2 TYPE birth
+2 GIVN Marrigje Ariens
+2 SURN Waddingsveen
+1 SEX F
+1 BIRT
+2 DATE 1555
+1 FAMS @F0923@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:23:38
+0 @I2396@ INDI
+1 NAME Theunis Claesz /van Dam/
+2 TYPE birth
+2 GIVN Theunis Claesz
+2 SPFX van
+2 SURN Dam
+1 SEX M
+1 BIRT
+2 DATE 1614
+1 DEAT
+2 DATE 1677
+1 FAMC @F0926@
+2 PEDI birth
+1 FAMS @F0924@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:58:41
+0 @I2397@ INDI
+1 NAME Grietje /Sijbrands/
+2 TYPE birth
+2 GIVN Grietje
+2 SURN Sijbrands
+1 SEX F
+1 BIRT
+2 DATE 1625
+1 DEAT
+2 DATE 1716
+1 FAMC @F0925@
+2 PEDI birth
+1 FAMS @F0924@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:55:50
+0 @I2398@ INDI
+1 NAME Sijbrant Jan /Barentsz/
+2 TYPE birth
+2 GIVN Sijbrant Jan
+2 SURN Barentsz
+1 SEX M
+1 BIRT
+2 DATE 1600
+1 FAMS @F0925@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:55:50
+0 @I2399@ INDI
+1 NAME Merrichgen /Gijsbertsdr/
+2 TYPE birth
+2 GIVN Merrichgen
+2 SURN Gijsbertsdr
+1 SEX F
+1 BIRT
+2 DATE 1600
+1 FAMS @F0925@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:55:50
+0 @I2400@ INDI
+1 NAME Claas Jansz /van Dam/
+2 TYPE birth
+2 GIVN Claas Jansz
+2 SPFX van
+2 SURN Dam
+1 SEX M
+1 BIRT
+2 DATE 1587
+1 DEAT
+2 DATE 1612
+2 NOTE @N1066@
+1 FAMC @F0928@
+2 PEDI birth
+1 FAMS @F0926@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:04:21
+0 @I2401@ INDI
+1 NAME Neeltje Wiggertsdr /Blyenk/
+2 TYPE birth
+2 GIVN Neeltje Wiggertsdr
+2 SURN Blyenk
+1 SEX F
+1 BIRT
+2 DATE 1593
+1 DEAT
+2 DATE 1656
+1 FAMC @F0927@
+2 PEDI birth
+1 FAMS @F0926@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:02:24
+0 @I2402@ INDI
+1 NAME Wigger Ariens /Blyenk/
+2 TYPE birth
+2 GIVN Wigger Ariens
+2 SURN Blyenk
+1 SEX M
+1 BIRT
+2 DATE 1563
+1 DEAT
+2 DATE 1628
+1 FAMS @F0927@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:02:24
+0 @I2403@ INDI
+1 NAME Fijgje /Jans/
+2 TYPE birth
+2 GIVN Fijgje
+2 SURN Jans
+1 SEX F
+1 BIRT
+2 DATE 1560
+1 FAMS @F0927@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:02:24
+0 @I2404@ INDI
+1 NAME Jan Willemsz /van Dam/
+2 TYPE birth
+2 GIVN Jan Willemsz
+2 SPFX van
+2 SURN Dam
+1 SEX M
+1 BIRT
+2 DATE 1557
+1 DEAT
+2 DATE 1615
+1 FAMS @F0928@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:04:21
+0 @I2405@ INDI
+1 NAME Neeltje Claesdr /Blyenk/
+2 TYPE birth
+2 GIVN Neeltje Claesdr
+2 SURN Blyenk
+1 SEX F
+1 BIRT
+2 DATE 1540
+1 FAMS @F0928@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:05:18
+0 @I2406@ INDI
+1 NAME Teunis Jansz /van der Wel/
+2 TYPE birth
+2 GIVN Teunis Jansz
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 14 NOV 1800
+2 PLAC Alphen aan de Rijn
+1 FAMC @F0729@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:35:49
+0 @I2407@ INDI
+1 NAME Teunis Jansz /van der Wel/
+2 TYPE birth
+2 GIVN Teunis Jansz
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 27 JAN 1727
+2 PLAC Nieuwkoop (ZH)
+1 FAMC @F0930@
+2 PEDI birth
+1 FAMS @F0929@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:47:29
+0 @I2408@ INDI
+1 NAME Marrigje Willems /Groeneveld/
+2 TYPE birth
+2 GIVN Marrigje Willems
+2 SURN Groeneveld
+1 SEX F
+1 BIRT
+2 DATE 17 APR 1735
+2 PLAC Alphen aan de Rijn
+1 DEAT
+2 DATE 4 NOV 1805
+2 PLAC Aarlanderveen
+1 FAMS @F0929@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:41:12
+0 @I2409@ INDI
+1 NAME Jan Teunisz /van der Wel/
+2 TYPE birth
+2 GIVN Jan Teunisz
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 17 AUG 1695
+2 PLAC Zwammerdam
+1 DEAT
+2 DATE 17 AUG 1747
+2 PLAC Nieuwkoop (ZH)
+1 FAMC @F0931@
+2 PEDI birth
+1 FAMS @F0930@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:05:51
+0 @I2410@ INDI
+1 NAME Grietje Jans /van Tol/
+2 TYPE birth
+2 GIVN Grietje Jans
+2 SPFX van
+2 SURN Tol
+1 SEX F
+1 BIRT
+2 DATE 28 APR 1697
+2 PLAC Zwammerdam
+1 FAMS @F0930@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:47:29
+0 @I2411@ INDI
+1 NAME Jan Jansz /van der Wel/
+2 TYPE birth
+2 GIVN Jan Jansz
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 18 JAN 1733
+2 PLAC Zwammerdam
+1 FAMC @F0930@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:47:29
+0 @I2412@ INDI
+1 NAME Teunis Jansz /van der Wel/
+2 TYPE birth
+2 GIVN Teunis Jansz
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 14 AUG 1661
+2 PLAC Waarder
+1 FAMC @F0932@
+2 PEDI birth
+1 FAMS @F0931@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:12:35
+0 @I2413@ INDI
+1 NAME Lijsbeth Pieters /de Vries/
+2 TYPE birth
+2 GIVN Lijsbeth Pieters
+2 SPFX de
+2 SURN Vries
+1 SEX F
+1 BIRT
+2 DATE 13 NOV 1661
+2 PLAC Zwammerdam
+1 FAMS @F0931@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:55:20
+0 @I2414@ INDI
+1 NAME Barbara /van der Wel/
+2 TYPE birth
+2 GIVN Barbara
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE 12 APR 1694
+2 PLAC Zwammerdam
+1 FAMC @F0931@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:05:51
+0 @I2415@ INDI
+1 NAME Barbara Teunisdr /van der Wel/
+2 TYPE birth
+2 GIVN Barbara Teunisdr
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE 21 APR 1697
+2 PLAC Zwammerdam
+1 FAMC @F0931@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:05:51
+0 @I2416@ INDI
+1 NAME Jan /van der Wel/
+2 TYPE birth
+2 GIVN Jan
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 8 MAR 1693
+2 PLAC Zwammerdam
+1 FAMC @F0931@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:05:51
+0 @I2417@ INDI
+1 NAME Nelletje Teunisdr /van der Wel/
+2 TYPE birth
+2 GIVN Nelletje Teunisdr
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE 18 NOV 1692
+2 PLAC Zwammerdam
+1 FAMC @F0931@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:05:51
+0 @I2418@ INDI
+1 NAME Barbara /van der Wel/
+2 TYPE birth
+2 GIVN Barbara
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE 18 NOV 1692
+2 PLAC Zwammerdam
+1 FAMC @F0931@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:05:51
+0 @I2419@ INDI
+1 NAME Jan /van der Wel/
+2 TYPE birth
+2 GIVN Jan
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 8 OCT 1690
+2 PLAC Zwammerdam
+1 FAMC @F0931@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:05:51
+0 @I2420@ INDI
+1 NAME Jan Teunisz /van der Wel/
+2 TYPE birth
+2 GIVN Jan Teunisz
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 FAMS @F0932@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:08:50
+0 @I2421@ INDI
+1 NAME Barbara Pieters /Verhoek/
+2 TYPE birth
+2 GIVN Barbara Pieters
+2 SURN Verhoek
+1 SEX F
+1 FAMS @F0932@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:08:50
+0 @I2422@ INDI
+1 NAME Aaltje Jans /van der Wel/
+2 TYPE birth
+2 GIVN Aaltje Jans
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE 16 MAR 1659
+2 PLAC Waarder
+1 FAMC @F0932@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:12:35
+0 @I2423@ INDI
+1 NAME Cornelis Jansz /van der Wel/
+2 TYPE birth
+2 GIVN Cornelis Jansz
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 23 MAR 1664
+2 PLAC Waarder
+1 FAMC @F0932@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:12:35
+0 @I2424@ INDI
+1 NAME Pieter Jansz /van der Wel/
+2 TYPE birth
+2 GIVN Pieter Jansz
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BIRT
+2 DATE 31 DEC 1656
+2 PLAC Waarder
+1 FAMC @F0932@
+2 PEDI birth
+1 FAMS @F0933@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:16:23
+0 @I2425@ INDI
+1 NAME Claartje Jans /Dobbe/
+2 TYPE birth
+2 GIVN Claartje Jans
+2 SURN Dobbe
+1 SEX F
+1 BIRT
+2 DATE 3 SEP 1656
+2 PLAC Waarder
+2 NOTE @N1067@
+1 FAMC @F0935@
+2 PEDI birth
+1 FAMS @F0933@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:49:32
+0 @I2426@ INDI
+1 NAME Geertje Pieters /van der Wel/
+2 TYPE birth
+2 GIVN Geertje Pieters
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE 15 JAN 1702
+2 PLAC Waarder
+1 FAMC @F0933@
+2 PEDI birth
+1 FAMS @F0934@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:17:36
+0 @I2427@ INDI
+1 NAME Jan Aartsz /Dobbe/
+2 TYPE birth
+2 GIVN Jan Aartsz
+2 SURN Dobbe
+1 SEX M
+1 FAMS @F0935@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:22:39
+0 @I2428@ INDI
+1 NAME Geertje Cornelsdr /Lindenburg/
+2 TYPE birth
+2 GIVN Geertje Cornelsdr
+2 SURN Lindenburg
+1 SEX F
+1 FAMS @F0935@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:22:39
+0 @I2429@ INDI
+1 NAME Cornelis Jansz /Dobbe/
+2 TYPE birth
+2 GIVN Cornelis Jansz
+2 SURN Dobbe
+1 SEX M
+1 BIRT
+2 NOTE @N1068@
+1 FAMC @F0935@
+2 PEDI birth
+1 FAMS @F0936@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:49:32
+0 @I2430@ INDI
+1 NAME Lijsbeth Jans /Dobbe/
+2 TYPE birth
+2 GIVN Lijsbeth Jans
+2 SURN Dobbe
+1 SEX F
+1 BIRT
+2 DATE 3 AUG 1664
+2 PLAC Waarder
+1 FAMC @F0935@
+2 PEDI birth
+1 NOTE @N1069@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:49:32
+0 @I2431@ INDI
+1 NAME Pieter Jansz /Dobbe/
+2 TYPE birth
+2 GIVN Pieter Jansz
+2 SURN Dobbe
+1 SEX M
+1 BIRT
+2 DATE 12 JAN 1659
+2 PLAC Waarder
+2 NOTE @N1070@
+1 FAMC @F0935@
+2 PEDI birth
+1 FAMS @F0937@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:49:32
+0 @I2432@ INDI
+1 NAME Gerrit Jansz /van Dobben/
+2 TYPE birth
+2 GIVN Gerrit Jansz
+2 SPFX van
+2 SURN Dobben
+1 SEX M
+1 BIRT
+2 DATE 17 SEP 1662
+2 PLAC Waarder
+1 FAMC @F0935@
+2 PEDI birth
+1 FAMS @F0938@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:56:07
+0 @I2433@ INDI
+1 NAME Neeltje Cornelsdr /de Haan/
+2 TYPE birth
+2 GIVN Neeltje Cornelsdr
+2 SPFX de
+2 SURN Haan
+1 SEX F
+1 FAMC @F0939@
+2 PEDI birth
+1 FAMS @F0938@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:53:08
+0 @I2434@ INDI
+1 NAME Cornelis Claase /de Haan/
+2 TYPE birth
+2 GIVN Cornelis Claase
+2 SPFX de
+2 SURN Haan
+1 SEX M
+1 FAMS @F0939@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:53:08
+0 @I2435@ INDI
+1 NAME Nelletje Dirks /Stolker/
+2 TYPE birth
+2 GIVN Nelletje Dirks
+2 SURN Stolker
+1 SEX F
+1 FAMS @F0939@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:53:08
+0 @I2436@ INDI
+1 NAME Magtelt Gerrits /van Dobben/
+2 TYPE birth
+2 GIVN Magtelt Gerrits
+2 SPFX van
+2 SURN Dobben
+1 SEX F
+1 BIRT
+2 DATE 17 DEC 1719
+2 PLAC Alphen aan de Rijn
+1 FAMC @F0938@
+2 PEDI birth
+1 FAMS @F0940@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 23:37:24
+0 @I2437@ INDI
+1 NAME Harmen Philippus /Kruus ? Kroes/
+2 TYPE birth
+2 GIVN Harmen Philippus
+2 SURN Kruus ? Kroes
+1 SEX M
+1 BIRT
+2 DATE 24 MAR 1719
+1 DEAT
+2 DATE 30 MAR 1804
+2 PLAC Woubrugge
+1 FAMS @F0940@
+1 FAMS @F0941@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 23:41:06
+0 @I2438@ INDI
+1 NAME Gerrit Hermanusz /Kroes/
+2 TYPE birth
+2 GIVN Gerrit Hermanusz
+2 SURN Kroes
+1 SEX M
+1 BIRT
+2 DATE 9 JUL 1747
+2 PLAC Warmond
+1 DEAT
+2 DATE 1 MAY 1790
+2 PLAC Warnemünde
+1 FAMC @F0940@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 23:37:24
+0 @I2439@ INDI
+1 NAME Neeltje Gerrits /Verhagen/
+2 TYPE birth
+2 GIVN Neeltje Gerrits
+2 SURN Verhagen
+1 SEX F
+1 BIRT
+2 DATE 25 SEP 1729
+2 PLAC Alphen aan de Rijn
+1 FAMS @F0941@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 23:41:06
+0 @I2440@ INDI
+1 NAME Gerrit Harmensz /Kroes/
+2 TYPE birth
+2 GIVN Gerrit Harmensz
+2 SURN Kroes
+1 SEX M
+1 BIRT
+2 DATE 22 OCT 1758
+2 PLAC Aarlanderveen
+1 DEAT
+2 DATE 2 DEC 1808
+2 PLAC Nieuwveen
+1 FAMC @F0941@
+2 PEDI birth
+1 FAMS @F0942@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 23:43:24
+0 @I2441@ INDI
+1 NAME Marrigje /van Dam/
+2 TYPE birth
+2 GIVN Marrigje
+2 SPFX van
+2 SURN Dam
+1 SEX F
+1 FAMS @F0942@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 23:43:24
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -38634,8 +41510,8 @@
 1 CHIL @I1926@
 1 CHIL @I1927@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 23:49:00
+2 DATE 14 JUL 2025
+3 TIME 21:29:15
 0 @F0298@ FAM
 1 HUSB @I0766@
 1 WIFE @I0767@
@@ -42862,10 +45738,11 @@
 0 @F0729@ FAM
 1 HUSB @I1902@
 1 WIFE @I1903@
+1 CHIL @I2406@
 1 CHIL @I0750@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 20:00:59
+2 DATE 14 JUL 2025
+3 TIME 21:35:49
 0 @F0730@ FAM
 1 HUSB @I1904@
 1 WIFE @I1905@
@@ -43552,9 +46429,11 @@
 1 CHIL @I2224@
 1 CHIL @I2225@
 1 CHIL @I2226@
+1 CHIL @I2246@
+1 CHIL @I2247@
 1 CHAN
-2 DATE 11 JUL 2025
-3 TIME 21:49:05
+2 DATE 12 JUL 2025
+3 TIME 14:56:48
 0 @F0811@ FAM
 1 HUSB @I2101@
 1 WIFE @I2102@
@@ -44012,9 +46891,11 @@
 1 CHIL @I2240@
 1 CHIL @I2241@
 1 CHIL @I2242@
+1 CHIL @I2244@
+1 CHIL @I2245@
 1 CHAN
 2 DATE 12 JUL 2025
-3 TIME 14:25:04
+3 TIME 14:38:43
 0 @F0858@ FAM
 1 HUSB @I2231@
 1 WIFE @I2232@
@@ -44035,6 +46916,728 @@
 1 CHAN
 2 DATE 12 JUL 2025
 3 TIME 00:46:57
+0 @F0861@ FAM
+1 HUSB @I2242@
+1 CHIL @I2243@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 14:36:15
+0 @F0862@ FAM
+1 HUSB @I2248@
+1 WIFE @I2249@
+1 CHIL @I2227@
+1 CHIL @I2250@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 16:02:08
+0 @F0863@ FAM
+1 HUSB @I2250@
+1 WIFE @I2251@
+1 MARR
+2 DATE 2 NOV 1814
+1 CHIL @I2254@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 18:35:17
+0 @F0864@ FAM
+1 HUSB @I2252@
+1 WIFE @I2253@
+1 CHIL @I2251@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 16:08:23
+0 @F0865@ FAM
+1 HUSB @I2254@
+1 WIFE @I2255@
+1 MARR
+2 DATE 20 MAY 1840
+2 PLAC Rotterdam
+2 NOTE @N1016@
+1 CHIL @I2256@
+1 CHIL @I2258@
+1 CHIL @I2261@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 19:01:06
+0 @F0866@ FAM
+1 HUSB @I2256@
+1 WIFE @I2257@
+1 MARR
+2 DATE 30 OCT 1861
+2 PLAC Rotterdam
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 18:35:00
+0 @F0867@ FAM
+1 HUSB @I2259@
+1 WIFE @I2260@
+1 CHIL @I2255@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 18:40:46
+0 @F0868@ FAM
+1 HUSB @I2261@
+1 WIFE @I2262@
+1 MARR
+2 DATE 8 FEB 1865
+2 PLAC Rotterdam
+2 NOTE @N1019@
+1 CHIL @I2265@
+1 CHIL @I2266@
+1 CHIL @I2267@
+1 CHIL @I2271@
+1 CHIL @I2353@
+1 CHIL @I2357@
+1 CHIL @I2359@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:59:54
+0 @F0869@ FAM
+1 HUSB @I2263@
+1 WIFE @I2264@
+1 MARR
+2 DATE 13 APR 1837
+2 PLAC Charlois, Rotterdam
+1 CHIL @I2349@
+1 CHIL @I2262@
+1 CHIL @I2363@
+1 CHIL @I2365@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:15:33
+0 @F0870@ FAM
+1 HUSB @I2268@
+1 WIFE @I2267@
+1 MARR
+2 DATE 24 NOV 1909
+2 PLAC Rotterdam
+2 NOTE @N1025@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 21:13:12
+0 @F0871@ FAM
+1 HUSB @I2269@
+1 WIFE @I2270@
+1 CHIL @I2268@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 21:14:18
+0 @F0872@ FAM
+1 HUSB @I2272@
+1 WIFE @I2271@
+1 MARR
+2 DATE 18 OCT 1893
+2 PLAC Rotterdam
+2 NOTE @N1029@
+1 CHIL @I2275@
+1 CHIL @I2279@
+1 CHIL @I2284@
+1 CHIL @I2285@
+1 CHIL @I2289@
+1 CHIL @I2293@
+1 CHIL @I2308@
+1 CHIL @I2309@
+1 CHIL @I2310@
+1 CHIL @I2311@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:48:55
+0 @F0873@ FAM
+1 HUSB @I2273@
+1 WIFE @I2274@
+1 CHIL @I2272@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 22:11:39
+0 @F0874@ FAM
+1 HUSB @I2275@
+1 WIFE @I2276@
+1 MARR
+2 DATE 4 FEB 1920
+2 PLAC Rotterdam
+2 NOTE @N1032@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:16:09
+0 @F0875@ FAM
+1 HUSB @I2277@
+1 WIFE @I2278@
+1 CHIL @I2276@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 23:04:45
+0 @F0876@ FAM
+1 HUSB @I2279@
+1 WIFE @I2280@
+1 MARR
+2 DATE 28 JUN 1916
+2 PLAC Rotterdam
+2 NOTE @N1035@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:16:04
+0 @F0877@ FAM
+1 HUSB @I2282@
+1 WIFE @I2283@
+1 CHIL @I2280@
+1 CHAN
+2 DATE 12 JUL 2025
+3 TIME 23:11:39
+0 @F0878@ FAM
+1 HUSB @I2286@
+1 WIFE @I2285@
+1 MARR
+2 DATE 4 OCT 1922
+2 PLAC Rotterdam
+2 NOTE @N1038@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 09:49:32
+0 @F0879@ FAM
+1 HUSB @I2288@
+1 WIFE @I2287@
+1 CHIL @I2286@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 09:50:43
+0 @F0880@ FAM
+1 HUSB @I2290@
+1 WIFE @I2289@
+1 MARR
+2 DATE 16 JUN 1920
+2 PLAC Rotterdam
+2 NOTE @N1041@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 09:56:05
+0 @F0881@ FAM
+1 HUSB @I2291@
+1 WIFE @I2292@
+1 CHIL @I2290@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 09:56:59
+0 @F0882@ FAM
+1 HUSB @I2293@
+1 WIFE @I2294@
+1 MARR
+2 DATE 4 AUG 1920
+2 PLAC Rotterdam
+2 NOTE @N1046@
+1 CHIL @I2295@
+1 CHIL @I2298@
+1 CHIL @I2299@
+1 CHIL @I2300@
+1 CHIL @I2306@
+1 CHIL @I2307@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:28:30
+0 @F0883@ FAM
+1 HUSB @I2296@
+1 WIFE @I2297@
+1 CHIL @I2294@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:20:20
+0 @F0884@ FAM
+1 HUSB @I2300@
+1 MARR
+2 DATE 9 NOV 1955
+2 PLAC Delft
+1 CHIL @I2301@
+1 CHIL @I2302@
+1 CHIL @I2303@
+1 CHIL @I2304@
+1 CHIL @I2305@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:26:50
+0 @F0885@ FAM
+1 HUSB @I2312@
+1 WIFE @I2311@
+1 MARR
+2 DATE 28 MAY 1933
+2 PLAC Rotterdam
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:50:45
+0 @F0886@ FAM
+1 HUSB @I2313@
+1 WIFE @I2314@
+1 CHIL @I2263@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:55:55
+0 @F0887@ FAM
+1 HUSB @I2315@
+1 WIFE @I2316@
+1 CHIL @I2264@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 10:59:06
+0 @F0888@ FAM
+1 HUSB @I2317@
+1 WIFE @I2318@
+1 CHIL @I2344@
+1 CHIL @I2345@
+1 CHIL @I2346@
+1 CHIL @I2347@
+1 CHIL @I2348@
+1 CHIL @I2313@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:30:13
+0 @F0889@ FAM
+1 HUSB @I2319@
+1 WIFE @I2320@
+1 MARR
+2 DATE 11 MAR 1730
+2 PLAC Brandwijk
+1 CHIL @I2317@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:24:57
+0 @F0890@ FAM
+1 HUSB @I2321@
+1 WIFE @I2322@
+1 CHIL @I2319@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:06:05
+0 @F0891@ FAM
+1 HUSB @I2323@
+1 WIFE @I2324@
+1 CHIL @I2320@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:07:43
+0 @F0892@ FAM
+1 HUSB @I2325@
+1 WIFE @I2326@
+1 MARR
+2 DATE 15 OCT 1672
+2 PLAC Giessen-Nieuwkerk
+1 CHIL @I2321@
+1 CHIL @I2336@
+1 CHIL @I2337@
+1 CHIL @I2338@
+1 CHIL @I2339@
+1 CHIL @I2340@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:15:39
+0 @F0893@ FAM
+1 HUSB @I2327@
+1 WIFE @I2328@
+1 CHIL @I2325@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:12:28
+0 @F0894@ FAM
+1 HUSB @I2329@
+1 WIFE @I2330@
+1 CHIL @I2334@
+1 CHIL @I2335@
+1 CHIL @I2327@
+1 CHIL @I2341@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:16:37
+0 @F0895@ FAM
+1 HUSB @I2331@
+1 WIFE @I2332@
+1 CHIL @I2328@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:15:39
+0 @F0896@ FAM
+1 HUSB @I2333@
+1 CHIL @I2329@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 11:17:23
+0 @F0897@ FAM
+1 HUSB @I2342@
+1 CHIL @I2333@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:19:02
+0 @F0898@ FAM
+1 HUSB @I2343@
+1 CHIL @I2342@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 18:19:47
+0 @F0899@ FAM
+1 HUSB @I2350@
+1 WIFE @I2349@
+1 MARR
+2 DATE 22 JUL 1863
+2 PLAC Rotterdam
+2 NOTE @N1052@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:10:06
+0 @F0900@ FAM
+1 HUSB @I2351@
+1 WIFE @I2352@
+1 CHIL @I2350@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:11:24
+0 @F0901@ FAM
+1 HUSB @I2354@
+1 WIFE @I2353@
+1 MARR
+2 DATE 2 JUN 1897
+2 PLAC Rotterdam
+2 NOTE @N1056@
+2 NOTE @N1055@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:21:36
+0 @F0902@ FAM
+1 HUSB @I2355@
+1 WIFE @I2356@
+1 CHIL @I2354@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:22:51
+0 @F0903@ FAM
+1 HUSB @I2357@
+1 WIFE @I2358@
+1 MARR
+2 DATE 9 JUL 1902
+2 PLAC Rotterdam
+2 NOTE @N1059@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 21:39:52
+0 @F0904@ FAM
+1 HUSB @I2360@
+1 WIFE @I2359@
+1 MARR
+2 DATE 26 JAN 1910
+2 PLAC Rotterdam
+2 NOTE @N1062@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 22:17:21
+0 @F0905@ FAM
+1 HUSB @I2361@
+1 WIFE @I2362@
+1 CHIL @I2360@
+1 CHAN
+2 DATE 13 JUL 2025
+3 TIME 22:18:17
+0 @F0906@ FAM
+1 HUSB @I2363@
+1 WIFE @I2364@
+1 MARR
+2 DATE 12 FEB 1868
+2 PLAC Rotterdam
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:05:18
+0 @F0907@ FAM
+1 HUSB @I2366@
+1 WIFE @I2365@
+1 MARR
+2 DATE 14 MAY 1873
+2 PLAC Rotterdam
+2 NOTE @N1063@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:09:04
+0 @F0908@ FAM
+1 HUSB @I2367@
+1 WIFE @I2368@
+1 CHIL @I2366@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:09:59
+0 @F0909@ FAM
+1 HUSB @I2263@
+1 WIFE @I2369@
+1 MARR
+2 DATE 15 FEB 1871
+2 PLAC 's Gravendeel
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:11:55
+0 @F0910@ FAM
+1 HUSB @I2370@
+1 WIFE @I2371@
+1 CHIL @I1903@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:39:26
+0 @F0911@ FAM
+1 HUSB @I2372@
+1 WIFE @I2373@
+1 CHIL @I2371@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:50:51
+0 @F0912@ FAM
+1 HUSB @I2374@
+1 CHIL @I2370@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 00:53:22
+0 @F0913@ FAM
+1 HUSB @I2375@
+1 WIFE @I2376@
+1 CHIL @I2372@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:37:57
+0 @F0914@ FAM
+1 HUSB @I2377@
+1 WIFE @I2378@
+1 CHIL @I2375@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:37:45
+0 @F0915@ FAM
+1 HUSB @I2379@
+1 WIFE @I2380@
+1 CHIL @I2376@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:40:13
+0 @F0916@ FAM
+1 HUSB @I2381@
+1 CHIL @I2379@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:42:39
+0 @F0917@ FAM
+1 HUSB @I2382@
+1 WIFE @I2383@
+1 CHIL @I2373@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:49:24
+0 @F0918@ FAM
+1 HUSB @I2384@
+1 WIFE @I2385@
+1 CHIL @I2382@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:54:44
+0 @F0919@ FAM
+1 HUSB @I2386@
+1 WIFE @I2387@
+1 CHIL @I2384@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 19:57:30
+0 @F0920@ FAM
+1 HUSB @I2388@
+1 WIFE @I2389@
+1 CHIL @I2386@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:05:53
+0 @F0921@ FAM
+1 HUSB @I2390@
+1 WIFE @I2391@
+1 CHIL @I2387@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:17:46
+0 @F0922@ FAM
+1 HUSB @I2392@
+1 WIFE @I2393@
+1 CHIL @I2385@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:20:40
+0 @F0923@ FAM
+1 HUSB @I2394@
+1 WIFE @I2395@
+1 CHIL @I2392@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:23:38
+0 @F0924@ FAM
+1 HUSB @I2396@
+1 WIFE @I2397@
+1 CHIL @I2383@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:28:00
+0 @F0925@ FAM
+1 HUSB @I2398@
+1 WIFE @I2399@
+1 CHIL @I2397@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:55:50
+0 @F0926@ FAM
+1 HUSB @I2400@
+1 WIFE @I2401@
+1 CHIL @I2396@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 20:58:41
+0 @F0927@ FAM
+1 HUSB @I2402@
+1 WIFE @I2403@
+1 CHIL @I2401@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:02:24
+0 @F0928@ FAM
+1 HUSB @I2404@
+1 WIFE @I2405@
+1 CHIL @I2400@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:04:21
+0 @F0929@ FAM
+1 HUSB @I2407@
+1 WIFE @I2408@
+1 MARR
+2 DATE 14 MAY 1760
+2 PLAC Alphen aan de Rijn
+1 CHIL @I1902@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:41:12
+0 @F0930@ FAM
+1 HUSB @I2409@
+1 WIFE @I2410@
+1 MARR
+2 DATE 28 OCT 1725
+2 PLAC Zwammerdam
+1 CHIL @I2407@
+1 CHIL @I2411@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 21:47:29
+0 @F0931@ FAM
+1 HUSB @I2412@
+1 WIFE @I2413@
+1 MARR
+2 DATE 2 MAY 1688
+2 PLAC Zwammerdam
+1 CHIL @I2419@
+1 CHIL @I2417@
+1 CHIL @I2418@
+1 CHIL @I2416@
+1 CHIL @I2414@
+1 CHIL @I2409@
+1 CHIL @I2415@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:05:51
+0 @F0932@ FAM
+1 HUSB @I2420@
+1 WIFE @I2421@
+1 MARR
+2 DATE 5 DEC 1655
+2 PLAC Waarder
+1 CHIL @I2424@
+1 CHIL @I2422@
+1 CHIL @I2412@
+1 CHIL @I2423@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:12:35
+0 @F0933@ FAM
+1 HUSB @I2424@
+1 WIFE @I2425@
+1 MARR
+2 DATE 30 NOV 1692
+2 PLAC Waarder
+1 CHIL @I2426@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:16:23
+0 @F0934@ FAM
+1 WIFE @I2426@
+1 MARR
+2 DATE 18 APR 1729
+2 PLAC Bodegraven
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:17:36
+0 @F0935@ FAM
+1 HUSB @I2427@
+1 WIFE @I2428@
+1 CHIL @I2429@
+1 CHIL @I2425@
+1 CHIL @I2431@
+1 CHIL @I2432@
+1 CHIL @I2430@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:49:32
+0 @F0936@ FAM
+1 HUSB @I2429@
+1 MARR
+2 DATE 15 FEB 1682
+2 PLAC Waarder
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:25:45
+0 @F0937@ FAM
+1 HUSB @I2431@
+1 MARR
+2 DATE 4 DEC 1689
+2 PLAC Waarder
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:46:01
+0 @F0938@ FAM
+1 HUSB @I2432@
+1 WIFE @I2433@
+1 CHIL @I2436@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:55:40
+0 @F0939@ FAM
+1 HUSB @I2434@
+1 WIFE @I2435@
+1 MARR
+2 DATE 12 MAR 1690
+2 PLAC Alphen aan de Rijn
+1 CHIL @I2433@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 22:53:08
+0 @F0940@ FAM
+1 HUSB @I2437@
+1 WIFE @I2436@
+1 MARR
+2 DATE 17 MAY 1744
+2 PLAC Warmond
+1 CHIL @I2438@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 23:37:24
+0 @F0941@ FAM
+1 HUSB @I2437@
+1 WIFE @I2439@
+1 MARR
+2 DATE 20 JUL 1755
+2 PLAC Alphen aan de Rijn
+1 CHIL @I2440@
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 23:41:06
+0 @F0942@ FAM
+1 HUSB @I2440@
+1 WIFE @I2441@
+1 MARR
+2 DATE 15 APR 1785
+2 PLAC Nieuwveen
+1 CHAN
+2 DATE 14 JUL 2025
+3 TIME 23:43:24
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -46235,6 +49838,76 @@
 1 CONT DTB Alkmaar inv. 18
 0 @N1014@ NOTE erkenning van ouders op 15-03-1876
 1 CONT woonde na 1900 in vlissingen
+0 @N1015@ NOTE akte nr. 1071
+0 @N1016@ NOTE Bij trouwen verklaring van armoede, zodat kosten nihil
+0 @N1017@ NOTE verzoek van aangifte gedaan door Lutgertje Timmer, oud 60 jaren vro
+1 CONC edvrouw wonende Reguliersdwarsstraat 125
+0 @N1018@ NOTE Geboorte akte Amsterdam 1814 deel 6 176
+0 @N1019@ NOTE akte nr. 68
+0 @N1020@ NOTE Rotterdam Akte Jaar 1865 Nummer a154v
+0 @N1021@ NOTE akte nr. 4022
+0 @N1022@ NOTE Rotterdam Akte Jaar 1866 Nummer f022v
+0 @N1023@ NOTE akte nr. 3928
+0 @N1024@ NOTE Rotterdam Akte Jaar 1869 Nummer f004
+0 @N1025@ NOTE Rotterdam Akte Jaar 1909 Nummer n88
+0 @N1026@ NOTE akte nr. 4042
+0 @N1027@ NOTE Rotterdam Akte Jaar 1872 Nummer f024v
+0 @N1028@ NOTE https://stadsarchief.rotterdam.nl/zoek-en-ontdek/archieven/zoekresu
+1 CONC ltaat-archieven/?mizig=236&miadt=184&miaet=54&micode=999-09.1934C&minr=2
+1 CONC 0151202&miview=ldt
+0 @N1029@ NOTE akte nr. 1367 Rotterdam Akte Jaar 1893 Nummer h010v
+0 @N1030@ NOTE Rotterdam Akte Jaar 1891 Nummer g031v
+0 @N1031@ NOTE akte nr. 4070; erkenning door ouders op 18-10-1893, geslachtsnaam k
+1 CONC ind was de Klerk
+0 @N1032@ NOTE Rotterdam Akte Jaar 1920 Nummer a89v
+0 @N1033@ NOTE Rotterdam Akte Jaar 1892 Nummer k091v
+0 @N1034@ NOTE akte nr. 6690 ; erkenning door ouders op 18-10-1893, kind voorhee
+1 CONC n genaamd de Klerk
+0 @N1035@ NOTE Rotterdam Akte Jaar 1916 Nummer j60v
+0 @N1036@ NOTE akte nr. 2627
+0 @N1037@ NOTE Rotterdam Akte Jaar 1895 Nummer g061v
+0 @N1038@ NOTE Rotterdam Akte Jaar 1922 Nummer o84
+0 @N1039@ NOTE akte nr. 10060
+0 @N1040@ NOTE Rotterdam Akte Jaar 1896 Nummer o064v
+0 @N1041@ NOTE Rotterdam Akte Jaar 1920 Nummer k50
+0 @N1042@ NOTE akte nr. 11056
+0 @N1043@ NOTE Rotterdam Akte Jaar 1898 Nummer o189v
+0 @N1044@ NOTE Het vrije volk : rouwadvertentie d.d. 06-03-1979
+0 @N1045@ NOTE Werkte bij de RET en maakte bij het Hofplein de rails schoon.
+1 CONT In zijn jonge jaren is hij nog marktkoopman geweest.
+1 CONT Woonde op o.a. op de Almondestraat, de Binnenrotte en daarna Warmoesiers
+1 CONC traat. In de oorlog is daar alles platgegooid.
+1 CONT Toen verhuisde het hele gezin naar Tante Toos in de Jaffadwarsstraat i
+1 CONC n Rotterdam.
+1 CONT Vervolgens naar een woning in de Doesburgstraat.
+1 CONT Later zijn ze verhuist naar overschie.
+0 @N1046@ NOTE Rotterdam Akte Jaar 1920 Nummer n22
+0 @N1047@ NOTE akte nr. 844
+0 @N1048@ NOTE Rotterdam Akte Jaar 1899 Nummer b107
+0 @N1049@ NOTE Ze heeft in wasserij van Bombeeke gewerkt in Rotterdam aan de ... l
+1 CONC aan langs de spoorlijn.
+0 @N1050@ NOTE akte nr. 651
+0 @N1051@ NOTE Gesneuveld in de 2e wereldoorlog in Litouwen
+0 @N1052@ NOTE akte nr. 534
+0 @N1053@ NOTE akte nr. 602
+0 @N1054@ NOTE Rotterdam Akte Jaar 1875 Nummer a102
+0 @N1055@ NOTE Rotterdam Akte Jaar 1897 Nummer f035
+0 @N1056@ NOTE akte nr. 916
+0 @N1057@ NOTE akte nr. 5182
+0 @N1058@ NOTE Rotterdam Akte Jaar 1877 Nummer d179v
+0 @N1059@ NOTE Rotterdam Akte Jaar 1902 Nummer h35
+0 @N1060@ NOTE akte nr. 4162
+0 @N1061@ NOTE Rotterdam Akte Jaar 1883 Nummer d101
+0 @N1062@ NOTE Rotterdam Akte Jaar 1910 Nummer b37
+0 @N1063@ NOTE akte nr. 426
+0 @N1064@ NOTE overleden in militairen dienst, onbekend waar gesneuveld
+0 @N1065@ NOTE wonende te Leiderdorp
+0 @N1066@ NOTE Died 9 months (??-??-1612) prior to the birth (??-??-1614) of chil
+1 CONC d (Theunis Claesz van Dam).
+0 @N1067@ NOTE er bestaat twijfel of de moeder wel de juiste persoon betreft
+0 @N1068@ NOTE er bestaat twijfel of de moeder wel de juiste persoon betreft
+0 @N1069@ NOTE er bestaat twijfel of de moeder wel de juiste persoon betreft
+0 @N1070@ NOTE er bestaat twijfel of de moeder wel de juiste persoon betreft
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
