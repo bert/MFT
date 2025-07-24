@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 23 JUL 2025
-2 TIME 23:41:21
+1 DATE 24 JUL 2025
+2 TIME 22:41:36
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2025 .
@@ -17274,14 +17274,15 @@
 2 DATE 30 MAY 2025
 3 TIME 20:03:27
 0 @I1118@ INDI
-1 NAME Pieter Gijsbertsz //
+1 NAME Pieter /Gijsbertsz/
 2 TYPE birth
-2 GIVN Pieter Gijsbertsz
+2 GIVN Pieter
+2 SURN Gijsbertsz
 1 SEX M
 1 FAMS @F0416@
 1 CHAN
-2 DATE 30 MAY 2025
-3 TIME 20:03:27
+2 DATE 24 JUL 2025
+3 TIME 20:56:43
 0 @I1119@ INDI
 1 NAME Jan Pieter-Gijsen //
 2 TYPE birth
@@ -21136,9 +21137,10 @@
 2 DATE 5 JUN 2025
 3 TIME 18:37:28
 0 @I1344@ INDI
-1 NAME Tjako Freerk //
+1 NAME Tjako /Freerk/
 2 TYPE birth
-2 GIVN Tjako Freerk
+2 GIVN Tjako
+2 SURN Freerk
 1 SEX M
 1 BIRT
 2 DATE 6 JUL 1928
@@ -21151,8 +21153,8 @@
 4 LONG E6.397614
 1 FAMS @F0496@
 1 CHAN
-2 DATE 4 JUN 2025
-3 TIME 12:20:58
+2 DATE 24 JUL 2025
+3 TIME 20:59:47
 0 @I1345@ INDI
 1 NAME niet openbaar /Timmerman/
 2 TYPE birth
@@ -37742,10 +37744,10 @@
 2 DATE 22 JUL 2025
 3 TIME 23:06:06
 0 @I2377@ INDI
-1 NAME Gerrit Gijsensz /Verburg/
+1 NAME Gerrit /Gijsberts/
 2 TYPE birth
-2 GIVN Gerrit Gijsensz
-2 SURN Verburg
+2 GIVN Gerrit
+2 SURN Gijsberts
 1 SEX M
 1 BIRT
 2 DATE 1610
@@ -37759,8 +37761,8 @@
 1 FAMS @F0914@
 1 NOTE @N1144@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 21:53:07
+2 DATE 24 JUL 2025
+3 TIME 21:10:14
 0 @I2378@ INDI
 1 NAME Neeltje Jacobsdr /Amersfoorder/
 2 TYPE birth
@@ -37768,17 +37770,19 @@
 2 SURN Amersfoorder
 1 SEX F
 1 BIRT
-2 DATE 1622
+2 DATE EST 1622
 2 PLAC Benschop
 1 DEAT
 2 DATE 1669
 2 PLAC Benschop
 1 BURI
 2 DATE 11 NOV 1669
+1 FAMC @F1069@
+2 PEDI birth
 1 FAMS @F0914@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 19:44:33
+2 DATE 24 JUL 2025
+3 TIME 21:56:16
 0 @I2379@ INDI
 1 NAME Willem Jansz /Obergh/
 2 TYPE birth
@@ -43661,10 +43665,10 @@
 2 DATE 23 JUL 2025
 3 TIME 21:48:03
 0 @I2773@ INDI
-1 NAME Gijsbert Aarts /Verburg/
+1 NAME Gijsbert /Aarts/
 2 TYPE birth
-2 GIVN Gijsbert Aarts
-2 SURN Verburg
+2 GIVN Gijsbert
+2 SURN Aarts
 1 SEX M
 1 BIRT
 2 DATE 1570
@@ -43673,8 +43677,8 @@
 1 FAMS @F1052@
 1 FAMS @F1056@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 22:32:53
+2 DATE 24 JUL 2025
+3 TIME 21:11:08
 0 @I2774@ INDI
 1 NAME Aaltje Claudesz /Homburg/
 2 TYPE birth
@@ -43732,7 +43736,7 @@
 2 SURN Hombruge
 1 SEX M
 1 BIRT
-2 DATE 1540
+2 DATE EST 1540
 1 FAMS @F1054@
 1 CHAN
 2 DATE 23 JUL 2025
@@ -43787,28 +43791,29 @@
 2 DATE 23 JUL 2025
 3 TIME 22:23:48
 0 @I2781@ INDI
-1 NAME Aart Gijsberts /Verburg/
+1 NAME Aart /Gijsberts/
 2 TYPE birth
-2 GIVN Aart Gijsberts
-2 SURN Verburg
+2 GIVN Aart
+2 SURN Gijsberts
 1 SEX M
 1 BIRT
 2 DATE EST 1540
 1 FAMS @F1057@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 22:30:02
+2 DATE 24 JUL 2025
+3 TIME 21:10:36
 0 @I2782@ INDI
-1 NAME Aaltje Gerrit Florisdr //
+1 NAME Aaltje Gerrit /Florisdr/
 2 TYPE birth
-2 GIVN Aaltje Gerrit Florisdr
+2 GIVN Aaltje Gerrit
+2 SURN Florisdr
 1 SEX F
 1 BIRT
 2 DATE EST 1545
 1 FAMS @F1057@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 22:30:02
+2 DATE 24 JUL 2025
+3 TIME 21:46:22
 0 @I2783@ INDI
 1 NAME Jan Aarts /Verburg/
 2 TYPE birth
@@ -43858,9 +43863,10 @@
 2 DATE 23 JUL 2025
 3 TIME 22:41:33
 0 @I2786@ INDI
-1 NAME Aaltje Schrevels //
+1 NAME Aaltje /Schrevels/
 2 TYPE birth
-2 GIVN Aaltje Schrevels
+2 GIVN Aaltje
+2 SURN Schrevels
 1 SEX F
 1 BIRT
 2 DATE EST 1525
@@ -43869,8 +43875,8 @@
 1 FAMS @F1059@
 1 FAMS @F1060@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 22:54:35
+2 DATE 24 JUL 2025
+3 TIME 21:08:26
 0 @I2787@ INDI
 1 NAME Arie Claasz /Vuuren/
 2 TYPE birth
@@ -43911,9 +43917,10 @@
 2 DATE 23 JUL 2025
 3 TIME 22:46:16
 0 @I2790@ INDI
-1 NAME Schrevel Willems //
+1 NAME Schrevel /Willems/
 2 TYPE birth
-2 GIVN Schrevel Willems
+2 GIVN Schrevel
+2 SURN Willems
 1 SEX M
 1 BIRT
 2 DATE EST 1495
@@ -43921,12 +43928,13 @@
 2 DATE BEF 1555
 1 FAMS @F1061@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 22:53:01
+2 DATE 24 JUL 2025
+3 TIME 20:58:46
 0 @I2791@ INDI
-1 NAME Geertruij Andriesdr //
+1 NAME Geertruij /Andriesdr/
 2 TYPE birth
-2 GIVN Geertruij Andriesdr
+2 GIVN Geertruij
+2 SURN Andriesdr
 1 SEX F
 1 BIRT
 2 DATE EST 1500
@@ -43934,12 +43942,13 @@
 2 DATE FROM 19 NOV 1570 TO 21 DEC 1570
 1 FAMS @F1061@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 22:53:01
+2 DATE 24 JUL 2025
+3 TIME 20:58:57
 0 @I2792@ INDI
-1 NAME Jacob Schrevels //
+1 NAME Jacob /Schrevels/
 2 TYPE birth
-2 GIVN Jacob Schrevels
+2 GIVN Jacob
+2 SURN Schrevels
 1 SEX M
 1 BIRT
 2 DATE EST 1523
@@ -43949,21 +43958,23 @@
 2 PEDI birth
 1 FAMS @F1062@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 22:59:28
+2 DATE 24 JUL 2025
+3 TIME 21:08:26
 0 @I2793@ INDI
-1 NAME Anna Aarts //
+1 NAME Anna /Aarts/
 2 TYPE birth
-2 GIVN Anna Aarts
+2 GIVN Anna
+2 SURN Aarts
 1 SEX F
 1 FAMS @F1062@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 22:59:28
+2 DATE 24 JUL 2025
+3 TIME 20:58:04
 0 @I2794@ INDI
-1 NAME Aaltje Jacobs //
+1 NAME Aaltje /Jacobs/
 2 TYPE birth
-2 GIVN Aaltje Jacobs
+2 GIVN Aaltje
+2 SURN Jacobs
 1 SEX F
 1 BIRT
 2 DATE EST 1545
@@ -43972,8 +43983,396 @@
 1 FAMC @F1062@
 2 PEDI birth
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 22:59:28
+2 DATE 24 JUL 2025
+3 TIME 20:58:21
+0 @I2795@ INDI
+1 NAME Hendrik /Schrevels/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Schrevels
+1 SEX M
+1 BIRT
+2 DATE EST 1524
+1 DEAT
+2 DATE 1586
+1 FAMC @F1061@
+2 PEDI birth
+1 FAMS @F1063@
+1 NOTE @N1152@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:08:26
+0 @I2796@ INDI
+1 NAME Beatrix Gerrit /Coens/
+2 TYPE birth
+2 GIVN Beatrix Gerrit
+2 SURN Coens
+1 SEX F
+1 FAMS @F1063@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 20:33:16
+0 @I2797@ INDI
+1 NAME Gerrit Hendriks /Coen/
+2 TYPE birth
+2 GIVN Gerrit Hendriks
+2 SURN Coen
+1 SEX M
+1 BIRT
+2 DATE EST 1546
+1 FAMC @F1063@
+2 PEDI birth
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 20:33:16
+0 @I2798@ INDI
+1 NAME Willem /Schrevels/
+2 TYPE birth
+2 GIVN Willem
+2 SURN Schrevels
+1 SEX M
+1 BIRT
+2 DATE EST 1526
+1 DEAT
+2 DATE BEF 3 MAR 1578
+1 FAMC @F1061@
+2 PEDI birth
+1 FAMS @F1064@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:08:26
+0 @I2799@ INDI
+1 NAME Dirkje Theunis /Jans/
+2 TYPE birth
+2 GIVN Dirkje Theunis
+2 SURN Jans
+1 SEX F
+1 BIRT
+2 DATE EST 1530
+1 FAMS @F1065@
+1 FAMS @F1064@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 20:37:09
+0 @I2800@ INDI
+1 NAME Willem Neel /Foppen/
+2 TYPE birth
+2 GIVN Willem Neel
+2 SURN Foppen
+1 SEX M
+1 FAMS @F1065@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 20:36:52
+0 @I2801@ INDI
+1 NAME Jan /Schrevels/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Schrevels
+1 SEX M
+1 BIRT
+2 DATE EST 1522
+1 BURI
+2 DATE 12 APR 1600
+2 PLAC Benschop
+1 FAMC @F1061@
+2 PEDI birth
+1 FAMS @F1066@
+1 FAMS @F1067@
+1 NOTE @N1153@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:08:26
+0 @I2802@ INDI
+1 NAME Aaltje /Willems/
+2 TYPE birth
+2 GIVN Aaltje
+2 SURN Willems
+1 SEX F
+1 FAMS @F1066@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:04:47
+0 @I2803@ INDI
+1 NAME Anna //
+2 TYPE birth
+2 GIVN Anna
+1 SEX F
+1 FAMS @F1067@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:05:24
+0 @I2804@ INDI
+1 NAME Joris /Schrevels/
+2 TYPE birth
+2 GIVN Joris
+2 SURN Schrevels
+1 SEX M
+1 DEAT
+2 DATE BEF 18 JAN 1851
+1 FAMC @F1061@
+2 PEDI birth
+1 FAMS @F1068@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:08:26
+0 @I2805@ INDI
+1 NAME Marrigje //
+2 TYPE birth
+2 GIVN Marrigje
+1 SEX F
+1 FAMS @F1068@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:07:18
+0 @I2806@ INDI
+1 NAME Geertruij /Schrevels/
+2 TYPE birth
+2 GIVN Geertruij
+2 SURN Schrevels
+1 SEX F
+1 FAMC @F1061@
+2 PEDI birth
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:08:26
+0 @I2807@ INDI
+1 NAME Jacob Adriaans /Amersfoorder/
+2 TYPE birth
+2 GIVN Jacob Adriaans
+2 SURN Amersfoorder
+1 SEX M
+1 BIRT
+2 DATE EST 1595
+1 DEAT
+2 DATE 31 OCT 1670
+2 PLAC Benschop
+1 FAMS @F1069@
+1 NOTE @N1154@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:19:39
+0 @I2808@ INDI
+1 NAME Niesje Gorisdr /Boef/
+2 TYPE birth
+2 GIVN Niesje Gorisdr
+2 SURN Boef
+1 SEX F
+1 DEAT
+2 DATE 18 MAR 1673
+2 PLAC Benschop
+1 FAMS @F1069@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:19:39
+0 @I2809@ INDI
+1 NAME Goris Jacobs /Amersfoorder/
+2 TYPE birth
+2 GIVN Goris Jacobs
+2 SURN Amersfoorder
+1 SEX M
+1 BIRT
+2 DATE EST 1620
+2 PLAC Benschop
+1 DEAT
+2 DATE 4 OCT 1673
+2 PLAC Benschop
+1 BURI
+2 DATE 9 OCT 1673
+2 PLAC Benschop
+1 FACT Armmeester en schepen van Benschop
+2 TYPE Occupation
+1 FAMC @F1069@
+2 PEDI birth
+1 FAMS @F1070@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:56:16
+0 @I2810@ INDI
+1 NAME Aagje Ernsts /Boer/
+2 TYPE birth
+2 GIVN Aagje Ernsts
+2 SURN Boer
+1 SEX F
+1 BIRT
+2 DATE EST 1628
+2 PLAC Benschop
+1 DEAT
+2 DATE 22 FEB 1703
+2 PLAC Benschop
+1 BURI
+2 DATE 27 FEB 1703
+2 PLAC Benschop
+1 FAMS @F1070@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:25:10
+0 @I2811@ INDI
+1 NAME Aaltje Jacobs /Amersfoorder/
+2 TYPE birth
+2 GIVN Aaltje Jacobs
+2 SURN Amersfoorder
+1 SEX F
+1 BIRT
+2 DATE EST 1622
+2 PLAC Benschop
+1 FAMC @F1069@
+2 PEDI birth
+1 FAMS @F1071@
+1 NOTE @N1155@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:56:16
+0 @I2812@ INDI
+1 NAME Amel Andriesz /van der Heeden/
+2 TYPE birth
+2 GIVN Amel Andriesz
+2 SPFX van der
+2 SURN Heeden
+1 SEX M
+1 BIRT
+2 PLAC Lopik
+1 BAPM
+2 DATE 23 FEB 1623
+2 PLAC Lopik
+1 FAMS @F1071@
+1 NOTE @N1156@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:42:11
+0 @I2813@ INDI
+1 NAME Andries Amels /van der Heeden/
+2 TYPE birth
+2 GIVN Andries Amels
+2 SPFX van der
+2 SURN Heeden
+1 SEX M
+1 BIRT
+2 PLAC Benschop
+1 BAPM
+2 DATE 12 JUL 1646
+2 PLAC Lopik
+1 FACT Burgemeester van Benschop
+2 TYPE Occupation
+1 FAMC @F1071@
+2 PEDI birth
+1 NOTE @N1157@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:42:11
+0 @I2814@ INDI
+1 NAME Aantje Jacobs /Amersfoorder/
+2 TYPE birth
+2 GIVN Aantje Jacobs
+2 SURN Amersfoorder
+1 SEX F
+1 BIRT
+2 DATE EST 1623
+2 PLAC Benschop
+1 FAMC @F1069@
+2 PEDI birth
+1 FAMS @F1072@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:56:16
+0 @I2815@ INDI
+1 NAME Jan Andriesz /van der Heeden/
+2 TYPE birth
+2 GIVN Jan Andriesz
+2 SPFX van der
+2 SURN Heeden
+1 SEX M
+1 BIRT
+2 DATE EST 1616
+2 PLAC Lopik
+1 FAMS @F1073@
+1 FAMS @F1072@
+1 NOTE @N1158@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:53:32
+0 @I2816@ INDI
+1 NAME Marrigje Cornelisdr /Kooijman/
+2 TYPE birth
+2 GIVN Marrigje Cornelisdr
+2 SURN Kooijman
+1 SEX F
+1 FAMS @F1073@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:52:40
+0 @I2817@ INDI
+1 NAME Adriaan Jacobs /Amersfoorder/
+2 TYPE birth
+2 GIVN Adriaan Jacobs
+2 SURN Amersfoorder
+1 SEX M
+1 BIRT
+2 DATE EST 1630
+2 PLAC Benschop
+1 DEAT
+2 DATE 28 APR 1673
+2 PLAC Benschop
+1 BURI
+2 DATE 3 MAY 1673
+2 PLAC Benschop
+1 FAMC @F1069@
+2 PEDI birth
+1 FAMS @F1074@
+1 NOTE @N1159@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 22:03:19
+0 @I2818@ INDI
+1 NAME Aagje Alpherts /van Schaik/
+2 TYPE birth
+2 GIVN Aagje Alpherts
+2 SPFX van
+2 SURN Schaik
+1 SEX F
+1 BIRT
+2 DATE 27 MAY 1695
+2 PLAC Benschop
+1 DEAT
+2 DATE 3 JUN 1695
+2 PLAC Benschop
+1 BAPM
+2 DATE 15 MAY 1628
+2 PLAC Lopikerkapel
+1 FAMS @F1074@
+1 NOTE @N1160@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 22:03:19
+0 @I2819@ INDI
+1 NAME Cornelis Adriaans /Amersfoorder/
+2 TYPE birth
+2 GIVN Cornelis Adriaans
+2 SURN Amersfoorder
+1 SEX M
+1 BAPM
+2 DATE 28 MAY 1663
+2 PLAC Benschop
+1 FAMC @F1074@
+2 PEDI birth
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 22:03:19
+0 @I2820@ INDI
+1 NAME Dirkje Adriaans /Amersfoorder/
+2 TYPE birth
+2 GIVN Dirkje Adriaans
+2 SURN Amersfoorder
+1 SEX F
+1 BIRT
+2 DATE EST 1665
+2 PLAC Benschop
+1 FAMC @F1074@
+2 PEDI birth
+1 NOTE @N1161@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 22:03:19
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -54237,10 +54636,15 @@
 1 HUSB @I2790@
 1 WIFE @I2791@
 1 CHIL @I2792@
+1 CHIL @I2795@
 1 CHIL @I2786@
+1 CHIL @I2798@
+1 CHIL @I2801@
+1 CHIL @I2804@
+1 CHIL @I2806@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 22:54:35
+2 DATE 24 JUL 2025
+3 TIME 21:08:26
 0 @F1062@ FAM
 1 HUSB @I2792@
 1 WIFE @I2793@
@@ -54248,6 +54652,102 @@
 1 CHAN
 2 DATE 23 JUL 2025
 3 TIME 22:59:28
+0 @F1063@ FAM
+1 HUSB @I2795@
+1 WIFE @I2796@
+1 CHIL @I2797@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 20:33:16
+0 @F1064@ FAM
+1 HUSB @I2798@
+1 WIFE @I2799@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 20:35:36
+0 @F1065@ FAM
+1 HUSB @I2800@
+1 WIFE @I2799@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 20:36:52
+0 @F1066@ FAM
+1 HUSB @I2801@
+1 WIFE @I2802@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:04:47
+0 @F1067@ FAM
+1 HUSB @I2801@
+1 WIFE @I2803@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:05:24
+0 @F1068@ FAM
+1 HUSB @I2804@
+1 WIFE @I2805@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:07:18
+0 @F1069@ FAM
+1 HUSB @I2807@
+1 WIFE @I2808@
+1 CHIL @I2809@
+1 CHIL @I2811@
+1 CHIL @I2378@
+1 CHIL @I2814@
+1 CHIL @I2817@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:56:16
+0 @F1070@ FAM
+1 HUSB @I2809@
+1 WIFE @I2810@
+1 MARR
+2 DATE 25 JAN 1646
+2 PLAC Benschop
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:25:10
+0 @F1071@ FAM
+1 HUSB @I2812@
+1 WIFE @I2811@
+1 MARR
+2 DATE 24 AUG 1645
+2 PLAC Lopik
+1 CHIL @I2813@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:42:11
+0 @F1072@ FAM
+1 HUSB @I2815@
+1 WIFE @I2814@
+1 MARR
+2 DATE 20 OCT 1650
+2 PLAC Lopik
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:51:21
+0 @F1073@ FAM
+1 HUSB @I2815@
+1 WIFE @I2816@
+1 MARR
+2 DATE 4 AUG 1638
+2 PLAC Lopik
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 21:52:40
+0 @F1074@ FAM
+1 HUSB @I2817@
+1 WIFE @I2818@
+1 MARR
+2 DATE 26 JAN 1662
+2 PLAC Benschop
+1 CHIL @I2819@
+1 CHIL @I2820@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 22:03:19
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -57055,6 +57555,220 @@
 1 CONC uwe van Jacob Cornelisz. Schoeman, zijn moeder, G fo. lv-3.
 1 CONT 23-2-1626: Glaude Willemsz. bij dode van Willem Glaudenz., zijn vader
 1 CONC , G fo. 153v-154v en fo. 174v-175v.
+0 @N1152@ NOTE 28-1-1565. Heijnrick Screvelsz doet op seggen Dirck Gorisz e.a. sul
+1 CONC cken willekoor als sij schuldich sijn (fol. 40)
+0 @N1153@ NOTE 11-12-1565. Jan Screvelsz heeft doen panden Dirck Gorisz voor 4 g
+1 CONC . 15 st. (fol. 56)
+1 CONT 
+1 CONT 46. 1,5 morgen land in Benschop op de noordzijde boven de kerk in een we
+1 CONC er van 6 morgen, (1546: waar nog 1 morgen heerlijk goed in ligt)'), waar
+1 CONC van erven Hein Neck (1526: erven Arnout Hendriksz;) 4l% morgen hebben, b
+1 CONC oven: Jan Heertgensz. en erven Hendrik Corstenz., beneden: erven Hein Ne
+1 CONC ck Hugenz. met 3 morgen leen, die zij met huis, kamer, getimmerte en geb
+1 CONC ouw voor Arnout Hendriksz. ten eigen kregen.
+1 CONT 17-10-1476: Arnout Hendriksz. bij opdracht aan Albert van Egmond voor d
+1 CONC e leenheer, 3 fo. 234, Nassaus Domein, 11, inv. 180.
+1 CONT 10-3-1505: Adriaan Arnoutsz. bij dode van Arnout Hendriksz., zijn vader
+1 CONC , 3fo. 234.
+1 CONT 5-3-1526: Nikolaas van Vuren Cornelisz. bij overdracht door Adriaan Arno
+1 CONC utsz., C fo. lv, 3 fo. 234.
+1 CONT 12-1-1543: Hendrik van Vuren bij dode van Nikolaas, zijn vader, C fo. Iv
+1 CONC , 3 fo. 234v en fo. 238.
+1 CONT 26-11-1546: Gerard Cornelisz. bij overdracht door Willem Arnoutsz. voo
+1 CONC r Klaasje, dochter van Hendrik Nikolaasz., omdat Hendrik van Vuren en Ad
+1 CONC riaan, diens zoon, beiden na de verkoop stierven, 3 fo. 234v-235 en fo
+1 CONC . 238.
+1 CONT 2-5-1563: Jan Gerard Cornelisz., H fo. 60 en fo. 63.
+1 CONT LO-3-1570:Nikolaas van Helmond, schout van IJsselstein, voor Marijke Ger
+1 CONC ardsd. bij dode van Jan Gerard Cornelisz., haar broer, D fo. 2-3, H fo
+1 CONC . 60 en fo. 63.
+1 CONT 16-1-1572: Jan Screvelsz. bij overdracht door Glaude van Hombruge voor M
+1 CONC arijke Gerardsd., diens vrouw, D fo. lov-12.
+1 CONT 24-9-1578: Jan van Vouderen voor Marijke Gerardsd., weduwe van Glaude va
+1 CONC n Hombruge, bij overdracht door Jans Screvelsz., D fo. 90-91.
+1 CONT a3-11-1607: Willem Glaudenz. bij overdracht door Marietje Gerardsd., wed
+1 CONC uwe van Jacob Cornelisz. Schoeman, zijn moeder, G fo. lv-3.
+1 CONT 23-2-1626: Glaude Willemsz. bij dode van Willem Glaudenz., zijn vader
+1 CONC , G fo. 153v-154v en fo. 174v-175v.
+0 @N1154@ NOTE 1126 p.56 4-11-1632
+1 CONT Comp. Voor schout en schepenen van Benscop ondergen. Claes Gorisz. won
+1 CONC . in deze gerechte en verwillecoirde voor hem en zijn erffgen. ten behoe
+1 CONC ve van Jan en Cornelis Gorisz., Jacob Amersfoorder en Cornelis Jans va
+1 CONC n Swoll elcq voor hemselve, mitsgaders Leendert Cornelisz. als vader e
+1 CONC n Jan Gorisz. voors- als oom en sulcx rechte bloetvoochden van 't naerge
+1 CONC late weeskind van Aentgen Gorisdr., sijns compts broeders en swagers e
+1 CONC n susterskindt, respectieve en derselve erven offte 't recht dezes vercr
+1 CONC ijge, (seecker vijff gerechte sesdepaerts van vier duijsent twee honder
+1 CONC t en twee en twintich car. gld. tesaemenen over coop van seeker vier mer
+1 CONC gen eijgenlandt, met huijs, berg schuijr bepotinge en beplantinge op ee
+1 CONC n gedeelte van die leggen indeze gheijte Thiens ) hij belooft te betalen
+1 CONC ...
+1 CONT 
+1 CONT Comp. Martijntgen Maertensdr wede van zalgr. Jacob Adriaen Egbertsz voo
+1 CONC r haer selve en voor de helft geassisteerd met Gillis Jacobsz haer oudst
+1 CONC e zoon en voogd in deze, mitsgaders voorn Gillis Jacobsz, Egbert Jacobsz
+1 CONC , Aert Jacobsz, Adriaen Jaconsz en Dirck Jacobsz ieder voor zich selven
+1 CONC , Dammas Cornelisz als vader en voorn Gillis Jacobsz als voogden over d
+1 CONC e onmondige nagelaten weeskinderen verweckt door Dammas bij Lijsgen Jaco
+1 CONC bsdr, mitsgaders Adriaen Dammasz en Jan Dammasz, Gerrit Jansz van Hombur
+1 CONC ch als man en voogd van Marrichjen Dammasdr en Fijchgen Dammasdr wede va
+1 CONC n Thonis Harmens gesterkt zijnde met voorn Adriaen Dammasz haar oudste b
+1 CONC roer met hun vieren mondige kinderen van Lijsgen Jacobsdr, Claes Thonis
+1 CONC z als man en voogd van Trijntgen Jacobsdr, mitsgaders Marrichjen Jacobsd
+1 CONC r en Heijltjen Jacobsdr, gesterk zijnde met Voorn Gillis Jacobsz haar ou
+1 CONC dste broerder en als voogd in deze, alle tesamen kinderen en kindskinder
+1 CONC en van voorn Jacob Adriaen Egbertsz voor de andere helft aan Jacob Adria
+1 CONC ensz Amerfoorder in Benschop een huijsgen en getimmerte met 4 mrg. landt
+1 CONC s staande en gelegen op de zuidzijde van Benschop beneden de kerk, strek
+1 CONC kende uit de halve Benschopper voorwetering tot de halve landscheidein
+1 CONC g van Lopik toe.
+1 CONT oostw de wede Peter Adriaensz Putten met 4 mrg. en westw Cornelis Adriae
+1 CONC nsz
+1 CONT Amersfoorder met 11½ mrg.
+1 CONT 
+1 CONT no. 1126-pak 56. d.8-6-1638 Jacob Adriaensz. Amersfoorder, ais principae
+1 CONC l, Frederick Adriaensz. Amersfoorder, en Claes Goris zun broeder en swag
+1 CONC er respective als borgen en mede ais principaal elcq van hen ais eijge
+1 CONC n propre schuldt voor f.1000, aan en t.b.v. Adriaen Jacobsz. en zijn erv
+1 CONC en.
+1 CONT 
+1 CONT 31-5-1657 Louw Chiels transport: al zijn roerende goederen 11127-1. fo12
+1 CONC 9,aan Jacob Ariensz. Amersfoorder. en zijn erven
+1 CONT 
+1 CONT fol. 121v, d. 5-2-1666 Gijsbert Joosten de Choole bekent schuidich te zi
+1 CONC jn t.b.v. Jacob Ariensz. Amersfoorder f.2000, -.
+0 @N1155@ NOTE fol.67 31-5-1666 Gerrit Petersz. bekent schuldich te zijn Aeltje Ja
+1 CONC cobs Amersfoorder Wede v. zalr. Amel Andriese v.d. Heede, als moeder e
+1 CONC n voogdesse van Andries Amelsz. v.d. Heeden haer zoon en t.b.v. hem de s
+1 CONC om. van f.1750,
+0 @N1156@ NOTE fol.67 31-5-1666 Gerrit Petersz. bekent schuldich te zijn Aeltje Ja
+1 CONC cobs Amersfoorder Wede v. zalr. Amel Andriese v.d. Heede, als moeder e
+1 CONC n voogdesse van Andries Amelsz. v.d. Heeden haer zoon en t.b.v. hem de s
+1 CONC om. van f.1750,
+0 @N1157@ NOTE fol.67 31-5-1666 Gerrit Petersz. bekent schuldich te zijn Aeltje Ja
+1 CONC cobs Amersfoorder Wede v. zalr. Amel Andriese v.d. Heede, als moeder e
+1 CONC n voogdesse van Andries Amelsz. v.d. Heeden haer zoon en t.b.v. hem de s
+1 CONC om. van f.1750,
+1 CONT 
+1 CONT 1127-2
+1 CONT 17-1-1701
+1 CONT Testament van Andries Amelis van der Heden Oud-Burgemr. van Benschop won
+1 CONC . Zuijdzijde, boven de Kerk aldaer, en zijn huysvrouwe Magdalena Andries
+1 CONC e. Hij is ziek en steld voogden: Gerrit en Cornelis Andrieszn. van Rietv
+1 CONC eld,broeders van haer.
+0 @N1158@ NOTE Procuratie - om met Jan Louwen en de overige mede-erfgenamen de boe
+1 CONC del van Jan Cornelis Joosten Romain te scheiden en aflossingen en kooppe
+1 CONC nningen te innen
+1 CONT Datering: 13-11-1653
+1 CONT Aktenummer: 110
+1 CONT Datum: 13-11-1653
+1 CONT Soort akte: Procuratie
+1 CONT Samenvatting: om met Jan Louwen en de overige mede-erfgenamen de boede
+1 CONC l van Jan Cornelis Joosten Romain te scheiden en aflossingen en kooppenn
+1 CONC ingen te innen
+1 CONT Notaris: J. VAN SNELDERWEERT
+1 CONT Personen:
+1 CONT Constituant: (klein)kinderen van Cornelis Janss Coyman en Jannichgen Her
+1 CONC berts, in leven echtelieden:
+1 CONT Constituant: Herbert Corneliss Coyman
+1 CONT Woonplaats: Lopick
+1 CONT Constituant: Claes Janss Straver
+1 CONT Echtgenoot: x Cuyntgen Cornelis Coymans
+1 CONT Constituant: onmundige kinderen van Jan Andriess en Maria Cornelis, in l
+1 CONC even echtelieden:
+1 CONT Constituant: Andries Janss
+1 CONT Constituant: Beatricx Jans
+1 CONT Geconstitueerde: Luduwyck van Milligen
+1 CONT Echtgenoot: x Stephania van Rietvelt, dochter van Steven Adriaenss van R
+1 CONC ietvelt en Maria Jans Romain
+1 CONT Beroep: goutsmith
+1 CONT Woonplaats: Utrecht
+1 CONT Aktedatum: 13-11-1653
+1 CONT Herbert Cornelisz Coijman wonende in Lopik voor hemzelven en hem sterckm
+1 CONC aeckende en de rato caverende voor Claes Jansz Straver als man en vooch
+1 CONC t van Cuijntgen Cornelis Koijmans, mitsgaders voor Andries Jansz en Beat
+1 CONC rix Jans, onmundige nagelaten kinderen van Jan Andriesz en Maria Corneli
+1 CONC s in haer leven echteluijden, te samen kinderen, swagers en kintskindere
+1 CONC n van sal. Cornelis Jansz Coijman en Jannichgen Herberts gewesene echtel
+1 CONC uijden, ende oversulcx voor een vierde partie erffgenamen van sal. Jan C
+1 CONC ornelis Joosten Romain, in sijn leven meer gewoont hebbende in Lopick vo
+1 CONC orsz. en gestorven op Heijcop, ende verclaerden sij comparanten in die
+1 CONC r qualitate geconstitueert en machtich gemaeckt te hebben als sij doen b
+1 CONC ij desen Luduwijck van Milligen goutsmith deser stadts borger als man e
+1 CONC n voocht van Stephania van Rietvelt, dochter van sal. Steven Adriaensz v
+1 CONC an Rietvelt en Maria Jans Romain nagel. dochter van den voorsz. Jan Corn
+1 CONC elis Joosten Romain, welcken Milligen cum suis voor een tweede vierde pa
+1 CONC rtie erffgenaem is van den voorsz. Jan Cornelis Joosten Romain, special
+1 CONC . omme ... te vorderen ende procederen met Jan Louwen ... tot schiftinge
+1 CONC , scheijdinge en deijlinge van de goederen ende nalatenschap bij de voor
+1 CONC sz. Jan Cornelis Joosten Romain nagelaten, ende daarmee voorts met de er
+1 CONC fgenamen van de twee andere staecken te procederen ...
+1 CONT Toegangsnummer: 34-4 Notarissen in de stad Utrecht 1560-1905
+1 CONT Inventarisnummer: U046a001
+0 @N1159@ NOTE 8-6-1668 Cornelis Wiiiemsz. Lamme te Benschop bekent schuidich t-z
+1 CONC . Arien Jacobsz. Amersfoorder en Aechjen Aiphertsdr. van Schaick de so
+1 CONC m v. f.2000, -.
+1 CONT 
+1 CONT Akte inv.nr. U93a19, aktenr. 47, d.d. 21-11-1690
+1 CONT Aktesoort Huwelijkse voorwaarden
+1 CONT Notaris H. VAN WOUDENBERGH, UTRECHT
+1 CONT Uittreksel:
+1 CONT Naam eerste partij: Antoni Verlaer
+1 CONT Woonplaats eerste partij: buyten Tollesteechpoort
+1 CONT Naam tweede partij: Dirckien Aerts den Amersfoorder
+1 CONT Naam assistent tweede partij: ass.: Eychien Alpherts van Schayck, moeder
+1 CONT Naam echtgenote assistent: gehuwd met Cornelis Andriess Rietvelt
+0 @N1160@ NOTE Lidmaat op belijdenis te Lopikercapel 15-4-1655.
+1 CONT 
+1 CONT 8-6-1668 Cornelis Wiiiemsz. Lamme te Benschop bekent schuidich t-z. Arie
+1 CONC n Jacobsz. Amersfoorder en Aechjen Aiphertsdr. van Schaick de som v. f.2
+1 CONC 000, -.
+1 CONT 
+1 CONT 6. fol. 23v, d.d. 10-4-1677
+1 CONT Jan Cornelisz. van Swoll, schepen; Jannichje Aerts Schinckel, wedu van z
+1 CONC alr. Willem Aerts de Lange, won. Benschop, mitsgaders Aert Willems de La
+1 CONC nge, oudste zoon, alsmede voor Aeffje Willems de Lange, Jan Willems de L
+1 CONC ange en Jacob Willems de Lange, verwillecoerden Cornelis Andriesse van R
+1 CONC ietvelt geh. met Aechje Alphers van Schayk, de somme van 400 car.gld.
+1 CONT 
+1 CONT Akte inv.nr. U93a19, aktenr. 47, d.d. 21-11-1690
+1 CONT Aktesoort Huwelijkse voorwaarden
+1 CONT Notaris H. VAN WOUDENBERGH, UTRECHT
+1 CONT Uittreksel:
+1 CONT Naam eerste partij: Antoni Verlaer
+1 CONT Woonplaats eerste partij: buyten Tollesteechpoort
+1 CONT Naam tweede partij: Dirckien Aerts den Amersfoorder
+1 CONT Naam assistent tweede partij: ass.: Eychien Alpherts van Schayck, moeder
+1 CONT Naam echtgenote assistent: gehuwd met Cornelis Andriess Rietvelt
+0 @N1161@ NOTE Akte inv.nr. U93a19, aktenr. 47, d.d. 21-11-1690
+1 CONT Aktesoort Huwelijkse voorwaarden
+1 CONT Notaris H. VAN WOUDENBERGH, UTRECHT
+1 CONT Uittreksel:
+1 CONT Naam eerste partij: Antoni Verlaer
+1 CONT Woonplaats eerste partij: buyten Tollesteechpoort
+1 CONT Naam tweede partij: Dirckien Aerts den Amersfoorder
+1 CONT Naam assistent tweede partij: ass.: Eychien Alpherts van Schayck, moeder
+1 CONT Naam echtgenote assistent: gehuwd met Cornelis Andriess Rietvelt
+1 CONT 
+1 CONT Akte Inventarisnummer U113a2, aktenummer 321
+1 CONT Aktedatum 05-08-1699
+1 CONT Aktesoort Borgtocht
+1 CONT Notaris C. DE COOLE ,UTRECHT
+1 CONT Uittreksel Naam eerste partij: Anthoni Verlaer
+1 CONT Naam echtgenote eerste partij: wedr. Dirckyen den Amersfoorder
+1 CONT Naam tweede partij: Andries van Rietvelt, zwager, zoon van Cornelis Andr
+1 CONC iess van Rietvelt
+1 CONT Samenvatting inhoud akte: voor kapitaal van f 3000,- waaraan Antoni Verl
+1 CONC aer de lyftocht heeft
+1 CONT Verwijzingen: condemnatie d.d. 18-9-1697 van het gerecht van Utrecht
+1 CONT Bijzonderheden: Andries van Rietvelt is enige erfgenaam van Dirckyen de
+1 CONC n Amersfoorder
+1 CONT Bijzonderheden: met zekerstelling van onroerend goed in Benschop en Lopi
+1 CONC kerkapel
+1 CONT Bijzonderheden: met registratie van akkoord van d.d. 13-2-1709 voor nota
+1 CONC ris J Staal, waarin Aletta van Zeventer, Willem van der Schilden, word
+1 CONC t gekwiteerd door de gemachtigde van Andries van Rietvelt voor een bedra
+1 CONC g van f 2335,- 
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
