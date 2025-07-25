@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 24 JUL 2025
-2 TIME 22:41:36
+1 DATE 26 JUL 2025
+2 TIME 01:15:09
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2025 .
@@ -43692,8 +43692,8 @@
 1 FAMS @F1052@
 1 NOTE @N1148@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 22:05:46
+2 DATE 25 JUL 2025
+3 TIME 17:59:00
 0 @I2775@ INDI
 1 NAME Claude Gijsberts /Verburg/
 2 TYPE birth
@@ -44147,11 +44147,13 @@
 1 DEAT
 2 DATE 31 OCT 1670
 2 PLAC Benschop
+1 FAMC @F1075@
+2 PEDI birth
 1 FAMS @F1069@
 1 NOTE @N1154@
 1 CHAN
-2 DATE 24 JUL 2025
-3 TIME 21:19:39
+2 DATE 25 JUL 2025
+3 TIME 17:51:00
 0 @I2808@ INDI
 1 NAME Niesje Gorisdr /Boef/
 2 TYPE birth
@@ -44161,10 +44163,12 @@
 1 DEAT
 2 DATE 18 MAR 1673
 2 PLAC Benschop
+1 FAMC @F1081@
+2 PEDI birth
 1 FAMS @F1069@
 1 CHAN
-2 DATE 24 JUL 2025
-3 TIME 21:19:39
+2 DATE 26 JUL 2025
+3 TIME 00:01:56
 0 @I2809@ INDI
 1 NAME Goris Jacobs /Amersfoorder/
 2 TYPE birth
@@ -44373,6 +44377,717 @@
 1 CHAN
 2 DATE 24 JUL 2025
 3 TIME 22:03:19
+0 @I2821@ INDI
+1 NAME Adriaan Willems /Amersfoorder/
+2 TYPE birth
+2 GIVN Adriaan Willems
+2 SURN Amersfoorder
+1 SEX M
+1 BIRT
+2 DATE EST 1570
+1 DEAT
+2 DATE 1626
+1 BURI
+2 PLAC Benschop
+1 FAMS @F1075@
+1 NOTE @N1163@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 22:48:38
+0 @I2822@ INDI
+1 NAME Harmpje /Cornelisdr/
+2 TYPE birth
+2 GIVN Harmpje
+2 SURN Cornelisdr
+1 SEX F
+1 BIRT
+2 DATE EST 1575
+1 FAMS @F1075@
+1 NOTE @N1162@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 22:48:38
+0 @I2823@ INDI
+1 NAME Cornelis Adriaans /Amersfoorder/
+2 TYPE birth
+2 GIVN Cornelis Adriaans
+2 SURN Amersfoorder
+1 SEX M
+1 BIRT
+2 DATE EST 1610
+2 PLAC Benschop
+1 DEAT
+2 DATE BEF 1662
+1 FACT Landbouwer ?
+2 TYPE Occupation
+1 FAMC @F1075@
+2 PEDI birth
+1 FAMS @F1076@
+1 FAMS @F1077@
+1 NOTE @N1164@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 17:51:00
+0 @I2824@ INDI
+1 NAME Maaike Hendriks /de Lange/
+2 TYPE birth
+2 GIVN Maaike Hendriks
+2 SPFX de
+2 SURN Lange
+1 SEX F
+1 DEAT
+2 DATE BEF 1630
+1 FAMS @F1076@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 23:26:11
+0 @I2825@ INDI
+1 NAME Adriaan Cornelisz /Amersfoorder/
+2 TYPE birth
+2 GIVN Adriaan Cornelisz
+2 SURN Amersfoorder
+1 SEX M
+1 FAMC @F1076@
+2 PEDI birth
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 23:26:11
+0 @I2826@ INDI
+1 NAME Jan Cornelisz /Amersfoorder/
+2 TYPE birth
+2 GIVN Jan Cornelisz
+2 SURN Amersfoorder
+1 SEX M
+1 FAMC @F1076@
+2 PEDI birth
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 23:26:11
+0 @I2827@ INDI
+1 NAME Theuntje Pieters /van den Donk/
+2 TYPE birth
+2 GIVN Theuntje Pieters
+2 SPFX van den
+2 SURN Donk
+1 SEX F
+1 DEAT
+2 DATE AFT 1662
+1 FAMS @F1077@
+1 NOTE @N1165@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 23:30:02
+0 @I2828@ INDI
+1 NAME Marrigje Cornelisdr /Amersfoorder/
+2 TYPE birth
+2 GIVN Marrigje Cornelisdr
+2 SURN Amersfoorder
+1 SEX F
+1 BIRT
+2 DATE EST 1640
+2 PLAC Willeskop
+1 DEAT
+2 DATE BEF 17 FEB 1678
+1 FAMC @F1077@
+2 PEDI birth
+1 NOTE @N1166@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 23:30:02
+0 @I2829@ INDI
+1 NAME Frederik Adriaans /Amersfoorder/
+2 TYPE birth
+2 GIVN Frederik Adriaans
+2 SURN Amersfoorder
+1 SEX M
+1 BIRT
+2 DATE EST 1600
+1 DEAT
+2 DATE 1641
+2 PLAC Benschop
+1 BURI
+2 DATE 7 MAR 1641
+1 FAMC @F1075@
+2 PEDI birth
+1 FAMS @F1078@
+1 FAMS @F1080@
+1 NOTE @N1167@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 19:04:56
+0 @I2830@ INDI
+1 NAME Anthonia /Theunisdr/
+2 TYPE birth
+2 GIVN Anthonia
+2 SURN Theunisdr
+1 SEX F
+1 DEAT
+2 DATE BEF 11 JAN 1635
+1 FAMS @F1078@
+1 FAMS @F1079@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 18:00:28
+0 @I2831@ INDI
+1 NAME Jan Claudesz /Hombruge/
+2 TYPE birth
+2 GIVN Jan Claudesz
+2 SURN Hombruge
+1 SEX M
+1 BIRT
+2 DATE 1571
+2 PLAC Benschop
+1 DEAT
+2 DATE BEF 20 MAY 1610
+2 PLAC Benschop
+1 FAMC @F1054@
+2 PEDI birth
+1 FAMS @F1079@
+1 NOTE @N1168@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 18:00:28
+0 @I2832@ INDI
+1 NAME Cornelis Frederiks /Amersfoorder/
+2 TYPE birth
+2 GIVN Cornelis Frederiks
+2 SURN Amersfoorder
+1 SEX M
+1 BIRT
+2 DATE EST 1625
+1 FAMC @F1078@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 19:00:22
+0 @I2833@ INDI
+1 NAME Annigje Frederiks /Amersfoorder/
+2 TYPE birth
+2 GIVN Annigje Frederiks
+2 SURN Amersfoorder
+1 SEX F
+1 BIRT
+2 DATE EST 1630
+1 FAMC @F1078@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 19:00:22
+0 @I2834@ INDI
+1 NAME Theuntje /Cornelisdr/
+2 TYPE birth
+2 GIVN Theuntje
+2 SURN Cornelisdr
+1 SEX F
+1 FAMS @F1080@
+1 NOTE @N1169@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 19:04:56
+0 @I2835@ INDI
+1 NAME Annigje Frederiks /Amersfoorder/
+2 TYPE birth
+2 GIVN Annigje Frederiks
+2 SURN Amersfoorder
+1 SEX F
+1 BAPM
+2 DATE 21 JUN 1648
+2 PLAC Benschop
+1 FAMC @F1080@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 19:04:56
+0 @I2836@ INDI
+1 NAME Lijsbeth Frederiks /Amersfoorder/
+2 TYPE birth
+2 GIVN Lijsbeth Frederiks
+2 SURN Amersfoorder
+1 SEX F
+1 BAPM
+2 DATE 26 NOV 1648
+2 PLAC Benschop
+1 FAMC @F1080@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 19:04:56
+0 @I2837@ INDI
+1 NAME Goris Cornelisz /Boef/
+2 TYPE birth
+2 GIVN Goris Cornelisz
+2 SURN Boef
+1 SEX M
+1 BIRT
+2 DATE EST 1541
+1 DEAT
+2 DATE BEF 30 MAY 1621
+1 FAMC @F1089@
+2 PEDI birth
+1 FAMS @F1081@
+1 NOTE @N1170@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 23:53:36
+0 @I2838@ INDI
+1 NAME Jannigje /Cornelisdr/
+2 TYPE birth
+2 GIVN Jannigje
+2 SURN Cornelisdr
+1 SEX F
+1 BIRT
+2 DATE EST 1545
+1 DEAT
+2 DATE BEF 22 APR 1632
+2 PLAC Benschop
+1 FAMS @F1081@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 20:22:30
+0 @I2839@ INDI
+1 NAME Jan Gorisz /Boef/
+2 TYPE birth
+2 GIVN Jan Gorisz
+2 SURN Boef
+1 SEX M
+1 BIRT
+2 DATE EST 1580
+1 FAMC @F1081@
+2 PEDI birth
+1 NOTE @N1171@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:01:56
+0 @I2840@ INDI
+1 NAME Cornelis Gorisz /Boef/
+2 TYPE birth
+2 GIVN Cornelis Gorisz
+2 SURN Boef
+1 SEX M
+1 BIRT
+2 DATE EST 1595
+2 PLAC Benschop
+1 FAMC @F1081@
+2 PEDI birth
+1 FAMS @F1082@
+1 NOTE @N1172@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:01:56
+0 @I2841@ INDI
+1 NAME Marrigje Cornelis /Jans/
+2 TYPE birth
+2 GIVN Marrigje Cornelis
+2 SURN Jans
+1 SEX F
+1 BIRT
+2 PLAC Cabauw
+1 FAMS @F1082@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:05:36
+0 @I2842@ INDI
+1 NAME Elisabeth Cornelisdr /Boef/
+2 TYPE birth
+2 GIVN Elisabeth Cornelisdr
+2 SURN Boef
+1 SEX F
+1 BIRT
+2 PLAC Benschop
+1 DEAT
+2 DATE BEF 4 NOV 1692
+1 FAMC @F1082@
+2 PEDI birth
+1 FAMS @F1083@
+1 FAMS @F1084@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:39:41
+0 @I2843@ INDI
+1 NAME Jan Jans /Blok/
+2 TYPE birth
+2 GIVN Jan Jans
+2 SURN Blok
+1 SEX M
+1 BIRT
+2 DATE EST 1640
+2 PLAC Achtersloot
+1 FAMS @F1083@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:13:04
+0 @I2844@ INDI
+1 NAME Pieter Claasz /Boef/
+2 TYPE birth
+2 GIVN Pieter Claasz
+2 SURN Boef
+1 SEX M
+1 BIRT
+2 PLAC Benschop
+1 DEAT
+2 DATE AFT 1699
+1 FAMC @F1088@
+2 PEDI birth
+1 FAMS @F1084@
+1 NOTE @N1173@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:49:44
+0 @I2845@ INDI
+1 NAME Goris Cornelisz /Boef/
+2 TYPE birth
+2 GIVN Goris Cornelisz
+2 SURN Boef
+1 SEX M
+1 BIRT
+2 DATE 2 APR 1621
+2 PLAC Lopik
+1 FAMC @F1082@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:39:41
+0 @I2846@ INDI
+1 NAME Neeltje Cornelisdr /Boef/
+2 TYPE birth
+2 GIVN Neeltje Cornelisdr
+2 SURN Boef
+1 SEX F
+1 BIRT
+2 DATE EST 1625
+2 PLAC Benschop
+1 FAMC @F1082@
+2 PEDI birth
+1 FAMS @F1085@
+1 FAMS @F1086@
+1 FAMS @F1087@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:39:41
+0 @I2847@ INDI
+1 NAME Aart //
+2 TYPE birth
+2 GIVN Aart
+1 SEX M
+1 FAMS @F1085@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:32:04
+0 @I2848@ INDI
+1 NAME Hendrik Pellen /Verveer/
+2 TYPE birth
+2 GIVN Hendrik Pellen
+2 SURN Verveer
+1 SEX M
+1 FAMS @F1086@
+1 NOTE @N1174@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:33:52
+0 @I2849@ INDI
+1 NAME Jacob Jans /Koomen/
+2 TYPE birth
+2 GIVN Jacob Jans
+2 SURN Koomen
+1 SEX M
+1 BIRT
+2 DATE EST 1630
+1 FAMS @F1087@
+1 NOTE @N1175@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:36:24
+0 @I2850@ INDI
+1 NAME Jannigje Cornelisdr /Boef/
+2 TYPE birth
+2 GIVN Jannigje Cornelisdr
+2 SURN Boef
+1 SEX F
+1 BIRT
+2 DATE EST 1635
+1 FAMC @F1082@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:39:41
+0 @I2851@ INDI
+1 NAME Claas Gorisz /Boef/
+2 TYPE birth
+2 GIVN Claas Gorisz
+2 SURN Boef
+1 SEX M
+1 BIRT
+2 DATE BEF 1613
+1 DEAT
+2 DATE 8 MAY 1677
+2 PLAC Benschop
+1 BURI
+2 DATE 14 MAY 1677
+2 PLAC Benschop
+1 FAMC @F1081@
+2 PEDI birth
+1 FAMS @F1088@
+1 NOTE @N1176@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:01:56
+0 @I2852@ INDI
+1 NAME Jannigje /Pieters/
+2 TYPE birth
+2 GIVN Jannigje
+2 SURN Pieters
+1 SEX F
+1 FAMS @F1088@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:48:58
+0 @I2853@ INDI
+1 NAME Goris Claasz /Boef/
+2 TYPE birth
+2 GIVN Goris Claasz
+2 SURN Boef
+1 SEX M
+1 BIRT
+2 DATE EST 1635
+2 PLAC Benschop
+1 DEAT
+2 DATE AFT 1699
+1 FAMC @F1088@
+2 PEDI birth
+1 NOTE @N1177@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:49:44
+0 @I2854@ INDI
+1 NAME Arie Claasz /Boef/
+2 TYPE birth
+2 GIVN Arie Claasz
+2 SURN Boef
+1 SEX M
+1 FAMC @F1088@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:49:44
+0 @I2855@ INDI
+1 NAME Cornelis Dirks /Boef/
+2 TYPE birth
+2 GIVN Cornelis Dirks
+2 SURN Boef
+1 SEX M
+1 BIRT
+2 DATE 1499
+1 DEAT
+2 DATE AFT 27 JUN 1576
+1 FAMS @F1089@
+1 NOTE @N1178@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:57:53
+0 @I2856@ INDI
+1 NAME Geertruij /Aarts/
+2 TYPE birth
+2 GIVN Geertruij
+2 SURN Aarts
+1 SEX F
+1 BIRT
+2 DATE EST 1505
+1 DEAT
+2 DATE BEF 20 APR 1577
+2 PLAC Benschop
+1 FAMC @F1093@
+2 PEDI birth
+1 FAMS @F1089@
+1 NOTE @N1179@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:16:08
+0 @I2857@ INDI
+1 NAME Jan /Cornelisz/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Cornelisz
+1 SEX M
+1 BIRT
+2 DATE EST 1531
+1 DEAT
+2 DATE AFT 18 APR 1576
+1 FAMC @F1089@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 23:53:36
+0 @I2858@ INDI
+1 NAME Pieter /Cornelisz/
+2 TYPE birth
+2 GIVN Pieter
+2 SURN Cornelisz
+1 SEX M
+1 DEAT
+2 DATE AFT 3 MAY 1564
+1 FAMC @F1089@
+2 PEDI birth
+1 NOTE @N1180@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 23:53:36
+0 @I2859@ INDI
+1 NAME Margriet /Cornelisdr/
+2 TYPE birth
+2 GIVN Margriet
+2 SURN Cornelisdr
+1 SEX F
+1 BIRT
+2 DATE EST 1535
+1 DEAT
+2 DATE AFT 4 APR 1576
+1 FAMC @F1089@
+2 PEDI birth
+1 FAMS @F1090@
+1 NOTE @N1181@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 23:56:10
+0 @I2860@ INDI
+1 NAME Cornelis Cornelisz /Trip/
+2 TYPE birth
+2 GIVN Cornelis Cornelisz
+2 SURN Trip
+1 SEX M
+1 FAMS @F1090@
+1 NOTE @N1182@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 23:56:10
+0 @I2861@ INDI
+1 NAME Jannigje Gorisdr /Boef/
+2 TYPE birth
+2 GIVN Jannigje Gorisdr
+2 SURN Boef
+1 SEX F
+1 DEAT
+2 DATE 18 MAR 1673
+2 PLAC Benschop
+1 FAMC @F1081@
+2 PEDI birth
+1 FAMS @F1091@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:01:56
+0 @I2862@ INDI
+1 NAME Cornelis Jans /van Swol/
+2 TYPE birth
+2 GIVN Cornelis Jans
+2 SPFX van
+2 SURN Swol
+1 SEX M
+1 FAMS @F1091@
+1 NOTE @N1183@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 23:58:41
+0 @I2863@ INDI
+1 NAME Aantje Gorisdr /Boef/
+2 TYPE birth
+2 GIVN Aantje Gorisdr
+2 SURN Boef
+1 SEX F
+1 DEAT
+2 DATE BEF 4 APR 1632
+1 FAMC @F1081@
+2 PEDI birth
+1 FAMS @F1092@
+1 NOTE @N1184@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:03:05
+0 @I2864@ INDI
+1 NAME Leendert /Cornelisz/
+2 TYPE birth
+2 GIVN Leendert
+2 SURN Cornelisz
+1 SEX M
+1 FAMS @F1092@
+1 NOTE @N1185@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:03:05
+0 @I2865@ INDI
+1 NAME Aart /Willems/
+2 TYPE birth
+2 GIVN Aart
+2 SURN Willems
+1 SEX M
+1 BIRT
+2 DATE EST 1470
+1 FACT Gezworene (1549)
+2 TYPE Occupation
+1 FACT substituut-schout (1557, 1560)
+2 TYPE Occupation
+1 FACT heilige geestmeester (1557)
+2 TYPE Occupation
+1 FACT kerkmeester (1562) te Benschop
+2 TYPE Occupation
+1 FAMS @F1093@
+1 FAMS @F1094@
+1 NOTE @N1186@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:19:28
+0 @I2866@ INDI
+1 NAME Marrigje //
+2 TYPE birth
+2 GIVN Marrigje
+1 SEX F
+1 FAMS @F1093@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:15:15
+0 @I2867@ INDI
+1 NAME Lijsbeth /Aarts/
+2 TYPE birth
+2 GIVN Lijsbeth
+2 SURN Aarts
+1 SEX F
+1 FAMC @F1093@
+2 PEDI birth
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:16:08
+0 @I2868@ INDI
+1 NAME Margriet //
+2 TYPE birth
+2 GIVN Margriet
+1 SEX F
+1 FAMS @F1094@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:19:28
+0 @I2869@ INDI
+1 NAME Willem /Aarts/
+2 TYPE birth
+2 GIVN Willem
+2 SURN Aarts
+1 SEX M
+1 BIRT
+2 DATE EST 1490
+1 FAMC @F1094@
+2 PEDI birth
+1 NOTE @N1187@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:19:28
+0 @I2870@ INDI
+1 NAME Pieter /Aarts/
+2 TYPE birth
+2 GIVN Pieter
+2 SURN Aarts
+1 SEX M
+1 FAMC @F1094@
+2 PEDI birth
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:19:28
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -54584,10 +55299,11 @@
 1 MARR
 2 DATE 1570
 2 PLAC Benschop
+1 CHIL @I2831@
 1 CHIL @I2774@
 1 CHAN
-2 DATE 23 JUL 2025
-3 TIME 22:01:25
+2 DATE 25 JUL 2025
+3 TIME 17:59:00
 0 @F1055@ FAM
 1 HUSB @I2775@
 1 WIFE @I2779@
@@ -54748,6 +55464,175 @@
 1 CHAN
 2 DATE 24 JUL 2025
 3 TIME 22:03:19
+0 @F1075@ FAM
+1 HUSB @I2821@
+1 WIFE @I2822@
+1 CHIL @I2807@
+1 CHIL @I2823@
+1 CHIL @I2829@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 17:51:00
+0 @F1076@ FAM
+1 HUSB @I2823@
+1 WIFE @I2824@
+1 CHIL @I2825@
+1 CHIL @I2826@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 23:26:11
+0 @F1077@ FAM
+1 HUSB @I2823@
+1 WIFE @I2827@
+1 CHIL @I2828@
+1 CHAN
+2 DATE 24 JUL 2025
+3 TIME 23:30:02
+0 @F1078@ FAM
+1 HUSB @I2829@
+1 WIFE @I2830@
+1 CHIL @I2832@
+1 CHIL @I2833@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 19:00:22
+0 @F1079@ FAM
+1 HUSB @I2831@
+1 WIFE @I2830@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 18:00:28
+0 @F1080@ FAM
+1 HUSB @I2829@
+1 WIFE @I2834@
+1 MARR
+2 DATE 31 MAR 1639
+2 PLAC Lopikerkapel
+1 CHIL @I2835@
+1 CHIL @I2836@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 19:04:56
+0 @F1081@ FAM
+1 HUSB @I2837@
+1 WIFE @I2838@
+1 CHIL @I2839@
+1 CHIL @I2840@
+1 CHIL @I2851@
+1 CHIL @I2808@
+1 CHIL @I2861@
+1 CHIL @I2863@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:01:56
+0 @F1082@ FAM
+1 HUSB @I2840@
+1 WIFE @I2841@
+1 MARR
+2 DATE 7 MAR 1619
+2 PLAC Lopik
+1 CHIL @I2842@
+1 CHIL @I2845@
+1 CHIL @I2846@
+1 CHIL @I2850@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:39:41
+0 @F1083@ FAM
+1 HUSB @I2843@
+1 WIFE @I2842@
+1 MARR
+2 DATE 9 JUN 1667
+2 PLAC Benschop
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:13:04
+0 @F1084@ FAM
+1 HUSB @I2844@
+1 WIFE @I2842@
+1 MARR
+2 DATE 15 FEB 1685
+2 PLAC Benschop
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:18:42
+0 @F1085@ FAM
+1 HUSB @I2847@
+1 WIFE @I2846@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:32:04
+0 @F1086@ FAM
+1 HUSB @I2848@
+1 WIFE @I2846@
+1 MARR
+2 DATE 19 JUN 1653
+2 PLAC Benschop
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:33:52
+0 @F1087@ FAM
+1 HUSB @I2849@
+1 WIFE @I2846@
+1 MARR
+2 DATE 17 MAR 1678
+2 PLAC Jaarsveld
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:36:24
+0 @F1088@ FAM
+1 HUSB @I2851@
+1 WIFE @I2852@
+1 CHIL @I2853@
+1 CHIL @I2844@
+1 CHIL @I2854@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 21:49:44
+0 @F1089@ FAM
+1 HUSB @I2855@
+1 WIFE @I2856@
+1 CHIL @I2857@
+1 CHIL @I2858@
+1 CHIL @I2859@
+1 CHIL @I2837@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 23:53:36
+0 @F1090@ FAM
+1 HUSB @I2860@
+1 WIFE @I2859@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 23:56:10
+0 @F1091@ FAM
+1 HUSB @I2862@
+1 WIFE @I2861@
+1 CHAN
+2 DATE 25 JUL 2025
+3 TIME 23:58:41
+0 @F1092@ FAM
+1 HUSB @I2864@
+1 WIFE @I2863@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:03:05
+0 @F1093@ FAM
+1 HUSB @I2865@
+1 WIFE @I2866@
+1 CHIL @I2856@
+1 CHIL @I2867@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:16:08
+0 @F1094@ FAM
+1 HUSB @I2865@
+1 WIFE @I2868@
+1 CHIL @I2869@
+1 CHIL @I2870@
+1 CHAN
+2 DATE 26 JUL 2025
+3 TIME 00:19:28
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -57769,6 +58654,484 @@
 1 CONC ris J Staal, waarin Aletta van Zeventer, Willem van der Schilden, word
 1 CONC t gekwiteerd door de gemachtigde van Andries van Rietvelt voor een bedra
 1 CONC g van f 2335,- 
+0 @N1162@ NOTE f163 9-3-1591
+1 CONT Adriaen Willemsz. van Amersfoort als man en voocht van Harmgen, Frederic
+1 CONC k Jansz weduwe, koopt van Cornelis Joosten en Sophia Cornelisdr. echtelu
+1 CONC ijden den vreyen eijgendom van 2 mergen lants met de helft van huys, ho
+1 CONC f en berch daerop staende, liggende in een weer van 10 mergen op de noor
+1 CONC tsijde van Benscop, beneden de kerk, daer Jacob Aelbertsz, met 4 merge
+1 CONC n lants voor, en Adriaen Hendricks met 8 mergen naest gelant is. Beken
+1 CONC t mede van sijn huijsvrouws vaders erffenisse wel voldaen en betaelt t
+1 CONC e zijn.
+0 @N1163@ NOTE f163 9-3-1591
+1 CONT Adriaen Willemsz. van Amersfoort als man en voocht van Harmgen, Frederic
+1 CONC k Jansz weduwe, koopt van Cornelis Joosten en Sophia Cornelisdr. echtelu
+1 CONC ijden den vreyen eijgendom van 2 mergen lants met de helft van huys, ho
+1 CONC f en berch daerop staende, liggende in een weer van 10 mergen op de noor
+1 CONC tsijde van Benscop, beneden de kerk, daer Jacob Aelbertsz, met 4 merge
+1 CONC n lants voor, en Adriaen Hendricks met 8 mergen naest gelant is. Beken
+1 CONC t mede van sijn huijsvrouws vaders erffenisse wel voldaen en betaelt t
+1 CONC e zijn.
+1 CONT 
+1 CONT 1126 p56 f24
+1 CONT 22-6-1600
+1 CONT Adriaen Willemsz Amersfoorder bekent schuldich te wesen Claertjen Aelber
+1 CONC tsdr. f.450,-
+1 CONT 
+1 CONT 1126 p.54 ca 1619/20
+1 CONT Arien de Amersfoorder, als bruijcker op de noortsijde van Benscop benede
+1 CONC n de Kerck...
+0 @N1164@ NOTE Comp. Martijntgen Maertensdr wede van zalgr. Jacob Adriaen Egberts
+1 CONC z voor haer selve en voor de helft geassisteerd met Gillis Jacobsz hae
+1 CONC r oudste zoon en voogd in deze, mitsgaders voorn Gillis Jacobsz, Egber
+1 CONC t Jacobsz, Aert Jacobsz, Adriaen Jaconsz en Dirck Jacobsz ieder voor zic
+1 CONC h selven, Dammas Cornelisz als vader en voorn Gillis Jacobsz als voogde
+1 CONC n over de onmondige nagelaten weeskinderen verweckt door Dammas bij Lijs
+1 CONC gen Jacobsdr, mitsgaders Adriaen Dammasz en Jan Dammasz, Gerrit Jansz va
+1 CONC n Homburch als man en voogd van Marrichjen Dammasdr en Fijchgen Dammasd
+1 CONC r wede van Thonis Harmens gesterkt zijnde met voorn Adriaen Dammasz haa
+1 CONC r oudste broer met hun vieren mondige kinderen van Lijsgen Jacobsdr, Cla
+1 CONC es Thonisz als man en voogd van Trijntgen Jacobsdr, mitsgaders Marrichje
+1 CONC n Jacobsdr en Heijltjen Jacobsdr, gesterk zijnde met Voorn Gillis Jacobs
+1 CONC z haar oudste broerder en als voogd in deze, alle tesamen kinderen en ki
+1 CONC ndskinderen van voorn Jacob Adriaen Egbertsz voor de andere helft aan Ja
+1 CONC cob Adriaensz Amerfoorder in Benschop een huijsgen en getimmerte met 4 m
+1 CONC rg. landts staande en gelegen op de zuidzijde van Benschop beneden de ke
+1 CONC rk, strekkende uit de halve Benschopper voorwetering tot de halve landsc
+1 CONC heideing van Lopik toe.
+1 CONT oostw de wede Peter Adriaensz Putten met 4 mrg. en westw Cornelis Adriae
+1 CONC nsz
+1 CONT Amersfoorder met 11½ mrg.
+0 @N1165@ NOTE Notarieel archief Montfoort
+1 CONT Beheersnummer M023
+1 CONT Inventarisnummer 1447
+1 CONT Folionummer 233
+1 CONT Datum 17-09-1663
+1 CONT Naam Henrick Peterssen Brunt
+1 CONT Hoedanigheid bloedverwant, huwelijkspartner
+1 CONT Naam Stijntgien Sijmons
+1 CONT Hoedanigheid bloedverwant, erfgenaam, huwelijkspartner
+1 CONT Naam Teuntgien Pieters van der Donck
+1 CONT Woonplaats Willeskop
+1 CONT Hoedanigheid bloedverwant, testateur
+1 CONT Naam Anneken Koenen (Coenen)
+1 CONT Hoedanigheid bloedverwant, erfgenaam
+1 CONT Naam Niesgien Cornelis Amersfoorder
+1 CONT Hoedanigheid bloedverwant, erfgenaam, erflater, huwelijkspartner
+1 CONT Naam Merrichgien Cornelis Amersfoorder
+1 CONT Hoedanigheid bloedverwant, erfgenaam, huwelijkspartner
+1 CONT Naam Coen Cornelissen
+1 CONT Hoedanigheid bloedverwant, huwelijkspartner
+1 CONT Naam Henrick Aertsen Verleun
+1 CONT Hoedanigheid bloedverwant, huwelijkspartner
+0 @N1166@ NOTE Trouwt wonende Willeskop.
+1 CONT 
+1 CONT Notarieel archief Montfoort
+1 CONT Beheersnummer M023
+1 CONT Inventarisnummer 1447
+1 CONT Folionummer 233
+1 CONT Datum 17-09-1663
+1 CONT Naam Henrick Peterssen Brunt
+1 CONT Hoedanigheid bloedverwant, huwelijkspartner
+1 CONT Naam Stijntgien Sijmons
+1 CONT Hoedanigheid bloedverwant, erfgenaam, huwelijkspartner
+1 CONT Naam Teuntgien Pieters van der Donck
+1 CONT Woonplaats Willeskop
+1 CONT Hoedanigheid bloedverwant, testateur
+1 CONT Naam Anneken Koenen (Coenen)
+1 CONT Hoedanigheid bloedverwant, erfgenaam
+1 CONT Naam Niesgien Cornelis Amersfoorder
+1 CONT Hoedanigheid bloedverwant, erfgenaam, erflater, huwelijkspartner
+1 CONT Naam Merrichgien Cornelis Amersfoorder
+1 CONT Hoedanigheid bloedverwant, erfgenaam, huwelijkspartner
+1 CONT Naam Coen Cornelissen
+1 CONT Hoedanigheid bloedverwant, huwelijkspartner
+1 CONT Naam Henrick Aertsen Verleun
+1 CONT Hoedanigheid bloedverwant, huwelijkspartner
+0 @N1167@ NOTE Trouwt tweede huwelijk als weduwnaar van Benschop.
+1 CONT 
+1 CONT Dopen van kinderen uit tweede huwelijk kunnen niet kloppen??
+1 CONT 
+1 CONT no. 1126-pak 56. d.8-6-1638 Jacob Adriaensz. Amersfoorder, als principae
+1 CONC l, Frederick Adriaensz. Amersfoorder, en Claes Goris zun broeder en swag
+1 CONC er respective als borgen en mede als principaal elcq van hen als eijge
+1 CONC n propre schuldt voor f.1000, aan en t.b.v. Adriaen Jacobsz. en zijn erv
+1 CONC en.
+0 @N1168@ NOTE 30-3-1591: Ten verzoeke van de Schout getuigt jan Glaudes zoon va
+1 CONC n de ouden schout tot Benschop out ontrent 20 jaeren, [...].
+1 CONT 
+1 CONT 21-1-1595: Jan Glaude is ca. 24 jaar oud.
+1 CONT 
+1 CONT 4-8-1605: Teuntje (en haar man jan Glaudesz.) en haar (half)-broers en z
+1 CONC usters delen de nalatenschap van Anna Cornelisdr. wed. van Jan Corneli
+1 CONC s Dircksz. Teuntje krijgt hier abusievelijk het patroniem J ansdr.
+1 CONT 
+1 CONT 15-6-1606: Jan Glaudesz. verwillecoort Claes Reijersz. de somme van 30
+1 CONC 0 gld. tegen een rente van 6 %. Willem Glaudesz. stelt zich borg voor d
+1 CONC e schuld van zijn broer. De schuld wordt gelost door Frederick Adriaensz
+1 CONC . 25-5-1618.
+1 CONT 
+1 CONT 26-7-1607: Jan Glaudesz. voor hem zeIven en Willem Glaudesz. zijn broede
+1 CONC r als borg voor hem beloven Melis Cornelisz. te betalen die resterende t
+1 CONC ermijn van de huys en hofstede van hem gecoft, daar huyden den eersten t
+1 CONC ermijn van betaald is. Voldaan bij Anthonia Thonisdr. nagelaten weduwe v
+1 CONC an za. Jan Glaudesz. 20-5-1610.
+1 CONT 
+1 CONT 12-6-1608: Jan Glaude van Hombruge verwillecoort Marrichgen Peter Ingens
+1 CONC z.dr. de somma van 100 car. gulden, tegen een rente van 5 %.
+1 CONT 
+1 CONT 3-6-1610: Anthonia Thonisdr. nagelaten weduwe en boedelhoudster van wijl
+1 CONC en Jan Glaude als principale, mitsgaders Willem Glaude en Jan Aert Ghijs
+1 CONC bertsz. als borgen en mede principalen en verwillecoorden voor haar en h
+1 CONC aar erven de somme van 500 car. gld. t.b.v. Willem Comelisz. backer ui
+1 CONC t zake van geleende penningen, tegen 4%. Zij verbindt daarvoor het huis
+1 CONC , berg, schuur, bepotinge en beplantinge staande op een hoeve land toeko
+1 CONC mende het convent van Mariendaal buiten Utrecht [...].
+1 CONT 
+1 CONT 21-10-1611: Inventaris van de boedel na het overlijden van Jan Glaude va
+1 CONC n Hombrugge, gemaakt door Anthonia Thonisdr. en op 2-1-1612: Anthonia Th
+1 CONC onisdr., nagelaten weduwe en boedelhoudster van wijlen Jan Glaude van Ho
+1 CONC mburge heeft uitgekocht Willem Glaude van Hombrugge en Gerrit Hendricx
+1 CONC z Coen als geordonneerde voogden over haar vier onmondige kinderen en da
+1 CONC t van alle goederen die de kinderen in eniger manier zouden zijn aangeko
+1 CONC men door het overlijden van Jan Glaude van Homborge hun vader. Zij beloo
+1 CONC ft de voogden haar kinderen te betalen de som van 600 gulden, zodra zi
+1 CONC j mondig zijn geworden. En tot die tijd is de weduwe gehouden de kindere
+1 CONC n op haar kosten op te voeden. Bij de scheiding zijn aanwezig o.a. Gijsb
+1 CONC ert Aertsz. en Marritgen Glaudes de grootmoeder.
+1 CONT Marge: Anthonis, Gerrit en Hermen Jansz. verklaren van hun stiefvader hu
+1 CONC n deel in de nalatenschap van hun overleden zuster Jannichgen Jansdr. on
+1 CONC rvangen te hebben. 1-1-1640.
+1 CONT 
+1 CONT 11-1-1635: Na het overlijden van Theuntje Thonisdr. vindt uitkoop plaat
+1 CONC s door Frederik Adriaensz. Amersfoorder van de drie voorkinderen van zij
+1 CONC n overleden vrouw en van zijn twee kinderen, waarvan de jongste in 'zij
+1 CONC n achttiende jaar ging'. De kinderen krijgen 2.500 gld, of ieder kind 50
+1 CONC 0 gulden. Jacob en Cornelis
+1 CONT Adriaensz. Amersfoorder stellen zich borg. De kinderen worden gesterkt d
+1 CONC oor Gijsbrecht Aertsz. (Verburgh), als naaste bloedvoogd. In de marge be
+1 CONC kennen Gerrit, Thonisen Harmen Jansz. van Homburg hun moederlijk erfdee
+1 CONC l ontvangen te hebben. 
+0 @N1169@ NOTE Trouwt als weduwe van Jaarsveld.
+0 @N1170@ NOTE Goris bekent met zijn broers Peter en Jan in 1561 de 150 schilt ui
+1 CONC t de erfenis van zijn moeder te hebben ontvangen. Goris wordt genoemd i
+1 CONC n veel transportakten in Benschop en als voogd over de kinderen van zij
+1 CONC n zwager Claes Jansz te Benschop (29-7-1593 en 10-6-1595). Goris wordt i
+1 CONC n 1623 genoemd als eigenaar van perceel 53 te Benschop.
+1 CONT 
+1 CONT 22-7-1559. Cornelis Dircksz, Peter en Goris sijn sonen elcx voor huer se
+1 CONC lven ende vervangende die ander kijnderen, clagen over Willem Neel Foppe
+1 CONC n (fol. 152v)
+1 CONT 
+1 CONT 11-9-1570. Heijnrick Fransz eijscht gerechtel. van Goris Cornelis Dircks
+1 CONC z een hoet hennipsaets dat Heijnrick van Goris Cornelisz gecoft heeft (f
+1 CONC ol. 36v).
+0 @N1171@ NOTE Ging in 1652 van Cabauw naar Lopik.
+1 CONT 
+1 CONT 1126 p.56 4-11-1632
+1 CONT Comp. Voor schout en schepenen van Benscop ondergen. Claes Gorisz. won
+1 CONC . in deze gerechte en verwillecoirde voor hem en zijn erffgen. ten behoe
+1 CONC ve van Jan en Cornelis Gorisz., Jacob Amersfoorder en Cornelis Jans va
+1 CONC n Swoll elcq voor hemselve, mitsgaders Leendert Cornelisz. als vader e
+1 CONC n Jan Gorisz. voors- als oom en sulcx rechte bloetvoochden van 't naerge
+1 CONC late weeskind van Aentgen Gorisdr., sijns compts broeders en swagers e
+1 CONC n susterskindt, respectieve en derselve erven offte 't recht dezes vercr
+1 CONC ijge, (seecker vijff gerechte sesdepaerts van vier duijsent twee honder
+1 CONC t en twee en twintich car. gld. tesaemenen over coop van seeker vier mer
+1 CONC gen eijgenlandt, met huijs, berg schuijr bepotinge en beplantinge op ee
+1 CONC n gedeelte van die leggen indeze gheijte Thiens) hij belooft te betalen.
+1 CONC .
+0 @N1172@ NOTE 1126 p.56 4-11-1632
+1 CONT Comp. Voor schout en schepenen van Benscop ondergen. Claes Gorisz. won
+1 CONC . in deze gerechte en verwillecoirde voor hem en zijn erffgen. ten behoe
+1 CONC ve van Jan en Cornelis Gorisz., Jacob Amersfoorder en Cornelis Jans va
+1 CONC n Swoll elcq voor hemselve, mitsgaders Leendert Cornelisz. als vader e
+1 CONC n Jan Gorisz. voors- als oom en sulcx rechte bloetvoochden van 't naerge
+1 CONC late weeskind van Aentgen Gorisdr., sijns compts broeders en swagers e
+1 CONC n susterskindt, respectieve en derselve erven offte 't recht dezes vercr
+1 CONC ijge, (seecker vijff gerechte sesdepaerts van vier duijsent twee honder
+1 CONC t en twee en twintich car. gld. tesaemenen over coop van seeker vier mer
+1 CONC gen eijgenlandt, met huijs, berg schuijr bepotinge en beplantinge op ee
+1 CONC n gedeelte van die leggen indeze gheijte Thiens ) hij belooft te betalen
+1 CONC ...
+0 @N1173@ NOTE Pieter kocht in 1680 van de andere erfgenamen van zijn vader hun aa
+1 CONC ndeel op in perceel 53, in 1699 verkocht hij het voor 600 carolusgulden
+1 CONC s aan zijn broer Goris.
+0 @N1174@ NOTE Trouwt wonende Willige Langerak.
+0 @N1175@ NOTE Gezin is een verzameling.
+1 CONT 
+1 CONT Eén van dezen?:
+1 CONT - - - - - - -N
+1 CONT Jacob Joosten (Coome) van Nieuwpoort, tr. 11-2-1638 Nieuwpoort
+1 CONT Aeltien Lamberts, wed. van Herman Hendricks, van Nieuwpoort
+1 CONT 
+1 CONT Jacob Jans Koome, wedr. van Nieuwpoort (3e huw. Jaarsveld)
+1 CONT otr/tr. 12-12-1649/2-1-1650 Nieuwpoort/Grootammers
+1 CONT Meerigien Dircks, jd. van Ammers Gelkenes
+0 @N1176@ NOTE Claes erft samen met zijn broers en zussen perceel 53 in Benschop v
+1 CONC an hun ouders. Hij koopt van de overige erfgenamen (Jan en Cornelis Gori
+1 CONC sz voor zich selven, Jacob Adriaens de Amersfoorder en Cornelis Jansz va
+1 CONC n Swoll beide voor hun huijsvrouwen, Leendert Cornelis als vader en de v
+1 CONC oorn. Jan Gorisz als oudste oom als voogden over het kind van Aentgen Go
+1 CONC risdr) hun erfdeel af in april 1632. Het perceel wordt omschreven als: '
+1 CONC een huijsinge, berg, schuur en getimmerte, 1 mergen landts, gemeen in ee
+1 CONC n weer van 6 mergen, staande en gelegen op de Zuidzijde van Benschop, be
+1 CONC neden de kerk, strekkende uit de halve Benschoppers voorwetering tot aa
+1 CONC n de halve landscheiding van Lopik toe'.
+1 CONT 
+1 CONT Claes kocht in 1660 ook perceel 52 te Benschop.
+1 CONT 
+1 CONT 1126 p.56 4-11-1632
+1 CONT Comp. Voor schout en schepenen van Benscop ondergen. Claes Gorisz. won
+1 CONC . in deze gerechte en verwillecoirde voor hem en zijn erffgen. ten behoe
+1 CONC ve van Jan en Cornelis Gorisz., Jacob Amersfoorder en Cornelis Jans va
+1 CONC n Swoll elcq voor hemselve, mitsgaders Leendert Cornelisz. als vader e
+1 CONC n Jan Gorisz. voors- als oom en sulcx rechte bloetvoochden van 't naerge
+1 CONC late weeskind van Aentgen Gorisdr., sijns compts broeders en swagers e
+1 CONC n susterskindt, respectieve en derselve erven offte 't recht dezes vercr
+1 CONC ijge, (seecker vijff gerechte sesdepaerts van vier duijsent twee honder
+1 CONC t en twee en twintich car. gld. tesaemenen over coop van seeker vier mer
+1 CONC gen eijgenlandt, met huijs, berg schuijr bepotinge en beplantinge op ee
+1 CONC n gedeelte van die leggen indeze gheijte Thiens ) hij belooft te betalen
+1 CONC ...
+1 CONT 
+1 CONT no. 1126-pak 56. d.8-6-1638 Jacob Adriaensz. Amersfoorder, ais principae
+1 CONC l, Frederick Adriaensz. Amersfoorder, en Claes Goris zun broeder en swag
+1 CONC er respective als borgen en mede ais principaal elcq van hen ais eijge
+1 CONC n propre schuldt voor f.1000, aan en t.b.v. Adriaen Jacobsz. en zijn erv
+1 CONC en.
+0 @N1177@ NOTE 571 277 24-5-1680
+1 CONT voor rutgerus van arckel *(tek)(schout), cornelis ariensz verham (tek) e
+1 CONC n willem cornelisz bouff (tek) (heemraden) compareerden leendert gerridt
+1 CONC sz (man van merrigje jans), jan cornelisz den oudsten, jan cornelisz d
+1 CONC e jonghste en gerridt cornelisz (man van neeltge corneliss), van merrich
+1 CONC je woutters de oudste (uit willigheid van haar zelve en haar sterkmakend
+1 CONC e voor de verdere descendenten van de zelve merrichge woutters). Item wo
+1 CONC uter jansz de reus , pieter jansz de reus, willem bastiaensz stooff (ma
+1 CONC n van ingen jans de reus) en leendert van oosten (man van claasje jans d
+1 CONC e reus) voor hun zelven en de vern. wouter jansz de reus nog als voogd o
+1 CONC ver de kinderen van jan jansz de reus en van neeltje jans de reus (prese
+1 CONC nt met goris claasz borst[?] de vader van de zelve kinderen van neeltg
+1 CONC e jans de reus). Te samen kinderen en klein kinderen en descendenten va
+1 CONC n swaentge woutters in bonrepas. Dirk bouwensz, woutere bouwensz, jan go
+1 CONC risz (zijnde een zoon van merrigje), voor haar zelven en de vern. dirk b
+1 CONC ouwensz nog als oom en voogd van claas gorisz, meester gorisz en woutte
+1 CONC r gorisz, mede kinderen van de vern. merrichge bouwens. Te samen kindere
+1 CONC n en kindskinderen van merrichge wouters de jongste uit sevender. Cornel
+1 CONC is pietersz als voogd van de kinderen van jan cornelisz koijman en van a
+1 CONC efge corneliss coijman en jan corsz als oom en voogd van de kinderen va
+1 CONC n fijtgen cornelisz koijman (zijnde rechtelijke voogden) in dezen geass
+1 CONC . met de schout en gerechte van de vlist en bonrepas. Kindskinderen va
+1 CONC n cornelis wouttersz koijman (in zuid polsbroek), alle erfgn. van gerrid
+1 CONC t wouttersz in leven burgemeester van bonrepas) hun zalr. oom en oud oo
+1 CONC m resp. Verklaarden verkocht te hebben aan jan ghijssen (anders genaam
+1 CONC d jan thomasz) een hofstedeland groot 10 m te bonrepas met de huizinge e
+1 CONC n timmeragie daarop staande. Strekt uit t waterschap van de vlist tot d
+1 CONC e lopikse vliet. Belend ten zuiden jacob blonck en ten noorden het gasth
+1 CONC uis te schoonhoven. De koopsom is 2100 gl. en is betaald. Is mede ondert
+1 CONC ekend door a.g. bullick.
+1 CONT 
+1 CONT 607 334 4-5-1685 de acte is doorgestreept.
+1 CONT voor mr. cornelis van straelen *(tek)(schout), pleun jansz ouwerkerck (t
+1 CONC ek) en otte hendricx van oosten (tek)(heemraden) stelt willem bastiaens
+1 CONC z stooft (won. op de noordzijde van polsbroek) schuldig te zijn aan leen
+1 CONC dert jansz (nagelaten weeszoon van jan hermansz) 250 gl ivm. geleend gel
+1 CONC d, ontvangen uit handen van claas hermensz en pieter jansz de reus (vern
+1 CONC . kind omen). De rente is 4% en t eerste jaar verschijnt heden over ee
+1 CONC n jaar. Stelt als onderpand zijn 1/4de part van 4m land gelegen in bonre
+1 CONC pas, gemeen met goris claasz boest en het verscr. weeskind. Belend ten n
+1 CONC oorden de heer advocaat swanenborg qualitate qua en ten noorden hendri
+1 CONC k theunisz teckop. Idem nog op zekere vierdepart van 5,5 m land met de h
+1 CONC uizinge en timmeragie daarop staande, nagelaten bij jan jansz de reus, m
+1 CONC ede gemeen met de vern. gooris claesz boest en het vern. weeskind. Is me
+1 CONC de ondertekend door a.g. bullick secr.
+1 CONT In de marge staat: compareerde alhier willem stooft en exhibeerde de org
+1 CONC inele schuldbrief. welke gecancelleerd en doorsneden is, waar onder ston
+1 CONC d: dat ik ondergeschrevene bekend ! voldaan te zijn en was ondertekend m
+1 CONC et: leendert jansz de reus. Verzoek de brief alhier te roijeren, wat ged
+1 CONC aan is dd 3-10-1708 door mij secr. g. bullick.
+1 CONT 
+1 CONT Goris wordt in 1687 genoemd als eigenaar van perceel 52 te Benschop. Gor
+1 CONC is kocht in 1699 van zijn broer Pieter perceel 53 te Benschop voor 600 c
+1 CONC aroli guldens: 'een huijsinge, berg en schuur, bepotinge en beplanting
+1 CONC e met 1 mergen eygen en allodiaal land, leggende gemeen in een stuk va
+1 CONC n 5 mergen, toebehorend aan sijne. Con. Majesteit van Groit Brittaigne
+1 CONC , staande en gelegen op de Zuidzijde van Benschop, strekkende voor uit d
+1 CONC e Benschopper wetering aff tot agter aan de halve landscheiding van Bens
+1 CONC chop en Lopik toe'. Buren van dit stuk land waren: oostwaarts Wouter Dir
+1 CONC ks van Lelienstein, met 6 mergen, en westwaarts Goris Claasz Boef, me
+1 CONC t 6 mergen huur- en eygen land. 
+0 @N1178@ NOTE "Gerrit Heijnricksz Verhoeff heeft bekent en beleed schuldich te we
+1 CONC sen Anna, Cornelis Dirricks alias keele huijsvrouw die somma van negen c
+1 CONC aroli gld."
+1 CONT "...Cornelis Dirricks die Bouve merrij (Meccij) hij..."
+1 CONT "..Gijsbert Dirricks en Cornelis Dirricks verwillecoiren Claes Andriesz.
+1 CONC .."
+1 CONT "Peter en Jan, Cornelis Dircks zonen, bekennen van Cornelis Dircksz hare
+1 CONC n vader voldaen ende betaelt te wesen van heurluijder moeder erfenisse (
+1 CONC elcq 1½ hondert schilt). Goris Cornelisz bekende mede als boven 1½ honde
+1 CONC rt schilt te hebben ontvangen."
+1 CONT 
+1 CONT 1547
+1 CONT Tussen partijen, Cornelis Dirricksz. alss bloetvoocht van de weeskindere
+1 CONC n van zalr. Franck Tonisz. geprocreert bij Merrichje Dirrick Jan Lutessd
+1 CONC r. eijsscher ter eenre, en Aeffgen die Wede. van zalr. Franck Toniss, ve
+1 CONC rweerster ter andere zijde
+1 CONT 
+1 CONT 19-1-1564
+1 CONT Aert Willemsz verwillecoort Cornelis Dircksz als vader ende tot behouf
+1 CONC f van Margriet sijn dochter geprocreeert bij Geertruijt Aerts 100 schilt
+1 CONT 
+1 CONT 19-1-1564
+1 CONT Cornelis Dircksz verwillecoort Aert Willemsz als oudevader ende rechte b
+1 CONC loetvoocht van Margriet Cornelis Dircksdr geprocreert bij Geertruijt Aer
+1 CONC t Willemsdr die somme van 200 schilt 14 st.
+1 CONT 
+1 CONT 18-3-1571. Cornelis Dircksz ter eenre ende Cornelis Cornelisz Trip als m
+1 CONC an ende voocht van Margriet Cornelis Dirckszdr, ter andere zijde, sijn v
+1 CONC eraccordeert als dat Cornelis Cornelisz sal behouden sijn voors. wijfs v
+1 CONC ader in de cost ende onderhout zijn leven lanck ende dair voor sal hij h
+1 CONC ebben ende behouden alle zulcke penningen, hooftgelt ende renten als Dir
+1 CONC ck Gorisz ende Jan Snoeck zijnen voors. vader verschult sijn, sijns vade
+1 CONC rs huijsraet, die hij Cornelis Cornelisz mits desen transporteert ende o
+1 CONC vergeeft voor hem ende zijnen erven. Mit conditien indijen Cornelis Corn
+1 CONC elisz ofte Margriet sijnen huijsfrouw binnen jaers storven sal waer des
+1 CONC e houdinge vuijt doet ende te nijet. Des souden Cornelis Dircksz als da
+1 CONC n weder hebben die helft van de voors. penningen ende huijsraet, maer in
+1 CONC dijen Cornelis Dircksz sterft binnent selve jaer soes el Cornelis Cornel
+1 CONC isz evenwel gene voors. is geheel behouden ende teijndens siaers sel Cor
+1 CONC nelis Cornelisz ende Margriet tselve goet, renten ende huijsraet behoude
+1 CONC n voor heur ende horen erven alwaert dat enich van hun beijden aflijvic
+1 CONC h worden voore Cornelis Dircksz voors. soes al oick dese houdinge vuij
+1 CONC t ende te nijet wesen. (fol. 17v) 
+0 @N1179@ NOTE 19-1-1564
+1 CONT Aert Willemsz verwillecoort Cornelis Dircksz als vader ende tot behouf
+1 CONC f van Margriet sijn dochter geprocreeert bij Geertruijt Aerts 100 schilt
+1 CONT 
+1 CONT 19-1-1564
+1 CONT Cornelis Dircksz verwillecoort Aert Willemsz als oudevader ende rechte b
+1 CONC loetvoocht van Margriet Cornelis Dircksdr geprocreert bij Geertruijt Aer
+1 CONC t Willemsdr die somme van 200 schilt 14 st.
+0 @N1180@ NOTE 22-7-1559. Cornelis Dircksz, Peter en Goris sijn sonen elcx voor hu
+1 CONC er selven ende vervangende die ander kijnderen, clagen over Willem Nee
+1 CONC l Foppen (fol. 152v)
+0 @N1181@ NOTE 25-9-1560
+1 CONT Margriet, Cornelis Dircksdr. bekent, mitsgaders Dirck Goris voocht ove
+1 CONC r deselve, van Cornelis Dircksz. horen vader voldaan te weesen van hoi
+1 CONC r moeders erfenisse.
+1 CONT 
+1 CONT 19-1-1564
+1 CONT Aert Willemsz verwillecoort Cornelis Dircksz als vader ende tot behouf
+1 CONC f van Margriet sijn dochter geprocreeert bij Geertruijt Aerts 100 schilt
+1 CONT 
+1 CONT 19-1-1564
+1 CONT Cornelis Dircksz verwillecoort Aert Willemsz als oudevader ende rechte b
+1 CONC loetvoocht van Margriet Cornelis Dircksdr geprocreert bij Geertruijt Aer
+1 CONC t Willemsdr die somme van 200 schilt 14 st.
+1 CONT 
+1 CONT 18-3-1571. Cornelis Dircksz ter eenre ende Cornelis Cornelisz Trip als m
+1 CONC an ende voocht van Margriet Cornelis Dirckszdr, ter andere zijde, sijn v
+1 CONC eraccordeert als dat Cornelis Cornelisz sal behouden sijn voors. wijfs v
+1 CONC ader in de cost ende onderhout zijn leven lanck ende dair voor sal hij h
+1 CONC ebben ende behouden alle zulcke penningen, hooftgelt ende renten als Dir
+1 CONC ck Gorisz ende Jan Snoeck zijnen voors. vader verschult sijn, sijns vade
+1 CONC rs huijsraet, die hij Cornelis Cornelisz mits desen transporteert ende o
+1 CONC vergeeft voor hem ende zijnen erven. Mit conditien indijen Cornelis Corn
+1 CONC elisz ofte Margriet sijnen huijsfrouw binnen jaers storven sal waer des
+1 CONC e houdinge vuijt doet ende te nijet. Des souden Cornelis Dircksz als da
+1 CONC n weder hebben die helft van de voors. penningen ende huijsraet, maer in
+1 CONC dijen Cornelis Dircksz sterft binnent selve jaer soes el Cornelis Cornel
+1 CONC isz evenwel gene voors. is geheel behouden ende teijndens siaers sel Cor
+1 CONC nelis Cornelisz ende Margriet tselve goet, renten ende huijsraet behoude
+1 CONC n voor heur ende horen erven alwaert dat enich van hun beijden aflijvic
+1 CONC h worden voore Cornelis Dircksz voors. soes al oick dese houdinge vuij
+1 CONC t ende te nijet wesen. (fol. 17v)
+0 @N1182@ NOTE 18-3-1571. Cornelis Dircksz ter eenre ende Cornelis Cornelisz Tri
+1 CONC p als man ende voocht van Margriet Cornelis Dirckszdr, ter andere zijde
+1 CONC , sijn veraccordeert als dat Cornelis Cornelisz sal behouden sijn voors
+1 CONC . wijfs vader in de cost ende onderhout zijn leven lanck ende dair voo
+1 CONC r sal hij hebben ende behouden alle zulcke penningen, hooftgelt ende ren
+1 CONC ten als Dirck Gorisz ende Jan Snoeck zijnen voors. vader verschult sijn
+1 CONC , sijns vaders huijsraet, die hij Cornelis Cornelisz mits desen transpor
+1 CONC teert ende overgeeft voor hem ende zijnen erven. Mit conditien indijen C
+1 CONC ornelis Cornelisz ofte Margriet sijnen huijsfrouw binnen jaers storven s
+1 CONC al waer dese houdinge vuijt doet ende te nijet. Des souden Cornelis Dirc
+1 CONC ksz als dan weder hebben die helft van de voors. penningen ende huijsrae
+1 CONC t, maer indijen Cornelis Dircksz sterft binnent selve jaer soes el Corne
+1 CONC lis Cornelisz evenwel gene voors. is geheel behouden ende teijndens siae
+1 CONC rs sel Cornelis Cornelisz ende Margriet tselve goet, renten ende huijsra
+1 CONC et behouden voor heur ende horen erven alwaert dat enich van hun beijde
+1 CONC n aflijvich worden voore Cornelis Dircksz voors. soes al oick dese houdi
+1 CONC nge vuijt ende te nijet wesen. (fol. 17v)
+0 @N1183@ NOTE 1126 p.56 4-11-1632
+1 CONT Comp. Voor schout en schepenen van Benscop ondergen. Claes Gorisz. won
+1 CONC . in deze gerechte en verwillecoirde voor hem en zijn erffgen. ten behoe
+1 CONC ve van Jan en Cornelis Gorisz., Jacob Amersfoorder en Cornelis Jans va
+1 CONC n Swoll elcq voor hemselve, mitsgaders Leendert Cornelisz. als vader e
+1 CONC n Jan Gorisz. voors- als oom en sulcx rechte bloetvoochden van 't naerge
+1 CONC late weeskind van Aentgen Gorisdr., sijns compts broeders en swagers e
+1 CONC n susterskindt, respectieve en derselve erven offte 't recht dezes vercr
+1 CONC ijge, (seecker vijff gerechte sesdepaerts van vier duijsent twee honder
+1 CONC t en twee en twintich car. gld. tesaemenen over coop van seeker vier mer
+1 CONC gen eijgenlandt, met huijs, berg schuijr bepotinge en beplantinge op ee
+1 CONC n gedeelte van die leggen indeze gheijte Thiens ) hij belooft te betalen
+1 CONC ...
+0 @N1184@ NOTE 1126 p.56 4-11-1632
+1 CONT Comp. Voor schout en schepenen van Benscop ondergen. Claes Gorisz. won
+1 CONC . in deze gerechte en verwillecoirde voor hem en zijn erffgen. ten behoe
+1 CONC ve van Jan en Cornelis Gorisz., Jacob Amersfoorder en Cornelis Jans va
+1 CONC n Swoll elcq voor hemselve, mitsgaders Leendert Cornelisz. als vader e
+1 CONC n Jan Gorisz. voors- als oom en sulcx rechte bloetvoochden van 't naerge
+1 CONC late weeskind van Aentgen Gorisdr., sijns compts broeders en swagers e
+1 CONC n susterskindt, respectieve en derselve erven offte 't recht dezes vercr
+1 CONC ijge, (seecker vijff gerechte sesdepaerts van vier duijsent twee honder
+1 CONC t en twee en twintich car. gld. tesaemenen over coop van seeker vier mer
+1 CONC gen eijgenlandt, met huijs, berg schuijr bepotinge en beplantinge op ee
+1 CONC n gedeelte van die leggen indeze gheijte Thiens ) hij belooft te betalen
+1 CONC ...
+0 @N1185@ NOTE 1126 p.56 4-11-1632
+1 CONT Comp. Voor schout en schepenen van Benscop ondergen. Claes Gorisz. won
+1 CONC . in deze gerechte en verwillecoirde voor hem en zijn erffgen. ten behoe
+1 CONC ve van Jan en Cornelis Gorisz., Jacob Amersfoorder en Cornelis Jans va
+1 CONC n Swoll elcq voor hemselve, mitsgaders Leendert Cornelisz. als vader e
+1 CONC n Jan Gorisz. voors- als oom en sulcx rechte bloetvoochden van 't naerge
+1 CONC late weeskind van Aentgen Gorisdr., sijns compts broeders en swagers e
+1 CONC n susterskindt, respectieve en derselve erven offte 't recht dezes vercr
+1 CONC ijge, (seecker vijff gerechte sesdepaerts van vier duijsent twee honder
+1 CONC t en twee en twintich car. gld. tesaemenen over coop van seeker vier mer
+1 CONC gen eijgenlandt, met huijs, berg schuijr bepotinge en beplantinge op ee
+1 CONC n gedeelte van die leggen indeze gheijte Thiens ) hij belooft te betalen
+1 CONC ...
+0 @N1186@ NOTE ezworene (1549), substituut-schout (1557, 1560), heilige geestmeest
+1 CONC er (1557) en kerkmeester (1562) te Benschop.
+1 CONT 
+1 CONT 19-1-1564
+1 CONT Aert Willemsz verwillecoort Cornelis Dircksz als vader ende tot behouf
+1 CONC f van Margriet sijn dochter geprocreeert bij Geertruijt Aerts 100 schilt
+1 CONT 
+1 CONT 19-1-1564
+1 CONT Cornelis Dircksz verwillecoort Aert Willemsz als oudevader ende rechte b
+1 CONC loetvoocht van Margriet Cornelis Dircksdr geprocreert bij Geertruijt Aer
+1 CONC t Willemsdr die somme van 200 schilt 14 st. 
+0 @N1187@ NOTE 26-5-1560
+1 CONT Neeltje, Willem Aerts huijsvrouw, geassisteert Willem hoiren man bij d
+1 CONC e getuijgenisse voors en tuijcht soe veel meer dat Heijnrick Claes van V
+1 CONC ueren haer broeder (kinderen van Claes van Vueren en Aeltgen), cortelick
+1 CONC s noch bekende: Moeder ick ben U f. 100, -. schuldich. betreffende schei
+1 CONC jdinge van Claes van Vuerens kinderen ter eenre en Aeltgen zijn huysvrou
+1 CONC we ter andere.
+1 CONT 
+1 CONT 64313
+1 CONT Marrichje Willems, had een zuster Elisabeth die was gehuwd met Jan Freri
+1 CONC cksz op 25-11-1562 was Neeltje reeds wede van Willem Aertsz.
+1 CONT 
+1 CONT 1572
+1 CONT Erffgen. van Neeltgen, Willem Aertsz. wede. .. 1) Cornelis, 2) Dirck, 3
+1 CONC ) Henrick Willems zonen, Andries Jansz. als man en voochd van 4) Marrich
+1 CONC je Willem Aertsdr., Jan en Harmen Francken gebroeders, Cornelis Gerritsz
+1 CONC . vervangende Willem Jacobsz, als voochden over 5) Aert Willemsz. weeski
+1 CONC nderen, en Jan Claesz. als vader en voocht van Meijnscken zijn dr. gepro
+1 CONC creert bij 6) Adriana Willem Aertsdr. 
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
