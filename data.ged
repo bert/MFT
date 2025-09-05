@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 31 AUG 2025
-2 TIME 23:55:45
+1 DATE 5 SEP 2025
+2 TIME 21:40:32
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2025 .
@@ -12044,8 +12044,8 @@
 2 NOTE @N0874@
 1 NOTE @N0925@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 21:35:49
+2 DATE 2 SEP 2025
+3 TIME 20:45:54
 0 @I0751@ INDI
 1 NAME Johanna Philippus /van den Bos/
 2 TYPE birth
@@ -12053,12 +12053,19 @@
 2 SPFX van den
 2 SURN Bos
 1 SEX F
+1 BIRT
+2 DATE 17 OCT 1808
+2 PLAC Alphen
+1 DEAT
+2 DATE 21 APR 1865
+2 PLAC Oudshoorn (Alphen aan de Rijn)
 1 FAMC @F0730@
 2 PEDI birth
 1 FAMS @F0297@
+1 FAMS @F1420@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 20:20:04
+2 DATE 2 SEP 2025
+3 TIME 20:49:55
 0 @I0752@ INDI
 1 NAME Adriana /Muzerie/
 2 TYPE birth
@@ -13491,22 +13498,31 @@
 1 BIRT
 2 DATE 28 NOV 1891
 2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 DEAT
+2 DATE 9 AUG 1968
+2 PLAC Leiden [Zuid Holland]
 1 FAMC @F0320@
 2 PEDI birth
 1 FAMS @F0321@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 10:01:28
+2 DATE 2 SEP 2025
+3 TIME 01:03:50
 0 @I0840@ INDI
 1 NAME Antje /Offers/
 2 TYPE birth
 2 GIVN Antje
 2 SURN Offers
 1 SEX F
+1 BIRT
+2 DATE 8 OCT 1886
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 DEAT
+2 DATE 20 FEB 1937
+2 PLAC Alphen aan de Rijn [Zuid Holland]
 1 FAMS @F0321@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 10:01:28
+2 DATE 2 SEP 2025
+3 TIME 01:05:52
 0 @I0841@ INDI
 1 NAME Neeltje Johanna /van der Wel/
 2 TYPE birth
@@ -14669,11 +14685,13 @@
 1 BAPM
 2 DATE 6 APR 1752
 2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1423@
+2 PEDI birth
 1 FAMS @F0348@
 1 FAMS @F0349@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 18:05:27
+2 DATE 2 SEP 2025
+3 TIME 23:06:07
 0 @I0914@ INDI
 1 NAME Willem /Jonkheijt/
 2 TYPE birth
@@ -31355,8 +31373,8 @@
 2 PEDI birth
 1 FAMS @F0729@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 21:41:12
+2 DATE 3 SEP 2025
+3 TIME 22:34:12
 0 @I1903@ INDI
 1 NAME Willemijntje /Verham/
 2 TYPE birth
@@ -31365,8 +31383,10 @@
 1 SEX F
 1 BIRT
 2 DATE 9 FEB 1766
+2 PLAC Bergambacht
 1 DEAT
 2 DATE 1828
+2 NOTE @N1545@
 1 FAMC @F0910@
 2 PEDI birth
 1 FAMS @F0729@
@@ -31381,13 +31401,22 @@
 2 SURN Bos
 1 SEX M
 1 BIRT
-2 DATE 1770
+2 DATE BEF 18 JUN 1769
 1 DEAT
-2 DATE 1814
+2 DATE 17 SEP 1814
+2 PLAC Aarlanderveen (Alphen aan de Rijn) [Zuid Holland]
+3 MAP
+4 LATI N52.133333
+4 LONG E4.733333
+1 BAPM
+2 DATE 18 JUN 1769
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1419@
+2 PEDI birth
 1 FAMS @F0730@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 20:02:22
+2 DATE 2 SEP 2025
+3 TIME 22:49:25
 0 @I1905@ INDI
 1 NAME Aaltje /Landzaat/
 2 TYPE birth
@@ -38977,8 +39006,8 @@
 1 FAMC @F0729@
 2 PEDI birth
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 21:35:49
+2 DATE 2 SEP 2025
+3 TIME 20:45:54
 0 @I2407@ INDI
 1 NAME Teunis Jansz /van der Wel/
 2 TYPE birth
@@ -39010,10 +39039,21 @@
 3 MAP
 4 LATI N52.133333
 4 LONG E4.733333
+1 BAPM
+2 DATE 17 APR 1735
+2 PLAC Alphen
+1 BURI
+2 DATE 4 NOV 1805
+2 PLAC Aarlanderveen (Alphen aan de Rijn) [Zuid Holland]
+3 MAP
+4 LATI N52.133333
+4 LONG E4.733333
+1 FAMC @F1427@
+2 PEDI birth
 1 FAMS @F0929@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 21:41:12
+2 DATE 4 SEP 2025
+3 TIME 22:15:50
 0 @I2409@ INDI
 1 NAME Jan Teunisz /van der Wel/
 2 TYPE birth
@@ -59681,8 +59721,8 @@
 2 PEDI birth
 1 FAMS @F1415@
 1 CHAN
-2 DATE 31 AUG 2025
-3 TIME 23:47:24
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
 0 @I3716@ INDI
 1 NAME Ary /den Hollander/
 2 TYPE birth
@@ -59712,8 +59752,8 @@
 2 PEDI birth
 1 FAMS @F1416@
 1 CHAN
-2 DATE 31 AUG 2025
-3 TIME 23:47:24
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
 0 @I3718@ INDI
 1 NAME Grietje Jans /van Houweling/
 2 TYPE birth
@@ -59743,8 +59783,8 @@
 1 FAMC @F1414@
 2 PEDI birth
 1 CHAN
-2 DATE 31 AUG 2025
-3 TIME 23:47:24
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
 0 @I3720@ INDI
 1 NAME Hendrik Dirksz /Hoogendoorn/
 2 TYPE birth
@@ -59764,8 +59804,8 @@
 2 PEDI birth
 1 FAMS @F1417@
 1 CHAN
-2 DATE 31 AUG 2025
-3 TIME 23:51:59
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
 0 @I3721@ INDI
 1 NAME Neeltje Gijsbertsen /van Hoftingen/
 2 TYPE birth
@@ -59786,6 +59826,1161 @@
 1 CHAN
 2 DATE 31 AUG 2025
 3 TIME 23:51:59
+0 @I3722@ INDI
+1 NAME Jan Dirksz /Hoogendoorn/
+2 TYPE birth
+2 GIVN Jan Dirksz
+2 SURN Hoogendoorn
+1 SEX M
+1 BAPM
+2 DATE 30 DEC 1736
+2 PLAC Zegveld
+1 FAMC @F1414@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
+0 @I3723@ INDI
+1 NAME Jacobus Dirksz /Hoogendoorn/
+2 TYPE birth
+2 GIVN Jacobus Dirksz
+2 SURN Hoogendoorn
+1 SEX M
+1 DEAT
+2 DATE 3 SEP 1814
+2 PLAC Kockengen [Utrecht]
+1 BAPM
+2 DATE 30 APR 1738
+2 PLAC Woerden [Utrecht]
+3 MAP
+4 LATI N52.083333
+4 LONG E4.883333
+1 FAMC @F1414@
+2 PEDI birth
+1 FAMS @F1418@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
+0 @I3724@ INDI
+1 NAME Marretje /den Hollander/
+2 TYPE birth
+2 GIVN Marretje
+2 SPFX den
+2 SURN Hollander
+1 SEX F
+1 BIRT
+2 DATE 1740
+1 DEAT
+2 DATE 17 SEP 1762
+2 PLAC Noorden
+1 FAMS @F1418@
+1 CHAN
+2 DATE 1 SEP 2025
+3 TIME 23:18:06
+0 @I3725@ INDI
+1 NAME Dirk Dirksz /Hoogendoorn/
+2 TYPE birth
+2 GIVN Dirk Dirksz
+2 SURN Hoogendoorn
+1 SEX M
+1 BAPM
+2 DATE 12 OCT 1739
+2 PLAC Woerden [Utrecht]
+3 MAP
+4 LATI N52.083333
+4 LONG E4.883333
+1 FAMC @F1414@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
+0 @I3726@ INDI
+1 NAME Johanna Dirks /Hoogendoorn/
+2 TYPE birth
+2 GIVN Johanna Dirks
+2 SURN Hoogendoorn
+1 SEX F
+1 BAPM
+2 DATE 15 FEB 1741
+2 PLAC Woerden [Utrecht]
+3 MAP
+4 LATI N52.083333
+4 LONG E4.883333
+1 FAMC @F1414@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
+0 @I3727@ INDI
+1 NAME Reynier Dirksz /Hoogendoorn/
+2 TYPE birth
+2 GIVN Reynier Dirksz
+2 SURN Hoogendoorn
+1 SEX M
+1 BAPM
+2 DATE 13 MAY 1742
+2 PLAC Woerden [Utrecht]
+3 MAP
+4 LATI N52.083333
+4 LONG E4.883333
+1 FAMC @F1414@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
+0 @I3728@ INDI
+1 NAME Johannis Dirksz /Hoogendoorn/
+2 TYPE birth
+2 GIVN Johannis Dirksz
+2 SURN Hoogendoorn
+1 SEX M
+1 BAPM
+2 DATE 29 JUN 1743
+2 PLAC Woerden [Utrecht]
+3 MAP
+4 LATI N52.083333
+4 LONG E4.883333
+1 FAMC @F1414@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
+0 @I3729@ INDI
+1 NAME Johannis Dirksz /Hoogendoorn/
+2 TYPE birth
+2 GIVN Johannis Dirksz
+2 SURN Hoogendoorn
+1 SEX M
+1 BAPM
+2 DATE 21 FEB 1745
+2 PLAC Woerden [Utrecht]
+3 MAP
+4 LATI N52.083333
+4 LONG E4.883333
+1 FAMC @F1414@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
+0 @I3730@ INDI
+1 NAME Johanna Dirks /Hoogendoorn/
+2 TYPE birth
+2 GIVN Johanna Dirks
+2 SURN Hoogendoorn
+1 SEX F
+1 BAPM
+2 DATE 31 JUL 1746
+2 PLAC Woerden [Utrecht]
+3 MAP
+4 LATI N52.083333
+4 LONG E4.883333
+1 FAMC @F1414@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
+0 @I3731@ INDI
+1 NAME Reynier Dirksz /Hoogendoorn/
+2 TYPE birth
+2 GIVN Reynier Dirksz
+2 SURN Hoogendoorn
+1 SEX M
+1 BAPM
+2 DATE 21 JAN 1748
+2 PLAC Woerden [Utrecht]
+3 MAP
+4 LATI N52.083333
+4 LONG E4.883333
+1 FAMC @F1414@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
+0 @I3732@ INDI
+1 NAME Abraham Dirksz /Hoogendoorn/
+2 TYPE birth
+2 GIVN Abraham Dirksz
+2 SURN Hoogendoorn
+1 SEX M
+1 BIRT
+2 DATE 16 MAR 1749
+2 PLAC Bodegraven
+1 DEAT
+2 DATE 15 JUN 1829
+2 PLAC Zwammerdam
+1 FAMC @F1414@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
+0 @I3733@ INDI
+1 NAME Maarten Pietersz /van den Bos/
+2 TYPE birth
+2 GIVN Maarten Pietersz
+2 SPFX van den
+2 SURN Bos
+1 NAME  /van den Bosch/
+2 TYPE aka
+2 SPFX van den Bosch
+1 SEX M
+1 BAPM
+2 DATE 31 MAR 1741
+2 PLAC Alkemade (Kaag en Braassem) [Zuid Holland]
+3 MAP
+4 LATI N52.207197
+4 LONG E4.635281
+1 BURI
+2 DATE 16 SEP 1803
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1421@
+2 PEDI birth
+1 FAMS @F1419@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 21:14:48
+0 @I3734@ INDI
+1 NAME Johanna /van Nierop/
+2 TYPE birth
+2 GIVN Johanna
+2 SPFX van
+2 SURN Nierop
+2 NICK Anna
+1 SEX F
+1 BURI
+2 DATE 24 APR 1800
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMS @F1419@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 20:22:47
+0 @I3735@ INDI
+1 NAME n.n. /van den Bos/
+2 TYPE birth
+2 GIVN n.n.
+2 SPFX van den
+2 SURN Bos
+1 BIRT
+2 DATE MAY 1794
+1 BURI
+2 DATE 12 MAY 1794
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F0730@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 20:41:23
+0 @I3736@ INDI
+1 NAME Maarten /van den Bos/
+2 TYPE birth
+2 GIVN Maarten
+2 SPFX van den
+2 SURN Bos
+1 SEX M
+1 BIRT
+2 DATE 6 NOV 1795
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F0730@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 20:41:23
+0 @I3737@ INDI
+1 NAME Vijgje /van den Bos/
+2 TYPE birth
+2 GIVN Vijgje
+2 SPFX van den
+2 SURN Bos
+1 SEX F
+1 BIRT
+2 DATE 16 OCT 1797
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 BURI
+2 DATE 6 JUL 1803
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F0730@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 20:41:23
+0 @I3738@ INDI
+1 NAME Rijk /van den Bos/
+2 TYPE birth
+2 GIVN Rijk
+2 SPFX van den
+2 SURN Bos
+1 SEX M
+1 BIRT
+2 DATE 25 SEP 1799
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F0730@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 20:41:23
+0 @I3739@ INDI
+1 NAME Johanna /van den Bos/
+2 TYPE birth
+2 GIVN Johanna
+2 SPFX van den
+2 SURN Bos
+1 SEX F
+1 BIRT
+2 DATE 25 NOV 1803
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 DEAT
+2 DATE 5 JAN 1804
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F0730@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 20:41:23
+0 @I3740@ INDI
+1 NAME Albert /Grauwelman/
+2 TYPE birth
+2 GIVN Albert
+2 SURN Grauwelman
+1 NAME  /Grauwelmans/
+2 TYPE aka
+2 SPFX Grauwelmans
+1 SEX M
+1 BIRT
+2 DATE EST 1826
+2 PLAC Rijnsaterwoude
+1 FACT Bouwmansknecht
+2 TYPE Occupation
+1 FACT Bouwman
+2 TYPE Occupation
+1 FAMS @F1420@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 20:49:55
+0 @I3741@ INDI
+1 NAME Pieter /van den Bos/
+2 TYPE birth
+2 GIVN Pieter
+2 SPFX van den
+2 SURN Bos
+1 SEX M
+1 FAMS @F1421@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 21:14:48
+0 @I3742@ INDI
+1 NAME Marrijtje /Verruijt/
+2 TYPE birth
+2 GIVN Marrijtje
+2 SURN Verruijt
+1 SEX F
+1 FAMS @F1421@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 21:14:48
+0 @I3743@ INDI
+1 NAME Marijtje /van den Bos/
+2 TYPE birth
+2 GIVN Marijtje
+2 SPFX van den
+2 SURN Bos
+1 SEX F
+1 BAPM
+2 DATE 15 FEB 1767
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1419@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 22:49:25
+0 @I3744@ INDI
+1 NAME Marijtje /van den Bos/
+2 TYPE birth
+2 GIVN Marijtje
+2 SPFX van den
+2 SURN Bos
+1 SEX F
+1 BAPM
+2 DATE 10 NOV 1771
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 BURI
+2 DATE 1 JUL 1773
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1419@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 22:49:25
+0 @I3745@ INDI
+1 NAME Barbar /van den Bos/
+2 TYPE birth
+2 GIVN Barbar
+2 SPFX van den
+2 SURN Bos
+2 NICK Barbara
+1 SEX F
+1 DEAT
+2 DATE 20 DEC 1775
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 BAPM
+2 DATE 27 DEC 1772
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1419@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 22:49:25
+0 @I3746@ INDI
+1 NAME Pieternilla /van den Bos/
+2 TYPE birth
+2 GIVN Pieternilla
+2 SPFX van den
+2 SURN Bos
+2 NICK Pieternella, Petronella
+1 NAME  /van den Bosch/
+2 TYPE aka
+2 SPFX van den Bosch
+1 SEX F
+1 DEAT
+2 DATE 21 FEB 1835
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 BAPM
+2 DATE 5 FEB 1775
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1419@
+2 PEDI birth
+1 FAMS @F1422@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 22:49:25
+0 @I3747@ INDI
+1 NAME Johannes /Touw/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Touw
+2 NICK Jan
+1 SEX M
+1 BIRT
+2 DATE EST 1772
+2 PLAC Woubrugge
+1 DEAT
+2 DATE 28 NOV 1844
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FACT Arbeider
+2 TYPE Occupation
+1 FAMS @F1422@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 22:41:13
+0 @I3748@ INDI
+1 NAME Jacob /van den Bos/
+2 TYPE birth
+2 GIVN Jacob
+2 SPFX van den
+2 SURN Bos
+1 SEX M
+1 BAPM
+2 DATE 31 AUG 1777
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 BURI
+2 DATE 26 MAR 1778
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1419@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 22:49:25
+0 @I3749@ INDI
+1 NAME Barbara /van den Bos/
+2 TYPE birth
+2 GIVN Barbara
+2 SPFX van den
+2 SURN Bos
+1 SEX F
+1 BIRT
+2 DATE 26 JAN 1785
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1419@
+2 PEDI birth
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 22:49:25
+0 @I3750@ INDI
+1 NAME Jan Aalbertsz /Blom/
+2 TYPE birth
+2 GIVN Jan Aalbertsz
+2 SURN Blom
+1 SEX M
+1 DEAT
+2 DATE BEF 1 JUN 1760
+1 FAMS @F1423@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 23:05:56
+0 @I3751@ INDI
+1 NAME Pieternellitje Arends /Broekhuijsen/
+2 TYPE birth
+2 GIVN Pieternellitje Arends
+2 SURN Broekhuijsen
+2 NICK Pietertje
+1 SEX F
+1 FAMC @F1425@
+2 PEDI birth
+1 FAMS @F1423@
+1 FAMS @F1424@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 23:28:58
+0 @I3752@ INDI
+1 NAME Willem Klaasz /Jonkheijd/
+2 TYPE birth
+2 GIVN Willem Klaasz
+2 SURN Jonkheijd
+1 SEX M
+1 BIRT
+2 PLAC Bloemendaal [Noord Holland]
+1 FAMS @F1424@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 23:18:13
+0 @I3753@ INDI
+1 NAME Arend /Broekhuijsen/
+2 TYPE birth
+2 GIVN Arend
+2 SURN Broekhuijsen
+1 SEX M
+1 FAMS @F1425@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 23:28:31
+0 @I3754@ INDI
+1 NAME Cornelis /Broekhuijsen/
+2 TYPE birth
+2 GIVN Cornelis
+2 SURN Broekhuijsen
+2 NICK Kornelis
+1 SEX M
+1 BIRT
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1425@
+2 PEDI birth
+1 FAMS @F1426@
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 07:41:21
+0 @I3755@ INDI
+1 NAME Neeltje /Blom/
+2 TYPE birth
+2 GIVN Neeltje
+2 SURN Blom
+1 SEX F
+1 BIRT
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMS @F1426@
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 07:41:21
+0 @I3756@ INDI
+1 NAME Jannigje /Broekhuijsen/
+2 TYPE birth
+2 GIVN Jannigje
+2 SURN Broekhuijsen
+1 SEX F
+1 BAPM
+2 DATE 19 MAY 1754
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1426@
+2 PEDI birth
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 07:46:18
+0 @I3757@ INDI
+1 NAME Jannigje /Broekhuijsen/
+2 TYPE birth
+2 GIVN Jannigje
+2 SURN Broekhuijsen
+1 SEX F
+1 BAPM
+2 DATE 26 SEP 1756
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1426@
+2 PEDI birth
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 07:46:07
+0 @I3758@ INDI
+1 NAME Simon /Broekhuijsen/
+2 TYPE birth
+2 GIVN Simon
+2 SURN Broekhuijsen
+1 SEX M
+1 BAPM
+2 DATE 1 OCT 1758
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1426@
+2 PEDI birth
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 07:45:59
+0 @I3759@ INDI
+1 NAME Willem Cornelis /Groeneveld/
+2 TYPE birth
+2 GIVN Willem Cornelis
+2 SURN Groeneveld
+1 SEX M
+1 DEAT
+2 DATE 3 JUL 1763
+2 PLAC Ter Aar
+1 BAPM
+2 DATE 8 AUG 1706
+2 PLAC Alphen
+1 FAMC @F1433@
+2 PEDI birth
+1 FAMS @F1427@
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:29:48
+0 @I3760@ INDI
+1 NAME Lijsbeth /Koene/
+2 TYPE birth
+2 GIVN Lijsbeth
+2 SURN Koene
+1 SEX F
+1 BIRT
+2 DATE EST 1705
+2 PLAC Oudewater [Zuid Holland] na 1970 [Utrecht]
+1 FAMS @F1427@
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 21:57:36
+0 @I3761@ INDI
+1 NAME Magteld Willems /Groeneveld/
+2 TYPE birth
+2 GIVN Magteld Willems
+2 SURN Groeneveld
+2 NICK Machtelt
+1 NAME  /Groenevelt/
+2 TYPE aka
+2 SPFX Groenevelt
+1 SEX F
+1 BAPM
+2 DATE 29 JUN 1732
+2 PLAC Alphen
+1 BURI
+2 DATE 19 OCT 1782
+2 NOTE @N1546@
+1 FAMC @F1427@
+2 PEDI birth
+1 FAMS @F1428@
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 22:15:50
+0 @I3762@ INDI
+1 NAME Cornelis /Wittebol/
+2 TYPE birth
+2 GIVN Cornelis
+2 SURN Wittebol
+1 SEX M
+1 FAMS @F1428@
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 22:03:48
+0 @I3763@ INDI
+1 NAME Annetje /Wittebol/
+2 TYPE birth
+2 GIVN Annetje
+2 SURN Wittebol
+1 SEX F
+1 BAPM
+2 DATE 21 FEB 1759
+2 PLAC Aarlanderveen (Alphen aan de Rijn) [Zuid Holland]
+3 MAP
+4 LATI N52.133333
+4 LONG E4.733333
+1 FAMC @F1428@
+2 PEDI birth
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 22:03:48
+0 @I3764@ INDI
+1 NAME Symon /Groeneveld/
+2 TYPE birth
+2 GIVN Symon
+2 SURN Groeneveld
+1 SEX M
+1 DEAT
+2 DATE BEF 3 AUG 1738
+1 BAPM
+2 DATE 6 JAN 1734
+2 PLAC Alphen
+1 FAMC @F1427@
+2 PEDI birth
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 22:15:50
+0 @I3765@ INDI
+1 NAME Jan /Groeneveld/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Groeneveld
+2 NICK Joannes
+1 SEX M
+1 BAPM
+2 DATE 6 JAN 1734
+2 PLAC Alphen
+1 FAMC @F1427@
+2 PEDI birth
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 22:15:50
+0 @I3766@ INDI
+1 NAME Sijmen /Groeneveld/
+2 TYPE birth
+2 GIVN Sijmen
+2 SURN Groeneveld
+1 SEX M
+1 BAPM
+2 DATE 3 AUG 1738
+2 PLAC Alphen
+1 FAMC @F1427@
+2 PEDI birth
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 22:15:50
+0 @I3767@ INDI
+1 NAME Grietje /van der Wel/
+2 TYPE birth
+2 GIVN Grietje
+2 SPFX van der
+2 SURN Wel
+1 SEX F
+1 BIRT
+2 DATE EST 1761
+2 NOTE @N1547@
+1 DEAT
+2 DATE 4 JUL 1824
+2 PLAC Aarlanderveen (Alphen aan de Rijn) [Zuid Holland]
+3 MAP
+4 LATI N52.133333
+4 LONG E4.733333
+2 NOTE @N1548@
+1 FAMC @F0929@
+2 PEDI birth
+1 FAMS @F1429@
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 22:34:12
+0 @I3768@ INDI
+1 NAME Maarten /Huijsman/
+2 TYPE birth
+2 GIVN Maarten
+2 SURN Huijsman
+1 SEX M
+1 BIRT
+2 DATE EST 1759
+1 DEAT
+2 DATE 29 MAR 1814
+2 PLAC Aarlanderveen (Alphen aan de Rijn) [Zuid Holland]
+3 MAP
+4 LATI N52.133333
+4 LONG E4.733333
+2 NOTE @N1549@
+1 FAMS @F1429@
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 22:28:47
+0 @I3769@ INDI
+1 NAME Dirkje /Huijsman/
+2 TYPE birth
+2 GIVN Dirkje
+2 SURN Huijsman
+1 SEX F
+1 BURI
+2 DATE 4 MAR 1796
+2 PLAC Aarlanderveen (Alphen aan de Rijn) [Zuid Holland]
+3 MAP
+4 LATI N52.133333
+4 LONG E4.733333
+2 NOTE @N1550@
+1 FAMC @F1429@
+2 PEDI birth
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 22:29:59
+0 @I3770@ INDI
+1 NAME Teunis /Huijsman/
+2 TYPE birth
+2 GIVN Teunis
+2 SURN Huijsman
+1 SEX M
+1 BIRT
+2 DATE 21 APR 1798
+1 BAPM
+2 PLAC Aarlanderveen (Alphen aan de Rijn) [Zuid Holland]
+3 MAP
+4 LATI N52.133333
+4 LONG E4.733333
+1 BURI
+2 DATE 16 MAY 1798
+2 PLAC Aarlanderveen (Alphen aan de Rijn) [Zuid Holland]
+3 MAP
+4 LATI N52.133333
+4 LONG E4.733333
+2 NOTE @N1551@
+1 FAMC @F1429@
+2 PEDI birth
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 22:29:59
+0 @I3771@ INDI
+1 NAME Marrigje /Huijsman/
+2 TYPE birth
+2 GIVN Marrigje
+2 SURN Huijsman
+1 SEX F
+1 BIRT
+2 DATE 21 APR 1798
+1 BAPM
+2 PLAC Aarlanderveen (Alphen aan de Rijn) [Zuid Holland]
+3 MAP
+4 LATI N52.133333
+4 LONG E4.733333
+1 BURI
+2 DATE 16 MAY 1798
+2 PLAC Aarlanderveen (Alphen aan de Rijn) [Zuid Holland]
+3 MAP
+4 LATI N52.133333
+4 LONG E4.733333
+2 NOTE @N1552@
+1 FAMC @F1429@
+2 PEDI birth
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 22:29:59
+0 @I3772@ INDI
+1 NAME Cornelis Maartens /Huijsman/
+2 TYPE birth
+2 GIVN Cornelis Maartens
+2 SURN Huijsman
+1 SEX M
+1 BIRT
+2 DATE 14 JAN 1801
+2 PLAC Aarlanderveen (Alphen aan de Rijn) [Zuid Holland]
+3 MAP
+4 LATI N52.133333
+4 LONG E4.733333
+1 FAMC @F1429@
+2 PEDI birth
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 22:29:59
+0 @I3773@ INDI
+1 NAME Willem /van der Wel/
+2 TYPE birth
+2 GIVN Willem
+2 SPFX van der
+2 SURN Wel
+1 SEX M
+1 BAPM
+2 DATE 3 NOV 1765
+2 PLAC Ter Aar
+1 FAMC @F0929@
+2 PEDI birth
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 22:34:12
+0 @I3774@ INDI
+1 NAME Neeltje Willems /Groeneveld/
+2 TYPE birth
+2 GIVN Neeltje Willems
+2 SURN Groeneveld
+2 NICK Neetye
+1 SEX F
+1 BAPM
+2 DATE 3 AUG 1738
+2 PLAC Alphen
+1 FAMC @F1427@
+2 PEDI birth
+1 FAMS @F1430@
+1 FAMS @F1431@
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 22:15:50
+0 @I3775@ INDI
+1 NAME Cornelis Aarentsz /Verhagen/
+2 TYPE birth
+2 GIVN Cornelis Aarentsz
+2 SURN Verhagen
+1 SEX M
+1 BIRT
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMS @F1430@
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 21:17:29
+0 @I3776@ INDI
+1 NAME Egbert /van der Horn/
+2 TYPE birth
+2 GIVN Egbert
+2 SPFX van der
+2 SURN Horn
+1 SEX M
+1 FAMS @F1431@
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 21:22:55
+0 @I3777@ INDI
+1 NAME Egbert /van der Horn/
+2 TYPE birth
+2 GIVN Egbert
+2 SPFX van der
+2 SURN Horn
+1 SEX M
+1 BIRT
+2 DATE 9 DEC 1776
+2 PLAC Alphen
+1 FAMC @F1431@
+2 PEDI birth
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 21:22:55
+0 @I3778@ INDI
+1 NAME Hendrikje /Groeneveld/
+2 TYPE birth
+2 GIVN Hendrikje
+2 SURN Groeneveld
+1 SEX F
+1 DEAT
+2 DATE 24 NOV 1759
+2 PLAC Ter Aar
+2 NOTE @N1553@
+1 BAPM
+2 DATE 8 MAY 1740
+2 PLAC Alphen
+1 FAMC @F1427@
+2 PEDI birth
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 22:15:50
+0 @I3779@ INDI
+1 NAME Boudewijn /Groeneveld/
+2 TYPE birth
+2 GIVN Boudewijn
+2 SURN Groeneveld
+2 NICK Bouwen
+1 SEX M
+1 DEAT
+2 DATE 3 MAY 1767
+2 PLAC Ter Aar
+2 NOTE @N1554@
+1 BAPM
+2 DATE 23 JUL 1741
+2 PLAC Alphen
+1 FAMC @F1427@
+2 PEDI birth
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 22:15:50
+0 @I3780@ INDI
+1 NAME Antje Willemse /Groeneveld/
+2 TYPE birth
+2 GIVN Antje Willemse
+2 SURN Groeneveld
+2 NICK Annigje
+1 SEX F
+1 BAPM
+2 DATE 13 JAN 1745
+2 PLAC Alphen
+2 NOTE @N1555@
+1 BURI
+2 DATE 28 FEB 1799
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 FAMC @F1427@
+2 PEDI birth
+1 FAMS @F1432@
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 22:21:37
+0 @I3781@ INDI
+1 NAME Jan /Verhaar/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Verhaar
+2 NICK Joannes, Jan Janze
+1 SEX M
+1 DEAT
+2 DATE 26 AUG 1814
+2 PLAC Zevenhoven en Noorden
+1 BAPM
+2 DATE 1 OCT 1752
+2 PLAC Nieuwkoop [Zuid Holland]
+1 FACT Bouwman
+2 TYPE Occupation
+1 FAMS @F1432@
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 22:21:37
+0 @I3782@ INDI
+1 NAME Cornelis Aerts /Groenevelt/
+2 TYPE birth
+2 GIVN Cornelis Aerts
+2 SURN Groenevelt
+1 SEX M
+1 BAPM
+2 DATE 2 OCT 1661
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 BURI
+2 DATE 23 NOV 1736
+2 PLAC Aarlanderveen (Alphen aan de Rijn) [Zuid Holland]
+3 MAP
+4 LATI N52.133333
+4 LONG E4.733333
+2 NOTE @N1556@
+1 FAMS @F1433@
+1 FAMS @F1434@
+1 RESI
+2 ADDR de Nesse
+3 CONT Alphen
+3 CONT Netherlands
+3 ADR1 de Nesse
+3 CITY Alphen
+3 CTRY Netherlands
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:07:18
+0 @I3783@ INDI
+1 NAME Annigje Symens /Schellingerhout/
+2 TYPE birth
+2 GIVN Annigje Symens
+2 SURN Schellingerhout
+1 NAME  /Annitje Sijmonse/
+2 TYPE aka
+2 SPFX Annitje Sijmonse
+1 NAME  /Annetje Sijmonsdr/
+2 TYPE aka
+2 SPFX Annetje Sijmonsdr
+1 SEX F
+1 BIRT
+2 DATE EST 1670
+2 PLAC Zwammerdam
+1 DEAT
+2 DATE BEF 26 NOV 1742
+2 NOTE @N1557@
+1 FAMS @F1433@
+1 NOTE @N1558@
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 22:58:20
+0 @I3784@ INDI
+1 NAME Lijsbeth Cornelisdr /Seghvelt/
+2 TYPE birth
+2 GIVN Lijsbeth Cornelisdr
+2 SURN Seghvelt
+1 SEX F
+1 DEAT
+2 DATE BEF 4 APR 1697
+1 FAMS @F1434@
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:07:18
+0 @I3785@ INDI
+1 NAME Aart /Groenevelt/
+2 TYPE birth
+2 GIVN Aart
+2 SURN Groenevelt
+1 SEX M
+1 BAPM
+2 DATE 3 SEP 1690
+2 PLAC Alphen
+1 FAMC @F1434@
+2 PEDI birth
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:07:18
+0 @I3786@ INDI
+1 NAME Cornelis /Groenevelt/
+2 TYPE birth
+2 GIVN Cornelis
+2 SURN Groenevelt
+1 SEX M
+1 BAPM
+2 DATE 14 JUN 1693
+2 PLAC Alphen
+1 FAMC @F1434@
+2 PEDI birth
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:07:18
+0 @I3787@ INDI
+1 NAME Magteld Cornelisdr /Groenevelt/
+2 TYPE birth
+2 GIVN Magteld Cornelisdr
+2 SURN Groenevelt
+1 SEX F
+1 DEAT
+2 DATE BEF 2 MAR 1729
+1 BAPM
+2 DATE 4 MAY 1698
+2 PLAC Alphen
+1 FAMC @F1433@
+2 PEDI birth
+1 FAMS @F1435@
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:34:32
+0 @I3788@ INDI
+1 NAME Dirk Jacobsz /Ket/
+2 TYPE birth
+2 GIVN Dirk Jacobsz
+2 SURN Ket
+1 SEX M
+1 FAMS @F1435@
+1 FAMS @F1436@
+1 NOTE @N1559@
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:38:27
+0 @I3789@ INDI
+1 NAME Cornelis /Ket/
+2 TYPE birth
+2 GIVN Cornelis
+2 SURN Ket
+1 SEX M
+1 BAPM
+2 DATE 14 MAR 1725
+2 PLAC Alphen
+2 NOTE @N1560@
+1 FAMC @F1435@
+2 PEDI birth
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:34:32
+0 @I3790@ INDI
+1 NAME Aaltje Rutgerts /van den Berg/
+2 TYPE birth
+2 GIVN Aaltje Rutgerts
+2 SPFX van den
+2 SURN Berg
+1 SEX F
+1 BIRT
+2 PLAC Hoogmade
+1 FAMS @F1436@
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:38:27
+0 @I3791@ INDI
+1 NAME Lysye Dirks /Ket/
+2 TYPE birth
+2 GIVN Lysye Dirks
+2 SURN Ket
+2 NICK Lijsbeth
+1 SEX F
+1 BAPM
+2 DATE 5 JAN 1730
+2 PLAC Alphen
+1 FAMC @F1436@
+2 PEDI birth
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:38:27
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -62954,9 +64149,12 @@
 0 @F0321@ FAM
 1 HUSB @I0839@
 1 WIFE @I0840@
+1 MARR
+2 DATE 6 NOV 1913
+2 PLAC Oudshoorn (Alphen aan de Rijn)
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 10:01:28
+2 DATE 2 SEP 2025
+3 TIME 01:05:56
 0 @F0322@ FAM
 1 HUSB @I0848@
 1 WIFE @I0849@
@@ -66984,11 +68182,14 @@
 0 @F0729@ FAM
 1 HUSB @I1902@
 1 WIFE @I1903@
+1 MARR
+2 DATE EST 1799
+2 PLAC Alphen
 1 CHIL @I2406@
 1 CHIL @I0750@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 21:35:49
+2 DATE 2 SEP 2025
+3 TIME 20:45:54
 0 @F0730@ FAM
 1 HUSB @I1904@
 1 WIFE @I1905@
@@ -66996,10 +68197,15 @@
 2 DATE 19 APR 1793
 2 PLAC Oudshoorn (Alphen aan de Rijn)
 2 NOTE @N0883@
+1 CHIL @I3735@
+1 CHIL @I3736@
+1 CHIL @I3737@
+1 CHIL @I3738@
+1 CHIL @I3739@
 1 CHIL @I0751@
 1 CHAN
-2 DATE 2 JUL 2025
-3 TIME 20:20:04
+2 DATE 2 SEP 2025
+3 TIME 20:41:23
 0 @F0731@ FAM
 1 HUSB @I1906@
 1 WIFE @I1907@
@@ -68845,10 +70051,12 @@
 1 MARR
 2 DATE 14 MAY 1760
 2 PLAC Alphen aan de Rijn [Zuid Holland]
+1 CHIL @I3767@
 1 CHIL @I1902@
+1 CHIL @I3773@
 1 CHAN
-2 DATE 14 JUL 2025
-3 TIME 21:41:12
+2 DATE 3 SEP 2025
+3 TIME 22:34:12
 0 @F0930@ FAM
 1 HUSB @I2409@
 1 WIFE @I2410@
@@ -73595,9 +74803,19 @@
 1 CHIL @I3717@
 1 CHIL @I3719@
 1 CHIL @I3720@
+1 CHIL @I3722@
+1 CHIL @I3723@
+1 CHIL @I3725@
+1 CHIL @I3726@
+1 CHIL @I3727@
+1 CHIL @I3728@
+1 CHIL @I3729@
+1 CHIL @I3730@
+1 CHIL @I3731@
+1 CHIL @I3732@
 1 CHAN
-2 DATE 31 AUG 2025
-3 TIME 23:47:24
+2 DATE 2 SEP 2025
+3 TIME 00:52:55
 0 @F1415@ FAM
 1 HUSB @I3716@
 1 WIFE @I3715@
@@ -73618,6 +74836,189 @@
 1 CHAN
 2 DATE 31 AUG 2025
 3 TIME 23:51:59
+0 @F1418@ FAM
+1 HUSB @I3723@
+1 WIFE @I3724@
+1 CHAN
+2 DATE 1 SEP 2025
+3 TIME 23:18:06
+0 @F1419@ FAM
+1 HUSB @I3733@
+1 WIFE @I3734@
+1 MARR
+2 DATE 18 MAY 1766
+2 PLAC Alphen
+1 CHIL @I3743@
+1 CHIL @I1904@
+1 CHIL @I3744@
+1 CHIL @I3745@
+1 CHIL @I3746@
+1 CHIL @I3748@
+1 CHIL @I3749@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 22:49:25
+0 @F1420@ FAM
+1 HUSB @I3740@
+1 WIFE @I0751@
+1 MARR
+2 DATE 20 OCT 1850
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 20:49:55
+0 @F1421@ FAM
+1 HUSB @I3741@
+1 WIFE @I3742@
+1 CHIL @I3733@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 21:14:48
+0 @F1422@ FAM
+1 HUSB @I3747@
+1 WIFE @I3746@
+1 MARR
+2 DATE 19 MAY 1799
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 22:41:13
+0 @F1423@ FAM
+1 HUSB @I3750@
+1 WIFE @I3751@
+1 CHIL @I0913@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 23:06:07
+0 @F1424@ FAM
+1 HUSB @I3752@
+1 WIFE @I3751@
+1 MARR
+2 DATE 15 JUN 1760
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 23:18:13
+0 @F1425@ FAM
+1 HUSB @I3753@
+1 CHIL @I3751@
+1 CHIL @I3754@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 23:28:31
+0 @F1426@ FAM
+1 HUSB @I3754@
+1 WIFE @I3755@
+1 MARR
+2 PLAC Alphen
+1 CHIL @I3756@
+1 CHIL @I3757@
+1 CHIL @I3758@
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 07:45:59
+0 @F1427@ FAM
+1 HUSB @I3759@
+1 WIFE @I3760@
+1 MARR
+2 DATE 5 FEB 1730
+2 PLAC Alphen
+1 CHIL @I3761@
+1 CHIL @I3764@
+1 CHIL @I3765@
+1 CHIL @I2408@
+1 CHIL @I3766@
+1 CHIL @I3774@
+1 CHIL @I3778@
+1 CHIL @I3779@
+1 CHIL @I3780@
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 22:15:50
+0 @F1428@ FAM
+1 HUSB @I3762@
+1 WIFE @I3761@
+1 CHIL @I3763@
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 22:03:48
+0 @F1429@ FAM
+1 HUSB @I3768@
+1 WIFE @I3767@
+1 CHIL @I3769@
+1 CHIL @I3770@
+1 CHIL @I3771@
+1 CHIL @I3772@
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 22:29:59
+0 @F1430@ FAM
+1 HUSB @I3775@
+1 WIFE @I3774@
+1 MARR
+2 DATE 25 APR 1762
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 21:17:29
+0 @F1431@ FAM
+1 HUSB @I3776@
+1 WIFE @I3774@
+1 CHIL @I3777@
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 21:22:55
+0 @F1432@ FAM
+1 HUSB @I3781@
+1 WIFE @I3780@
+1 MARR
+2 DATE 15 MAY 1784
+2 PLAC Woubrugge
+1 CHAN
+2 DATE 4 SEP 2025
+3 TIME 22:21:37
+0 @F1433@ FAM
+1 HUSB @I3782@
+1 WIFE @I3783@
+1 MARR
+2 DATE 21 APR 1697
+2 PLAC Alphen
+1 CHIL @I3787@
+1 CHIL @I3759@
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:29:48
+0 @F1434@ FAM
+1 HUSB @I3782@
+1 WIFE @I3784@
+1 MARR
+2 DATE 6 NOV 1689
+2 PLAC Alphen
+1 CHIL @I3785@
+1 CHIL @I3786@
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:07:18
+0 @F1435@ FAM
+1 HUSB @I3788@
+1 WIFE @I3787@
+1 MARR
+2 DATE 5 JUN 1724
+2 PLAC Alphen
+1 CHIL @I3789@
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:34:32
+0 @F1436@ FAM
+1 HUSB @I3788@
+1 WIFE @I3790@
+1 MARR
+2 DATE 27 MAR 1729
+2 PLAC Alphen
+1 CHIL @I3791@
+1 CHAN
+2 DATE 5 SEP 2025
+3 TIME 21:38:27
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -81293,6 +82694,274 @@
 1 CONC d-Holland; Waarder, nummer toegang 3.04.16.152, inventarisnummer 0.II
 0 @N1543@ NOTE gaarderboek van begrafenissen Bodegraven akte 85
 0 @N1544@ NOTE Doopboek Waarder scan 70
+0 @N1545@ NOTE vóór 26 okt 1849 (Leeftijd ~ 83 jaar) 
+0 @N1546@ NOTE mogelijk:
+1 CONT DTB 30, folio 75
+1 CONT begraven 19-10-1782
+1 CONT overledene Magteltje Groeneveld, buiten de kerk begraven
+0 @N1547@ NOTE Doop ook geregistreerd in Nieuwkoop.
+0 @N1548@ NOTE Streekarchief Rijnlands Midden:
+1 CONT 
+1 CONT Gemeente: Aarlanderveen
+1 CONT Soort akte: Overlijdensakte
+1 CONT Aktenummer: 28
+1 CONT Aangiftedatum: 05-07-1824
+1 CONT Overledene Grietje van der Wel
+1 CONT Geslacht: V
+1 CONT Overlijdensdatum: 04-07-1824
+1 CONT Leeftijd: 63 
+0 @N1549@ NOTE Streekarchief Rijnlands Midden:
+1 CONT 
+1 CONT Gemeente: Aarlanderveen
+1 CONT Soort akte: Overlijdensakte
+1 CONT Aktenummer: 42
+1 CONT Aangiftedatum: 30-03-1814
+1 CONT Overledene Maarten Huisman
+1 CONT Geslacht: M
+1 CONT Overlijdensdatum: 29-03-1814
+1 CONT Leeftijd: 55
+1 CONT Overlijdensplaats: Aarlanderveen
+1 CONT Vader NN
+1 CONT Moeder NN
+1 CONT Partner Grietje van der Wel
+1 CONT Relatie: Echtgenoot
+0 @N1550@ NOTE Streekarchief Rijnlands Midden:
+1 CONT 
+1 CONT bron gaarder betaalde impost begraven Aarlanderveen 1768-1800
+1 CONT toegangsnummer gaarder
+1 CONT inventarisnummer 3
+1 CONT bladzijde 190
+1 CONT datum 04-03-1796
+1 CONT naam Dirkje Huijman begraven op 04-03-1796
+1 CONT vader Maarten Huijman
+1 CONT aangever Teunis van der Wel (grootvader)
+1 CONT bedrag pro deo
+1 CONT plaatsnaam Aarlanderveen
+1 CONT 
+1 CONT bron hervormd begraven Aarlanderveen 1727-1798
+1 CONT toegangsnummer DTB-registers
+1 CONT inventarisnummer 5
+1 CONT bladzijde 386
+1 CONT datum 04-03-1796
+1 CONT naam Dirkje Huisman begraven op 04-03-1796
+1 CONT vader Maarte Huisman
+1 CONT aangever Teunis van der Wel (grootvader)
+1 CONT bedrag pro deo
+1 CONT plaatsnaam Aarlanderveen
+0 @N1551@ NOTE Streekarchief Rijnlands Midden:
+1 CONT 
+1 CONT bron gaarder betaalde impost begraven Aarlanderveen 1768-1800
+1 CONT toegangsnummer gaarder
+1 CONT inventarisnummer 3
+1 CONT bladzijde 200
+1 CONT datum 16-05-1798
+1 CONT naam Teunis Huijsman begraven op 16-05-1798
+1 CONT vader Maarten Huijsman
+1 CONT aangever Teunis van der Wel (grootvader)
+1 CONT bedrag pro deo
+1 CONT plaatsnaam Aarlanderveen
+1 CONT 
+1 CONT bron hervormd begraven Aarlanderveen 1750-1805
+1 CONT toegangsnummer DTB-registers
+1 CONT inventarisnummer 7
+1 CONT bladzijde 316
+1 CONT datum 14-05-1798
+1 CONT naam Teunis Huisman begraven op 14-05-1798, graf kerkhof
+1 CONT vader Maarte Huisman
+1 CONT aangever Teunis van der Wel
+1 CONT bedrag pro deo
+1 CONT plaatsnaam Aarlanderveen
+0 @N1552@ NOTE treekarchief Rijnlands Midden:
+1 CONT 
+1 CONT bron gaarder betaalde impost begraven Aarlanderveen 1768-1800
+1 CONT toegangsnummer gaarder
+1 CONT inventarisnummer 3
+1 CONT bladzijde 200
+1 CONT datum 16-05-1798
+1 CONT naam Marrigje Huijsman begraven op 16-05-1798
+1 CONT vader Maarten Huijsman
+1 CONT aangever Teunis van der Wel (grootvader)
+1 CONT bedrag pro deo
+1 CONT plaatsnaam Aarlanderveen
+1 CONT 
+1 CONT bron hervormd begraven Aarlanderveen 1750-1805
+1 CONT toegangsnummer DTB-registers
+1 CONT inventarisnummer 7
+1 CONT bladzijde 316
+1 CONT datum 14-05-1798
+1 CONT naam Margje Huisman begraven op 14-05-1798, graf kerkhof
+1 CONT vader Maarte Huisman
+1 CONT aangever Teunis van der Wel
+1 CONT bedrag pro deo
+1 CONT plaatsnaam Aarlanderveen
+0 @N1553@ NOTE Datum is feitelijk de datum van het betalen van impost.
+0 @N1554@ NOTE Streekarchief Rijnlands Midden:
+1 CONT 
+1 CONT bron gaarder betaalde impost begraven Ter Aar 1752-1767
+1 CONT toegangsnummer gaarder
+1 CONT inventarisnummer 2
+1 CONT bladzijde 266
+1 CONT datum 03-05-1767
+1 CONT naam Bouwen Groeneveld
+1 CONT aangever Willem van Dam
+1 CONT bedrag pro deo
+1 CONT plaatsnaam Ter Aar
+0 @N1555@ NOTE DTB 22, folio 448
+1 CONT doop 13-1-1745
+1 CONT kind Antje
+1 CONT vader Willem Cornelisz Groenevelt
+1 CONT moeder Lysje Cornelis Koene
+1 CONT getuige Magteld Cornelis Koene
+0 @N1556@ NOTE Streekarchief Rijnlands Midden:
+1 CONT 
+1 CONT bron hervormd begraven Aarlanderveen 1727-1798
+1 CONT toegangsnummer DTB-registers
+1 CONT inventarisnummer 5
+1 CONT bladzijde 53
+1 CONT datum 23-11-1736
+1 CONT naam Cornelis Aarts Groenevelt begraven op 23-11-1736, graf 50
+1 CONT aangever Fijtie Aarts Groenevelt (zuster)
+1 CONT bedrag 3 gulden
+1 CONT plaatsnaam Aarlanderveen
+1 CONT 
+1 CONT 
+1 CONT Maar er zijn vanaf 20-11-1722 meerdere protocollen (zie bij zijn vrouw A
+1 CONC nnetje Sijmonsdr Schellingerhout), waarin Annetje Sijmonsdr Schellingerh
+1 CONC out aangeduid wordt als de weduwe van Cornelis Aardse Groeneveld.
+1 CONT Vervolgens is er een protocol van 01-05-1725, waarin hij nog (aktief) op
+1 CONC treedt.
+1 CONT 
+1 CONT Gaat het hier om twee verschillende personen met dezelfde namen?
+0 @N1557@ NOTE Overleden voor 26-11-1742, hetgeen blijkt uit onderstaand protocol:
+1 CONT 
+1 CONT Streekarchief Rijnlands Midden:
+1 CONT 
+1 CONT bron protocollen Alphen 1739-1745
+1 CONT inventarisnummer 33
+1 CONT bladzijde 94v
+1 CONT datum 26-11-1742
+1 CONT inhoud Cornelis Mijne en Elisabeth de Jongh, echtelieden, zijn schuldi
+1 CONC g aan Johannes Wesselius, professor in de theologie te Leiden, een bedra
+1 CONC g van 1.500 gulden. Gesteld onderpand: een huis, erf en pannenbakkerij i
+1 CONC n Alpherhoorn, tussen Rijn en Hoge Rijndijk, belend ten oosten de compar
+1 CONC ant, ten westen Nicolaas Tonus. Nog een huis en erf in Alpherhoorn tusse
+1 CONC n Hoge Rijndijk en Rijn, belend ten oosten Jan Robijn, ten westen de com
+1 CONC parant. Nog 2 morgen land in de polder achter de Kerk, belend ten ooste
+1 CONC n de erfgenamen van Annetje Sijmonsdr Schellingerhout, weduwe van Cornel
+1 CONC is Aartz Groenevelt, ten westen Nicolaas Tonus, ten zuiden de voornoemd
+1 CONC e erfgenamen, ten noorden de Hereweg. Schuld geroijeerd 08-08-1748.
+1 CONT plaatsnaam Alphen
+0 @N1558@ NOTE Streekarchief Rijnlands Midden:
+1 CONT 
+1 CONT bron protocollen Alphen 1720-1725
+1 CONT inventarisnummer 30
+1 CONT bladzijde 131
+1 CONT datum 20-11-1722
+1 CONT inhoud Balten Cornelisz Spruijt, diens weduwe Annetje Dirx, wonende te A
+1 CONC lphen, Bouwen Sijmonse Schellingerhout, wonend Lange Ruige Weide, onde
+1 CONC r Driebrugge, Annetje Sijmonsdr Schellingerhout, weduwe van Cornelis Aar
+1 CONC dse Groeneveld, wonende te Alphen, Claas van Vleit, wonende te Haastrech
+1 CONC t, mede Bouwen Sijmonse voorn. en Jacob Janse van Dobbe, wonende te Zwam
+1 CONC merdam, als voogden over Geertje Jacobsdr van Dobbe, dochter van Neeltj
+1 CONC e Sijmonsdr Schellingerhout, enige minderjarige erfgenaam van Annetje Di
+1 CONC rx, volgens testament voor Dirk van der Aar, notaris te Aarlanderveen, v
+1 CONC an 20-02-1691, verkopen aan Jan Pieterse van Hoorn, wonende te Alphen
+1 CONC , 3 morgen 241 roeden land in de Steekt, belend ten oosten en zuiden d
+1 CONC e erfgenamen van Gerard Gaal, ten westen Willem Gijsbertsz van Heijninge
+1 CONC n, ten noorden Jacob Gerritse Segvelder en Jan Cornelisse de Zeeuw. Aa
+1 CONC n Spruijt opgedragen op 11-05-1722. Koopsom 1.050 gulden.
+1 CONT plaatsnaam Alphen
+1 CONT 
+1 CONT bron protocollen Alphen 1720-1725
+1 CONT inventarisnummer 30
+1 CONT bladzijde 140v
+1 CONT datum 29-04-1723
+1 CONT inhoud Balten Cornelisz Rock, laatst weduwnaar van Annetje Dirx, daarvoo
+1 CONC r getrouwd met Sijmon Bouwensz Schellingerhout, voor een kinds gedeelt
+1 CONC e mede-erfgenaam van de voorn. Annetje Dirx, wonende te Alphen, ter eenr
+1 CONC e en Bouwen Sijmonsz Schellingerhout, wonend in de Lange Weide onder Dri
+1 CONC ebruggen en Annetje Sijmonsdr Schellingerhout, weduwe van Cornelis Aarts
+1 CONC z Groeneveld, mede wonende te Alphen, mede Claas van Vliet, zoon van Nee
+1 CONC ltje Sijmonsdr Schellingerhout, wonend te Haastrecht en de voorn. Bouwe
+1 CONC n Sijmonsz Schellingerhout en Jacob van Dobbe, wonende te Zwammerdam, sa
+1 CONC men voogden over het minderjarige kind van Neeltje Sijmonsdr Schellinger
+1 CONC hout, samen kinderen, kindskinderen en mede-erfgenamen van Annetje Dirx
+1 CONC , ter andere zijde. Regeling der nalatenschap. Balten Cornelisz Rock beh
+1 CONC oudt alle roerende en onroerende goederen, mede de schulden. Hij zal d
+1 CONC e overige comparanten een bedrag van 6.000 gulden uitkeren.
+1 CONT plaatsnaam Alphen
+1 CONT 
+1 CONT bron protocollen Alphen 1725-1733
+1 CONT inventarisnummer 31
+1 CONT bladzijde 3
+1 CONT datum 28-08-1725
+1 CONT inhoud Gerrebrand Moens, wonende te Amsterdam voor 1/3 deel, mede met pr
+1 CONC ocuratie van Elizabeth Schaap, wonend op Schapenbos voor 2/3 deel, procu
+1 CONC ratie voor Hendrik van Eekhout Zachariasz, notaris, d.d. 14-06-1725, ver
+1 CONC koopt aan Annijtje Sijmonsdr Schellingerhout, weduwe van Cornelis Aards
+1 CONC e Groeneveld, een huis, erf, berg en schuur in Alpherhoorn; nog 26 morge
+1 CONC n 258 roeden land in de polder achter de Kerk en Zanen strekkend van d
+1 CONC e Rijndijk tot het land van Reijnier Uijlenburg, nu belend ten oosten Jo
+1 CONC han van Gouwenhoven, ten westen Willem Heemskerk, schepen van Leiden, d
+1 CONC e erfgenamen van Jan Sijmonsz Kop en Dirk Fiool, aan Moens voor 1/3 dee
+1 CONC l opgedragen op 11-03-1722 (RA Alphen invnr. 30 folio 82), en Elizabet
+1 CONC h Schaap ten deel gevallen bij overlijden van haar broer Martinus Schaap
+1 CONC . Koopsom 7.000 gulden. Met schuldbrief van 7.000 gulden, geroijeerd d.d
+1 CONC . 03-04-1726.
+1 CONT plaatsnaam Alphen
+1 CONT 
+1 CONT bron protocollen Alphen 1725-1733
+1 CONT inventarisnummer 31
+1 CONT bladzijde 18v
+1 CONT datum 03-04-1726
+1 CONT inhoud Annetje Sijmonsdr Schellingerhout, weduwe van Cornelis Aardse Gro
+1 CONC enevelt, wonend te Alphen, met Rijkert Schaap, haar gekoren voogd is sch
+1 CONC uldig aan Jan Pieterse van der Mark, mede van Alphen, een bedrag van 50
+1 CONC 0 gulden. Gesteld onderpand: het huis en de 26 morgen land van akte d.d
+1 CONC . 28-08-1725 RA Alphen invnr. 31 folio 3. Schuld geroijeerd 21-03-174.(?
+1 CONC )
+1 CONT plaatsnaam Alphen
+1 CONT 
+1 CONT bron protocollen Alphen 1725-1733
+1 CONT inventarisnummer 31
+1 CONT bladzijde 20
+1 CONT datum 03-04-1726
+1 CONT inhoud Annetje Sijmonsdr Schellingerhout, weduwe van Cornelis Aardse Gro
+1 CONC enevelt, wonend te Alphen, met Rijkert Schaap, haar gekoren voogd is sch
+1 CONC uldig aan Gerrebrand Moens, wonende te Amsterdam, een bedrag van 900 gul
+1 CONC den. Gesteld onderpand: het huis en de 26 morgen land van akte d.d. 28-0
+1 CONC 8-1725 RA Alphen invnr. 31 folio 3. Schuld geroijeerd 12-05-1727.
+1 CONT plaatsnaam Alphen
+1 CONT 
+1 CONT bron protocollen Alphen 1725-1733
+1 CONT inventarisnummer 31
+1 CONT bladzijde 143v
+1 CONT datum 12-02-1731
+1 CONT inhoud Annetje Sijmonsdr Schellingerhout, weduwe van Cornelis Aartsz Gro
+1 CONC eneveld, wonende te Alphen, verkoopt aan Cornelis Mijne, mede van Alphen
+1 CONC , 2 morgen land in de polder achter de Kerk, belend ten oosten en zuide
+1 CONC n de verkoopster, ten westen Sijmon ...niet vermeld..., ten noorden de H
+1 CONC ereweg. Koopsom 1.000 gulden.
+1 CONT plaatsnaam Alphen
+0 @N1559@ NOTE Streekarchief Rijnlands Midden:
+1 CONT 
+1 CONT protocollen Alphen 1725-1733
+1 CONT inventarisnummer 31
+1 CONT bladzijde 88
+1 CONT datum 02-03-1729
+1 CONT inhoud Dirk Jacobsz Ket weduwnaar van Magteld Cornelisdr Groenevelt, won
+1 CONC ende te Alphen, ter eenre en Jacob Jacobsz Ket als gestelde voogd over C
+1 CONC ornelis, zoon van voorn. echtpaar, ter andere zijde. Deling der moederli
+1 CONC jke nalatenschap. Dirk Jacobsz Ket is gehouden zijn zoon te onderhoude
+1 CONC n en op te voeden tot de leeftijd van 25 jaar, hem dan uittekeren een be
+1 CONC drag van 50 gulden. Zelf behoudt hij de gehele boedel in eigendom.
+1 CONT plaatsnaam Alphen
+0 @N1560@ NOTE DTB 22, folio 347
+1 CONT doop 14-3-1725
+1 CONT kind Cornelis Dirksz Ket
+1 CONT vader Dirk Jacobsz Ket
+1 CONT moeder Magteld Cornelis Groeneveld
+1 CONT getuige Annigje Symens Schellingerhout
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
