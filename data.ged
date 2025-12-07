@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 17 NOV 2025
-2 TIME 23:21:59
+1 DATE 7 DEC 2025
+2 TIME 23:22:37
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2025 .
@@ -10545,7 +10545,7 @@
 2 PLAC Smilde
 1 DEAT
 2 DATE 8 APR 1940
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 FAMC @F0150@
 2 PEDI birth
 1 FAMS @F0272@
@@ -10564,7 +10564,7 @@
 2 NOTE @N0152@
 1 DEAT
 2 DATE 28 MAR 1920
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 FACT Arbeider
 2 TYPE Occupation
 1 FAMS @F0272@
@@ -12369,16 +12369,16 @@
 2 DATE 10 JUL 2025
 3 TIME 20:03:00
 0 @I0766@ INDI
-1 NAME Johan Dilman /Goebel/
+1 NAME Johan Tilman /Göbel/
 2 TYPE birth
-2 GIVN Johan Dilman
-2 SURN Goebel
+2 GIVN Johan Tilman
+2 SURN Göbel
 1 NAME  /Johann Thilmann Göbel/
 2 TYPE aka
 2 SPFX Johann Thilmann Göbel
-1 NAME  /Johann Tilman Göbel/
+1 NAME  /Johann Dilman Goebel/
 2 TYPE aka
-2 SPFX Johann Tilman Göbel
+2 SPFX Johann Dilman Goebel
 1 SEX M
 1 BIRT
 2 DATE 30 MAR 1759
@@ -12400,8 +12400,8 @@
 1 NOTE @N1831@
 1 NOTE @N1841@
 1 CHAN
-2 DATE 16 NOV 2025
-3 TIME 17:21:01
+2 DATE 19 NOV 2025
+3 TIME 19:15:18
 0 @I0767@ INDI
 1 NAME Johanna Maria Cunegonda /Gerlach/
 2 TYPE birth
@@ -14514,8 +14514,8 @@
 1 FAMS @F1014@
 1 NOTE @N1132@
 1 CHAN
-2 DATE 21 JUL 2025
-3 TIME 17:55:43
+2 DATE 1 DEC 2025
+3 TIME 00:21:39
 0 @I0895@ INDI
 1 NAME Jannigje Jacobs /Blanken/
 2 TYPE birth
@@ -14840,8 +14840,8 @@
 2 PEDI birth
 1 NOTE @N0212@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 20:30:41
+2 DATE 1 DEC 2025
+3 TIME 00:21:39
 0 @I0915@ INDI
 1 NAME Arij Jacobsz /Rodenburg/
 2 TYPE birth
@@ -14870,8 +14870,8 @@
 1 FAMC @F0349@
 2 PEDI birth
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 18:24:17
+2 DATE 1 DEC 2025
+3 TIME 00:18:55
 0 @I0917@ INDI
 1 NAME Petronella /Rodenburg/
 2 TYPE birth
@@ -14888,8 +14888,8 @@
 1 FAMS @F0353@
 1 NOTE @N0216@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 19:19:58
+2 DATE 1 DEC 2025
+3 TIME 00:18:55
 0 @I0918@ INDI
 1 NAME Arijaantje /Rodenburg/
 2 TYPE birth
@@ -14910,8 +14910,8 @@
 2 PEDI birth
 1 NOTE @N0214@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 18:24:17
+2 DATE 1 DEC 2025
+3 TIME 00:18:55
 0 @I0919@ INDI
 1 NAME Adriana /Rodenburg/
 2 TYPE birth
@@ -14930,8 +14930,8 @@
 2 PEDI birth
 1 FAMS @F0350@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 18:29:21
+2 DATE 1 DEC 2025
+3 TIME 00:18:55
 0 @I0920@ INDI
 1 NAME Simon /van der Loo/
 2 TYPE birth
@@ -25182,10 +25182,19 @@
 2 GIVN Hendrik
 2 SURN Scholten
 1 SEX M
+1 BIRT
+2 DATE 1 MAR 1750
+2 PLAC Haaksbergen [Overijssel]
+1 DEAT
+2 DATE 24 NOV 1808
+2 PLAC Gorssel [Gelderland]
+3 MAP
+4 LATI N52.200965
+4 LONG E6.201409
 1 FAMS @F0564@
 1 CHAN
-2 DATE 11 JUN 2025
-3 TIME 16:10:05
+2 DATE 6 DEC 2025
+3 TIME 14:00:59
 0 @I1509@ INDI
 1 NAME Gezina /Bloemers/
 2 TYPE birth
@@ -66888,7 +66897,7 @@
 1 SEX F
 1 BIRT
 2 DATE 20 SEP 1889
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 FAMC @F0272@
 2 PEDI birth
 1 FAMS @F1568@
@@ -66925,7 +66934,7 @@
 2 PLAC Wittelte (Diever)
 1 DEAT
 2 DATE 11 MAY 1923
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 FAMC @F0272@
 2 PEDI birth
 1 FAMS @F1569@
@@ -66959,10 +66968,10 @@
 1 SEX M
 1 BIRT
 2 DATE 1 APR 1923
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 DEAT
 2 DATE 11 MAY 1923
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 2 NOTE @N1811@
 1 FAMC @F1569@
 2 PEDI birth
@@ -66977,7 +66986,7 @@
 1 SEX F
 1 BIRT
 2 DATE 19 MAY 1900
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 FAMC @F0272@
 2 PEDI birth
 1 CHAN
@@ -67143,7 +67152,7 @@
 2 PLAC Smilde
 1 DEAT
 2 DATE 19 FEB 1862
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 FAMC @F1570@
 2 PEDI birth
 1 FAMS @F1572@
@@ -67158,10 +67167,10 @@
 1 SEX M
 1 BIRT
 2 DATE 28 NOV 1821
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 DEAT
 2 DATE 21 FEB 1891
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 FAMS @F1572@
 1 CHAN
 2 DATE 18 OCT 2025
@@ -67320,7 +67329,7 @@
 1 SEX F
 1 BIRT
 2 DATE 6 SEP 1805
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 DEAT
 2 DATE 23 JUL 1871
 2 PLAC Smilde
@@ -68049,7 +68058,7 @@
 2 PLAC Opsterland [Friesland]
 1 DEAT
 2 DATE 8 MAY 1813
-2 PLAC Ureterp
+2 PLAC Ureterp (Opsterland) [Friesland]
 1 FAMC @F1595@
 2 PEDI birth
 1 FAMS @F1596@
@@ -68366,7 +68375,7 @@
 1 SEX F
 1 BIRT
 2 DATE 24 SEP 1772
-2 PLAC Ureterp
+2 PLAC Ureterp (Opsterland) [Friesland]
 1 DEAT
 2 DATE 17 APR 1852
 1 BAPM
@@ -68385,10 +68394,23 @@
 2 TYPE aka
 2 SPFX Tsjidger Siebes Meetsma
 1 SEX M
+1 DEAT
+2 DATE 14 NOV 1827
+2 PLAC Beets (Opsterland) [Friesland]
+2 NOTE @N1851@
+1 FACT Huisman/landeigenaar
+2 TYPE Occupation
+1 FACT Boer
+2 TYPE Occupation
+1 FACT Lidmaat
+2 TYPE Occupation
+2 NOTE @N1852@
+1 FAMC @F1738@
+2 PEDI birth
 1 FAMS @F1601@
 1 CHAN
-2 DATE 4 NOV 2025
-3 TIME 19:48:06
+2 DATE 30 NOV 2025
+3 TIME 12:35:02
 0 @I4230@ INDI
 1 NAME Aaltje Eizes /Meyer/
 2 TYPE birth
@@ -68400,16 +68422,18 @@
 1 SEX F
 1 BIRT
 2 DATE 27 DEC 1781
-2 PLAC Beetsterzwaag [Friesland]
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
 1 DEAT
 2 DATE 17 JAN 1848
-2 PLAC Beetsterzwaag [Friesland]
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
 2 NOTE @N1775@
+1 FAMC @F1739@
+2 PEDI birth
 1 FAMS @F1601@
 1 FAMS @F1613@
 1 CHAN
-2 DATE 23 OCT 2025
-3 TIME 21:20:25
+2 DATE 30 NOV 2025
+3 TIME 12:23:45
 0 @I4231@ INDI
 1 NAME Wietske Tjidgers /Meetsma/
 2 TYPE birth
@@ -70393,7 +70417,7 @@
 1 SEX M
 1 BIRT
 2 DATE 15 FEB 1817
-2 PLAC Beetsterzwaag [Friesland]
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
 1 DEAT
 2 DATE 26 JAN 1858
 2 PLAC Drachten (Smallingerland) [Friesland]
@@ -70427,7 +70451,7 @@
 1 SEX M
 1 BIRT
 2 DATE 20 JAN 1820
-2 PLAC Beetsterzwaag [Friesland]
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
 1 DEAT
 2 DATE 20 JUL 1848
 2 PLAC Smallingerland [Friesland]
@@ -72698,11 +72722,13 @@
 3 MAP
 4 LATI N50.587826
 4 LONG E8.797792
+1 FAMC @F1723@
+2 PEDI birth
 1 FAMS @F1703@
 1 NOTE @N1844@
 1 CHAN
-2 DATE 16 NOV 2025
-3 TIME 17:24:12
+2 DATE 18 NOV 2025
+3 TIME 21:31:11
 0 @I4454@ INDI
 1 NAME Maria Elisabeth /Wagner/
 2 TYPE birth
@@ -72854,10 +72880,12 @@
 3 MAP
 4 LATI N50.587826
 4 LONG E8.797792
+1 FAMC @F1727@
+2 PEDI birth
 1 FAMS @F1706@
 1 CHAN
-2 DATE 17 NOV 2025
-3 TIME 19:59:37
+2 DATE 18 NOV 2025
+3 TIME 22:16:33
 0 @I4461@ INDI
 1 NAME Anna Margaretha /Seuling/
 2 TYPE birth
@@ -72876,8 +72904,8 @@
 2 PEDI birth
 1 FAMS @F1706@
 1 CHAN
-2 DATE 17 NOV 2025
-3 TIME 20:05:44
+2 DATE 19 NOV 2025
+3 TIME 21:45:22
 0 @I4462@ INDI
 1 NAME Hans Caspar /Seuling/
 2 TYPE birth
@@ -72893,10 +72921,12 @@
 1 DEAT
 2 DATE 8 JAN 1713
 2 PLAC Alten Buseck (Landkreis Giessen) [Hessen] Duitsland
+1 FAMC @F1716@
+2 PEDI birth
 1 FAMS @F1707@
 1 CHAN
-2 DATE 17 NOV 2025
-3 TIME 20:05:44
+2 DATE 19 NOV 2025
+3 TIME 21:14:13
 0 @I4463@ INDI
 1 NAME Anna Maria /Schwan/
 2 TYPE birth
@@ -72913,8 +72943,8 @@
 2 PEDI birth
 1 FAMS @F1707@
 1 CHAN
-2 DATE 17 NOV 2025
-3 TIME 20:31:14
+2 DATE 19 NOV 2025
+3 TIME 21:22:44
 0 @I4464@ INDI
 1 NAME Johann Caspar Hartmann /Schwan/
 2 TYPE birth
@@ -72956,10 +72986,10 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1595
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 DEAT
 2 DATE ABT 19 APR 1670
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 FACT Rechter
 2 TYPE Occupation
 1 FACT Kastemeister
@@ -72995,15 +73025,15 @@
 1 SEX M
 1 BIRT
 2 DATE 21 AUG 1570
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 DEAT
 2 DATE 18 JUL 1640
 1 FAMC @F1714@
 2 PEDI birth
 1 FAMS @F1710@
 1 CHAN
-2 DATE 17 NOV 2025
-3 TIME 22:17:18
+2 DATE 18 NOV 2025
+3 TIME 20:33:11
 0 @I4469@ INDI
 1 NAME Elisabeth /Arnold/
 2 TYPE birth
@@ -73015,10 +73045,10 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1565
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 DEAT
 2 DATE 17 NOV 1625
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 FAMC @F1711@
 2 PEDI birth
 1 FAMS @F1710@
@@ -73030,13 +73060,16 @@
 2 TYPE birth
 2 GIVN Mary
 2 SURN Fritz
+1 NAME  /Elisabetha Fritz/
+2 TYPE aka
+2 SPFX Elisabetha Fritz
 1 SEX F
 1 BIRT
 2 DATE ABT 1540
 1 FAMS @F1711@
 1 CHAN
 2 DATE 17 NOV 2025
-3 TIME 21:53:55
+3 TIME 23:40:25
 0 @I4471@ INDI
 1 NAME Adam /Arnold/
 2 TYPE birth
@@ -73045,8 +73078,10 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1540
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 DEAT
-2 DATE ABT 1638
+2 DATE 12 AUG 1638
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 FACT Kirchensenior
 2 TYPE Occupation
 1 FAMC @F1712@
@@ -73054,7 +73089,7 @@
 1 FAMS @F1711@
 1 CHAN
 2 DATE 17 NOV 2025
-3 TIME 22:33:09
+3 TIME 23:42:12
 0 @I4472@ INDI
 1 NAME Crein /Kiessell/
 2 TYPE birth
@@ -73066,10 +73101,10 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1520
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 DEAT
 2 DATE ABT 1569
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 FAMS @F1712@
 1 CHAN
 2 DATE 17 NOV 2025
@@ -73082,16 +73117,16 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1519
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 DEAT
 2 DATE 1569
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 FAMC @F1713@
 2 PEDI birth
 1 FAMS @F1712@
 1 CHAN
 2 DATE 17 NOV 2025
-3 TIME 22:00:50
+3 TIME 23:44:01
 0 @I4474@ INDI
 1 NAME Barbara /Arnold/
 2 TYPE birth
@@ -73112,7 +73147,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1493
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 DEAT
 2 DATE ABT 1555
 1 FAMS @F1713@
@@ -73127,34 +73162,39 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1547
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 DEAT
 2 DATE 12 AUG 1638
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+1 BURI
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 FAMC @F1712@
 2 PEDI birth
 1 FAMS @F1714@
 1 CHAN
 2 DATE 17 NOV 2025
-3 TIME 22:33:09
+3 TIME 23:42:12
 0 @I4477@ INDI
 1 NAME Hans /Haass/
 2 TYPE birth
 2 GIVN Hans
 2 SURN Haass
+1 NAME  /Hans Haas "der Alte"/
+2 TYPE aka
+2 SPFX Hans Haas "der Alte"
 1 SEX M
 1 BIRT
 2 DATE ABT 1543
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 DEAT
 2 DATE ABT 1596
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 FAMC @F1715@
 2 PEDI birth
 1 FAMS @F1714@
 1 CHAN
-2 DATE 17 NOV 2025
-3 TIME 22:15:09
+2 DATE 18 NOV 2025
+3 TIME 07:46:55
 0 @I4478@ INDI
 1 NAME Hans Heintz /Haass/
 2 TYPE birth
@@ -73168,31 +73208,46 @@
 2 DATE 17 NOV 2025
 3 TIME 22:15:09
 0 @I4479@ INDI
-1 NAME Crein /Kiessell/
+1 NAME Siebe Tjidsgers /Meetsma/
 2 TYPE birth
-2 GIVN Crein
-2 SURN Kiessell
-1 SEX F
-1 BIRT
-2 DATE ABT 1520
-1 DEAT
-2 DATE ABT 1569
-1 CHAN
-2 DATE 17 NOV 2025
-3 TIME 22:24:04
-0 @I4480@ INDI
-1 NAME Johan Jacob /Arnold/
-2 TYPE birth
-2 GIVN Johan Jacob
-2 SURN Arnold
+2 GIVN Siebe Tjidsgers
+2 SURN Meetsma
+1 NAME  /Sijbe/
+2 TYPE aka
+2 SPFX Sijbe
+1 NAME  /Sybe/
+2 TYPE aka
+2 SPFX Sybe
 1 SEX M
 1 BIRT
-2 DATE ABT 1519
+2 PLAC Beets (Opsterland) [Friesland]
 1 DEAT
-2 DATE ABT 1569
+2 DATE 22 AUG 1794
+2 PLAC Beets (Opsterland) [Friesland]
+2 NOTE @N1848@
+1 BAPM
+2 DATE 2 JAN 1714
+2 PLAC Beets, Beetsterzwaag en Olterterp (Opsterland) [Friesland]
+2 NOTE @N1847@
+1 FAMS @F1738@
 1 CHAN
-2 DATE 17 NOV 2025
-3 TIME 22:24:04
+2 DATE 30 NOV 2025
+3 TIME 00:30:34
+0 @I4480@ INDI
+1 NAME Grietje Jans //
+2 TYPE birth
+2 GIVN Grietje Jans
+1 SEX F
+1 BIRT
+2 DATE ABT 1739
+1 DEAT
+2 DATE 6 DEC 1820
+2 PLAC Beets (Opsterland) [Friesland]
+2 NOTE @N1849@
+1 FAMS @F1738@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 00:30:34
 0 @I4481@ INDI
 1 NAME Agatha /Arnold/
 2 TYPE birth
@@ -73208,7 +73263,7 @@
 1 FAMS @F1717@
 1 CHAN
 2 DATE 17 NOV 2025
-3 TIME 22:33:09
+3 TIME 23:42:12
 0 @I4482@ INDI
 1 NAME Lorenz /Schefer/
 2 TYPE birth
@@ -73232,12 +73287,2714 @@
 1 BIRT
 2 DATE ABT 1565
 1 DEAT
-2 DATE ABT 1628
+2 DATE 18 APR 1628
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 FAMC @F1712@
+2 PEDI birth
+1 FAMS @F1720@
+1 CHAN
+2 DATE 17 NOV 2025
+3 TIME 23:42:12
+0 @I4484@ INDI
+1 NAME Crein /Arnold/
+2 TYPE birth
+2 GIVN Crein
+2 SURN Arnold
+1 SEX F
+1 BIRT
+2 DATE ABT 1565
+1 FAMC @F1712@
+2 PEDI birth
+1 FAMS @F1718@
+1 CHAN
+2 DATE 17 NOV 2025
+3 TIME 23:42:12
+0 @I4485@ INDI
+1 NAME Johannes /Kissell/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Kissell
+1 SEX M
+1 BIRT
+2 DATE ABT 1560
+1 FAMS @F1718@
+1 CHAN
+2 DATE 17 NOV 2025
+3 TIME 23:29:18
+0 @I4486@ INDI
+1 NAME Creina /Kiessell/
+2 TYPE birth
+2 GIVN Creina
+2 SURN Kiessell
+1 SEX F
+1 BIRT
+2 DATE ABT 1590
+1 DEAT
+2 DATE ABT 1642
+1 FAMC @F1718@
 2 PEDI birth
 1 CHAN
 2 DATE 17 NOV 2025
-3 TIME 22:33:09
+3 TIME 23:29:18
+0 @I4487@ INDI
+1 NAME Anna /Arnold/
+2 TYPE birth
+2 GIVN Anna
+2 SURN Arnold
+1 SEX F
+1 DEAT
+2 DATE 29 JUN 1635
+1 FAMC @F1712@
+2 PEDI birth
+1 FAMS @F1719@
+1 CHAN
+2 DATE 17 NOV 2025
+3 TIME 23:42:12
+0 @I4488@ INDI
+1 NAME Hans /Herbert/
+2 TYPE birth
+2 GIVN Hans
+2 SURN Herbert
+1 NAME  /Hans Herbert "Der Junge"/
+2 TYPE aka
+2 SPFX Hans Herbert "Der Junge"
+1 SEX M
+1 FAMS @F1719@
+1 CHAN
+2 DATE 17 NOV 2025
+3 TIME 23:32:11
+0 @I4489@ INDI
+1 NAME Anna Walpurga /Horn/
+2 TYPE birth
+2 GIVN Anna Walpurga
+2 SURN Horn
+1 SEX F
+1 FAMS @F1720@
+1 CHAN
+2 DATE 17 NOV 2025
+3 TIME 23:35:17
+0 @I4490@ INDI
+1 NAME Caspar /Haass/
+2 TYPE birth
+2 GIVN Caspar
+2 SURN Haass
+1 SEX M
+1 BIRT
+2 DATE 1569
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+1 DEAT
+2 DATE 19 MAY 1642
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+1 BURI
+2 DATE MAY 1642
+1 FAMC @F1714@
+2 PEDI birth
+1 FAMS @F1721@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 20:33:11
+0 @I4491@ INDI
+1 NAME Elsa /Wolf/
+2 TYPE birth
+2 GIVN Elsa
+2 SURN Wolf
+1 SEX F
+1 BIRT
+2 DATE 1580
+2 PLAC [Hessen] Duitsland
+1 DEAT
+2 DATE 1631
+2 PLAC [Hessen] Duitsland
+1 FAMS @F1721@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 07:52:35
+0 @I4492@ INDI
+1 NAME Els /Haass/
+2 TYPE birth
+2 GIVN Els
+2 SURN Haass
+1 SEX F
+1 BIRT
+2 DATE ABT 1574
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+1 DEAT
+2 DATE 7 FEB 1625
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+1 FAMC @F1714@
+2 PEDI birth
+1 FAMS @F1722@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 20:35:59
+0 @I4493@ INDI
+1 NAME Johannes /Licher/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Licher
+1 SEX M
+1 BIRT
+2 DATE ABT 1569
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+1 DEAT
+2 DATE AFT 1611
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+1 FAMS @F1722@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 20:35:59
+0 @I4494@ INDI
+1 NAME Christine /Seuling/
+2 TYPE birth
+2 GIVN Christine
+2 SURN Seuling
+1 SEX F
+1 BIRT
+2 DATE ABT 1614
+2 PLAC Alten Buseck (Landkreis Giessen) [Hessen] Duitsland
+1 DEAT
+2 DATE 14 FEB 1675
+2 PLAC Alten Buseck (Landkreis Giessen) [Hessen] Duitsland
+1 FAMS @F1716@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 20:49:54
+0 @I4495@ INDI
+1 NAME Philipp /Seuling/
+2 TYPE birth
+2 GIVN Philipp
+2 SURN Seuling
+1 NAME  /Philipp Säuling/
+2 TYPE aka
+2 SPFX Philipp Säuling
+1 SEX M
+1 BIRT
+2 DATE ABT 1604
+2 PLAC Alten Buseck (Landkreis Giessen) [Hessen] Duitsland
+1 DEAT
+2 DATE 13 MAY 1689
+2 PLAC Alten Buseck (Landkreis Giessen) [Hessen] Duitsland
+1 FAMS @F1716@
+1 NOTE @N1846@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:08:45
+0 @I4496@ INDI
+1 NAME Johann Jacob /Göbel/
+2 TYPE birth
+2 GIVN Johann Jacob
+2 SURN Göbel
+1 SEX M
+1 BIRT
+2 DATE 15 AUG 1684
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 DEAT
+2 DATE 25 MAR 1740
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F1729@
+2 PEDI birth
+1 FAMS @F1723@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 07:42:56
+0 @I4497@ INDI
+1 NAME Elisabeth /Wagner/
+2 TYPE birth
+2 GIVN Elisabeth
+2 SURN Wagner
+1 SEX F
+1 BIRT
+2 DATE 14 DEC 1683
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 DEAT
+2 DATE 23 JAN 1759
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F1725@
+2 PEDI birth
+1 FAMS @F1723@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 21:34:39
+0 @I4498@ INDI
+1 NAME Maria Elisabetha /Göbel/
+2 TYPE birth
+2 GIVN Maria Elisabetha
+2 SURN Göbel
+1 SEX F
+1 BIRT
+2 DATE 3 DEC 1716
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 DEAT
+2 DATE 10 FEB 1793
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F1723@
+2 PEDI birth
+1 FAMS @F1724@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 21:31:11
+0 @I4499@ INDI
+1 NAME Johann Philips /Hahn/
+2 TYPE birth
+2 GIVN Johann Philips
+2 SURN Hahn
+1 SEX M
+1 DEAT
+2 DATE 3 SEP 1764
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMS @F1724@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 21:24:02
+0 @I4500@ INDI
+1 NAME Thielmann /Göbel/
+2 TYPE birth
+2 GIVN Thielmann
+2 SURN Göbel
+1 SEX M
+1 BIRT
+2 DATE 4 FEB 1723
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F1723@
+2 PEDI birth
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 21:31:11
+0 @I4501@ INDI
+1 NAME Johann Ludwig /Göbel/
+2 TYPE birth
+2 GIVN Johann Ludwig
+2 SURN Göbel
+1 SEX M
+1 BIRT
+2 DATE 4 FEB 1723
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F1723@
+2 PEDI birth
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 21:31:11
+0 @I4502@ INDI
+1 NAME Hans Ludwig /Wagner/
+2 TYPE birth
+2 GIVN Hans Ludwig
+2 SURN Wagner
+1 SEX M
+1 BIRT
+2 DATE ABT 1643
+1 DEAT
+2 DATE 20 FEB 1707
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FACT Loco Burgemeester
+2 TYPE Occupation
+1 FAMC @F1726@
+2 PEDI birth
+1 FAMS @F1725@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 22:42:10
+0 @I4503@ INDI
+1 NAME Elsa //
+2 TYPE birth
+2 GIVN Elsa
+1 SEX F
+1 BIRT
+2 DATE ABT 1643
+1 DEAT
+2 DATE 23 APR 1730
+1 FAMS @F1725@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 21:34:39
+0 @I4504@ INDI
+1 NAME Philips /Wagner/
+2 TYPE birth
+2 GIVN Philips
+2 SURN Wagner
+1 SEX M
+1 BIRT
+2 DATE ABT 1620
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 DEAT
+2 DATE 14 DEC 1697
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FACT Kirchensenior
+2 TYPE Occupation
+1 FAMS @F1726@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 21:38:28
+0 @I4505@ INDI
+1 NAME Catharina //
+2 TYPE birth
+2 GIVN Catharina
+1 SEX F
+1 BIRT
+2 DATE ABT 1628
+1 DEAT
+2 DATE 19 JAN 1693
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FACT Kirchensenior
+2 TYPE Occupation
+1 FAMS @F1726@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 21:38:28
+0 @I4506@ INDI
+1 NAME Jacob d'Alte /Wagner/
+2 TYPE birth
+2 GIVN Jacob d'Alte
+2 SURN Wagner
+1 SEX M
+1 BIRT
+2 DATE 1662
+1 DEAT
+2 DATE 13 JUL 1747
+1 FAMC @F1726@
+2 PEDI birth
+1 FAMS @F1727@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 22:42:10
+0 @I4507@ INDI
+1 NAME Anna /Bechtold/
+2 TYPE birth
+2 GIVN Anna
+2 SURN Bechtold
+1 SEX F
+1 BIRT
+2 DATE 1662
+1 DEAT
+2 DATE 30 NOV 1739
+1 FAMC @F1728@
+2 PEDI birth
+1 FAMS @F1727@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 22:38:06
+0 @I4508@ INDI
+1 NAME Philips /Bechtold/
+2 TYPE birth
+2 GIVN Philips
+2 SURN Bechtold
+1 SEX M
+1 BIRT
+2 DATE 11 AUG 1605
+1 DEAT
+2 DATE 6 APR 1684
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FACT Kirchensenior
+2 TYPE Occupation
+1 FAMS @F1728@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 22:38:06
+0 @I4509@ INDI
+1 NAME Barbara //
+2 TYPE birth
+2 GIVN Barbara
+1 SEX F
+1 FAMS @F1728@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 22:38:06
+0 @I4510@ INDI
+1 NAME Urban /Göbel/
+2 TYPE birth
+2 GIVN Urban
+2 SURN Göbel
+1 SEX M
+1 DEAT
+2 DATE ABT 1725
+2 PLAC Grossen Buseck (Landkreis Giessen) [Hessen] Duitsland
+1 FAMC @F1730@
+2 PEDI birth
+1 FAMS @F1729@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 19:20:18
+0 @I4511@ INDI
+1 NAME Anna Dorothea /Pitz/
+2 TYPE birth
+2 GIVN Anna Dorothea
+2 SURN Pitz
+1 SEX F
+1 BIRT
+2 DATE ABT 1664
+1 DEAT
+2 DATE 18 APR 1690
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMS @F1729@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 07:42:56
+0 @I4512@ INDI
+1 NAME Merten /Göbel/
+2 TYPE birth
+2 GIVN Merten
+2 SURN Göbel
+1 SEX M
+1 BIRT
+2 DATE ABT 1602
+2 PLAC Grossen Buseck (Landkreis Giessen) [Hessen] Duitsland
+1 DEAT
+2 DATE 13 SEP 1677
+2 PLAC Grossen Buseck (Landkreis Giessen) [Hessen] Duitsland
+1 FAMC @F1731@
+2 PEDI birth
+1 FAMS @F1730@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 19:23:07
+0 @I4513@ INDI
+1 NAME Anna //
+2 TYPE birth
+2 GIVN Anna
+1 SEX F
+1 FAMS @F1730@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 19:20:18
+0 @I4514@ INDI
+1 NAME Wilhelm /Göbel/
+2 TYPE birth
+2 GIVN Wilhelm
+2 SURN Göbel
+1 SEX M
+1 BIRT
+2 DATE ABT 1575
+2 PLAC Grossen Buseck (Landkreis Giessen) [Hessen] Duitsland
+1 FACT Kastenmeister
+2 TYPE Occupation
+1 FAMS @F1731@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 19:23:07
+0 @I4515@ INDI
+1 NAME Anna Wilhelmine Augusta //
+2 TYPE birth
+2 GIVN Anna Wilhelmine Augusta
+1 SEX F
+1 FAMS @F1731@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 19:23:07
+0 @I4516@ INDI
+1 NAME Hans Georg /Seuling/
+2 TYPE birth
+2 GIVN Hans Georg
+2 SURN Seuling
+1 SEX M
+1 BIRT
+2 DATE ABT 1638
+1 FAMC @F1716@
+2 PEDI birth
+1 FAMS @F1732@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:14:13
+0 @I4517@ INDI
+1 NAME Elisabeth /Völcker/
+2 TYPE birth
+2 GIVN Elisabeth
+2 SURN Völcker
+1 SEX F
+1 FAMS @F1732@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:11:09
+0 @I4518@ INDI
+1 NAME Anna Dorothea /Seuling/
+2 TYPE birth
+2 GIVN Anna Dorothea
+2 SURN Seuling
+1 SEX F
+1 BIRT
+2 DATE ABT 1647
+1 FAMC @F1716@
+2 PEDI birth
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:14:13
+0 @I4519@ INDI
+1 NAME Jeremias /Seuling/
+2 TYPE birth
+2 GIVN Jeremias
+2 SURN Seuling
+1 SEX M
+1 BIRT
+2 DATE ABT 1647
+1 FAMC @F1716@
+2 PEDI birth
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:14:13
+0 @I4520@ INDI
+1 NAME Johann Georg /Seuling/
+2 TYPE birth
+2 GIVN Johann Georg
+2 SURN Seuling
+1 NAME  /Hans/
+2 TYPE aka
+2 SPFX Hans
+1 SEX M
+1 BIRT
+2 DATE ABT 1651
+1 FAMC @F1716@
+2 PEDI birth
+1 FAMS @F1733@
+1 FAMS @F1734@
+1 FAMS @F1735@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:19:05
+0 @I4521@ INDI
+1 NAME Anna Margaretha /Magel/
+2 TYPE birth
+2 GIVN Anna Margaretha
+2 SURN Magel
+1 SEX F
+1 FAMS @F1733@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:16:54
+0 @I4522@ INDI
+1 NAME Anna Margaretha /Kahl/
+2 TYPE birth
+2 GIVN Anna Margaretha
+2 SURN Kahl
+1 SEX F
+1 FAMS @F1734@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:17:55
+0 @I4523@ INDI
+1 NAME Anna Elisabetha /Zehner/
+2 TYPE birth
+2 GIVN Anna Elisabetha
+2 SURN Zehner
+1 SEX F
+1 FAMS @F1735@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:19:05
+0 @I4524@ INDI
+1 NAME Maria Elisabetha /Schwan/
+2 TYPE birth
+2 GIVN Maria Elisabetha
+2 SURN Schwan
+1 SEX F
+1 BIRT
+2 DATE ABT 1675
+1 DEAT
+2 DATE ABT 1703
+1 FAMC @F1708@
+2 PEDI birth
+1 FAMS @F1736@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:25:06
+0 @I4525@ INDI
+1 NAME Caspar Eberhardt /Schwartz/
+2 TYPE birth
+2 GIVN Caspar Eberhardt
+2 SURN Schwartz
+1 SEX M
+1 FAMS @F1736@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:25:06
+0 @I4526@ INDI
+1 NAME  /Schwartz/
+2 TYPE birth
+2 SURN Schwartz
+1 SEX F
+1 BIRT
+2 DATE ABT 1703
+1 FAMC @F1736@
+2 PEDI birth
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:25:06
+0 @I4527@ INDI
+1 NAME Anna Margaretha /Schwan/
+2 TYPE birth
+2 GIVN Anna Margaretha
+2 SURN Schwan
+1 SEX F
+1 BIRT
+2 DATE ABT 1691
+1 DEAT
+2 DATE ABT 1764
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:26:55
+0 @I4528@ INDI
+1 NAME Johann Matthäus /Seuling/
+2 TYPE birth
+2 GIVN Johann Matthäus
+2 SURN Seuling
+1 SEX M
+1 BIRT
+2 DATE ABT 1679
+1 DEAT
+2 DATE ABT 1741
+1 FAMC @F1707@
+2 PEDI birth
+1 FAMS @F1737@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:46:08
+0 @I4529@ INDI
+1 NAME Anna Elisabetha /Schmitt/
+2 TYPE birth
+2 GIVN Anna Elisabetha
+2 SURN Schmitt
+1 SEX F
+1 FAMS @F1737@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:46:08
+0 @I4530@ INDI
+1 NAME Johann Philipp /Seuling/
+2 TYPE birth
+2 GIVN Johann Philipp
+2 SURN Seuling
+1 SEX M
+1 BIRT
+2 DATE ABT 1712
+1 DEAT
+2 DATE ABT 1740
+1 FAMC @F1737@
+2 PEDI birth
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 22:10:36
+0 @I4531@ INDI
+1 NAME Eize Davids /Meyer/
+2 TYPE birth
+2 GIVN Eize Davids
+2 SURN Meyer
+1 NAME  /Eyze Eise Eisse/
+2 TYPE aka
+2 SPFX Eyze
+2 SURN , , 
+1 SEX M
+1 BIRT
+2 DATE 1731
+2 PLAC Beets (Opsterland) [Friesland]
+1 DEAT
+2 DATE 31 MAR 1808
+2 PLAC Beets (Opsterland) [Friesland]
+2 NOTE @N1853@
+1 BAPM
+2 DATE 6 JAN 1732
+2 PLAC Beets (Opsterland) [Friesland]
+1 FAMC @F1747@
+2 PEDI birth
+1 FAMS @F1743@
+1 FAMS @F1739@
+1 NOTE @N1854@
+1 CHAN
+2 DATE 2 DEC 2025
+3 TIME 22:34:09
+0 @I4532@ INDI
+1 NAME Grietje Gerrits //
+2 TYPE birth
+2 GIVN Grietje Gerrits
+1 SEX F
+1 BIRT
+2 DATE 28 DEC 1739
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 DEAT
+2 DATE 27 SEP 1824
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 FAMS @F1739@
+1 FAMS @F1742@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 12:45:00
+0 @I4533@ INDI
+1 NAME Grietje Eizes /Meyer/
+2 TYPE birth
+2 GIVN Grietje Eizes
+2 SURN Meyer
+1 SEX F
+1 BIRT
+2 DATE 16 JAN 1783
+2 PLAC Beets (Opsterland) [Friesland]
+1 DEAT
+2 DATE 2 DEC 1831
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 23 FEB 1783
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 FACT Vroedvrouw
+2 TYPE Occupation
+1 FAMC @F1739@
+2 PEDI birth
+1 FAMS @F1740@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 12:26:31
+0 @I4534@ INDI
+1 NAME Pieter Tjeerds /van der Meulen/
+2 TYPE birth
+2 GIVN Pieter Tjeerds
+2 SPFX van der
+2 SURN Meulen
+1 SEX M
+1 BIRT
+2 DATE ABT 1780
+1 FAMS @F1740@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 12:26:31
+0 @I4535@ INDI
+1 NAME Eize Pieters /van der Meulen/
+2 TYPE birth
+2 GIVN Eize Pieters
+2 SPFX van der
+2 SURN Meulen
+1 SEX M
+1 BIRT
+2 DATE ABT 1821
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 FAMC @F1740@
+2 PEDI birth
+1 FAMS @F1741@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 12:34:55
+0 @I4536@ INDI
+1 NAME Iebeltje Gjalts /van der Lei/
+2 TYPE birth
+2 GIVN Iebeltje Gjalts
+2 SPFX van der
+2 SURN Lei
+1 SEX F
+1 BIRT
+2 DATE 6 FEB 1813
+2 PLAC Nijega (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 30 MAY 1888
+2 PLAC Smallingerland [Friesland]
+1 FAMS @F1741@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 12:34:55
+0 @I4537@ INDI
+1 NAME Sikke //
+2 TYPE birth
+2 GIVN Sikke
+1 SEX M
+1 FAMS @F1742@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 12:45:00
+0 @I4538@ INDI
+1 NAME Gerrit Sikkes //
+2 TYPE birth
+2 GIVN Gerrit Sikkes
+1 SEX M
+1 BIRT
+2 DATE 16 JUL 1766
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 BAPM
+2 DATE 14 DEC 1766
+2 PLAC Beets (Opsterland) [Friesland]
+2 NOTE @N1857@
+1 FAMC @F1742@
+2 PEDI birth
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 12:46:28
+0 @I4539@ INDI
+1 NAME Jeltje Jans //
+2 TYPE birth
+2 GIVN Jeltje Jans
+1 SEX F
+1 BIRT
+2 DATE 1734
+2 PLAC Opeinde (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1 MAR 1781
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 BAPM
+2 DATE 20 JUN 1745
+2 PLAC Boornbergum (Smallingerland) [Friesland]
+1 FAMS @F1743@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 13:00:57
+0 @I4540@ INDI
+1 NAME Wietske Eizes /Meyer/
+2 TYPE birth
+2 GIVN Wietske Eizes
+2 SURN Meyer
+1 SEX F
+1 BIRT
+2 PLAC Beets (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1790
+2 NOTE @N1860@
+1 BAPM
+2 DATE 29 JAN 1769
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 BURI
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 FAMC @F1743@
+2 PEDI birth
+1 CHAN
+2 DATE 1 DEC 2025
+3 TIME 20:25:27
+0 @I4541@ INDI
+1 NAME Trijntje Eizes /Meyer/
+2 TYPE birth
+2 GIVN Trijntje Eizes
+2 SURN Meyer
+1 NAME  /Tryntje Eisses/
+2 TYPE aka
+2 SPFX Tryntje Eisses
+1 SEX F
+1 BIRT
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 DEAT
+2 DATE 31 MAR 1865
+2 PLAC Smallingerland [Friesland]
+1 BAPM
+2 DATE 9 DEC 1770
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 FAMC @F1743@
+2 PEDI birth
+1 FAMS @F1744@
+1 CHAN
+2 DATE 1 DEC 2025
+3 TIME 20:25:27
+0 @I4542@ INDI
+1 NAME Gerrit Meines /Tosch/
+2 TYPE birth
+2 GIVN Gerrit Meines
+2 SURN Tosch
+1 NAME  /Gerrid Tand Gerrid Tosk/
+2 TYPE aka
+2 SPFX Gerrid Tand
+2 SURN , 
+1 SEX M
+1 BIRT
+2 DATE ABT 1765
+1 DEAT
+2 DATE 2 SEP 1846
+2 NOTE @N1861@
+1 FACT Lidmaat
+2 TYPE Occupation
+1 FAMS @F1744@
+1 NOTE @N1862@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 23:37:41
+0 @I4543@ INDI
+1 NAME David Eizes /Eysinga/
+2 TYPE birth
+2 GIVN David Eizes
+2 SURN Eysinga
+1 NAME  /Eizinga Eisinga/
+2 TYPE aka
+2 SPFX Eizinga
+2 SURN , 
+1 SEX M
+1 BIRT
+2 DATE 2 JUN 1773
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 DEAT
+2 DATE 29 JUL 1826
+2 PLAC Smallingerland [Friesland]
+1 BAPM
+2 DATE 11 JUL 1773
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 FAMC @F1743@
+2 PEDI birth
+1 FAMS @F1745@
+1 CHAN
+2 DATE 1 DEC 2025
+3 TIME 20:25:27
+0 @I4544@ INDI
+1 NAME Aaltje Annes /Annema/
+2 TYPE birth
+2 GIVN Aaltje Annes
+2 SURN Annema
+1 NAME  /van Duinen/
+2 TYPE aka
+2 SPFX van Duinen
+1 SEX F
+1 BIRT
+2 DATE 7 MAR 1776
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 25 NOV 1839
+2 PLAC Smallingerland [Friesland]
+1 BAPM
+2 DATE 28 APR 1776
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMS @F1745@
+1 CHAN
+2 DATE 1 DEC 2025
+3 TIME 20:19:34
+0 @I4545@ INDI
+1 NAME Froukje Eizes /Meyer/
+2 TYPE birth
+2 GIVN Froukje Eizes
+2 SURN Meyer
+1 NAME  /Vroukje Meijer/
+2 TYPE aka
+2 SPFX Vroukje Meijer
+1 SEX F
+1 BIRT
+2 DATE 20 OCT 1775
+2 PLAC Beets (Opsterland) [Friesland]
+1 DEAT
+2 DATE 31 AUG 1851
+2 PLAC Smallingerland [Friesland]
+2 NOTE @N1867@
+1 BAPM
+2 DATE 26 NOV 1775
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 FAMC @F1743@
+2 PEDI birth
+1 FAMS @F1746@
+1 CHAN
+2 DATE 1 DEC 2025
+3 TIME 21:54:57
+0 @I4546@ INDI
+1 NAME Pope Sjoerds /van den Berg/
+2 TYPE birth
+2 GIVN Pope Sjoerds
+2 SPFX van den
+2 SURN Berg
+1 SEX M
+1 BIRT
+2 DATE 1770
+1 FAMS @F1746@
+1 CHAN
+2 DATE 1 DEC 2025
+3 TIME 21:54:57
+0 @I4547@ INDI
+1 NAME Hiltje Eises //
+2 TYPE birth
+2 GIVN Hiltje Eises
+1 NAME  /Hiltie Eizes/
+2 TYPE aka
+2 SPFX Hiltie Eizes
+1 SEX F
+1 BIRT
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 DEAT
+2 DATE 1741
+2 PLAC Beets (Opsterland) [Friesland]
+1 BAPM
+2 DATE 13 JUN 1707
+2 PLAC Beets (Opsterland) [Friesland]
+1 FAMC @F1751@
+2 PEDI birth
+1 FAMS @F1747@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:28:00
+0 @I4548@ INDI
+1 NAME David Broers /Eizinga/
+2 TYPE birth
+2 GIVN David Broers
+2 SURN Eizinga
+1 NAME  /Davit Broors/
+2 TYPE aka
+2 SPFX Davit Broors
+1 SEX M
+1 BIRT
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE APR 1770
+2 PLAC Beets (Opsterland) [Friesland]
+1 BAPM
+2 DATE 20 APR 1704
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FACT Arbeider
+2 TYPE Occupation
+1 FACT Boer
+2 TYPE Occupation
+1 FAMC @F1770@
+2 PEDI birth
+1 FAMS @F1747@
+1 NOTE @N1868@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:23:03
+0 @I4549@ INDI
+1 NAME Fetje Davids /Eizinga/
+2 TYPE birth
+2 GIVN Fetje Davids
+2 SURN Eizinga
+1 NAME  /Fettje Vetje/
+2 TYPE aka
+2 SPFX Fettje
+2 SURN , 
+1 SEX F
+1 BIRT
+2 PLAC Beets (Opsterland) [Friesland]
+1 DEAT
+2 DATE AFT 1772
+1 BAPM
+2 DATE 16 JUL 1730
+2 PLAC Beets (Opsterland) [Friesland]
+1 FAMC @F1747@
+2 PEDI birth
+1 FAMS @F1748@
+1 CHAN
+2 DATE 2 DEC 2025
+3 TIME 22:34:09
+0 @I4550@ INDI
+1 NAME Berend /Alberts/
+2 TYPE birth
+2 GIVN Berend
+2 SURN Alberts
+1 SEX M
+1 BIRT
+2 PLAC Moer [Drenthe]
+1 DEAT
+2 DATE 1796
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 BAPM
+2 DATE 29 MAR 1728
+2 PLAC Diever [Drenthe]
+1 FAMS @F1748@
+1 CHAN
+2 DATE 2 DEC 2025
+3 TIME 21:05:16
+0 @I4551@ INDI
+1 NAME Froukje Davids /Eizinga/
+2 TYPE birth
+2 GIVN Froukje Davids
+2 SURN Eizinga
+1 SEX F
+1 BIRT
+2 DATE 1733
+1 DEAT
+2 DATE 3 JAN 1812
+2 PLAC Lippenhuizen (Opsterland) [Friesland]
+1 FAMC @F1747@
+2 PEDI birth
+1 FAMS @F1749@
+1 CHAN
+2 DATE 2 DEC 2025
+3 TIME 22:34:09
+0 @I4552@ INDI
+1 NAME Anders Thomas //
+2 TYPE birth
+2 GIVN Anders Thomas
+1 SEX M
+1 FAMS @F1749@
+1 CHAN
+2 DATE 2 DEC 2025
+3 TIME 22:30:16
+0 @I4553@ INDI
+1 NAME Jan Davids /de Wind/
+2 TYPE birth
+2 GIVN Jan Davids
+2 SPFX de
+2 SURN Wind
+1 SEX M
+1 BIRT
+2 PLAC Beets (Opsterland) [Friesland]
+1 DEAT
+2 DATE 2 FEB 1823
+2 PLAC Boornbergum (Smallingerland) [Friesland]
+2 NOTE @N1871@
+1 BAPM
+2 DATE 29 OCT 1741
+2 PLAC Beets, Beetsterzwaag en Olterterp (Opsterland) [Friesland]
+2 NOTE @N1870@
+1 FAMC @F1747@
+2 PEDI birth
+1 FAMS @F1750@
+1 NOTE @N1872@
+1 CHAN
+2 DATE 2 DEC 2025
+3 TIME 22:41:48
+0 @I4554@ INDI
+1 NAME Iepkje Jacobs /Hamstra/
+2 TYPE birth
+2 GIVN Iepkje Jacobs
+2 SURN Hamstra
+1 NAME  /Ipkjen Ykjen/
+2 TYPE aka
+2 SPFX Ipkjen
+2 SURN , 
+1 SEX F
+1 BIRT
+2 PLAC Eernewoude (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE 31 OCT 1846
+2 PLAC Boornbergum (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 17 SEP 1769
+2 PLAC Eernewoude (Tietjerksteradeel) [Friesland]
+1 FAMS @F1750@
+1 CHAN
+2 DATE 2 DEC 2025
+3 TIME 22:41:48
+0 @I4555@ INDI
+1 NAME Eize Sygers //
+2 TYPE birth
+2 GIVN Eize Sygers
+1 NAME  /Eyse Sigers/
+2 TYPE aka
+2 SPFX Eyse Sigers
+1 NAME  /Eise Sijgers/
+2 TYPE aka
+2 SPFX Eise Sijgers
+1 SEX M
+1 BIRT
+2 DATE 1658
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE 17 JUN 1707
+2 PLAC Olterterp (Opsterland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FACT Huisman
+2 TYPE Occupation
+1 FAMC @F1760@
+2 PEDI birth
+1 FAMS @F1752@
+1 FAMS @F1751@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 23:03:13
+0 @I4556@ INDI
+1 NAME Froukje Binnes //
+2 TYPE birth
+2 GIVN Froukje Binnes
+1 NAME  /Froukjen/
+2 TYPE aka
+2 SPFX Froukjen
+1 NAME  /Vroukjen/
+2 TYPE aka
+2 SPFX Vroukjen
+1 NAME  /Sjoukjen/
+2 TYPE aka
+2 SPFX Sjoukjen
+1 SEX F
+1 BIRT
+2 DATE 1670
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1718
+1 FAMS @F1751@
+1 FAMS @F1758@
+1 FAMS @F1759@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:32:16
+0 @I4557@ INDI
+1 NAME Antje Ybeles //
+2 TYPE birth
+2 GIVN Antje Ybeles
+1 NAME  /Ebeles/
+2 TYPE aka
+2 SPFX Ebeles
+1 SEX F
+1 BIRT
+2 DATE ABT 1665
+1 DEAT
+2 DATE BEF 1688
+1 FAMS @F1752@
+1 CHAN
+2 DATE 3 DEC 2025
+3 TIME 20:11:22
+0 @I4558@ INDI
+1 NAME Syger Ayses //
+2 TYPE birth
+2 GIVN Syger Ayses
+1 NAME  /Sijger Eizes/
+2 TYPE aka
+2 SPFX Sijger Eizes
+1 NAME  /Eysses/
+2 TYPE aka
+2 SPFX Eysses
+1 NAME  /Eijses/
+2 TYPE aka
+2 SPFX Eijses
+1 SEX M
+1 BIRT
+2 DATE 1685
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1735
+2 PLAC Ureterp (Opsterland) [Friesland]
+1 FACT Lidmaat
+2 TYPE Occupation
+1 FAMC @F1752@
+2 PEDI birth
+1 FAMS @F1753@
+1 NOTE @N1875@
+1 CHAN
+2 DATE 3 DEC 2025
+3 TIME 20:38:26
+0 @I4559@ INDI
+1 NAME Trijntje Roels //
+2 TYPE birth
+2 GIVN Trijntje Roels
+1 SEX F
+1 BIRT
+2 DATE 1686
+2 PLAC Siegerswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE 27 NOV 1778
+1 BAPM
+2 DATE 14 NOV 1686
+2 PLAC Siegerswoude (Opsterland) [Friesland]
+1 FAMS @F1753@
+1 CHAN
+2 DATE 3 DEC 2025
+3 TIME 20:38:26
+0 @I4560@ INDI
+1 NAME Binne Eises //
+2 TYPE birth
+2 GIVN Binne Eises
+1 NAME  /Eizes/
+2 TYPE aka
+2 SPFX Eizes
+1 NAME  /Eyses/
+2 TYPE aka
+2 SPFX Eyses
+1 SEX M
+1 BIRT
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE MAY 1772
+2 PLAC Boornbergum (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 10 AUG 1690
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FACT Lidmaat
+2 TYPE Occupation
+1 FAMC @F1751@
+2 PEDI birth
+1 FAMS @F1754@
+1 NOTE @N1876@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:28:00
+0 @I4561@ INDI
+1 NAME Antje Hanses //
+2 TYPE birth
+2 GIVN Antje Hanses
+1 NAME  /Antie Hanzes/
+2 TYPE aka
+2 SPFX Antie Hanzes
+1 SEX F
+1 BIRT
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE DEC 1762
+2 PLAC Boornbergum (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 15 FEB 1685
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMS @F1754@
+1 CHAN
+2 DATE 4 DEC 2025
+3 TIME 22:06:09
+0 @I4562@ INDI
+1 NAME Eize Binnes //
+2 TYPE birth
+2 GIVN Eize Binnes
+1 NAME  /Eise/
+2 TYPE aka
+2 SPFX Eise
+1 NAME  /Eijze/
+2 TYPE aka
+2 SPFX Eijze
+1 SEX M
+1 BIRT
+2 DATE ABT 1720
+2 PLAC Boornbergum (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1788
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FACT Arbeider
+2 TYPE Occupation
+1 FAMC @F1754@
+2 PEDI birth
+1 NOTE @N1878@
+1 CHAN
+2 DATE 4 DEC 2025
+3 TIME 22:06:09
+0 @I4563@ INDI
+1 NAME Antje Eizes //
+2 TYPE birth
+2 GIVN Antje Eizes
+1 NAME  /Antie Eyses/
+2 TYPE aka
+2 SPFX Antie Eyses
+1 SEX F
+1 BIRT
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 BAPM
+2 DATE 17 MAR 1695
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 FAMC @F1751@
+2 PEDI birth
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:28:00
+0 @I4564@ INDI
+1 NAME Jan Eizes //
+2 TYPE birth
+2 GIVN Jan Eizes
+1 NAME  /Eyses/
+2 TYPE aka
+2 SPFX Eyses
+1 SEX M
+1 BAPM
+2 DATE 14 FEB 1697
+2 PLAC Beets (Opsterland) [Friesland]
+1 FAMC @F1751@
+2 PEDI birth
+1 FAMS @F1755@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:28:00
+0 @I4565@ INDI
+1 NAME Pietertje Linzes //
+2 TYPE birth
+2 GIVN Pietertje Linzes
+1 NAME  /Lenses/
+2 TYPE aka
+2 SPFX Lenses
+1 SEX F
+1 BIRT
+2 DATE ABT 1699
+1 DEAT
+2 DATE AFT 1743
+1 FAMS @F1755@
+1 FAMS @F1756@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 20:39:28
+0 @I4566@ INDI
+1 NAME Lijkle Liebes //
+2 TYPE birth
+2 GIVN Lijkle Liebes
+1 NAME  /Ljebbes/
+2 TYPE aka
+2 SPFX Ljebbes
+1 SEX M
+1 BIRT
+2 PLAC Ureterp (Opsterland) [Friesland]
+1 DEAT
+2 DATE AFT 1743
+1 BAPM
+2 DATE 24 SEP 1713
+2 PLAC Wijnjeterp (Opsterland) [Friesland]
+1 FAMS @F1756@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 20:39:28
+0 @I4567@ INDI
+1 NAME Rinkje Eizes //
+2 TYPE birth
+2 GIVN Rinkje Eizes
+1 SEX F
+1 BIRT
+2 PLAC Olterterp (Opsterland) [Friesland]
+1 BAPM
+2 DATE 1698
+2 PLAC Olterterp (Opsterland) [Friesland]
+1 FAMC @F1751@
+2 PEDI birth
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:28:00
+0 @I4568@ INDI
+1 NAME Trijntje Eises //
+2 TYPE birth
+2 GIVN Trijntje Eises
+1 NAME  /Trintje Eisses/
+2 TYPE aka
+2 SPFX Trintje Eisses
+1 SEX F
+1 BIRT
+2 PLAC Opsterland [Friesland]
+1 DEAT
+2 DATE 3 MAR 1700
+2 PLAC Beets, Beetsterzwaag en Olterterp (Opsterland) [Friesland]
+1 BURI
+2 DATE BEF 1760
+1 FAMC @F1751@
+2 PEDI birth
+1 FAMS @F1757@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:28:00
+0 @I4569@ INDI
+1 NAME Oebele Annes //
+2 TYPE birth
+2 GIVN Oebele Annes
+1 NAME  /Ubble/
+2 TYPE aka
+2 SPFX Ubble
+1 SEX M
+1 BIRT
+2 DATE ABT 1695
+1 DEAT
+2 DATE 20 NOV 1759
+2 PLAC Olterterp (Opsterland) [Friesland]
+1 FAMS @F1757@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:17:06
+0 @I4570@ INDI
+1 NAME Roel Eizes //
+2 TYPE birth
+2 GIVN Roel Eizes
+1 NAME  /Eises/
+2 TYPE aka
+2 SPFX Eises
+1 SEX M
+1 BIRT
+2 PLAC Olterterp (Opsterland) [Friesland]
+1 BAPM
+2 DATE 30 OCT 1701
+2 PLAC Olterterp (Opsterland) [Friesland]
+1 FAMC @F1751@
+2 PEDI birth
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:28:00
+0 @I4571@ INDI
+1 NAME Ybele Annes //
+2 TYPE birth
+2 GIVN Ybele Annes
+1 NAME  /Aeble/
+2 TYPE aka
+2 SPFX Aeble
+1 SEX M
+1 FAMS @F1758@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:30:25
+0 @I4572@ INDI
+1 NAME Harmen Baartes //
+2 TYPE birth
+2 GIVN Harmen Baartes
+1 SEX M
+1 DEAT
+2 DATE 7 JAN 1751
+2 PLAC Opsterland [Friesland]
+1 FAMS @F1759@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:32:16
+0 @I4573@ INDI
+1 NAME Syger Eyses //
+2 TYPE birth
+2 GIVN Syger Eyses
+1 NAME  /Aizes/
+2 TYPE aka
+2 SPFX Aizes
+1 SEX M
+1 BIRT
+2 DATE 1615
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1677
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+2 NOTE @N1882@
+1 FAMC @F1765@
+2 PEDI birth
+1 FAMS @F1760@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:26:41
+0 @I4574@ INDI
+1 NAME Trijntje Jans //
+2 TYPE birth
+2 GIVN Trijntje Jans
+1 SEX F
+1 BIRT
+2 DATE 1620
+2 PLAC Jardinga bij Oosterwolde (Ooststellingwerf) [Friesland]
+1 DEAT
+2 DATE 1686
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 FAMC @F1763@
+2 PEDI birth
+1 FAMS @F1760@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 00:29:19
+0 @I4575@ INDI
+1 NAME Martien Sygers //
+2 TYPE birth
+2 GIVN Martien Sygers
+1 NAME  /Martjen/
+2 TYPE aka
+2 SPFX Martjen
+1 NAME  /Matje/
+2 TYPE aka
+2 SPFX Matje
+1 SEX F
+1 BIRT
+2 DATE 1650
+1 FAMC @F1760@
+2 PEDI birth
+1 FAMS @F1761@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 23:03:13
+0 @I4576@ INDI
+1 NAME Jan Engberts //
+2 TYPE birth
+2 GIVN Jan Engberts
+1 SEX M
+1 BIRT
+2 DATE ABT 1645
+1 DEAT
+2 DATE 12 APR 1708
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 FAMS @F1761@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 22:45:16
+0 @I4577@ INDI
+1 NAME Trijn Sygers //
+2 TYPE birth
+2 GIVN Trijn Sygers
+1 NAME  /Sigers/
+2 TYPE aka
+2 SPFX Sigers
+1 SEX F
+1 BIRT
+2 DATE 1654
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE AFT 1691
+1 FAMC @F1760@
+2 PEDI birth
+1 FAMS @F1762@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 23:06:09
+0 @I4578@ INDI
+1 NAME Jan /Meynarts/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Meynarts
+1 SEX M
+1 BIRT
+2 DATE 1665
+2 PLAC Haule (Ooststellingwerf) [Friesland]
+1 DEAT
+2 DATE AFT 1691
+1 FAMS @F1762@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 23:06:09
+0 @I4579@ INDI
+1 NAME Trijntje Egberts //
+2 TYPE birth
+2 GIVN Trijntje Egberts
+1 SEX F
+1 BIRT
+2 DATE 1595
+1 DEAT
+2 DATE 1647
+2 PLAC Jardinga bij Oosterwolde (Ooststellingwerf) [Friesland]
+1 FAMC @F1764@
+2 PEDI birth
+1 FAMS @F1763@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 10:14:53
+0 @I4580@ INDI
+1 NAME Jan Jochems /Jardinga/
+2 TYPE birth
+2 GIVN Jan Jochems
+2 SURN Jardinga
+1 SEX M
+1 BIRT
+2 DATE 1595
+2 PLAC Oosterwolde
+1 DEAT
+2 DATE 12 JUN 1652
+1 FAMS @F1763@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 10:10:01
+0 @I4581@ INDI
+1 NAME Willemtje Harmens //
+2 TYPE birth
+2 GIVN Willemtje Harmens
+1 SEX F
+1 BIRT
+2 DATE 1574
+2 PLAC Elsloo
+1 DEAT
+2 DATE 1631
+1 FAMS @F1764@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 10:13:06
+0 @I4582@ INDI
+1 NAME Egbert Roelofs //
+2 TYPE birth
+2 GIVN Egbert Roelofs
+1 SEX M
+1 BIRT
+2 DATE 1572
+2 PLAC Elsloo
+1 DEAT
+2 DATE 1630
+1 FAMS @F1764@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 10:15:38
+0 @I4584@ INDI
+1 NAME Goytske Claeses //
+2 TYPE birth
+2 GIVN Goytske Claeses
+1 NAME  /Klaeses/
+2 TYPE aka
+2 SPFX Klaeses
+1 SEX F
+1 BIRT
+2 DATE 1588
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1638
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 FAMS @F1765@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:24:37
+0 @I4585@ INDI
+1 NAME Eyse Heynes //
+2 TYPE birth
+2 GIVN Eyse Heynes
+1 NAME  /Eysse/
+2 TYPE aka
+2 SPFX Eysse
+1 SEX M
+1 BIRT
+2 DATE ABT 1585
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE BEF 1637
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 FAMC @F1767@
+2 PEDI birth
+1 FAMS @F1765@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:46:03
+0 @I4586@ INDI
+1 NAME Roelof Eysses //
+2 TYPE birth
+2 GIVN Roelof Eysses
+1 SEX M
+1 BIRT
+2 DATE ABT 1618
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE BEF 1669
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 FAMC @F1765@
+2 PEDI birth
+1 FAMS @F1766@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:35:45
+0 @I4587@ INDI
+1 NAME Weepck Sybes //
+2 TYPE birth
+2 GIVN Weepck Sybes
+1 SEX F
+1 BIRT
+2 DATE ABT 1622
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE AFT 1669
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 FAMS @F1766@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:35:45
+0 @I4588@ INDI
+1 NAME Goytske Roelofs //
+2 TYPE birth
+2 GIVN Goytske Roelofs
+1 SEX F
+1 BIRT
+2 DATE ABT 1646
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE ABT 1686
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 FAMC @F1766@
+2 PEDI birth
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:36:55
+0 @I4589@ INDI
+1 NAME Adriaentje Willems //
+2 TYPE birth
+2 GIVN Adriaentje Willems
+1 SEX F
+1 BIRT
+2 DATE ABT 1553
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 DEAT
+2 DATE AFT 1631
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 FAMC @F1768@
+2 PEDI birth
+1 FAMS @F1767@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:50:48
+0 @I4590@ INDI
+1 NAME Heyne Roelofs //
+2 TYPE birth
+2 GIVN Heyne Roelofs
+1 SEX M
+1 BIRT
+2 DATE ABT 1550
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 DEAT
+2 DATE AFT 1609
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 FAMS @F1767@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:46:03
+0 @I4591@ INDI
+1 NAME Gebke Kornelis //
+2 TYPE birth
+2 GIVN Gebke Kornelis
+1 SEX F
+1 BIRT
+2 DATE ABT 1528
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 DEAT
+2 DATE AFT 1609
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 FAMS @F1768@
+1 FAMS @F1769@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:58:16
+0 @I4592@ INDI
+1 NAME Willem Jans //
+2 TYPE birth
+2 GIVN Willem Jans
+1 SEX M
+1 BIRT
+2 DATE ABT 1525
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 DEAT
+2 DATE BEF 1609
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 FAMS @F1768@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:50:48
+0 @I4593@ INDI
+1 NAME Reiner Reiners //
+2 TYPE birth
+2 GIVN Reiner Reiners
+1 SEX M
+1 FAMS @F1769@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:58:16
+0 @I4594@ INDI
+1 NAME Baukje Arends //
+2 TYPE birth
+2 GIVN Baukje Arends
+1 NAME  /Baukjen Arents/
+2 TYPE aka
+2 SPFX Baukjen Arents
+1 SEX F
+1 BIRT
+2 DATE ABT 1672
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE AFT 1722
+1 BAPM
+2 DATE 6 MAR 1696
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1773@
+2 PEDI birth
+1 FAMS @F1770@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:41:32
+0 @I4595@ INDI
+1 NAME Broer Pieters /Eizinga/
+2 TYPE birth
+2 GIVN Broer Pieters
+2 SURN Eizinga
+1 NAME  /Pijtters Elzinga/
+2 TYPE aka
+2 SPFX Pijtters Elzinga
+1 SEX M
+1 BIRT
+2 DATE 1669
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1744
+1 FACT mr Schoenmaker
+2 TYPE Occupation
+1 FAMC @F1774@
+2 PEDI birth
+1 FAMS @F1770@
+1 NOTE @N1887@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 23:54:24
+0 @I4596@ INDI
+1 NAME Pieter Broers //
+2 TYPE birth
+2 GIVN Pieter Broers
+1 NAME  /Pijtter/
+2 TYPE aka
+2 SPFX Pijtter
+1 NAME  /Pyter/
+2 TYPE aka
+2 SPFX Pyter
+1 SEX M
+1 BIRT
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1753
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 6 SEP 1696
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1770@
+2 PEDI birth
+1 FAMS @F1771@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:23:03
+0 @I4597@ INDI
+1 NAME Bauckje Jans //
+2 TYPE birth
+2 GIVN Bauckje Jans
+1 NAME  /Baukjen/
+2 TYPE aka
+2 SPFX Baukjen
+1 SEX F
+1 BIRT
+2 DATE ABT 1700
+1 FAMS @F1771@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 19:11:49
+0 @I4598@ INDI
+1 NAME Broer Pieters //
+2 TYPE birth
+2 GIVN Broer Pieters
+1 NAME  /Broor Pytters/
+2 TYPE aka
+2 SPFX Broor Pytters
+1 SEX M
+1 BIRT
+2 DATE ABT 1740
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE AFT 1777
+1 FAMC @F1771@
+2 PEDI birth
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 23:47:50
+0 @I4599@ INDI
+1 NAME Arend Broers //
+2 TYPE birth
+2 GIVN Arend Broers
+1 NAME  /Aen/
+2 TYPE aka
+2 SPFX Aen
+1 SEX M
+1 BIRT
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 20 NOV 1698
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1770@
+2 PEDI birth
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:23:03
+0 @I4600@ INDI
+1 NAME Jan Broers //
+2 TYPE birth
+2 GIVN Jan Broers
+1 SEX M
+1 BIRT
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 31 JUL 1701
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1770@
+2 PEDI birth
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:23:03
+0 @I4601@ INDI
+1 NAME Ebeltje Broors //
+2 TYPE birth
+2 GIVN Ebeltje Broors
+1 NAME  /Ybeltje/
+2 TYPE aka
+2 SPFX Ybeltje
+1 SEX F
+1 BIRT
+2 DATE 11 JUN 1706
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 11 JUN 1706
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1770@
+2 PEDI birth
+1 FAMS @F1772@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:23:03
+0 @I4602@ INDI
+1 NAME Roel Sakes //
+2 TYPE birth
+2 GIVN Roel Sakes
+1 SEX M
+1 BIRT
+2 DATE ABT 1715
+1 FAMS @F1772@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 19:46:50
+0 @I4603@ INDI
+1 NAME Fetje Broers //
+2 TYPE birth
+2 GIVN Fetje Broers
+1 SEX F
+1 BIRT
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 5 SEP 1708
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1770@
+2 PEDI birth
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:23:03
+0 @I4604@ INDI
+1 NAME Folkert Broers //
+2 TYPE birth
+2 GIVN Folkert Broers
+1 SEX M
+1 BIRT
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE BEF 27 DEC 1717
+1 BAPM
+2 DATE 2 NOV 1710
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1770@
+2 PEDI birth
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:23:03
+0 @I4605@ INDI
+1 NAME Aaltje Broers //
+2 TYPE birth
+2 GIVN Aaltje Broers
+1 SEX F
+1 BIRT
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 8 JAN 1713
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1770@
+2 PEDI birth
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:23:03
+0 @I4606@ INDI
+1 NAME Grytje Broers //
+2 TYPE birth
+2 GIVN Grytje Broers
+1 NAME  /Grijtje/
+2 TYPE aka
+2 SPFX Grijtje
+1 SEX F
+1 BIRT
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 17 FEB 1715
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1770@
+2 PEDI birth
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:23:03
+0 @I4607@ INDI
+1 NAME Folkert Broers //
+2 TYPE birth
+2 GIVN Folkert Broers
+1 SEX M
+1 BIRT
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 27 DEC 1717
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1770@
+2 PEDI birth
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:23:03
+0 @I4608@ INDI
+1 NAME Trijntje Broers //
+2 TYPE birth
+2 GIVN Trijntje Broers
+1 SEX F
+1 BIRT
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 BAPM
+2 DATE 8 MAR 1722
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1770@
+2 PEDI birth
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:23:03
+0 @I4609@ INDI
+1 NAME Ebeltje Folkerts //
+2 TYPE birth
+2 GIVN Ebeltje Folkerts
+1 SEX F
+1 BIRT
+2 DATE ABT 1655
+1 FAMS @F1773@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:41:32
+0 @I4610@ INDI
+1 NAME Arend Geerts //
+2 TYPE birth
+2 GIVN Arend Geerts
+1 SEX M
+1 BIRT
+2 DATE ABT 1650
+1 FAMS @F1773@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:41:32
+0 @I4611@ INDI
+1 NAME Grietje Jans //
+2 TYPE birth
+2 GIVN Grietje Jans
+1 SEX F
+1 BIRT
+2 DATE 1637
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1670
+2 PLAC Twijzel (Achtkarspelen) [Friesland]
+1 FAMC @F1776@
+2 PEDI birth
+1 FAMS @F1774@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 14:13:18
+0 @I4612@ INDI
+1 NAME Pieter Saeckes //
+2 TYPE birth
+2 GIVN Pieter Saeckes
+1 NAME  /Pijter Sakes/
+2 TYPE aka
+2 SPFX Pijter Sakes
+1 NAME  /Saackes/
+2 TYPE aka
+2 SPFX Saackes
+1 SEX M
+1 BIRT
+2 DATE 1630
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 21 JAN 1696
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+2 NOTE @N1891@
+1 FAMS @F1774@
+1 NOTE @N1892@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 23:46:30
+0 @I4613@ INDI
+1 NAME Sake Pieters //
+2 TYPE birth
+2 GIVN Sake Pieters
+1 SEX M
+1 BIRT
+2 DATE 1670
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1774@
+2 PEDI birth
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 23:54:24
+0 @I4614@ INDI
+1 NAME Liefke Pieters //
+2 TYPE birth
+2 GIVN Liefke Pieters
+1 NAME  /Lieffien Pijtters)/
+2 TYPE aka
+2 SPFX Lieffien Pijtters)
+1 NAME  /Lyffien/
+2 TYPE aka
+2 SPFX Lyffien
+1 SEX F
+1 BIRT
+2 DATE 1665
+2 PLAC Kortezwaag (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1 NOV 1709
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 FAMC @F1774@
+2 PEDI birth
+1 FAMS @F1775@
+1 NOTE @N1893@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 13:34:45
+0 @I4615@ INDI
+1 NAME Hieronimy Balthemewitz /Dopckewitz/
+2 TYPE birth
+2 GIVN Hieronimy Balthemewitz
+2 SURN Dopckewitz
+1 NAME  /Dopschewijt/
+2 TYPE aka
+2 SPFX Dopschewijt
+1 NAME  /Pool/
+2 TYPE aka
+2 SPFX Pool
+1 SEX M
+1 BIRT
+2 DATE 1663
+2 PLAC Polen
+1 DEAT
+2 DATE 1722
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 FAMS @F1775@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 13:34:45
+0 @I4616@ INDI
+1 NAME Lutske Egberts //
+2 TYPE birth
+2 GIVN Lutske Egberts
+1 NAME  /Luitjen/
+2 TYPE aka
+2 SPFX Luitjen
+1 NAME  /Luitsen/
+2 TYPE aka
+2 SPFX Luitsen
+1 SEX F
+1 BIRT
+2 DATE ABT 1612
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE AFT 1659
+2 PLAC Opeinde (Smallingerland) [Friesland]
+1 FAMC @F1780@
+2 PEDI birth
+1 FAMS @F1776@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 16:09:16
+0 @I4617@ INDI
+1 NAME Jan Rinderts //
+2 TYPE birth
+2 GIVN Jan Rinderts
+1 NAME  /Rinnerts/
+2 TYPE aka
+2 SPFX Rinnerts
+1 SEX M
+1 BIRT
+2 DATE 1610
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1668
+2 PLAC Opeinde (Smallingerland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FAMS @F1776@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 14:11:35
+0 @I4618@ INDI
+1 NAME Wijpk Jans //
+2 TYPE birth
+2 GIVN Wijpk Jans
+1 NAME  /Wib/
+2 TYPE aka
+2 SPFX Wib
+1 NAME  /Wibke/
+2 TYPE aka
+2 SPFX Wibke
+1 SEX F
+1 BIRT
+2 DATE ABT 1637
+2 PLAC Opeinde (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1682
+2 PLAC Selmien, Ureterp (Opsterland) [Friesland]
+1 FAMC @F1776@
+2 PEDI birth
+1 FAMS @F1777@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 14:13:18
+0 @I4619@ INDI
+1 NAME Goijtse Douwes //
+2 TYPE birth
+2 GIVN Goijtse Douwes
+1 NAME  /Goytie/
+2 TYPE aka
+2 SPFX Goytie
+1 NAME  /Gooytse/
+2 TYPE aka
+2 SPFX Gooytse
+1 SEX M
+1 BIRT
+2 DATE ABT 1623
+2 PLAC Selmien, Ureterp (Opsterland) [Friesland]
+1 DEAT
+2 DATE ABT 1671
+2 PLAC Selmien, Ureterp (Opsterland) [Friesland]
+1 FAMS @F1777@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 14:02:49
+0 @I4620@ INDI
+1 NAME Rinnert Jans //
+2 TYPE birth
+2 GIVN Rinnert Jans
+1 NAME  /Rindert/
+2 TYPE aka
+2 SPFX Rindert
+1 SEX M
+1 BIRT
+2 DATE 1640
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 DEAT
+2 DATE BEF 1684
+2 PLAC Opeinde (Smallingerland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FAMC @F1776@
+2 PEDI birth
+1 FAMS @F1778@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 14:16:26
+0 @I4621@ INDI
+1 NAME Saeck Ottes //
+2 TYPE birth
+2 GIVN Saeck Ottes
+1 NAME  /Saak/
+2 TYPE aka
+2 SPFX Saak
+1 NAME  /Saakje/
+2 TYPE aka
+2 SPFX Saakje
+1 SEX F
+1 BIRT
+2 DATE 1648
+2 PLAC Lippenhuizen (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1682
+1 FAMS @F1779@
+1 FAMS @F1778@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 14:19:42
+0 @I4622@ INDI
+1 NAME Tjaard Hylkes //
+2 TYPE birth
+2 GIVN Tjaard Hylkes
+1 SEX M
+1 BIRT
+2 DATE 1636
+2 PLAC Lippenhuizen (Opsterland) [Friesland]
+1 DEAT
+2 DATE BEF 1670
+1 FAMS @F1779@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 14:19:32
+0 @I4623@ INDI
+1 NAME Wibke Johannes //
+2 TYPE birth
+2 GIVN Wibke Johannes
+1 SEX F
+1 BIRT
+2 DATE ABT 1569
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE AFT 1620
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 FAMS @F1780@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 15:41:48
+0 @I4624@ INDI
+1 NAME Egbert Alles //
+2 TYPE birth
+2 GIVN Egbert Alles
+1 NAME  /Engbert/
+2 TYPE aka
+2 SPFX Engbert
+1 SEX M
+1 BIRT
+2 DATE 1566
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 3 NOV 1645
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FACT Dorpsrechter in Noorderdrachten.
+2 TYPE Occupation
+1 FAMC @F1783@
+2 PEDI birth
+1 FAMS @F1780@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 22:14:14
+0 @I4625@ INDI
+1 NAME Geeske Egberts //
+2 TYPE birth
+2 GIVN Geeske Egberts
+1 SEX F
+1 BIRT
+2 DATE 1595
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1652
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1780@
+2 PEDI birth
+1 FAMS @F1781@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 16:09:16
+0 @I4626@ INDI
+1 NAME Jan Hendriks //
+2 TYPE birth
+2 GIVN Jan Hendriks
+1 NAME  /Hendrickx/
+2 TYPE aka
+2 SPFX Hendrickx
+1 SEX M
+1 BIRT
+2 DATE 1592
+2 PLAC Opeinde (Smallingerland) [Friesland]
+1 DEAT
+2 DATE AFT 1652
+2 PLAC De Tike (Smallingerland) [Friesland]
+1 FACT Veenbaas
+2 TYPE Occupation
+1 FAMS @F1781@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 16:08:05
+0 @I4627@ INDI
+1 NAME Sieuke Egberts //
+2 TYPE birth
+2 GIVN Sieuke Egberts
+1 SEX F
+1 BIRT
+2 DATE 1605
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1780@
+2 PEDI birth
+1 FAMS @F1782@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 16:13:13
+0 @I4628@ INDI
+1 NAME Frans Gjalts //
+2 TYPE birth
+2 GIVN Frans Gjalts
+1 SEX M
+1 BIRT
+2 DATE ABT 1600
+1 FAMS @F1782@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 16:13:13
+0 @I4629@ INDI
+1 NAME Tjemck //
+2 TYPE birth
+2 GIVN Tjemck
+1 SEX F
+1 BIRT
+2 DATE 1536
+2 PLAC Terwispel (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1625
+1 FAMS @F1783@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 16:17:03
+0 @I4630@ INDI
+1 NAME Alle Sjoerds /Beetsius/
+2 TYPE birth
+2 GIVN Alle Sjoerds
+2 SURN Beetsius
+1 NAME  /Sioerds van Wijk/
+2 TYPE aka
+2 SPFX Sioerds van Wijk
+1 SEX M
+1 BIRT
+2 DATE 1532
+2 PLAC Lippenhuizen (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1599
+2 PLAC Lippenhuizen (Opsterland) [Friesland]
+1 FAMC @F1787@
+2 PEDI birth
+1 FAMS @F1783@
+1 NOTE @N1894@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 23:14:28
+0 @I4631@ INDI
+1 NAME Ebele Alles /Beetsius/
+2 TYPE birth
+2 GIVN Ebele Alles
+2 SURN Beetsius
+1 NAME  /Eebel) van Wijk/
+2 TYPE aka
+2 SPFX Eebel) van Wijk
+1 NAME  /Blaauw/
+2 TYPE aka
+2 SPFX Blaauw
+1 SEX M
+1 BIRT
+2 DATE 1558
+2 PLAC Lippenhuizen (Opsterland) [Friesland]
+1 DEAT
+2 DATE OCT 1617
+2 PLAC Hemrik (Opsterland) [Friesland]
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FACT Boer
+2 TYPE Occupation
+1 FAMC @F1783@
+2 PEDI birth
+1 FAMS @F1784@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 22:14:14
+0 @I4632@ INDI
+1 NAME Jetske Sierdts /Blaauw/
+2 TYPE birth
+2 GIVN Jetske Sierdts
+2 SURN Blaauw
+1 NAME  /Sierts/
+2 TYPE aka
+2 SPFX Sierts
+1 NAME  /Aeddu/
+2 TYPE aka
+2 SPFX Aeddu
+1 SEX F
+1 BIRT
+2 DATE 1561
+2 PLAC Hemrik (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1630
+2 PLAC Hemrik (Opsterland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FAMS @F1784@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 17:42:30
+0 @I4633@ INDI
+1 NAME Rieuw Alles /Beetsius/
+2 TYPE birth
+2 GIVN Rieuw Alles
+2 SURN Beetsius
+1 SEX F
+1 BIRT
+2 DATE ABT 1565
+2 PLAC Lippenhuizen (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1602
+1 FAMC @F1783@
+2 PEDI birth
+1 FAMS @F1785@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 22:14:14
+0 @I4634@ INDI
+1 NAME Ate Feddes //
+2 TYPE birth
+2 GIVN Ate Feddes
+1 SEX M
+1 BIRT
+2 DATE 1560
+2 PLAC Lippenhuizen (Opsterland) [Friesland]
+1 FAMS @F1785@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 19:51:20
+0 @I4635@ INDI
+1 NAME Sioerd Alles /Beetsius/
+2 TYPE birth
+2 GIVN Sioerd Alles
+2 SURN Beetsius
+1 NAME  /Sjoerd/
+2 TYPE aka
+2 SPFX Sjoerd
+1 SEX M
+1 BIRT
+2 DATE 1565
+2 PLAC Lippenhuizen (Opsterland) [Friesland]
+1 DEAT
+2 DATE BEF 1640
+1 FAMC @F1783@
+2 PEDI birth
+1 FAMS @F1786@
+1 NOTE @N1895@
+1 NOTE @N1896@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 22:22:23
+0 @I4636@ INDI
+1 NAME Taets Ypes /Wiarda/
+2 TYPE birth
+2 GIVN Taets Ypes
+2 SURN Wiarda
+1 SEX F
+1 BIRT
+2 DATE 1570
+1 DEAT
+2 DATE AFT 1620
+1 FAMS @F1786@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 22:22:23
+0 @I4637@ INDI
+1 NAME Sioerdt Alles /Beetsius/
+2 TYPE birth
+2 GIVN Sioerdt Alles
+2 SURN Beetsius
+1 NAME  /Siurt Beetzius/
+2 TYPE aka
+2 SPFX Siurt Beetzius
+1 NAME  /van Wijk/
+2 TYPE aka
+2 SPFX van Wijk
+1 SEX M
+1 BIRT
+2 DATE 1500
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1550
+2 PLAC Terwispel (Opsterland) [Friesland]
+1 FAMS @F1787@
+1 NOTE @N1897@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 22:37:37
+0 @I4638@ INDI
+1 NAME NN //
+2 TYPE birth
+2 GIVN NN
+1 SEX F
+1 BIRT
+2 DATE 1510
+1 FAMS @F1787@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 22:36:20
+0 @I4639@ INDI
+1 NAME Otte Sjoerdts /Beetsius/
+2 TYPE birth
+2 GIVN Otte Sjoerdts
+2 SURN Beetsius
+1 SEX M
+1 BIRT
+2 DATE 1538
+1 FAMC @F1787@
+2 PEDI birth
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 23:14:28
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -73574,7 +76331,7 @@
 1 WIFE @I0078@
 1 MARR
 2 DATE 16 JUN 1893
-2 PLAC Gorssel
+2 PLAC Gorssel [Gelderland]
 3 MAP
 4 LATI N52.200965
 4 LONG E6.201409
@@ -75890,7 +78647,7 @@
 1 WIFE @I0652@
 1 MARR
 2 DATE 27 APR 1888
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 CHIL @I4141@
 1 CHIL @I0654@
 1 CHIL @I4143@
@@ -76704,29 +79461,35 @@
 0 @F0348@ FAM
 1 HUSB @I0912@
 1 WIFE @I0913@
+1 MARL
+2 DATE 8 DEC 1771
+2 PLAC Oudshoorn (Alphen aan de Rijn)
+2 NOTE @N1865@
 1 MARR
 2 DATE 29 DEC 1771
 2 PLAC Oudshoorn (Alphen aan de Rijn)
-2 NOTE @N0217@
 1 CHIL @I0914@
 1 CHIL @I0894@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 20:30:41
+2 DATE 1 DEC 2025
+3 TIME 00:21:39
 0 @F0349@ FAM
 1 HUSB @I0915@
 1 WIFE @I0913@
+1 MARL
+2 DATE 9 APR 1779
+2 PLAC Overschie [Zuid Holland]
+2 NOTE @N1864@
 1 MARR
 2 DATE 25 APR 1779
 2 PLAC Waddinxveen [Zuid Holland]
-2 NOTE @N0213@
 1 CHIL @I0916@
 1 CHIL @I0917@
 1 CHIL @I0918@
 1 CHIL @I0919@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 18:24:17
+2 DATE 1 DEC 2025
+3 TIME 00:18:55
 0 @F0350@ FAM
 1 HUSB @I0920@
 1 WIFE @I0919@
@@ -88697,7 +91460,7 @@
 1 WIFE @I4141@
 1 MARR
 2 DATE 28 APR 1917
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 NOTE @N1817@
 1 CHAN
 2 DATE 8 NOV 2025
@@ -88707,7 +91470,7 @@
 1 WIFE @I4143@
 1 MARR
 2 DATE 27 MAY 1922
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 CHIL @I4146@
 1 CHAN
 2 DATE 7 NOV 2025
@@ -88743,7 +91506,7 @@
 1 WIFE @I4156@
 1 MARR
 2 DATE 3 MAY 1851
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 CHAN
 2 DATE 18 OCT 2025
 3 TIME 17:00:49
@@ -88752,7 +91515,7 @@
 1 WIFE @I4160@
 1 MARR
 2 DATE 2 MAY 1779
-2 PLAC Diever
+2 PLAC Diever [Drenthe]
 1 CHIL @I4161@
 1 CHIL @I4163@
 1 CHIL @I4165@
@@ -89025,7 +91788,7 @@
 1 WIFE @I4230@
 1 MARR
 2 DATE 2 JUN 1800
-2 PLAC Beetsterzwaag [Friesland]
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
 2 NOTE @N1776@
 1 CHIL @I4288@
 1 CHIL @I4181@
@@ -90064,10 +92827,11 @@
 0 @F1707@ FAM
 1 HUSB @I4462@
 1 WIFE @I4463@
+1 CHIL @I4528@
 1 CHIL @I4461@
 1 CHAN
-2 DATE 17 NOV 2025
-3 TIME 20:05:44
+2 DATE 19 NOV 2025
+3 TIME 21:45:22
 0 @F1708@ FAM
 1 HUSB @I4464@
 1 WIFE @I4465@
@@ -90075,9 +92839,10 @@
 2 DATE 21 OCT 1652
 2 PLAC Alten Buseck (Landkreis Giessen) [Hessen] Duitsland
 1 CHIL @I4463@
+1 CHIL @I4524@
 1 CHAN
-2 DATE 17 NOV 2025
-3 TIME 20:31:14
+2 DATE 19 NOV 2025
+3 TIME 21:22:44
 0 @F1709@ FAM
 1 HUSB @I4466@
 1 WIFE @I4467@
@@ -90105,45 +92870,728 @@
 0 @F1712@ FAM
 1 HUSB @I4473@
 1 WIFE @I4472@
+1 MARR
+2 DATE 1547
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 CHIL @I4471@
 1 CHIL @I4476@
 1 CHIL @I4481@
 1 CHIL @I4483@
+1 CHIL @I4484@
+1 CHIL @I4487@
 1 CHAN
 2 DATE 17 NOV 2025
-3 TIME 22:33:09
+3 TIME 23:42:12
 0 @F1713@ FAM
 1 HUSB @I4475@
 1 WIFE @I4474@
+1 MARR
+2 DATE 1515
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 CHIL @I4473@
 1 CHAN
 2 DATE 17 NOV 2025
-3 TIME 22:00:50
+3 TIME 23:44:01
 0 @F1714@ FAM
 1 HUSB @I4477@
 1 WIFE @I4476@
 1 MARR
 2 DATE 1565
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+1 CHIL @I4490@
 1 CHIL @I4468@
+1 CHIL @I4492@
 1 CHAN
-2 DATE 17 NOV 2025
-3 TIME 22:17:18
+2 DATE 18 NOV 2025
+3 TIME 20:33:11
 0 @F1715@ FAM
 1 HUSB @I4478@
 1 CHIL @I4477@
 1 CHAN
 2 DATE 17 NOV 2025
 3 TIME 22:15:09
+0 @F1716@ FAM
+1 HUSB @I4495@
+1 WIFE @I4494@
+1 CHIL @I4516@
+1 CHIL @I4462@
+1 CHIL @I4518@
+1 CHIL @I4519@
+1 CHIL @I4520@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:14:13
 0 @F1717@ FAM
 1 HUSB @I4482@
 1 WIFE @I4481@
 1 MARR
 2 DATE ABT 1570
-2 PLAC Steinbach (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
 1 CHAN
 2 DATE 17 NOV 2025
 3 TIME 22:29:21
+0 @F1718@ FAM
+1 HUSB @I4485@
+1 WIFE @I4484@
+1 CHIL @I4486@
+1 CHAN
+2 DATE 17 NOV 2025
+3 TIME 23:29:18
+0 @F1719@ FAM
+1 HUSB @I4488@
+1 WIFE @I4487@
+1 CHAN
+2 DATE 17 NOV 2025
+3 TIME 23:32:11
+0 @F1720@ FAM
+1 HUSB @I4483@
+1 WIFE @I4489@
+1 CHAN
+2 DATE 17 NOV 2025
+3 TIME 23:35:17
+0 @F1721@ FAM
+1 HUSB @I4490@
+1 WIFE @I4491@
+1 MARR
+2 DATE 1602
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 NOTE @N1845@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 07:52:35
+0 @F1722@ FAM
+1 HUSB @I4493@
+1 WIFE @I4492@
+1 MARR
+2 DATE 1594
+2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 20:35:59
+0 @F1723@ FAM
+1 HUSB @I4496@
+1 WIFE @I4497@
+1 MARR
+2 DATE 13 FEB 1716
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 CHIL @I4498@
+1 CHIL @I4453@
+1 CHIL @I4500@
+1 CHIL @I4501@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 21:31:11
+0 @F1724@ FAM
+1 HUSB @I4499@
+1 WIFE @I4498@
+1 MARR
+2 DATE 11 OCT 1741
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 21:24:02
+0 @F1725@ FAM
+1 HUSB @I4502@
+1 WIFE @I4503@
+1 CHIL @I4497@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 21:34:39
+0 @F1726@ FAM
+1 HUSB @I4504@
+1 WIFE @I4505@
+1 CHIL @I4502@
+1 CHIL @I4506@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 22:42:10
+0 @F1727@ FAM
+1 HUSB @I4506@
+1 WIFE @I4507@
+1 MARR
+2 DATE 28 SEP 1687
+1 CHIL @I4460@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 22:16:33
+0 @F1728@ FAM
+1 HUSB @I4508@
+1 WIFE @I4509@
+1 CHIL @I4507@
+1 CHAN
+2 DATE 18 NOV 2025
+3 TIME 22:38:06
+0 @F1729@ FAM
+1 HUSB @I4510@
+1 WIFE @I4511@
+1 MARR
+2 DATE 9 JAN 1683
+2 PLAC Oppenrod (Landkreis Giessen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 CHIL @I4496@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 07:42:56
+0 @F1730@ FAM
+1 HUSB @I4512@
+1 WIFE @I4513@
+1 CHIL @I4510@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 19:20:18
+0 @F1731@ FAM
+1 HUSB @I4514@
+1 WIFE @I4515@
+1 CHIL @I4512@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 19:23:07
+0 @F1732@ FAM
+1 HUSB @I4516@
+1 WIFE @I4517@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:11:09
+0 @F1733@ FAM
+1 HUSB @I4520@
+1 WIFE @I4521@
+1 MARR
+2 DATE ABT 1674
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:16:54
+0 @F1734@ FAM
+1 HUSB @I4520@
+1 WIFE @I4522@
+1 MARR
+2 DATE ABT 1681
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:17:55
+0 @F1735@ FAM
+1 HUSB @I4520@
+1 WIFE @I4523@
+1 MARR
+2 DATE ABT 1699
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:19:05
+0 @F1736@ FAM
+1 HUSB @I4525@
+1 WIFE @I4524@
+1 MARR
+2 DATE ABT 1701
+1 CHIL @I4526@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 21:25:06
+0 @F1737@ FAM
+1 HUSB @I4528@
+1 WIFE @I4529@
+1 CHIL @I4530@
+1 CHAN
+2 DATE 19 NOV 2025
+3 TIME 22:10:36
+0 @F1738@ FAM
+1 HUSB @I4479@
+1 WIFE @I4480@
+1 MARR
+2 DATE 5 MAY 1771
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+2 NOTE @N1850@
+1 CHIL @I4229@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 12:35:02
+0 @F1739@ FAM
+1 HUSB @I4531@
+1 WIFE @I4532@
+1 MARR
+2 DATE 11 MAR 1781
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+2 NOTE @N1855@
+1 CHIL @I4230@
+1 CHIL @I4533@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 12:23:45
+0 @F1740@ FAM
+1 HUSB @I4534@
+1 WIFE @I4533@
+1 CHIL @I4535@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 12:26:31
+0 @F1741@ FAM
+1 HUSB @I4535@
+1 WIFE @I4536@
+1 MARR
+2 DATE 17 MAY 1850
+2 PLAC Smallingerland [Friesland]
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 12:34:55
+0 @F1742@ FAM
+1 HUSB @I4537@
+1 WIFE @I4532@
+1 CHIL @I4538@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 12:45:00
+0 @F1743@ FAM
+1 HUSB @I4531@
+1 WIFE @I4539@
+1 MARL
+2 DATE 8 MAR 1766
+2 PLAC Boornbergum (Smallingerland) [Friesland]
+2 NOTE @N1858@
+1 MARR
+2 DATE 30 MAR 1766
+2 PLAC Boornbergum (Smallingerland) [Friesland]
+2 NOTE @N1859@
+1 CHIL @I4540@
+1 CHIL @I4541@
+1 CHIL @I4543@
+1 CHIL @I4545@
+1 CHAN
+2 DATE 1 DEC 2025
+3 TIME 20:25:27
+0 @F1744@ FAM
+1 HUSB @I4542@
+1 WIFE @I4541@
+1 MARR
+2 DATE 27 NOV 1796
+2 NOTE @N1863@
+1 CHAN
+2 DATE 30 NOV 2025
+3 TIME 23:37:41
+0 @F1745@ FAM
+1 HUSB @I4543@
+1 WIFE @I4544@
+1 MARR
+2 DATE 21 DEC 1800
+2 PLAC Drachten (Smallingerland) [Friesland]
+2 NOTE @N1866@
+1 CHAN
+2 DATE 1 DEC 2025
+3 TIME 20:19:34
+0 @F1746@ FAM
+1 HUSB @I4546@
+1 WIFE @I4545@
+1 MARR
+2 DATE 12 MAY 1805
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 CHAN
+2 DATE 1 DEC 2025
+3 TIME 21:54:57
+0 @F1747@ FAM
+1 HUSB @I4548@
+1 WIFE @I4547@
+1 MARR
+2 DATE 1728
+1 CHIL @I4549@
+1 CHIL @I4531@
+1 CHIL @I4551@
+1 CHIL @I4553@
+1 CHAN
+2 DATE 2 DEC 2025
+3 TIME 22:34:09
+0 @F1748@ FAM
+1 HUSB @I4550@
+1 WIFE @I4549@
+1 MARR
+2 DATE 26 JAN 1755
+2 PLAC Opsterland [Friesland]
+2 NOTE @N1869@
+1 CHAN
+2 DATE 2 DEC 2025
+3 TIME 21:05:16
+0 @F1749@ FAM
+1 HUSB @I4552@
+1 WIFE @I4551@
+1 CHAN
+2 DATE 2 DEC 2025
+3 TIME 22:30:16
+0 @F1750@ FAM
+1 HUSB @I4553@
+1 WIFE @I4554@
+1 MARR
+2 DATE 31 MAY 1789
+2 PLAC Boornbergum (Smallingerland) [Friesland]
+2 NOTE @N1873@
+1 CHAN
+2 DATE 2 DEC 2025
+3 TIME 22:41:48
+0 @F1751@ FAM
+1 HUSB @I4555@
+1 WIFE @I4556@
+1 MARR
+2 DATE 5 AUG 1688
+2 PLAC Duurswoude (Opsterland) [Friesland]
+2 NOTE @N1874@
+1 CHIL @I4560@
+1 CHIL @I4563@
+1 CHIL @I4564@
+1 CHIL @I4567@
+1 CHIL @I4568@
+1 CHIL @I4570@
+1 CHIL @I4547@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:28:00
+0 @F1752@ FAM
+1 HUSB @I4555@
+1 WIFE @I4557@
+1 MARR
+2 DATE BEF 1685
+1 CHIL @I4558@
+1 CHAN
+2 DATE 3 DEC 2025
+3 TIME 20:13:30
+0 @F1753@ FAM
+1 HUSB @I4558@
+1 WIFE @I4559@
+1 MARR
+2 DATE 1711
+2 PLAC Wijnjeterp (Opsterland) [Friesland]
+1 CHAN
+2 DATE 3 DEC 2025
+3 TIME 20:38:26
+0 @F1754@ FAM
+1 HUSB @I4560@
+1 WIFE @I4561@
+1 MARR
+2 DATE 5 SEP 1717
+2 PLAC Drachten (Smallingerland) [Friesland]
+2 NOTE @N1877@
+1 CHIL @I4562@
+1 CHAN
+2 DATE 4 DEC 2025
+3 TIME 22:06:09
+0 @F1755@ FAM
+1 HUSB @I4564@
+1 WIFE @I4565@
+1 MARR
+2 DATE ABT 1725
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 20:36:28
+0 @F1756@ FAM
+1 HUSB @I4566@
+1 WIFE @I4565@
+1 MARR
+2 DATE ABT 1740
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 20:39:28
+0 @F1757@ FAM
+1 HUSB @I4569@
+1 WIFE @I4568@
+1 MARR
+2 DATE SEP 1720
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+2 NOTE @N1879@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:17:06
+0 @F1758@ FAM
+1 HUSB @I4571@
+1 WIFE @I4556@
+1 MARR
+2 DATE ABT 1709
+2 NOTE @N1881@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:30:25
+0 @F1759@ FAM
+1 HUSB @I4572@
+1 WIFE @I4556@
+1 MARR
+2 DATE AFT 1711
+2 NOTE @N1880@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 21:32:16
+0 @F1760@ FAM
+1 HUSB @I4573@
+1 WIFE @I4574@
+1 MARR
+2 DATE 1638
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 CHIL @I4575@
+1 CHIL @I4577@
+1 CHIL @I4555@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 23:03:13
+0 @F1761@ FAM
+1 HUSB @I4576@
+1 WIFE @I4575@
+1 MARR
+2 DATE 1685
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 22:45:16
+0 @F1762@ FAM
+1 HUSB @I4578@
+1 WIFE @I4577@
+1 MARR
+2 DATE DEC 1691
+2 PLAC Wijnjeterp (Opsterland) [Friesland]
+2 NOTE @N1883@
+1 CHAN
+2 DATE 5 DEC 2025
+3 TIME 23:06:09
+0 @F1763@ FAM
+1 HUSB @I4580@
+1 WIFE @I4579@
+1 CHIL @I4574@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 00:29:19
+0 @F1764@ FAM
+1 HUSB @I4582@
+1 WIFE @I4581@
+1 CHIL @I4579@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 10:14:53
+0 @F1765@ FAM
+1 HUSB @I4585@
+1 WIFE @I4584@
+1 MARR
+2 DATE ABT 1610
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 CHIL @I4573@
+1 CHIL @I4586@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:26:41
+0 @F1766@ FAM
+1 HUSB @I4586@
+1 WIFE @I4587@
+1 MARR
+2 DATE ABT 1645
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 CHIL @I4588@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:36:55
+0 @F1767@ FAM
+1 HUSB @I4590@
+1 WIFE @I4589@
+1 MARR
+2 DATE ABT 1575
+2 PLAC Duurswoude (Opsterland) [Friesland]
+1 CHIL @I4585@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:46:03
+0 @F1768@ FAM
+1 HUSB @I4592@
+1 WIFE @I4591@
+1 MARR
+2 DATE ABT 1550
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 CHIL @I4589@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:50:48
+0 @F1769@ FAM
+1 HUSB @I4593@
+1 WIFE @I4591@
+1 MARR
+2 DATE ABT 1550
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 12:58:16
+0 @F1770@ FAM
+1 HUSB @I4595@
+1 WIFE @I4594@
+1 MARR
+2 DATE 17 FEB 1695
+2 PLAC Drachten (Smallingerland) [Friesland]
+2 NOTE @N1886@
+1 CHIL @I4596@
+1 CHIL @I4599@
+1 CHIL @I4600@
+1 CHIL @I4548@
+1 CHIL @I4601@
+1 CHIL @I4603@
+1 CHIL @I4604@
+1 CHIL @I4605@
+1 CHIL @I4606@
+1 CHIL @I4607@
+1 CHIL @I4608@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:23:03
+0 @F1771@ FAM
+1 HUSB @I4596@
+1 WIFE @I4597@
+1 MARR
+2 DATE 12 APR 1722
+2 PLAC Drachten (Smallingerland) [Friesland]
+2 NOTE @N1888@
+1 CHIL @I4598@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 19:14:40
+0 @F1772@ FAM
+1 HUSB @I4602@
+1 WIFE @I4601@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 19:46:50
+0 @F1773@ FAM
+1 HUSB @I4610@
+1 WIFE @I4609@
+1 MARR
+2 DATE 30 AUG 1667
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 CHIL @I4594@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 22:41:32
+0 @F1774@ FAM
+1 HUSB @I4612@
+1 WIFE @I4611@
+1 MARR
+2 DATE 30 AUG 1667
+2 PLAC Smallingerland [Friesland]
+2 NOTE @N1889@
+2 NOTE @N1890@
+1 CHIL @I4614@
+1 CHIL @I4595@
+1 CHIL @I4613@
+1 CHAN
+2 DATE 6 DEC 2025
+3 TIME 23:54:24
+0 @F1775@ FAM
+1 HUSB @I4615@
+1 WIFE @I4614@
+1 MARR
+2 DATE 12 AUG 1688
+2 PLAC Langezwaag, Kortezwaag, Lippenhuizen (Opsterland) [Friesland]
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 13:34:45
+0 @F1776@ FAM
+1 HUSB @I4617@
+1 WIFE @I4616@
+1 MARR
+2 DATE ABT 1635
+1 CHIL @I4611@
+1 CHIL @I4618@
+1 CHIL @I4620@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 14:13:18
+0 @F1777@ FAM
+1 HUSB @I4619@
+1 WIFE @I4618@
+1 MARR
+2 DATE 16 JUN 1659
+2 PLAC Opsterland [Friesland]
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 14:02:49
+0 @F1778@ FAM
+1 HUSB @I4620@
+1 WIFE @I4621@
+1 MARR
+2 DATE ABT 1673
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 14:16:26
+0 @F1779@ FAM
+1 HUSB @I4622@
+1 WIFE @I4621@
+1 MARR
+2 DATE 26 AUG 1666
+2 PLAC Lippenhuizen (Opsterland) [Friesland]
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 14:19:32
+0 @F1780@ FAM
+1 HUSB @I4624@
+1 WIFE @I4623@
+1 MARR
+2 DATE ABT 1592
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 CHIL @I4625@
+1 CHIL @I4627@
+1 CHIL @I4616@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 16:09:16
+0 @F1781@ FAM
+1 HUSB @I4626@
+1 WIFE @I4625@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 16:06:40
+0 @F1782@ FAM
+1 HUSB @I4628@
+1 WIFE @I4627@
+1 MARR
+2 DATE 1630
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 16:13:13
+0 @F1783@ FAM
+1 HUSB @I4630@
+1 WIFE @I4629@
+1 MARR
+2 DATE ABT 1555
+1 CHIL @I4631@
+1 CHIL @I4633@
+1 CHIL @I4635@
+1 CHIL @I4624@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 22:14:14
+0 @F1784@ FAM
+1 HUSB @I4631@
+1 WIFE @I4632@
+1 MARR
+2 DATE 1590
+2 PLAC Hemrik (Opsterland) [Friesland]
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 17:41:47
+0 @F1785@ FAM
+1 HUSB @I4634@
+1 WIFE @I4633@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 19:51:20
+0 @F1786@ FAM
+1 HUSB @I4635@
+1 WIFE @I4636@
+1 MARR
+2 DATE ABT 1593
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 22:22:23
+0 @F1787@ FAM
+1 HUSB @I4637@
+1 WIFE @I4638@
+1 CHIL @I4630@
+1 CHIL @I4639@
+1 CHAN
+2 DATE 7 DEC 2025
+3 TIME 23:14:28
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -90905,8 +94353,7 @@
 0 @N0211@ NOTE Woonde in Broek in Waterland
 0 @N0212@ NOTE In eigen graf, 't kleedje van f 1.10.-, 1 uur geluid, 't aanbehuwd
 1 CONC e kind van Arij Jacobsz Rodenburg, onder de jaren.
-0 @N0213@ NOTE Toestemming voor het huwelijk is 9 april 1779 verkregen te Overschi
-1 CONC e, Zuid-Holland, Nederland.
+0 @N0213@ NOTE 
 0 @N0214@ NOTE Naamsvariant: Ariaantje.
 0 @N0215@ NOTE Naamsvariant: Arij.
 0 @N0216@ NOTE Naamsvariant: Peternella.
@@ -100593,6 +104040,442 @@
 0 @N1842@ NOTE Ook vermelding van 23-01-1801
 0 @N1843@ NOTE Ook vermelding van 23-05-1864
 0 @N1844@ NOTE Zie in Familienbuch Oppenrod van Hanno Müller
+0 @N1845@ NOTE Sealing to Spouse
+0 @N1846@ NOTE https://winsemius.com/10-the-seuling-suijling-family-from-alten-bus
+1 CONC eck/
+0 @N1847@ NOTE Doopboek Herv. gem. Beets, Beetsterzwaag en Olterterp, archiefnumme
+1 CONC r 28, Collectie doop-, trouw-, lidmaten- begraafboeken - Tresoar, invent
+1 CONC arisnummer 0555
+0 @N1848@ NOTE Diaconierekeningboek Beetsterzwaag
+1 CONT Soort registratie: DTB begraven inschrijving
+1 CONT (Akte)datum: 22-08-1794
+1 CONT Bijzonderheden: Ontvangen wegens collecte £ 1:7:10
+1 CONT Citaat: in de bekken tot Beets v(er)samelt bij de begraving Sybe Tjidsge
+1 CONC rs
+1 CONT Overledene Sybe Tjidsgers
+0 @N1849@ NOTE Overlijdensregister 1820
+1 CONT Soort registratie: BS Overlijden akte
+1 CONT (Akte)datum: 06-12-1820
+1 CONT Overledene Grietje Jans
+1 CONT leeftijd 81 jaar, overleden op 06-12-1820 te Beets.
+1 CONT Diversen: weduwe
+1 CONT weduwe van Sybe Tjidsgers Meetsma
+0 @N1850@ NOTE Trouwregister Hervormde gemeente Beets Beetsterzwaag Olterterp, arc
+1 CONC hiefnummer 28, Collectie doop-, trouw-, lidmaten- begraafboeken - Tresoa
+1 CONC r, inventarisnummer 0556
+0 @N1851@ NOTE Overlijdensregister 1827, archiefnummer 30-28, Burgerlijke Stand Op
+1 CONC sterland - Tresoar, inventarisnummer 3009, blad 055/1-15
+0 @N1852@ NOTE Lidmatenregister Herv. Gemeente Beetsterzwaag, Beets en Olterterp
+1 CONT Soort registratie: DTB Lidmaten inschrijving
+1 CONT (Akte)datum: 01-1752
+1 CONT Plaats: Opsterland
+1 CONT Bijzonderheden: In januari 1752 lidmaat
+1 CONT Man: Tjidsger Sybes (ouderling)
+1 CONT Vrouw: Wytske Teunis
+0 @N1853@ NOTE Datum is die van begraven in Grietenij Opsterland. De bijbehorend
+1 CONC e tekst luidt: "van het gebruik van het laken [voor Eeise Davids]. Ontva
+1 CONC ngen 0-6-0 wegens huur laken" en "ontfangen bij het begraven van Eeise D
+1 CONC avids in de bekken. Ontvangen 1-11-0 wegens collecte". Een paar maande
+1 CONC n eerder - op 18 augustus 1807 - meldt hetzelfde Diaconierekeningboek va
+1 CONC n de Hervormde gemeente Beesterzwaag "in de bekken versaemelt bij het be
+1 CONC graven van Eyse Davids zwaeger. Ontvangen 0-16-8 wegens collecte".
+0 @N1854@ NOTE Tietjerksteradeel e.o.
+1 CONT Bron: Tietjerksteradeel bevolking
+1 CONT Soort registratie: Tietjerksteradeel bevolking inschrijvingen
+1 CONT Bijzonderheden:
+1 CONT Eise Davids;
+1 CONT tr. 1. (att. v Boornbergum 8 maart 1766) Jeltje Jans, v Opeinde, hij v B
+1 CONC b.,
+1 CONT tr. 2. Beetsterzwaag 11 maart 1781 Grietje Gerrits (geb. Be'zw. 28 dec
+1 CONC . 1739, dr v Gerrit Ritskes en Grietje Jans, overl. ald., huis 76, 27 se
+1 CONC pt. 1824, zij heeft buitenechtelijke / natuurlijke zoon Gerrit Sikkes, g
+1 CONC eb. Be'zw. 16 juli 1766), met eerste vrouw belijd. Be'zw. 1771;
+1 CONT ki. (geb. Be'zwaag, ex 1): Wytske, ged. 29 jan. 1769, Trijntje ged. Beet
+1 CONC s 9 dec. 1771, David, geb. Be'zw. 2 juni 1773, Froukje, 20 okt. 1775,
+1 CONT ex 2: Aaltje, 27 dec. 1781, Grietje, 16 jan. 1783
+1 CONT Vermeld Eise Davids
+1 CONT Diversen: Gedoopt Beets 6 jan. 1732
+1 CONT Vader David Broers
+1 CONT Moeder Hiltje Eises
+0 @N1855@ NOTE In de kerk van Beetsterzwaag getrouwd.
+0 @N1856@ NOTE Doopboek Herv. gem. Beets, Beetsterzwaag en Olterterp
+1 CONT Bron: DTB Geboortes / dopen
+1 CONT Soort registratie: DTB geboortes / dopen inschrijving
+1 CONT (Akte)datum: 14-12-1766
+1 CONT Plaats: Beets, Beetsterzwaag en Olterterp
+1 CONT Dopeling Gerrit geboren 16-07-1766
+1 CONT Vader Sikke
+1 CONT Moeder Grietje
+1 CONT Doopheffer Grietje Gerrits
+1 CONT Diversen: moeders moeder
+0 @N1857@ NOTE Doopboek Herv. gem. Beets, Beetsterzwaag en Olterterp
+1 CONT Bron: DTB Geboortes / dopen
+1 CONT Soort registratie: DTB geboortes / dopen inschrijving
+1 CONT (Akte)datum: 14-12-1766
+1 CONT Plaats: Beets, Beetsterzwaag en Olterterp
+1 CONT Dopeling Gerrit geboren 16-07-1766
+1 CONT Vader Sikke
+1 CONT Moeder Grietje
+1 CONT Doopheffer Grietje Gerrits
+1 CONT Diversen: moeders moeder
+0 @N1858@ NOTE Toestemming voor het huwelijk is 8 maart 1766 verkregen te Boornber
+1 CONC gum, Smallingerland, Friesland.
+0 @N1859@ NOTE Mail Joeke de Jong:
+1 CONT Met Bremen wordt een gehucht in de gemeente Marum in het grensgebied me
+1 CONC t Friesland bedoeld.
+1 CONT Daar herinnert nog steeds de Bremerwei aan dat gehucht van enkele boerde
+1 CONC rijen.
+1 CONT 
+1 CONT Trouwregister Hervormde gemeente Boornbergum Kortehemmen
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB Trouwen inschrijving
+1 CONT (Akte)datum: 08-03-1766
+1 CONT Plaats: Boornbergum
+1 CONT Soort akte: eerste proclamatie
+1 CONT zij is afkomstig van Bremen, doch nu te Boornbergum woonachtig
+1 CONT Bruidegom Eise Davids wonende te Boornbergum
+1 CONT Bruid Jeltje Jans wonende te Opeinde
+1 CONT 
+1 CONT Trouwregister Hervormde gemeente Oudega Nijega Opeinde
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB Trouwen inschrijving
+1 CONT (Akte)datum: 08-03-1766
+1 CONT Plaats: Oudega
+1 CONT Soort akte: eerste proclamatie
+1 CONT met attestatie naar Boornbergum; zij afkomstig van Bremen, doch nu te Bo
+1 CONC ornbergum woonachtig
+1 CONT Bruidegom Eise Davids wonende te Boornbergum
+1 CONT Bruid Jeltje Jans wonende te Opeinde
+0 @N1860@ NOTE Mogelijk hoort dit bij haar:
+1 CONT 
+1 CONT Diaconierekeningboek Beetsterzwaag
+1 CONT Bron: DTB Begraven
+1 CONT Soort registratie: DTB begraven inschrijving
+1 CONT (Akte)datum: 19-01-1790
+1 CONT Bijzonderheden:
+1 CONT Ontvangen wegens collecte £ 1:12:-
+1 CONT Citaat: bij de begrafenis van Wietske Eytses te Beetsterzwaag gecollecte
+1 CONC ert
+1 CONT Overledene Wietske Eytses
+0 @N1861@ NOTE Memories kantoor Beetsterzwaag
+1 CONT Bron: Memories va successie
+1 CONT Soort registratie: Inschrijving Memorie van successie
+1 CONT Plaats: Beetsterzwaag
+1 CONT Bijzonderheden: Filmnummer: 2
+1 CONT Er behoorde geen onroerend goed tot de nalatenschap
+1 CONT 79 jr; gehuwd; vader van Meine, schipper, Jeltje, arbeidster Leeuwarden
+1 CONC , Eize, schipper, Lubbert, idem, Albert, sergeant-majoor Hoorn en Aaltj
+1 CONC e Gerrits Tosch, dienstmeid Oosterwierum.
+1 CONT Overredene Gerrit Meines Tosch overleden op 02-09-1846 wonende te Dracht
+1 CONC en
+0 @N1862@ NOTE Lidmatenregister Herv. Gemeente Ureterp en Siegerswoude
+1 CONT Bron: DTB Lidmaten
+1 CONT Soort registratie: DTB inschrijving lidmaten
+1 CONT Datum: 21-04-1843
+1 CONT Plaats: Opsterland
+1 CONT Bijzonderheden:
+1 CONT Op 21 april 1843 zij belijdenis
+1 CONT Op 20 oktober 1843 zij vertrokken naar Drachten
+1 CONT Man: Gerrid Meines Tosk
+1 CONT Vrouw: Trientje Eises
+0 @N1863@ NOTE Trouwregister Hervormde gemeente Drachten
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB inschrijving trouwen
+1 CONT Datum: 27-11-1796
+1 CONT Soort akte: bevestiging huwelijk
+1 CONT Bruidegom Gerrit Meines wonende te Noorderdrachten
+1 CONT Bruid Trijntje Eises wonende te Zuiderdrachten
+0 @N1864@ NOTE Toestemming voor het huwelijk is 9 april 1779 verkregen te Overschi
+1 CONC e, Zuid-Holland, Nederland.
+0 @N1865@ NOTE Toestemming voor het huwelijk is 8 december 1771 verkregen te Oudsh
+1 CONC oorn.
+0 @N1866@ NOTE In de kerk van Drachten getrouwd.
+0 @N1867@ NOTE Memories kantoor Beetsterzwaag
+1 CONT Bron: Memories van successie
+1 CONT Soort registratie: Memorie van successie inschrijving
+1 CONT Plaats: Beetsterzwaag
+1 CONT Bijzonderheden: Filmnummer: 2
+1 CONT Er behoorde onroerend goed tot de nalatenschap
+1 CONT wed. Pope Sjoerds v.den Berg (overl. 3/8/1847: vruchtgebruik vervalt nu
+1 CONC : zie bijgevoegde memorie 1011/462 en 1008/300);
+1 CONT geen kinderen; zuster van Trijntje Eizes Meyer (erft deel vruchtgebruik
+1 CONC ; wed. Gerrit Meines v.der Tand) en wijlen David Eizes (vader van Wietze
+1 CONC , arbeider Nijega, Jan, idem Drachster Compagnie, Grietje, vrouw van Ber
+1 CONC end Engberts de Jong, idem Ureterp, Jeltje, vrouw van Tjalling Zweitze
+1 CONC s de Wit, idem Drachtster Compagnie, en Anne Davids Eizinga); halfzuste
+1 CONC r van wijlen Aaltje (moeder van Sijke, Grietje, Wietske, Hendrik, Sietsk
+1 CONC e, Eisje, Eize, Froukje, vrouw van Egbert Ritskes Vissia, boer Olterterp
+1 CONC , Antje en wijlen Pope Tjidsgers Meetsma, vader van niet met name genoem
+1 CONC de kinderen) en wijlen Grietje Eizes Meyer (moeder van Tjeerd, Grietje e
+1 CONC n Eize Pieters v.der Meulen); testamentair erfgenamen zijn alleen de 6 k
+1 CONC inderen van Trijntje (zie ad a), 4 oudste kinderen van David en dochte
+1 CONC r Froukje van Grietje (ieder 1/11). Saldo fl. 1.326,35. # ad a: Eize, sc
+1 CONC hipper, Jeltje, te Leeuwarden, Lubbert, schipper, Albert, sergeant majoo
+1 CONC r Leeuwarden, Aaltje, dienstmeid en wijlen Froukje Gerrits v.der Tand (m
+1 CONC oeder van minderjarige Hiltje v.der Tand, naaister Leeuwarden: voogd i
+1 CONC s oom Eize) ('allen gewoonlijk genoemd: Tosch of Tosk; v.der Tosch of v.
+1 CONC der Tosk')
+1 CONT Overledene Froukje Eizes Meyer wonende te Drachten, overleden op 31-08-1
+1 CONC 851
+0 @N1868@ NOTE Bron: Tietjerksteradeel e.o.
+1 CONT Soort registratie: Vermeldingen Tietjerksteradeel e.o.
+1 CONT Bijzonderheden:
+1 CONT David Broers; boer te Beets (1738 gebr. stem nr. 12 ged.), later arbeide
+1 CONC r aldaar, overl. Beets april 1770,
+1 CONT tr. Hiltje Eises (ged. Olterterp 13 juni 1707, dr v Eise Siegers), bdn b
+1 CONC elijd. Beets 13 feb. 1729 (Hiltje obiit), op lidm. lijst 1752, 1767 (bei
+1 CONC de malen alleen), quot.: een arbeider, arm en gealimenteerd, 2+3, 11-13;
+1 CONT ki. (ged. Beets): zoon, 16 juli 1730, Eise, 6 jan. 1732, Fetje, geb. ca
+1 CONC . 1734, tr. Beern Alberts), Froukje, Jan, ged. 29 okt. 1741 (1811: de Wi
+1 CONC nd)
+1 CONT Vermeld David Broers
+1 CONT Diversen: Gedoopt Drachten 20 april 1704
+1 CONT Vader zoon van Broer Pieters
+1 CONT Moeder Baukje Arends
+0 @N1869@ NOTE Trouwregister Hervormde gemeente Beets Beetsterzwaag Olterterp
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB inschrijving trouwen
+1 CONT Datum: 26-01-1755
+1 CONT Soort akte: bevestiging huwelijk
+1 CONT Bruidegom Berend Alberts wonende te Ureterp
+1 CONT Bruid Vetje Davids wonende te Beetsterzwaag
+0 @N1870@ NOTE Doopboek Herv. gem. Beets, Beetsterzwaag en Olterterp
+1 CONT Bron: DTB Geboortes / dopen
+1 CONT Soort registratie: DTB geboortes / dopen inschrijving
+1 CONT (Akte)datum: 29-10-1741
+1 CONT Plaats: Beets, Beetsterzwaag en Olterterp
+1 CONT Dopeling Jan geboren te Beets
+1 CONT Vader Davit Broers
+0 @N1871@ NOTE Overlijden / aangifte02-02-1823 / 03-02-1823
+1 CONT OverledeneJan Davids de Wind
+1 CONT Geslachtm
+1 CONT Leeftijd82 jaar
+1 CONT VaderDavid Broors
+1 CONT MoederHiltje
+1 CONT Relatietypegehuwd
+1 CONT Relatie-
+1 CONT BronOverlijdensregister 1823, Smallingerland, Paginanummer B6
+0 @N1872@ NOTE Tietjerksteradeel e.o.
+1 CONT Bron: Tietjerksteradeel bevolking
+1 CONT Soort registratie: Tietjerksteradeel bevolking inschrijvingen
+1 CONT Bijzonderheden:
+1 CONT Jan Davids de Wind;
+1 CONT arbeider,
+1 CONT overl. Boornbergum 2 feb. 1823, dan zonder beroep,
+1 CONT tr. Ypkje Jacobs (Hamstra), ged. Eernewoude 17 sept. 1769 (dr v Jacob Pi
+1 CONC eters en Uilkje Rinses), arbeidster te Boornbergum (1828), in 1844 zonde
+1 CONC r beroep, overl. ald. (huis nr. 43) 31 okt. 1846;
+1 CONT ki. (geb. Boornb.): David, 1790; Uilkje, 1794; Douwe, 1796; jacob, 31 ma
+1 CONC art 1800; Hiltje, 1806
+1 CONT Vermeld Jan Davids de Wind (de Windt)
+1 CONT Diversen: Gedoopt Beets 29 okt. 1741
+1 CONT Vader David Broers
+1 CONT Moeder Hiltje Eises
+0 @N1873@ NOTE Trouwregister Hervormde gemeente Boornbergum Kortehemmen, archiefnu
+1 CONC mmer 28, Collectie doop-, trouw-, lidmaten- begraafboeken - Tresoar, inv
+1 CONC entarisnummer 0620
+0 @N1874@ NOTE Trouwregister Hervormde gemeente Wijnjeterp Duurswoude Bakkeveen
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB Trouwen inschrijving
+1 CONT (Akte)datum: 05-08-1688
+1 CONT Plaats: Duurswoude
+1 CONT Soort akte: bevestiging huwelijk
+1 CONT Bruidegom Eyse Sigers wonende te Duurswoude
+1 CONT Bruid Froukjen Binnes wonende te Duurswoude
+0 @N1875@ NOTE Lidmatenboek Opsterland, 1712
+1 CONT 
+1 CONT Man: Siger Eyses
+1 CONT Vrouw: Trijntie Roels
+1 CONT Woonplaats: Voorwerk
+1 CONT - Op 13 of 20 maart 1712 belijdenis
+1 CONT Gestandaardiseerde namen:
+1 CONT SIEGER EISES
+1 CONT TRIJNTJE ROELOFS
+1 CONT Bron:
+1 CONT Archief: Tresoar
+1 CONT Toegang: 28 Collectie Doop-, Trouw-, Begraaf- en Lidmaatboeken (DTBL)
+1 CONT Invnr. : 572 Herv. Gemeente Wijnjeterp, Duurswoude en Bakkeveen (tot 172
+1 CONC 2 ook
+1 CONT Ureterp en Siegerswoude), lidmaten 1685-1850
+0 @N1876@ NOTE Op 6 januari 1724 belijdenis
+1 CONT In mei 1735 vertrokken naar Boornbergum
+1 CONT 
+1 CONT Lidmatenregister Herv. Gemeente Boornbergum en Kortehemmen
+1 CONT Bron: DTB Lidmaten
+1 CONT Soort registratie: DTB Lidmaten inschrijving
+1 CONT (Akte)datum: 01-1745
+1 CONT Plaats: Smallingerland
+1 CONT Bijzonderheden:
+1 CONT In januari 1745 lidmaat
+1 CONT In december 1762 zij overleden
+1 CONT In mei 1772 hij overleden
+1 CONT Man: Binne Eyses wonende te De Wilgen
+1 CONT Vrouw: Antje Hanses
+1 CONT 
+1 CONT Tietjerksteradeel e.o.
+1 CONT Bron: Tietjerksteradeel e.o.
+1 CONT Soort registratie: Tietjerksteradeel e.o. inschrijvingen
+1 CONT Bijzonderheden:
+1 CONT Binne Eises; boer te Olterterp (1728 gebr. nr. 28 en deel 29), later t
+1 CONC e Boornbergum, overl. aldaar mei 1772, tr. Drachten 5 sept. 1717 Antje H
+1 CONC anses (ged. mog. Drachten 15 feb. 1685 als dr v Hans Jacobs en Grietje L
+1 CONC iebbes, overl. Boornb. dec. 1762); belijd. Olterterp 6 jan. 1724, kom
+1 CONC t 8 mei 1735 te Boornb. met att. v Beetsterzwaag c.a.; op lidm. lijst Bo
+1 CONC ornb. 1745; quot.: gemeen boer, 4+1, 30-0; ki.: Eise
+1 CONT Vermeld Binne Eises
+1 CONT Diversen: Gedoopt Duurswoude 10 aug. 1690
+1 CONT Vader Eise Siegers
+1 CONT Diversen: (well. zn v Syger Eyses, boer te Duurswoude 1640)
+1 CONT Moeder Froukje Binnes
+1 CONT Diversen: getr. Ureterp 5 aug. 1688
+0 @N1877@ NOTE Trouwregister Hervormde gemeente Drachten
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB Trouwen inschrijving
+1 CONT (Akte)datum: 05-09-1717
+1 CONT Plaats: Drachten
+1 CONT Soort akte: bevestiging huwelijk
+1 CONT Bruidegom Binne Eises wonende te Drachten
+1 CONT Bruid Antje Hanses wonende te Drachten
+0 @N1878@ NOTE Tietjerksteradeel e.o.
+1 CONT Bron: Tietjerksteradeel e.o.
+1 CONT Soort registratie: Tietjerksteradeel e.o. inschrijvingen
+1 CONT Bijzonderheden:
+1 CONT Eise Binnes;
+1 CONT tr. Drachten 26 feb. 1747 Jetske Jelles, v N. Dr., hij v Z. Dr., SMA X1
+1 CONC 5 341, wed. E.B. in volkstell. 1796;
+1 CONT ki. (-> Eisma, ged. Drachten): Jelle, 8 feb. 1750, Antje, 12 maart 1752
+1 CONC , Roel, 24 maart 1754, Oeds, 10 okt. 1756, Aukje, 10 juni 1759 (tr. Jell
+1 CONC e Wytses, Suameer), Jan, geb. 24 okt. 1764 (op belijd. ged. Bozum 28 apr
+1 CONC il 1793, kastelein, overl. Bozum 23 juni 1844), mog. Froukje, mog. Binne
+1 CONC , Molle, geb. 1769/70
+1 CONT Vermeld Eise Binnes
+1 CONT Diversen: Geboren Olterterp ? ca. 1720/25
+1 CONT Vader Binne Eises
+1 CONT Moeder Antje Hanses
+0 @N1879@ NOTE Trouwregister Hervormde gemeente Beets Beetsterzwaag Olterterp
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB inschrijving trouwen
+1 CONT Datum: 09-1720
+1 CONT Soort akte: bevestiging huwelijk
+1 CONT Bruidegom Oebele Annes wonende te Beetsterzwaag
+1 CONT Bruid Trijntje Eises wonende te Olterterp
+0 @N1880@ NOTE In de kerk getrouwd.
+0 @N1881@ NOTE In de kerk getrouwd.
+0 @N1882@ NOTE Te Duurswoude.
+0 @N1883@ NOTE Trouwregister Hervormde gemeente Wijnjeterp Duurswoude Bakkeveen
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB Trouwen inschrijving
+1 CONT (Akte)datum: 12-1691
+1 CONT Soort akte: eerste proclamatie
+1 CONT Bijzonderheden: met attestatie naar Oosterwolde
+1 CONT Bruidegom Jan Meynerts wonende te Haule
+1 CONT Bruid Trijn Sigers wonende te Duurswoude
+1 CONT 
+1 CONT Trouwregister Hervormde gemeente Oosterwolde Fochteloo Appelscha
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB Trouwen inschrijving
+1 CONT (Akte)datum: 20-12-1691
+1 CONT Plaats: Haule
+1 CONT Soort akte: bevestiging huwelijk
+1 CONT Bruidegom Jan Meynarts wonende te Haule
+1 CONT Bruid Trijntie Sygers wonende te Duurswoude
+0 @N1884@ NOTE Geboortedatum kan niet correct zijn.
+0 @N1885@ NOTE Geboortedatum kan niet correct zijn.
+0 @N1886@ NOTE Trouwregister Hervormde gemeente Drachten
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB inschrijving trouwen
+1 CONT Datum: 17-02-1695
+1 CONT Soort akte: bevestiging huwelijk
+1 CONT Bruidegom Broer Pyters wonende te Drachten
+1 CONT Bruid Baukje Arends wonende te Drachten
+0 @N1887@ NOTE Lidmatenregister Herv. Gemeente Drachten
+1 CONT Bron: DTB Lidmaten
+1 CONT Soort registratie: DTB inschrijving lidmaten
+1 CONT Datum: 06-03-1696
+1 CONT Plaats: Smallingerland
+1 CONT Bijzonderheden:
+1 CONT Op 6 maart 1696 belijdenis
+1 CONT Man: Broer Pyters
+1 CONT Vrouw: Bauk Arends
+0 @N1888@ NOTE Trouwregister Hervormde gemeente Drachten
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB inschrijving trouwen
+1 CONT Aktedatum: 12-04-1722
+1 CONT Plaats: Drachten
+1 CONT Soort akte: bevestiging huwelijk
+1 CONT Bruidegom Pyter Broers wonende te Drachten
+1 CONT Bruid Baukjen Jans wonende te Drachten
+0 @N1889@ NOTE Trouwregister Gerecht Smallingerland
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB inschrijving trouwen
+1 CONT Datum: 30-08-1667
+1 CONT Soort akte: bevestiging huwelijk
+1 CONT Bruidegom Pijter Saeckes wonende te Zuiderdrachten
+1 CONT Bruid Griet Jansdr wonende te Zuiderdrachten
+0 @N1890@ NOTE Trouwregister Gerecht Smallingerland, archiefnummer 28, Collectie d
+1 CONC oop-, trouw-, lidmaten- begraafboeken - Tresoar, inventarisnummer 0617
+0 @N1891@ NOTE Pijter Saeckes
+1 CONT Geslacht: Man
+1 CONT Geboorte: 1630
+1 CONT Overlijden: 1696
+1 CONT Echtgenote: Grietje Saeckes (geboren Jans)
+1 CONT Kind: Liefke Dopckewitz (geboren Pieters)
+0 @N1892@ NOTE Mail Wim vd Berg:
+1 CONT Er is een notitie in het Oud Archief Smallingerland, invnr 423, waarui
+1 CONC t blijkt dat hij in 1702 werd betaald voor werkzaamheden aan de Noord Dr
+1 CONC aghster Kerk:
+1 CONT 
+1 CONT Op den 6 junii 1684 hebben de selvige betaelt aen Pieter Saeckes de somm
+1 CONC a van twee caroli guldens 16 stuijvers met mennen verdient aen de materi
+1 CONC alen tot de Kraeck in de Noord Draghster kercke volgens quitancie met No
+1 CONC . 72, dus 2.16.00
+1 CONT 
+1 CONT Den 15 Augusti 1702 volgens quitancie met no. 19 betaelt aen Taeke Harme
+1 CONC ns de somma van twee caroli guldens twee stuijvers wegens een lopen zeme
+1 CONC nt ten dienste van de kercke gelevert, dus 2.02.00
+1 CONT 
+1 CONT Voorts wegens vracht van voorschreven sement en van twee goten te saeme
+1 CONC n volgens annotatie betaelt 0.12.00
+1 CONT 
+1 CONT Den 19 dito (=1702) aen Halbe Alberts wegens vijff daegen opperen aen d
+1 CONC e kercke s' daeghs tot thien stuijvers t' saemen volgens annotatie betae
+1 CONC lt 2.10.00
+1 CONT Voorts aen Pieter Saeckes wegens zand mennen aen de kerck volgens annota
+1 CONC tie betaelt 0.15.00
+0 @N1893@ NOTE Liefke Dopckewitz (geboren Pieters)
+1 CONT Geslacht: Vrouw
+1 CONT Geboorte: 1665
+1 CONT Overlijden: 1 nov 1709 - Beetsterzwaag, Opsterland, Friesland, The Nethe
+1 CONC rlands
+1 CONT Vader: Pijter Saeckes
+1 CONT Moeder: Grietje Saeckes (geboren Jans)
+1 CONT Echtgenoot: Hieronimy Balthemewitz Dopckewitz
+1 CONT Kind: Jacobus Jeronimus Dopckewitz
+0 @N1894@ NOTE Vermeld Terwispel 1578 Alle Syttyesz.
+1 CONT Alle Sjoerds
+1 CONT Namen geboorte: Alle Sjoerds Alle Sjoerds
+1 CONT Geslacht: Man
+1 CONT Geboorte: Ongeveer 1530 - Netherlands
+1 CONT Overlijden: Tot 1600 - Lippenhuizen, Frslnd, Nthr
+1 CONT Echtgenote: Echtgenote van Alle Sjoerds
+1 CONT Kinderen: Rieuw Alles, Ebele Alles, Sjoerd Alles, Egbert Alles
+0 @N1895@ NOTE Op 15 mei 1602 werd Sjoerd Alles tot voogd benoemd over het weeskin
+1 CONC d van Ate Feddes en Reu Alles. (OPS 59 f.18)
+1 CONT Op 20 april 1607 wordt het boelgoed van Sjoerd en zijn vrouw Eets afgeha
+1 CONC ndeld. (OPS 62 f.64)
+0 @N1896@ NOTE https://www.rjonkman.nl/vdsluis/Generatie%201.htm
+0 @N1897@ NOTE Hypotheekboek 37v
+1 CONT Bron: Tietjerksteradeel hypotheekboeken
+1 CONT Soort registratie: Akte Tietjerksteradeel hypotheekboeken
+1 CONT Datum: 06-05-1628
+1 CONT Bijzonderheden:
+1 CONT Siourdt Alles en Taets Wyaerda, el. te Beets, verklaren ƒ 100 schuldig t
+1 CONC e zijn aan Gaele Hayes en Marij Feytsedr, el. te Garijp; onderpand: de h
+1 CONC elft van vijf mad maden, gelegen "in Oldewarren", mandelig met de bijzit
+1 CONC ter Fetse Bootes, hebbende het geheel "Reytse fenne" ten oosten, Jelck
+1 CONC e Wybrens ten westen, de hooiweg ten zuiden en 't "Oldiept" ten noorden
+1 CONC ; bij wijze van rente de crediteuren het gebruik van deze maden toegesta
+1 CONC an
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
