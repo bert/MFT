@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 7 DEC 2025
-2 TIME 23:22:37
+1 DATE 13 DEC 2025
+2 TIME 23:09:59
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2025 .
@@ -75589,10 +75589,12 @@
 2 PLAC Opeinde (Smallingerland) [Friesland]
 1 FACT Boer
 2 TYPE Occupation
+1 FAMC @F1797@
+2 PEDI birth
 1 FAMS @F1776@
 1 CHAN
-2 DATE 7 DEC 2025
-3 TIME 14:11:35
+2 DATE 9 DEC 2025
+3 TIME 22:14:49
 0 @I4618@ INDI
 1 NAME Wijpk Jans //
 2 TYPE birth
@@ -75829,8 +75831,8 @@
 1 FAMS @F1783@
 1 NOTE @N1894@
 1 CHAN
-2 DATE 7 DEC 2025
-3 TIME 23:14:28
+2 DATE 8 DEC 2025
+3 TIME 21:00:57
 0 @I4631@ INDI
 1 NAME Ebele Alles /Beetsius/
 2 TYPE birth
@@ -75966,11 +75968,13 @@
 1 DEAT
 2 DATE 1550
 2 PLAC Terwispel (Opsterland) [Friesland]
+1 FAMC @F1791@
+2 PEDI birth
 1 FAMS @F1787@
 1 NOTE @N1897@
 1 CHAN
-2 DATE 7 DEC 2025
-3 TIME 22:37:37
+2 DATE 8 DEC 2025
+3 TIME 21:37:53
 0 @I4638@ INDI
 1 NAME NN //
 2 TYPE birth
@@ -75993,8 +75997,1559 @@
 1 FAMC @F1787@
 2 PEDI birth
 1 CHAN
-2 DATE 7 DEC 2025
-3 TIME 23:14:28
+2 DATE 8 DEC 2025
+3 TIME 21:00:57
+0 @I4640@ INDI
+1 NAME Allardus Suffridi /Beetzius/
+2 TYPE birth
+2 GIVN Allardus Suffridi
+2 SURN Beetzius
+1 SEX M
+1 BIRT
+2 DATE ABT 1540
+2 PLAC Beets (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1627
+2 PLAC Leeuwarden [Friesland]
+1 FAMC @F1787@
+2 PEDI birth
+1 FAMS @F1788@
+1 FAMS @F1789@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:00:57
+0 @I4641@ INDI
+1 NAME NN //
+2 TYPE birth
+2 GIVN NN
+1 SEX F
+1 FAMS @F1788@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 20:10:59
+0 @I4642@ INDI
+1 NAME Berber Meyerts /Haersma/
+2 TYPE birth
+2 GIVN Berber Meyerts
+2 SURN Haersma
+1 NAME  /Berbar Berbera Meijerts/
+2 TYPE aka
+2 SPFX Berbar Berbera Meijerts
+1 SEX F
+1 BIRT
+2 DATE 1597
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE BEF 20 DEC 1661
+2 PLAC Leeuwarden [Friesland]
+1 FAMS @F1789@
+1 FAMS @F1790@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 20:17:08
+0 @I4643@ INDI
+1 NAME Claes Wilberts /Bay/
+2 TYPE birth
+2 GIVN Claes Wilberts
+2 SURN Bay
+1 SEX M
+1 BIRT
+2 DATE ABT 1600
+1 FAMS @F1790@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 20:17:08
+0 @I4644@ INDI
+1 NAME Tyerck Sjoerds /Beetsius/
+2 TYPE birth
+2 GIVN Tyerck Sjoerds
+2 SURN Beetsius
+1 SEX M
+1 BIRT
+2 DATE 1541
+1 FAMC @F1787@
+2 PEDI birth
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:00:57
+0 @I4645@ INDI
+1 NAME Jeen Sjoerds /Beetsius/
+2 TYPE birth
+2 GIVN Jeen Sjoerds
+2 SURN Beetsius
+1 SEX M
+1 BIRT
+2 DATE 1545
+1 FAMC @F1787@
+2 PEDI birth
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:00:57
+0 @I4646@ INDI
+1 NAME Auckjen Bennes //
+2 TYPE birth
+2 GIVN Auckjen Bennes
+1 SEX F
+1 BIRT
+2 DATE 1478
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE AFT 1572
+1 FAMS @F1791@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:05:55
+0 @I4647@ INDI
+1 NAME Alle Arends //
+2 TYPE birth
+2 GIVN Alle Arends
+1 NAME  /Oldefaeder/
+2 TYPE aka
+2 SPFX Oldefaeder
+1 SEX M
+1 BIRT
+2 DATE 1474
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE AFT 1543
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FACT Armvoogd
+2 TYPE Occupation
+1 FAMS @F1791@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:05:55
+0 @I4648@ INDI
+1 NAME Reymcke Alles //
+2 TYPE birth
+2 GIVN Reymcke Alles
+1 SEX F
+1 BIRT
+2 DATE ABT 1503
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE AFT 1542
+2 PLAC Harkema (Achtkarspelen) [Friesland]
+1 FAMC @F1791@
+2 PEDI birth
+1 FAMS @F1792@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:37:53
+0 @I4649@ INDI
+1 NAME Benne Paukes //
+2 TYPE birth
+2 GIVN Benne Paukes
+1 SEX M
+1 BIRT
+2 DATE ABT 1500
+2 PLAC Harkema (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE AFT 1542
+2 PLAC Harkema (Achtkarspelen) [Friesland]
+1 FAMS @F1792@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:10:58
+0 @I4650@ INDI
+1 NAME Oedts Alles //
+2 TYPE birth
+2 GIVN Oedts Alles
+1 SEX M
+1 BIRT
+2 DATE ABT 1505
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE ABT 1570
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 FAMC @F1791@
+2 PEDI birth
+1 FAMS @F1793@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:37:53
+0 @I4651@ INDI
+1 NAME NN //
+2 TYPE birth
+2 GIVN NN
+1 SEX F
+1 FAMS @F1793@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:17:53
+0 @I4652@ INDI
+1 NAME Benne Alles //
+2 TYPE birth
+2 GIVN Benne Alles
+1 SEX M
+1 BIRT
+2 DATE 1508
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE BEF 1582
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FAMC @F1791@
+2 PEDI birth
+1 FAMS @F1794@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:37:53
+0 @I4653@ INDI
+1 NAME N. Minnerts //
+2 TYPE birth
+2 GIVN N. Minnerts
+1 SEX F
+1 BIRT
+2 DATE 1504
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FAMS @F1794@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:24:00
+0 @I4654@ INDI
+1 NAME Saecke Alles //
+2 TYPE birth
+2 GIVN Saecke Alles
+1 NAME  /Saacke/
+2 TYPE aka
+2 SPFX Saacke
+1 SEX M
+1 BIRT
+2 DATE ABT 1510
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1583
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FAMC @F1791@
+2 PEDI birth
+1 FAMS @F1795@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:37:53
+0 @I4655@ INDI
+1 NAME Jouck Rinthies //
+2 TYPE birth
+2 GIVN Jouck Rinthies
+1 NAME  /Jouckjen/
+2 TYPE aka
+2 SPFX Jouckjen
+1 SEX F
+1 BIRT
+2 DATE 1512
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1581
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FAMS @F1795@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:35:06
+0 @I4656@ INDI
+1 NAME Barber Alles //
+2 TYPE birth
+2 GIVN Barber Alles
+1 SEX F
+1 BIRT
+2 DATE ABT 1523
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1610
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FAMC @F1791@
+2 PEDI birth
+1 FAMS @F1796@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:39:54
+0 @I4657@ INDI
+1 NAME Lyeppe Rinthies //
+2 TYPE birth
+2 GIVN Lyeppe Rinthies
+1 NAME  /Lieppe Reyntthies/
+2 TYPE aka
+2 SPFX Lieppe Reyntthies
+1 SEX M
+1 BIRT
+2 DATE 1525
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1575
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FACT Volmacht
+2 TYPE Occupation
+1 FAMS @F1796@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:40:36
+0 @I4658@ INDI
+1 NAME Rinnert Goytses //
+2 TYPE birth
+2 GIVN Rinnert Goytses
+1 NAME  /Goijtsens/
+2 TYPE aka
+2 SPFX Goijtsens
+1 SEX M
+1 BIRT
+2 DATE 1580
+2 PLAC Bergum (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE 1640
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FACT Armenvoogd
+2 TYPE Occupation
+1 FAMS @F1797@
+1 NOTE @N1901@
+1 NOTE @N1902@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 23:01:44
+0 @I4659@ INDI
+1 NAME Sijke Hylckes //
+2 TYPE birth
+2 GIVN Sijke Hylckes
+1 NAME  /Sycke Hylkes/
+2 TYPE aka
+2 SPFX Sycke Hylkes
+1 NAME  /Hijlkes/
+2 TYPE aka
+2 SPFX Hijlkes
+1 SEX F
+1 BIRT
+2 DATE 1587
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE 1671
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMC @F1802@
+2 PEDI birth
+1 FAMS @F1797@
+1 NOTE @N1903@
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:45:50
+0 @I4660@ INDI
+1 NAME Jouckjen Rinnerts //
+2 TYPE birth
+2 GIVN Jouckjen Rinnerts
+1 SEX F
+1 BIRT
+2 DATE 1617
+2 PLAC Bergum (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE 1671
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 FAMC @F1797@
+2 PEDI birth
+1 FAMS @F1798@
+1 NOTE @N1904@
+1 CHAN
+2 DATE 9 DEC 2025
+3 TIME 22:14:49
+0 @I4661@ INDI
+1 NAME Wierdt Martens //
+2 TYPE birth
+2 GIVN Wierdt Martens
+1 NAME  /Wierd/
+2 TYPE aka
+2 SPFX Wierd
+1 SEX M
+1 BIRT
+2 DATE ABT 1615
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 DEAT
+2 DATE BEF 1681
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 FAMS @F1798@
+1 FAMS @F1799@
+1 CHAN
+2 DATE 9 DEC 2025
+3 TIME 21:21:04
+0 @I4662@ INDI
+1 NAME Fedtje Hanzes //
+2 TYPE birth
+2 GIVN Fedtje Hanzes
+1 NAME  /Fetje Hanses/
+2 TYPE aka
+2 SPFX Fetje Hanses
+1 SEX F
+1 BIRT
+2 DATE ABT 1631
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 4 MAY 1692
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 FAMS @F1799@
+1 NOTE @N1905@
+1 CHAN
+2 DATE 9 DEC 2025
+3 TIME 21:21:37
+0 @I4663@ INDI
+1 NAME Sjoukje Rinderts //
+2 TYPE birth
+2 GIVN Sjoukje Rinderts
+1 NAME  /Siouck Rinnerts/
+2 TYPE aka
+2 SPFX Siouck Rinnerts
+1 SEX F
+1 BIRT
+2 DATE ABT 1620
+2 PLAC Bergum (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE BEF 1647
+2 PLAC Buweklooster, Drogeham (Achtkarspelen) [Friesland]
+1 FAMC @F1797@
+2 PEDI birth
+1 FAMS @F1800@
+1 CHAN
+2 DATE 9 DEC 2025
+3 TIME 22:14:49
+0 @I4664@ INDI
+1 NAME Luycke Gaukes /Hymersma/
+2 TYPE birth
+2 GIVN Luycke Gaukes
+2 SURN Hymersma
+1 NAME  /Lucas Gaeuckes Himersma/
+2 TYPE aka
+2 SPFX Lucas Gaeuckes Himersma
+1 SEX M
+1 BIRT
+2 DATE ABT 1616
+1 DEAT
+2 DATE 1653
+1 FAMS @F1800@
+1 FAMS @F1801@
+1 CHAN
+2 DATE 9 DEC 2025
+3 TIME 22:06:31
+0 @I4665@ INDI
+1 NAME Rints Jacobs //
+2 TYPE birth
+2 GIVN Rints Jacobs
+1 SEX F
+1 BIRT
+2 DATE ABT 1620
+1 FAMS @F1801@
+1 CHAN
+2 DATE 9 DEC 2025
+3 TIME 22:06:31
+0 @I4666@ INDI
+1 NAME Binne Rinderts //
+2 TYPE birth
+2 GIVN Binne Rinderts
+1 NAME  /Rinnerts/
+2 TYPE aka
+2 SPFX Rinnerts
+1 SEX M
+1 BIRT
+2 DATE 1624
+2 PLAC Bergum (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE 1671
+2 PLAC Witveen, Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMC @F1797@
+2 PEDI birth
+1 CHAN
+2 DATE 9 DEC 2025
+3 TIME 22:14:49
+0 @I4667@ INDI
+1 NAME Jenth Bennes //
+2 TYPE birth
+2 GIVN Jenth Bennes
+1 SEX F
+1 BIRT
+2 DATE ABT 1569
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 10 MAY 1625
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMC @F1806@
+2 PEDI birth
+1 FAMS @F1802@
+1 NOTE @N1911@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:10:00
+0 @I4668@ INDI
+1 NAME Hylcke Wytsesz //
+2 TYPE birth
+2 GIVN Hylcke Wytsesz
+1 SEX M
+1 BIRT
+2 DATE ABT 1563
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE AFT 1630
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMC @F1816@
+2 PEDI birth
+1 FAMS @F1815@
+1 FAMS @F1802@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 14:41:01
+0 @I4669@ INDI
+1 NAME Frytsen Hylckes //
+2 TYPE birth
+2 GIVN Frytsen Hylckes
+1 NAME  /Fritsen/
+2 TYPE aka
+2 SPFX Fritsen
+1 SEX F
+1 BIRT
+2 DATE 1591
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE 27 JUN 1648
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 FAMC @F1802@
+2 PEDI birth
+1 FAMS @F1803@
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:45:50
+0 @I4670@ INDI
+1 NAME Haye Hayes //
+2 TYPE birth
+2 GIVN Haye Hayes
+1 SEX M
+1 BIRT
+2 DATE 1583
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE BEF JUN 1661
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMS @F1803@
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:20:09
+0 @I4671@ INDI
+1 NAME Wopke Hilckes //
+2 TYPE birth
+2 GIVN Wopke Hilckes
+1 SEX M
+1 BIRT
+2 DATE ABT 1595
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE ABT 1642
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMC @F1802@
+2 PEDI birth
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:45:50
+0 @I4672@ INDI
+1 NAME Bauck Hylckes //
+2 TYPE birth
+2 GIVN Bauck Hylckes
+1 SEX F
+1 BIRT
+2 DATE ABT 1598
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE ABT 1647
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMC @F1802@
+2 PEDI birth
+1 FAMS @F1804@
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:45:50
+0 @I4673@ INDI
+1 NAME Rintse Hendricks //
+2 TYPE birth
+2 GIVN Rintse Hendricks
+1 NAME  /Rinse/
+2 TYPE aka
+2 SPFX Rinse
+1 SEX M
+1 BIRT
+2 DATE ABT 1597
+2 PLAC Lippenhuizen (Opsterland) [Friesland]
+1 DEAT
+2 DATE AFT 1667
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 BAPM
+2 DATE 1642
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMS @F1804@
+1 FAMS @F1805@
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:33:29
+0 @I4674@ INDI
+1 NAME Albertsen Kornelis //
+2 TYPE birth
+2 GIVN Albertsen Kornelis
+1 SEX F
+1 BIRT
+2 DATE ABT 1617
+1 DEAT
+2 DATE ABT 1667
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMS @F1805@
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:33:29
+0 @I4675@ INDI
+1 NAME Wytse Hylkes //
+2 TYPE birth
+2 GIVN Wytse Hylkes
+1 SEX M
+1 BIRT
+2 DATE ABT 1600
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE ABT 1635
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 FAMC @F1802@
+2 PEDI birth
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:45:50
+0 @I4676@ INDI
+1 NAME Benne Ebdyes //
+2 TYPE birth
+2 GIVN Benne Ebdyes
+1 NAME  /Binne/
+2 TYPE aka
+2 SPFX Binne
+1 SEX M
+1 BIRT
+2 DATE 1539
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 1583
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 FAMS @F1806@
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:50:46
+0 @I4677@ INDI
+1 NAME Foop Sjoerdts /Ydsma/
+2 TYPE birth
+2 GIVN Foop Sjoerdts
+2 SURN Ydsma
+1 NAME  /Foop Sioerdts Itsma/
+2 TYPE aka
+2 SPFX Foop Sioerdts Itsma
+1 SEX F
+1 BIRT
+2 DATE 1542
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 1614
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMC @F1818@
+2 PEDI birth
+1 FAMS @F1806@
+1 FAMS @F1812@
+1 NOTE @N1912@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 21:46:16
+0 @I4678@ INDI
+1 NAME Jan Binnes //
+2 TYPE birth
+2 GIVN Jan Binnes
+1 SEX M
+1 BIRT
+2 DATE ABT 1565
+1 DEAT
+2 DATE 1624
+1 FAMC @F1806@
+2 PEDI birth
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:10:00
+0 @I4679@ INDI
+1 NAME Lubbe Bennes //
+2 TYPE birth
+2 GIVN Lubbe Bennes
+1 SEX M
+1 BIRT
+2 DATE 1567
+1 DEAT
+2 DATE 1612
+1 FAMC @F1806@
+2 PEDI birth
+1 FAMS @F1807@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:10:00
+0 @I4680@ INDI
+1 NAME Sij Jantkedr //
+2 TYPE birth
+2 GIVN Sij Jantkedr
+1 NAME  /Sije Janckedr/
+2 TYPE aka
+2 SPFX Sije Janckedr
+1 NAME  /Syecke Jentkisdr/
+2 TYPE aka
+2 SPFX Syecke Jentkisdr
+1 SEX F
+1 BIRT
+2 DATE ABT 1575
+1 DEAT
+2 DATE BEF 12 APR 1616
+1 FAMS @F1807@
+1 FAMS @F1808@
+1 NOTE @N1913@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 21:57:56
+0 @I4681@ INDI
+1 NAME Johannes /Metelen/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Metelen
+1 SEX M
+1 BIRT
+2 DATE ABT 1550
+1 DEAT
+2 DATE 1 OCT 1613
+2 PLAC Optwijzel, Twijzel (Achtkarspelen) [Friesland]
+1 FACT Predikant te Twijzel
+2 TYPE Occupation
+1 FAMS @F1808@
+1 FAMS @F1809@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:01:51
+0 @I4682@ INDI
+1 NAME Fockje Fockedr //
+2 TYPE birth
+2 GIVN Fockje Fockedr
+1 NAME  /Foek Fockedr/
+2 TYPE aka
+2 SPFX Foek Fockedr
+1 SEX F
+1 BIRT
+2 DATE ABT 1570
+1 DEAT
+2 DATE 6 SEP 1600
+1 FAMS @F1809@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:01:51
+0 @I4683@ INDI
+1 NAME Ebdye Bennes //
+2 TYPE birth
+2 GIVN Ebdye Bennes
+1 SEX M
+1 BIRT
+2 DATE 1568
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE AFT 1612
+1 FAMC @F1806@
+2 PEDI birth
+1 FAMS @F1810@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:10:00
+0 @I4684@ INDI
+1 NAME NN //
+2 TYPE birth
+2 GIVN NN
+1 SEX F
+1 FAMS @F1810@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:07:52
+0 @I4685@ INDI
+1 NAME Jouck Ebses //
+2 TYPE birth
+2 GIVN Jouck Ebses
+1 SEX F
+1 BIRT
+2 DATE ABT 1597
+1 FAMC @F1810@
+2 PEDI birth
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:07:52
+0 @I4686@ INDI
+1 NAME Foolck Bennedr //
+2 TYPE birth
+2 GIVN Foolck Bennedr
+1 SEX F
+1 BIRT
+2 DATE ABT 1570
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 FAMC @F1806@
+2 PEDI birth
+1 FAMS @F1811@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:12:04
+0 @I4687@ INDI
+1 NAME Simon Hendriks //
+2 TYPE birth
+2 GIVN Simon Hendriks
+1 NAME  /Hendricx/
+2 TYPE aka
+2 SPFX Hendricx
+1 SEX M
+1 BIRT
+2 DATE ABT 1570
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 FAMS @F1811@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:12:04
+0 @I4688@ INDI
+1 NAME Folcke Oedses //
+2 TYPE birth
+2 GIVN Folcke Oedses
+1 NAME  /Utses/
+2 TYPE aka
+2 SPFX Utses
+1 NAME  /Uutses/
+2 TYPE aka
+2 SPFX Uutses
+1 NAME  /Wtses/
+2 TYPE aka
+2 SPFX Wtses
+1 SEX M
+1 BIRT
+2 DATE ABT 1540
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE BEF 1614
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMS @F1812@
+1 NOTE @N1914@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:53:17
+0 @I4689@ INDI
+1 NAME Oedse Folckes /Ydtsma/
+2 TYPE birth
+2 GIVN Oedse Folckes
+2 SURN Ydtsma
+1 SEX M
+1 BIRT
+2 DATE 1570
+1 DEAT
+2 DATE 1622
+1 FAMC @F1812@
+2 PEDI birth
+1 FAMS @F1813@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 14:19:03
+0 @I4690@ INDI
+1 NAME Wiltje Egberts //
+2 TYPE birth
+2 GIVN Wiltje Egberts
+1 SEX F
+1 BIRT
+2 DATE 1555
+1 DEAT
+2 DATE 1625
+1 FAMS @F1813@
+1 CHAN
+2 DATE 12 DEC 2025
+3 TIME 19:48:11
+0 @I4691@ INDI
+1 NAME Berber Folckes /Ydtsma/
+2 TYPE birth
+2 GIVN Berber Folckes
+2 SURN Ydtsma
+1 NAME  /Barber Folkes Idsma/
+2 TYPE aka
+2 SPFX Barber Folkes Idsma
+1 NAME  /Barber Folkes Itsma/
+2 TYPE aka
+2 SPFX Barber Folkes Itsma
+1 SEX F
+1 BIRT
+2 DATE 1574
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE BEF 1618
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMC @F1812@
+2 PEDI birth
+1 FAMS @F1814@
+1 NOTE @N1915@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 14:19:03
+0 @I4692@ INDI
+1 NAME Oene Aesghes //
+2 TYPE birth
+2 GIVN Oene Aesghes
+1 NAME  /Oenne Aesges/
+2 TYPE aka
+2 SPFX Oenne Aesges
+1 NAME  /Oenne Eesges/
+2 TYPE aka
+2 SPFX Oenne Eesges
+1 SEX M
+1 BIRT
+2 DATE 1572
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE 10 OCT 1650
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMS @F1814@
+1 NOTE @N1916@
+1 NOTE @N1917@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 12:28:24
+0 @I4693@ INDI
+1 NAME Sijcke Folckes //
+2 TYPE birth
+2 GIVN Sijcke Folckes
+1 NAME  /Sycke Folckes/
+2 TYPE aka
+2 SPFX Sycke Folckes
+1 SEX F
+1 BIRT
+2 DATE ABT 1575
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE BEF 1588
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMC @F1812@
+2 PEDI birth
+1 FAMS @F1815@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 14:24:20
+0 @I4694@ INDI
+1 NAME NN //
+2 TYPE birth
+2 GIVN NN
+1 SEX F
+1 FAMS @F1816@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 14:39:28
+0 @I4695@ INDI
+1 NAME Wyntthie Foeckes //
+2 TYPE birth
+2 GIVN Wyntthie Foeckes
+1 NAME  /Wttzie/
+2 TYPE aka
+2 SPFX Wttzie
+1 NAME  /Wytthie/
+2 TYPE aka
+2 SPFX Wytthie
+1 SEX M
+1 BIRT
+2 DATE ABT 1525
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE AFT 1578
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 FAMS @F1816@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 14:39:28
+0 @I4696@ INDI
+1 NAME Bauck Witses //
+2 TYPE birth
+2 GIVN Bauck Witses
+1 SEX F
+1 BIRT
+2 DATE ABT 1565
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 DEAT
+2 DATE AFT 1595
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 FAMC @F1816@
+2 PEDI birth
+1 FAMS @F1817@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 14:42:16
+0 @I4697@ INDI
+1 NAME Cornelis Jans //
+2 TYPE birth
+2 GIVN Cornelis Jans
+1 SEX M
+1 BIRT
+2 DATE ABT 1560
+1 DEAT
+2 DATE BEF 1595
+1 FAMS @F1817@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 14:42:16
+0 @I4698@ INDI
+1 NAME Anna Folckedr Bottesdr /Grottinga/
+2 TYPE birth
+2 GIVN Anna Folckedr Bottesdr
+2 SURN Grottinga
+1 NAME  /Antje Folckes Gratinga/
+2 TYPE aka
+2 SPFX Antje Folckes Gratinga
+1 NAME  /Antje Folckes Graetingha/
+2 TYPE aka
+2 SPFX Antje Folckes Graetingha
+1 SEX F
+1 BIRT
+2 DATE 1523
+2 PLAC Surhuizum (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 25 JAN 1598
+2 PLAC Buweklooster, Drogeham (Achtkarspelen) [Friesland]
+2 NOTE @N1919@
+1 FAMC @F1828@
+2 PEDI birth
+1 FAMS @F1818@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:45:00
+0 @I4699@ INDI
+1 NAME Siurdt Aethies /Ydtsma/
+2 TYPE birth
+2 GIVN Siurdt Aethies
+2 SURN Ydtsma
+1 NAME  /Sioerdt Aetzes/
+2 TYPE aka
+2 SPFX Sioerdt Aetzes
+1 NAME  /Sjoerdt Atzes/
+2 TYPE aka
+2 SPFX Sjoerdt Atzes
+1 NAME  /Sjoerd Aetses/
+2 TYPE aka
+2 SPFX Sjoerd Aetses
+1 SEX M
+1 BIRT
+2 DATE 15 MAY 1520
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 15 AUG 1605
+2 PLAC Buweklooster, Drogeham (Achtkarspelen) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FACT Landeigenaar
+2 TYPE Occupation
+1 FAMS @F1818@
+1 NOTE @N1922@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:11:33
+0 @I4700@ INDI
+1 NAME Aelthie Sjoerds /Ydtsma/
+2 TYPE birth
+2 GIVN Aelthie Sjoerds
+2 SURN Ydtsma
+1 SEX F
+1 BIRT
+2 DATE 1545
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 1603
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 FAMC @F1818@
+2 PEDI birth
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 21:46:16
+0 @I4701@ INDI
+1 NAME Ymck Sjoerds /Ydtsma/
+2 TYPE birth
+2 GIVN Ymck Sjoerds
+2 SURN Ydtsma
+1 NAME  /Ympck Itsma/
+2 TYPE aka
+2 SPFX Ympck Itsma
+1 SEX F
+1 BIRT
+2 DATE 1555
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 FAMC @F1818@
+2 PEDI birth
+1 FAMS @F1819@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 21:46:16
+0 @I4702@ INDI
+1 NAME Tjibbe Adams //
+2 TYPE birth
+2 GIVN Tjibbe Adams
+1 NAME  /Tiebbe/
+2 TYPE aka
+2 SPFX Tiebbe
+1 SEX M
+1 BIRT
+2 DATE 1550
+1 FAMS @F1819@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 16:03:21
+0 @I4703@ INDI
+1 NAME Engel Sjoerdts /Ydtsma/
+2 TYPE birth
+2 GIVN Engel Sjoerdts
+2 SURN Ydtsma
+1 NAME  /Engel Sioerdts Itsma/
+2 TYPE aka
+2 SPFX Engel Sioerdts Itsma
+1 SEX F
+1 BIRT
+2 DATE 1559
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE AFT 1627
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 FAMC @F1818@
+2 PEDI birth
+1 FAMS @F1820@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 21:46:16
+0 @I4704@ INDI
+1 NAME Minnert Bennes //
+2 TYPE birth
+2 GIVN Minnert Bennes
+1 NAME  /Mennert/
+2 TYPE aka
+2 SPFX Mennert
+1 SEX M
+1 BIRT
+2 DATE ABT 1545
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE BEF 1627
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 FAMC @F1794@
+2 PEDI birth
+1 FAMS @F1820@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 17:42:05
+0 @I4705@ INDI
+1 NAME Jurjen Sjoerds /Ydtsma/
+2 TYPE birth
+2 GIVN Jurjen Sjoerds
+2 SURN Ydtsma
+1 NAME  /Georgius/
+2 TYPE aka
+2 SPFX Georgius
+1 SEX M
+1 BIRT
+2 DATE 1561
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 DEAT
+2 PLAC Kollum (Kollumerland en Nieuwkruisland) [Friesland]
+1 FAMC @F1818@
+2 PEDI birth
+1 FAMS @F1821@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 21:46:16
+0 @I4706@ INDI
+1 NAME NN //
+2 TYPE birth
+2 GIVN NN
+1 SEX F
+1 FAMS @F1821@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 20:12:31
+0 @I4707@ INDI
+1 NAME Sjoerd Jurjens /Ydtsma/
+2 TYPE birth
+2 GIVN Sjoerd Jurjens
+2 SURN Ydtsma
+1 SEX M
+1 BIRT
+2 DATE 1600
+1 FAMC @F1821@
+2 PEDI birth
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 20:12:31
+0 @I4708@ INDI
+1 NAME Folcke Sioerdts /Ydtsma/
+2 TYPE birth
+2 GIVN Folcke Sioerdts
+2 SURN Ydtsma
+1 NAME  /Focke Sjoerdts Itsma/
+2 TYPE aka
+2 SPFX Focke Sjoerdts Itsma
+1 NAME  /Foecke/
+2 TYPE aka
+2 SPFX Foecke
+1 SEX M
+1 BIRT
+2 DATE 1562
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 19 MAR 1627
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 FAMC @F1818@
+2 PEDI birth
+1 FAMS @F1822@
+1 FAMS @F1823@
+1 NOTE @N1920@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 21:46:16
+0 @I4709@ INDI
+1 NAME Eats Minnes //
+2 TYPE birth
+2 GIVN Eats Minnes
+1 NAME  /Eetske/
+2 TYPE aka
+2 SPFX Eetske
+1 SEX F
+1 BIRT
+2 DATE 1570
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 24 MAR 1615
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 FAMS @F1822@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 20:21:00
+0 @I4710@ INDI
+1 NAME Sybrich Folkerts //
+2 TYPE birth
+2 GIVN Sybrich Folkerts
+1 NAME  /Sybrech/
+2 TYPE aka
+2 SPFX Sybrech
+1 SEX F
+1 BIRT
+2 DATE 1568
+2 PLAC Buitenpost (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 1640
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 FAMS @F1823@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 20:55:14
+0 @I4711@ INDI
+1 NAME Folcke Sioerdts /Itsma/
+2 TYPE birth
+2 GIVN Folcke Sioerdts
+2 SURN Itsma
+1 SEX M
+1 BIRT
+2 DATE 1570
+1 DEAT
+2 DATE 1606
+1 FAMC @F1818@
+2 PEDI birth
+1 FAMS @F1824@
+1 NOTE @N1921@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 21:46:16
+0 @I4712@ INDI
+1 NAME NN //
+2 TYPE birth
+2 GIVN NN
+1 SEX F
+1 FAMS @F1824@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 20:59:02
+0 @I4713@ INDI
+1 NAME Eelck Sjoerdtsdr /Ydtsma/
+2 TYPE birth
+2 GIVN Eelck Sjoerdtsdr
+2 SURN Ydtsma
+1 NAME  /Eelckien Itsma/
+2 TYPE aka
+2 SPFX Eelckien Itsma
+1 SEX F
+1 BIRT
+2 DATE 1570
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 16 MAR 1625
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 FAMC @F1818@
+2 PEDI birth
+1 FAMS @F1825@
+1 FAMS @F1826@
+1 FAMS @F1827@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:09:53
+0 @I4714@ INDI
+1 NAME Arent Jans /Offringha/
+2 TYPE birth
+2 GIVN Arent Jans
+2 SURN Offringha
+1 SEX M
+1 BIRT
+2 DATE ABT 1563
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 DEAT
+2 DATE 1595
+2 PLAC Beetsterzwaag (Opsterland)  [Friesland]
+1 FAMS @F1825@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 21:52:37
+0 @I4715@ INDI
+1 NAME Jan Bauckesz //
+2 TYPE birth
+2 GIVN Jan Bauckesz
+1 SEX M
+1 BIRT
+2 DATE 1545
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE BEF 1619
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FAMS @F1826@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 21:59:20
+0 @I4716@ INDI
+1 NAME Sytse Martens /Jelsma/
+2 TYPE birth
+2 GIVN Sytse Martens
+2 SURN Jelsma
+1 NAME  /Geldsma/
+2 TYPE aka
+2 SPFX Geldsma
+1 SEX M
+1 BIRT
+2 DATE 1575
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 1642
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 FAMS @F1827@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:09:53
+0 @I4717@ INDI
+1 NAME Auckjen /Grattinga/
+2 TYPE birth
+2 GIVN Auckjen
+2 SURN Grattinga
+1 NAME  /Auck/
+2 TYPE aka
+2 SPFX Auck
+1 SEX F
+1 BIRT
+2 DATE 1495
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE AFT 1552
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+2 NOTE @N1923@
+1 FAMS @F1828@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:20:42
+0 @I4718@ INDI
+1 NAME Folcke Bottes /Gratinga/
+2 TYPE birth
+2 GIVN Folcke Bottes
+2 SURN Gratinga
+1 NAME  /Bottse Graetingha/
+2 TYPE aka
+2 SPFX Bottse Graetingha
+1 NAME  /Grottinga/
+2 TYPE aka
+2 SPFX Grottinga
+1 SEX M
+1 BIRT
+2 DATE 1495
+2 PLAC Surhuizum (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 22 FEB 1572
+2 PLAC Buweklooster, Drogeham (Achtkarspelen) [Friesland]
+1 FACT Kerkvoogd
+2 TYPE Occupation
+1 FACT Landeigenaar
+2 TYPE Occupation
+1 FAMC @F1830@
+2 PEDI birth
+1 FAMS @F1828@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:54:24
+0 @I4719@ INDI
+1 NAME NN /Gratinga/
+2 TYPE birth
+2 GIVN NN
+2 SURN Gratinga
+1 SEX F
+1 BIRT
+2 DATE AFT 1520
+1 FAMC @F1828@
+2 PEDI birth
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:45:00
+0 @I4720@ INDI
+1 NAME Deege Folkerts /Gratinga/
+2 TYPE birth
+2 GIVN Deege Folkerts
+2 SURN Gratinga
+1 NAME  /Dee/
+2 TYPE aka
+2 SPFX Dee
+1 SEX M
+1 BIRT
+2 DATE 1522
+1 FAMC @F1828@
+2 PEDI birth
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:45:00
+0 @I4721@ INDI
+1 NAME Botte Folckerts /Gratinga/
+2 TYPE birth
+2 GIVN Botte Folckerts
+2 SURN Gratinga
+1 NAME  /Folckes/
+2 TYPE aka
+2 SPFX Folckes
+1 SEX M
+1 BIRT
+2 DATE 1525
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 1593
+1 FAMC @F1828@
+2 PEDI birth
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:45:49
+0 @I4722@ INDI
+1 NAME Jorck Folckerts /Gratinga/
+2 TYPE birth
+2 GIVN Jorck Folckerts
+2 SURN Gratinga
+1 SEX M
+1 BIRT
+2 DATE 1530
+1 DEAT
+2 DATE 1573
+1 FAMC @F1828@
+2 PEDI birth
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:46:02
+0 @I4723@ INDI
+1 NAME Magdalena Folckerts /Gratinga/
+2 TYPE birth
+2 GIVN Magdalena Folckerts
+2 SURN Gratinga
+1 SEX F
+1 BIRT
+2 DATE 1535
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE AFT 1584
+1 FAMC @F1828@
+2 PEDI birth
+1 FAMS @F1829@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:47:59
+0 @I4724@ INDI
+1 NAME Seerp Sybrantsz //
+2 TYPE birth
+2 GIVN Seerp Sybrantsz
+1 SEX M
+1 BIRT
+2 DATE 1535
+2 PLAC Dokkum [Friesland]
+1 DEAT
+2 DATE SEP 1605
+2 PLAC Harlingen [Friesland]
+1 FAMS @F1829@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:47:59
+0 @I4725@ INDI
+1 NAME Eyntie Mennerts //
+2 TYPE birth
+2 GIVN Eyntie Mennerts
+1 SEX F
+1 FAMS @F1830@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:54:24
+0 @I4726@ INDI
+1 NAME Botte Deeges /Gratinga/
+2 TYPE birth
+2 GIVN Botte Deeges
+2 SURN Gratinga
+1 NAME  /Boote Boate Deages/
+2 TYPE aka
+2 SPFX Boote Boate Deages
+1 NAME  /Grotinghe/
+2 TYPE aka
+2 SPFX Grotinghe
+1 NAME  /Grottinga/
+2 TYPE aka
+2 SPFX Grottinga
+1 SEX M
+1 BIRT
+2 DATE ABT 1466
+2 PLAC Surhuizum (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 1543
+2 PLAC Surhuizum (Achtkarspelen) [Friesland]
+2 NOTE @N1924@
+1 FAMC @F1831@
+2 PEDI birth
+1 FAMS @F1830@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 23:04:12
+0 @I4727@ INDI
+1 NAME NN //
+2 TYPE birth
+2 GIVN NN
+1 SEX F
+1 FAMS @F1831@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 23:04:12
+0 @I4728@ INDI
+1 NAME Degha /Gratinga/
+2 TYPE birth
+2 GIVN Degha
+2 SURN Gratinga
+1 NAME  /Deeghe Deeg Grotingen/
+2 TYPE aka
+2 SPFX Deeghe Deeg Grotingen
+1 NAME  /Grottinga/
+2 TYPE aka
+2 SPFX Grottinga
+1 NAME  /Grotinghem/
+2 TYPE aka
+2 SPFX Grotinghem
+1 SEX M
+1 BIRT
+2 DATE 1440
+2 PLAC Surhuizum (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE AFT 1500
+2 PLAC Surhuizum (Achtkarspelen) [Friesland]
+1 FAMS @F1831@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 23:05:36
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -93589,9 +95144,421 @@
 1 WIFE @I4638@
 1 CHIL @I4630@
 1 CHIL @I4639@
+1 CHIL @I4640@
+1 CHIL @I4644@
+1 CHIL @I4645@
 1 CHAN
-2 DATE 7 DEC 2025
-3 TIME 23:14:28
+2 DATE 8 DEC 2025
+3 TIME 21:00:57
+0 @F1788@ FAM
+1 HUSB @I4640@
+1 WIFE @I4641@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 20:10:59
+0 @F1789@ FAM
+1 HUSB @I4640@
+1 WIFE @I4642@
+1 MARL
+2 DATE 20 FEB 1618
+2 PLAC Leeuwarden [Friesland]
+2 NOTE @N1899@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 20:15:14
+0 @F1790@ FAM
+1 HUSB @I4643@
+1 WIFE @I4642@
+1 MARR
+2 DATE 8 APR 1627
+2 PLAC Leeuwarden [Friesland]
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 20:17:08
+0 @F1791@ FAM
+1 HUSB @I4647@
+1 WIFE @I4646@
+1 MARR
+2 DATE 1500
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 CHIL @I4637@
+1 CHIL @I4648@
+1 CHIL @I4650@
+1 CHIL @I4652@
+1 CHIL @I4654@
+1 CHIL @I4656@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:37:53
+0 @F1792@ FAM
+1 HUSB @I4649@
+1 WIFE @I4648@
+1 MARR
+2 DATE 1527
+2 PLAC Harkema (Achtkarspelen) [Friesland]
+2 NOTE @N1900@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:10:58
+0 @F1793@ FAM
+1 HUSB @I4650@
+1 WIFE @I4651@
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:17:53
+0 @F1794@ FAM
+1 HUSB @I4652@
+1 WIFE @I4653@
+1 MARR
+2 DATE ABT 1532
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 CHIL @I4704@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 17:42:05
+0 @F1795@ FAM
+1 HUSB @I4654@
+1 WIFE @I4655@
+1 MARR
+2 DATE ABT 1534
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:35:06
+0 @F1796@ FAM
+1 HUSB @I4657@
+1 WIFE @I4656@
+1 MARR
+2 DATE 1550
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 CHAN
+2 DATE 8 DEC 2025
+3 TIME 21:39:54
+0 @F1797@ FAM
+1 HUSB @I4658@
+1 WIFE @I4659@
+1 MARR
+2 DATE ABT 1608
+2 PLAC Bergum (Tietjerksteradeel) [Friesland]
+1 CHIL @I4617@
+1 CHIL @I4660@
+1 CHIL @I4663@
+1 CHIL @I4666@
+1 CHAN
+2 DATE 9 DEC 2025
+3 TIME 22:14:49
+0 @F1798@ FAM
+1 HUSB @I4661@
+1 WIFE @I4660@
+1 MARR
+2 DATE ABT 1639
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 CHAN
+2 DATE 9 DEC 2025
+3 TIME 21:16:01
+0 @F1799@ FAM
+1 HUSB @I4661@
+1 WIFE @I4662@
+1 MARR
+2 DATE 5 APR 1672
+2 PLAC Oudega (Smallingerland) [Friesland]
+1 CHAN
+2 DATE 9 DEC 2025
+3 TIME 21:21:04
+0 @F1800@ FAM
+1 HUSB @I4664@
+1 WIFE @I4663@
+1 MARR
+2 DATE 10 JAN 1636
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 NOTE @N1906@
+1 NOTE @N1907@
+1 NOTE @N1908@
+1 CHAN
+2 DATE 9 DEC 2025
+3 TIME 21:59:42
+0 @F1801@ FAM
+1 HUSB @I4664@
+1 WIFE @I4665@
+1 MARR
+2 DATE 26 NOV 1647
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 NOTE @N1909@
+1 NOTE @N1910@
+1 CHAN
+2 DATE 9 DEC 2025
+3 TIME 22:06:31
+0 @F1802@ FAM
+1 HUSB @I4668@
+1 WIFE @I4667@
+1 MARR
+2 DATE ABT 1588
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 CHIL @I4659@
+1 CHIL @I4669@
+1 CHIL @I4671@
+1 CHIL @I4672@
+1 CHIL @I4675@
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:45:50
+0 @F1803@ FAM
+1 HUSB @I4670@
+1 WIFE @I4669@
+1 MARR
+2 DATE ABT 1620
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:20:09
+0 @F1804@ FAM
+1 HUSB @I4673@
+1 WIFE @I4672@
+1 MARR
+2 DATE ABT 1622
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:30:16
+0 @F1805@ FAM
+1 HUSB @I4673@
+1 WIFE @I4674@
+1 MARR
+2 DATE ABT 1647
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 CHAN
+2 DATE 10 DEC 2025
+3 TIME 22:33:29
+0 @F1806@ FAM
+1 HUSB @I4676@
+1 WIFE @I4677@
+1 MARR
+2 DATE ABT 1557
+1 CHIL @I4678@
+1 CHIL @I4679@
+1 CHIL @I4683@
+1 CHIL @I4667@
+1 CHIL @I4686@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:10:00
+0 @F1807@ FAM
+1 HUSB @I4679@
+1 WIFE @I4680@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 21:52:40
+0 @F1808@ FAM
+1 HUSB @I4681@
+1 WIFE @I4680@
+1 MARR
+2 DATE ABT AUG 1601
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 21:57:56
+0 @F1809@ FAM
+1 HUSB @I4681@
+1 WIFE @I4682@
+1 MARR
+2 DATE ABT 1600
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:01:51
+0 @F1810@ FAM
+1 HUSB @I4683@
+1 WIFE @I4684@
+1 CHIL @I4685@
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:07:52
+0 @F1811@ FAM
+1 HUSB @I4687@
+1 WIFE @I4686@
+1 MARR
+2 DATE ABT 1600
+2 PLAC Twijzel (Achtkarspelen) [Friesland]
+1 CHAN
+2 DATE 11 DEC 2025
+3 TIME 22:12:04
+0 @F1812@ FAM
+1 HUSB @I4688@
+1 WIFE @I4677@
+1 MARR
+2 DATE 1570
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 CHIL @I4689@
+1 CHIL @I4691@
+1 CHIL @I4693@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 14:19:03
+0 @F1813@ FAM
+1 HUSB @I4689@
+1 WIFE @I4690@
+1 CHAN
+2 DATE 12 DEC 2025
+3 TIME 19:48:11
+0 @F1814@ FAM
+1 HUSB @I4692@
+1 WIFE @I4691@
+1 MARR
+2 DATE 1595
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 12:26:25
+0 @F1815@ FAM
+1 HUSB @I4668@
+1 WIFE @I4693@
+1 MARR
+2 DATE ABT 1585
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 14:24:20
+0 @F1816@ FAM
+1 HUSB @I4695@
+1 WIFE @I4694@
+1 MARR
+2 DATE ABT 1555
+2 PLAC Oostermeer (Tietjerksteradeel) [Friesland]
+1 CHIL @I4668@
+1 CHIL @I4696@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 14:41:01
+0 @F1817@ FAM
+1 HUSB @I4697@
+1 WIFE @I4696@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 14:42:16
+0 @F1818@ FAM
+1 HUSB @I4699@
+1 WIFE @I4698@
+1 CHIL @I4677@
+1 CHIL @I4700@
+1 CHIL @I4701@
+1 CHIL @I4703@
+1 CHIL @I4705@
+1 CHIL @I4708@
+1 CHIL @I4711@
+1 CHIL @I4713@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 21:46:16
+0 @F1819@ FAM
+1 HUSB @I4702@
+1 WIFE @I4701@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 16:03:21
+0 @F1820@ FAM
+1 HUSB @I4704@
+1 WIFE @I4703@
+1 MARR
+2 DATE 1580
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 17:40:52
+0 @F1821@ FAM
+1 HUSB @I4705@
+1 WIFE @I4706@
+1 CHIL @I4707@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 20:12:31
+0 @F1822@ FAM
+1 HUSB @I4708@
+1 WIFE @I4709@
+1 MARR
+2 DATE ABT 1588
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 20:21:00
+0 @F1823@ FAM
+1 HUSB @I4708@
+1 WIFE @I4710@
+1 MARR
+2 DATE 21 MAR 1622
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 20:55:14
+0 @F1824@ FAM
+1 HUSB @I4711@
+1 WIFE @I4712@
+1 MARR
+2 DATE 1598
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 20:59:02
+0 @F1825@ FAM
+1 HUSB @I4714@
+1 WIFE @I4713@
+1 MARR
+2 DATE 1590
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 21:52:37
+0 @F1826@ FAM
+1 HUSB @I4715@
+1 WIFE @I4713@
+1 MARR
+2 DATE ABT 1600
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 21:58:40
+0 @F1827@ FAM
+1 HUSB @I4716@
+1 WIFE @I4713@
+1 MARR
+2 DATE 1619
+2 PLAC Buweklooster, Drogeham (Achtkarspelen) [Friesland]
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:09:53
+0 @F1828@ FAM
+1 HUSB @I4718@
+1 WIFE @I4717@
+1 MARR
+2 DATE ABT 1520
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 CHIL @I4719@
+1 CHIL @I4720@
+1 CHIL @I4698@
+1 CHIL @I4721@
+1 CHIL @I4722@
+1 CHIL @I4723@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:45:00
+0 @F1829@ FAM
+1 HUSB @I4724@
+1 WIFE @I4723@
+1 MARR
+2 DATE 1555
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:47:59
+0 @F1830@ FAM
+1 HUSB @I4726@
+1 WIFE @I4725@
+1 CHIL @I4718@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 22:54:24
+0 @F1831@ FAM
+1 HUSB @I4728@
+1 WIFE @I4727@
+1 CHIL @I4726@
+1 CHAN
+2 DATE 13 DEC 2025
+3 TIME 23:04:12
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -104476,6 +106443,226 @@
 1 CONC e Wybrens ten westen, de hooiweg ten zuiden en 't "Oldiept" ten noorden
 1 CONC ; bij wijze van rente de crediteuren het gebruik van deze maden toegesta
 1 CONC an
+0 @N1899@ NOTE Bron: Tietjerksteradeel e.o.
+1 CONT Soort registratie: Vermeldingen Tietjerksteradeel e.o.
+1 CONT Bijzonderheden: Berber Haersma;
+1 CONT tr. dr. Allardus Beetzius, el. te Leeuwarden 1619;
+1 CONT TIE S2 151v; zie verder Gen. Jierb. 1985 64, 66, 67
+1 CONT Vermeld Berber Haersma
+1 CONT Vader Meyert Meyerts Haersma
+1 CONT Moeder Eelck Jelledr
+0 @N1900@ NOTE In de kerk getrouwd.
+0 @N1901@ NOTE Rinnert Goytjes/Goijtsen
+1 CONT Geslacht: Man
+1 CONT Geboorte: 1580
+1 CONT Overlijden: 1640
+1 CONT Echtgenote: Sycke Goytjes/Goijtsen (geboren Hylckes)
+1 CONT Kind: Jan Rinderts
+0 @N1902@ NOTE Hij was boer te Bergum en in 1622 armenvoogd te Bergum. ( mogelij
+1 CONC k zoon van Goitsen jans); S2 156; S3 96, 97, 114 (verkoop huis en ontrui
+1 CONC ming)
+1 CONT 
+1 CONT Rinnert Goijtses
+1 CONT Namen geboorte: Rinnert Goyties Rinnert Goytses
+1 CONT Geslacht: Man
+1 CONT Geboorte: Ongeveer 1585 - Bergum, Friesland, Nederland
+1 CONT Huwelijk: Echtgeno(o)t(e) of partner: SijckeHijlckes - Tussen 1607 en 16
+1 CONC 08 - Bergum, Friesland, Nederland
+1 CONT Overlijden: Tussen 1638 en 1640 - Oudega,Friesland,Nederland
+1 CONT Ouders: Goytsen Jans, Jouckjen Rinnerts
+1 CONT Echtgenote: Sijcke Hijlckes
+1 CONT Kinderen: Jouckjen Rinnerts, Jan Rinderts
+0 @N1903@ NOTE Sijcke Hijlckes
+1 CONT Namen geboorte: Sijcke Hylckes Sijke Hylkes
+1 CONT Geslacht: Vrouw
+1 CONT Geboorte: 1587 - Oostermeer, Eestrum, Tietjerksteradeel, Friesland, Nede
+1 CONC rland
+1 CONT Huwelijk: Echtgeno(o)t(e) of partner: Rinnert Goijtses - Tussen 1607 e
+1 CONC n 1608 - Bergum, Friesland, Nederland
+1 CONT Overlijden: Van 1671 - Oostermeer, Tietjerksteradeel, Friesland, Nederla
+1 CONC nd
+1 CONT Ouders: Hylcke Wytses, Jenth Bennes
+1 CONT Echtgenoot: Rinnert Goijtses
+1 CONT Kinderen: Jouckjen Rinnerts, Jan Rinderts
+1 CONT Broers/zusters: Bauck Hylckes, Frytsen Hylckes, Wopke Hilckes, Baucke Hy
+1 CONC lckes
+0 @N1904@ NOTE Jouckjen Rinnerts
+1 CONT Geslacht: Vrouw
+1 CONT Geboorte: Ongeveer 1618 - Burgum,Fryslan,Nederland
+1 CONT Huwelijk: Echtgeno(o)t(e) of partner: Wierdt Martens - Tussen 1638 en 16
+1 CONC 39 - Fryslan,Nederland
+1 CONT Overlijden: Tot 1672 - Oudega,Friesland,Nederland
+1 CONT Ouders: Rinnert Goijtses, Sijcke Hijlckes
+1 CONT Echtgenoot: Wierdt Martens
+1 CONT Dochter: Antie Wierds
+1 CONT Broer: Jan Rinderts
+0 @N1905@ NOTE Bron: Tietjerksteradeel e.o.
+1 CONT Soort registratie: Vermeldingen Tietjerksteradeel e.o.
+1 CONT Bijzonderheden:
+1 CONT Fetje Hanses; overl. Suameer 1692,
+1 CONT tr. 1. Oudega 29 aug. 1656 Riemer Ates (bdn v Oud.),
+1 CONT tr. 2. Oudega 5 april 1672 Wierd Martens,
+1 CONT tr. 3. Oudega 22 juli 1683 Gjolt Jelles (v Suameer, zij v Oud.), belijd
+1 CONC . Opeinde 20 maart 1664, won. Oudega; TIE M5 327 (1683), M6 20 (4 mei 16
+1 CONC 92);
+1 CONT ki. (ex 1): Janke en Jan Riemers,
+1 CONT ex 2: Beern Wierds (cur. Sytse Lefferts)
+1 CONT Vermeld Fetje Hanses
+1 CONT Vader dochter van Hans Andries
+0 @N1906@ NOTE In de kerk getrouwd.
+0 @N1907@ NOTE rouwregister Hervormde gemeente Drogeham Harkema Opeinde
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB Trouwen inschrijving
+1 CONT (Akte)datum: 10-01-1636
+1 CONT Plaats: Drogeham
+1 CONT Soort akte: bevestiging huwelijk
+1 CONT Bruidegom Luycke Gaeuckes Hijmersma
+1 CONT Bruid Siouck Rinnerts
+0 @N1908@ NOTE Trouwregister Hervormde gemeente Drogeham Harkema Opeinde, archiefn
+1 CONC ummer 28, Collectie doop-, trouw-, lidmaten- begraafboeken - Tresoar, in
+1 CONC ventarisnummer 0018
+0 @N1909@ NOTE Trouwregister Hervormde gemeente Drogeham Harkema Opeinde
+1 CONT Bron: DTB Trouwen
+1 CONT Soort registratie: DTB Trouwen inschrijving
+1 CONT (Akte)datum: 26-11-1647
+1 CONT Plaats: Drogeham
+1 CONT Soort akte: bevestiging huwelijk
+1 CONT Bruidegom Luycke Gauckes Himersma
+1 CONT Bruid Rints Jacobs
+0 @N1910@ NOTE Trouwregister Hervormde gemeente Drogeham Harkema Opeinde, archiefn
+1 CONC ummer 28, Collectie doop-, trouw-, lidmaten- begraafboeken - Tresoar, in
+1 CONC ventarisnummer 0018
+0 @N1911@ NOTE Jenth Bennes
+1 CONT Namen geboorte: Jent Bennedochter
+1 CONT Jent Bennedr.Wtses
+1 CONT Geslacht: Vrouw
+1 CONT Geboorte: Tussen 11 jan 1569 en 10 jan 1570 - Kooten, Achtkarspelen, Fri
+1 CONC esland, Nederland
+1 CONT Huwelijk: Echtgeno(o)t(e) of partner: Hylcke Wytses - Tot 1593 - Fryslan
+1 CONC ,Nederland
+1 CONT Overlijden: Van 1625 - Oostermeer, Eestrum, Tietjerksteradeel, Friesland
+1 CONC , Nederland
+1 CONT Ouders: Benne Ebdyes, Mrs Binne Ebdyes
+1 CONT Echtgenoot: Hylcke Wytses
+1 CONT Kinderen: Frytsen Hylckes, Baucke Hylckes, Wopke Hilckes, Sijcke Hijlcke
+1 CONC s, Bauck Hylckes
+0 @N1912@ NOTE Tietjerksteradeel e.o.
+1 CONT Bron: Tietjerksteradeel bevolking
+1 CONT Soort registratie: Tietjerksteradeel bevolking inschrijvingen
+1 CONT Bijzonderheden: Foop Itsma;
+1 CONT well. te Oostermeer, tr. Folke Uitses / Folcke Wtses;
+1 CONT TIE M1 122, el. 1597
+1 CONT Vermeld Foop Itsma
+0 @N1913@ NOTE Recesboeken
+1 CONT Bron: Nedergerechten
+1 CONT Soort registratie: Inschrijving nedergerechten
+1 CONT Datum: 08-08-1614
+1 CONT Bijzonderheden:
+1 CONT Wolter Dotichem predikant, woonachtig te Augustinusga curator over zoo
+1 CONC n uit eerste huwelijk en over twee kinderen uit tweede huwelijk
+1 CONT Fokke Johannes kind uit eerste huwelijk
+1 CONT Johannes Metelen predikant, woonachtig te Optwijzel vader
+1 CONT Foeck Fockedr moeder
+1 CONT Martien Johannes kind uit tweede huwelijk
+1 CONT Lubbe Johannes kind uit tweede huwelijk
+1 CONT Sije Jentkisdr moeder
+1 CONT Curator Wolter Dotichem
+1 CONT Kind Fokke Johannes
+1 CONT Vader Johannes Metelen
+1 CONT Moeder Foeck Fockedr
+1 CONT Kind Martien Johannes
+1 CONT Kind Lubbe Johannes
+1 CONT Moeder Sije Jentkisdr
+0 @N1914@ NOTE Tietjerksteradeel e.o.
+1 CONT Bron: Tietjerksteradeel bevolking
+1 CONT Soort registratie: Tietjerksteradeel bevolking inschrijvingen
+1 CONT Bijzonderheden: Folcke Wtses;
+1 CONT overl. wsch. Oostermeer voor 1614,
+1 CONT tr. Fopkje Itsma (el. 1597);
+1 CONT TIE M1 71 (erfg. v F.W., venen in 't Witveen), 122, 123v
+1 CONT Vermeld Folcke Wtses
+0 @N1915@ NOTE Tietjerksteradeel e.o.
+1 CONT Bron: Tietjerksteradeel e.o.
+1 CONT Soort registratie: Vermeldingen Tietjerksteradeel e.o.
+1 CONT Bijzonderheden:
+1 CONT Berber Folkes; tr. Oene Eesges, el. te Oostermeer bij de Wal, 1610; TI
+1 CONC E S1 96, 97v
+1 CONT Vermeld Berber Folkes
+0 @N1916@ NOTE Hypotheekboek 97v
+1 CONT Bron: Tietjerksteradeel hypotheekboeken
+1 CONT Soort registratie: Akte Tietjerksteradeel hypotheekboeken
+1 CONT Datum: 08-04-1611
+1 CONT Bijzonderheden: Oene Aesges en Barber Folckesdr, el. te Oostermeer bij d
+1 CONC e Wal, verklaren ƒ 50 schuldig te zijn aan Gerryt Coenes en Bauck Wblis
+1 CONC , el. op de Tieke ("op den Theecken") onder Suameer
+1 CONT Vermeld Gerryt Coenes
+1 CONT Vermeld Barber Folckesdr
+1 CONT Vermeld Oene Aesges
+1 CONT Vermeld Bauck Wblis
+0 @N1917@ NOTE Hypotheekboek 272v
+1 CONT Bron: Tietjerksteradeel hypotheekboeken
+1 CONT Soort registratie: Akte Tietjerksteradeel hypotheekboeken
+1 CONT Datum: 26-11-1638
+1 CONT Bijzonderheden:
+1 CONT Oenne Aesgeszn, wonende te Oostermeer, mede voor zijn vrouw Aeff Sytsked
+1 CONC r, verklaart dat hij en zijn zoon Aesge Oenesz en Welmoedke Metskedr, el
+1 CONC . aldaar, afrekening hebben gedaan "nopens alle onse questiën ende gesch
+1 CONC illen, aengaende seeckere veelvoudige verteeringen die ick Oene naest ee
+1 CONC nige verleden jaeren" Aesge en Welmoedke schuldig ben gebleven; het bedr
+1 CONC ag wordt bepaald op ƒ 100, maar mag renteloos blijven staan gedurende he
+1 CONC t leven van Oene
+0 @N1918@ NOTE Hylcke Wytses
+1 CONT Namen geboorte: Hijlcke WijtseszoonHylcke Wytsesz.
+1 CONT Geslacht: Man
+1 CONT Geboorte: Ongeveer 1554 - Oostermeer, Eestrum, Tietjerksteradeel, Friesl
+1 CONC and, Nederland
+1 CONT Huwelijk: Echtgeno(o)t(e) of partner: Jenth Bennes - Voor 1593 - Fryslan
+1 CONC ,Nederland
+1 CONT Overlijden: Van 1630 - Oostermeer, Eestrum, Tietjerksteradeel, Friesland
+1 CONC , Nederland
+1 CONT Ouders: Mrs. Wynttie Foeckes, Wynttie Foeckes
+1 CONT Echtgenote: Jenth Bennes
+1 CONT Kinderen: Bauck Hylckes, Frytsen Hylckes, Wopke Hilckes, Sijcke Hijlckes
+1 CONC , Baucke Hylckes
+0 @N1919@ NOTE Bronvermelding: Verzameling Hessel de Walle, archiefnummer 0001, In
+1 CONC scripties en grafschriften - Hessel de Walle, aktenummer 1274
+1 CONT 
+1 CONT Bijzonderheden:
+1 CONT Ao 1598 de 25 ianeuarijs sterf die eerbare en doechtsame Anne Folcke d
+1 CONC r Grottiga huisvrou va Siurdt Itsma
+1 CONT Object: grafsteen
+1 CONT 
+1 CONT Genoemd
+1 CONT Antje Folkes Gratinga overleden op 25-01-1598
+1 CONT Diversen:
+1 CONT Kind van: Folke Botes Gratinga en Aukje
+1 CONT Gehuwd met: Sjoerd Eelkes Ytsma
+1 CONT Genoemd Sjoerd Eelkes Ytsma
+1 CONT Diversen:
+1 CONT Kind van: Eelke Gerkes Itsma
+1 CONT Gehuwd met: Antje Folkes Gratinga
+0 @N1920@ NOTE In 1601 en 1607 genoemd in de proclamatieboeken van Achtkarspelen.
+1 CONT 
+1 CONT Tietjerksteradeel e.o.
+1 CONT Bron: Tietjerksteradeel e.o.
+1 CONT Soort registratie: Vermeldingen Tietjerksteradeel e.o.
+1 CONT Bijzonderheden:
+1 CONT Focke Itsma; overl. Harkema Opeinde voor 1630;
+1 CONT tr. 1. Eets Minnedr (el. 1607);
+1 CONT tr. 2. Sybrich Folckertsdr (el. 1622);
+1 CONT TIE M2 83v, is 1614 curator over de ki. v Sytse Lammerts en Eelck Sioerd
+1 CONC tsdr (Itsma); de wed. gebr. 1640, met Meine Aelses / Aelties nr. 13 (eig
+1 CONC . Fokke Itsma kinderen 1/3, notaris Suffridus Itsma 1/3 en Meine Aeltie
+1 CONC s 1/3)
+1 CONT Vermeld Focke Itsma
+1 CONT Vader Sioerdt Itsma
+1 CONT Moeder Anna Gratinga
+0 @N1921@ NOTE Gehuwd in 1598 met onbekende vrouw.
+0 @N1922@ NOTE https://www.familysearch.org/ark:/61903/2:2:3H6N-2LQ
+1 CONT Hier is hij zoon van Aelcke Gerckes Ydtsma
+0 @N1923@ NOTE Ook vermelding van overlijden in 1572.
+0 @N1924@ NOTE Ook vermelding van overlijden in Suameer (Tietsjerksteradeel) [Frie
+1 CONC sland]
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
