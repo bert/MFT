@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 13 DEC 2025
-2 TIME 23:09:59
+1 DATE 28 DEC 2025
+2 TIME 23:36:55
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2025 .
@@ -141,8 +141,8 @@
 2 PEDI birth
 1 FAMS @F0005@
 1 CHAN
-2 DATE 31 OCT 2023
-3 TIME 22:24:31
+2 DATE 14 DEC 2025
+3 TIME 21:58:21
 0 @I0006@ INDI
 1 NAME Johan Willem Mathijs /Timmerman/
 2 TYPE birth
@@ -158,8 +158,8 @@
 1 FAMC @F0000@
 2 PEDI birth
 1 CHAN
-2 DATE 31 OCT 2023
-3 TIME 22:00:13
+2 DATE 14 DEC 2025
+3 TIME 21:58:33
 0 @I0007@ INDI
 1 NAME Margretha Johanna Clasina /Timmerman/
 2 TYPE birth
@@ -231,8 +231,8 @@
 3 POST 1422 BK
 3 CTRY Nederland
 1 CHAN
-2 DATE 1 NOV 2023
-3 TIME 06:20:17
+2 DATE 14 DEC 2025
+3 TIME 21:09:37
 0 @I0010@ INDI
 1 NAME Bertina Alexandra /van Vliet/
 2 TYPE birth
@@ -248,8 +248,8 @@
 2 PEDI birth
 1 FAMS @F0002@
 1 CHAN
-2 DATE 1 NOV 2023
-3 TIME 06:12:11
+2 DATE 14 DEC 2025
+3 TIME 21:12:24
 0 @I0011@ INDI
 1 NAME Famke Laura /Timmerman/
 2 TYPE birth
@@ -263,8 +263,8 @@
 1 FAMC @F0002@
 2 PEDI birth
 1 CHAN
-2 DATE 31 OCT 2023
-3 TIME 21:40:16
+2 DATE 14 DEC 2025
+3 TIME 21:09:29
 0 @I0012@ INDI
 1 NAME Hessel Ysbrand /Timmerman/
 2 TYPE birth
@@ -281,8 +281,8 @@
 1 FAMC @F0002@
 2 PEDI birth
 1 CHAN
-2 DATE 31 OCT 2023
-3 TIME 21:40:16
+2 DATE 14 DEC 2025
+3 TIME 21:09:50
 0 @I0013@ INDI
 1 NAME Margretha Hendrika Clasina /Lugten/
 2 TYPE birth
@@ -410,8 +410,8 @@
 2 PEDI birth
 1 FAMS @F0624@
 1 CHAN
-2 DATE 22 JUN 2025
-3 TIME 14:40:34
+2 DATE 14 DEC 2025
+3 TIME 21:09:21
 0 @I0021@ INDI
 1 NAME Annette E.M. /Timmerman/
 2 TYPE birth
@@ -425,8 +425,8 @@
 2 PEDI birth
 1 FAMS @F0007@
 1 CHAN
-2 DATE 22 JUN 2025
-3 TIME 14:34:06
+2 DATE 14 DEC 2025
+3 TIME 21:09:00
 0 @I0022@ INDI
 1 NAME Bert /Kuiper/
 2 TYPE birth
@@ -441,8 +441,8 @@
 2 PEDI birth
 1 FAMS @F0007@
 1 CHAN
-2 DATE 5 JUL 2025
-3 TIME 17:31:20
+2 DATE 14 DEC 2025
+3 TIME 21:59:46
 0 @I0023@ INDI
 1 NAME Albertus Hermannus /Klaassen/
 2 TYPE birth
@@ -593,8 +593,8 @@
 2 PEDI birth
 1 FAMS @F0009@
 1 CHAN
-2 DATE 30 MAY 2025
-3 TIME 16:08:20
+2 DATE 14 DEC 2025
+3 TIME 22:13:22
 0 @I0031@ INDI
 1 NAME Beatrix /Engelsman/
 2 TYPE birth
@@ -616,8 +616,8 @@
 1 FAMC @F0010@
 2 PEDI birth
 1 CHAN
-2 DATE 2 OCT 2025
-3 TIME 23:12:54
+2 DATE 14 DEC 2025
+3 TIME 21:12:52
 0 @I0033@ INDI
 1 NAME Daniel /van Vliet/
 2 TYPE birth
@@ -630,8 +630,8 @@
 2 PEDI birth
 1 FAMS @F1519@
 1 CHAN
-2 DATE 2 OCT 2025
-3 TIME 23:15:35
+2 DATE 14 DEC 2025
+3 TIME 21:12:33
 0 @I0034@ INDI
 1 NAME Maria Theodora /Kooij/
 2 TYPE birth
@@ -657,8 +657,8 @@
 1 FAMC @F0005@
 2 PEDI birth
 1 CHAN
-2 DATE 22 JAN 2025
-3 TIME 00:48:17
+2 DATE 14 DEC 2025
+3 TIME 21:58:10
 0 @I0036@ INDI
 1 NAME Arnoud Ynze Roel /Timmerman/
 2 TYPE birth
@@ -672,8 +672,8 @@
 1 FAMC @F0005@
 2 PEDI birth
 1 CHAN
-2 DATE 22 JAN 2025
-3 TIME 00:49:55
+2 DATE 14 DEC 2025
+3 TIME 21:09:08
 0 @I0037@ INDI
 1 NAME Jan /Jansen/
 2 TYPE birth
@@ -27042,8 +27042,8 @@
 1 FAMC @F0007@
 2 PEDI birth
 1 CHAN
-2 DATE 5 JUL 2025
-3 TIME 17:18:34
+2 DATE 14 DEC 2025
+3 TIME 21:59:39
 0 @I1632@ INDI
 1 NAME Joost R.D. /Kuiper/
 2 TYPE birth
@@ -27053,8 +27053,8 @@
 1 FAMC @F0007@
 2 PEDI birth
 1 CHAN
-2 DATE 5 JUL 2025
-3 TIME 19:54:32
+2 DATE 14 DEC 2025
+3 TIME 21:59:51
 0 @I1633@ INDI
 1 NAME Paulien M.C. /Kuiper/
 2 TYPE birth
@@ -27065,8 +27065,8 @@
 2 PEDI birth
 1 FAMS @F1283@
 1 CHAN
-2 DATE 13 AUG 2025
-3 TIME 23:08:27
+2 DATE 14 DEC 2025
+3 TIME 21:59:59
 0 @I1634@ INDI
 1 NAME Jean Paul /Drenth/
 2 TYPE birth
@@ -27077,8 +27077,8 @@
 2 DATE 2 MAY 1962
 1 FAMS @F0624@
 1 CHAN
-2 DATE 22 JUN 2025
-3 TIME 14:40:34
+2 DATE 14 DEC 2025
+3 TIME 22:02:52
 0 @I1635@ INDI
 1 NAME Stem Rembrandt /Drenth/
 2 TYPE birth
@@ -27090,8 +27090,8 @@
 1 FAMC @F0624@
 2 PEDI birth
 1 CHAN
-2 DATE 22 JUN 2025
-3 TIME 14:40:34
+2 DATE 14 DEC 2025
+3 TIME 22:02:45
 0 @I1636@ INDI
 1 NAME Wolf Lupus Evgeni /Drenth/
 2 TYPE birth
@@ -27103,8 +27103,8 @@
 1 FAMC @F0624@
 2 PEDI birth
 1 CHAN
-2 DATE 22 JUN 2025
-3 TIME 14:41:01
+2 DATE 14 DEC 2025
+3 TIME 22:03:00
 0 @I1637@ INDI
 1 NAME Maartje /Visser/
 2 TYPE birth
@@ -33501,8 +33501,8 @@
 2 PEDI birth
 1 FAMS @F0801@
 1 CHAN
-2 DATE 6 JUL 2025
-3 TIME 22:23:52
+2 DATE 14 DEC 2025
+3 TIME 22:00:58
 0 @I2029@ INDI
 1 NAME Paula Wilhelmina /Kuiper/
 2 TYPE birth
@@ -33515,8 +33515,8 @@
 2 PEDI birth
 1 FAMS @F0800@
 1 CHAN
-2 DATE 6 JUL 2025
-3 TIME 20:32:11
+2 DATE 14 DEC 2025
+3 TIME 22:00:41
 0 @I2030@ INDI
 1 NAME Lourens Willem /Kuiper/
 2 TYPE birth
@@ -34205,8 +34205,8 @@
 2 PLAC Vlaardingen
 1 FAMS @F0799@
 1 CHAN
-2 DATE 6 JUL 2025
-3 TIME 18:10:59
+2 DATE 14 DEC 2025
+3 TIME 22:11:19
 0 @I2073@ INDI
 1 NAME Rowan /Kuiper/
 2 TYPE birth
@@ -34219,8 +34219,8 @@
 1 FAMC @F0799@
 2 PEDI birth
 1 CHAN
-2 DATE 6 JUL 2025
-3 TIME 18:12:58
+2 DATE 14 DEC 2025
+3 TIME 22:00:28
 0 @I2074@ INDI
 1 NAME Manon /Kuiper/
 2 TYPE birth
@@ -34233,8 +34233,8 @@
 1 FAMC @F0799@
 2 PEDI birth
 1 CHAN
-2 DATE 6 JUL 2025
-3 TIME 18:12:58
+2 DATE 14 DEC 2025
+3 TIME 22:01:04
 0 @I2075@ INDI
 1 NAME Henk /Mulder/
 2 TYPE birth
@@ -34264,8 +34264,8 @@
 1 FAMC @F0800@
 2 PEDI birth
 1 CHAN
-2 DATE 6 JUL 2025
-3 TIME 20:32:11
+2 DATE 14 DEC 2025
+3 TIME 22:07:44
 0 @I2077@ INDI
 1 NAME Lieke /Mulder/
 2 TYPE birth
@@ -34278,8 +34278,8 @@
 1 FAMC @F0800@
 2 PEDI birth
 1 CHAN
-2 DATE 6 JUL 2025
-3 TIME 20:32:11
+2 DATE 14 DEC 2025
+3 TIME 22:07:19
 0 @I2078@ INDI
 1 NAME Johan Boer /Keizer/
 2 TYPE birth
@@ -34290,8 +34290,8 @@
 2 DATE 1950
 1 FAMS @F0801@
 1 CHAN
-2 DATE 6 JUL 2025
-3 TIME 22:23:52
+2 DATE 14 DEC 2025
+3 TIME 22:05:34
 0 @I2079@ INDI
 1 NAME Pim /Keizer/
 2 TYPE birth
@@ -34305,8 +34305,8 @@
 2 PEDI birth
 1 FAMS @F0802@
 1 CHAN
-2 DATE 6 JUL 2025
-3 TIME 22:27:09
+2 DATE 14 DEC 2025
+3 TIME 22:05:29
 0 @I2080@ INDI
 1 NAME Marijn /Keijzer/
 2 TYPE birth
@@ -34315,8 +34315,8 @@
 1 SEX F
 1 FAMS @F0802@
 1 CHAN
-2 DATE 6 JUL 2025
-3 TIME 22:27:09
+2 DATE 14 DEC 2025
+3 TIME 22:05:40
 0 @I2081@ INDI
 1 NAME Sanne /Keizer/
 2 TYPE birth
@@ -34329,8 +34329,8 @@
 1 FAMC @F0801@
 2 PEDI birth
 1 CHAN
-2 DATE 6 JUL 2025
-3 TIME 22:25:51
+2 DATE 14 DEC 2025
+3 TIME 22:05:24
 0 @I2082@ INDI
 1 NAME Jan /Eggink/
 2 TYPE birth
@@ -54074,8 +54074,8 @@
 1 SEX M
 1 FAMS @F1283@
 1 CHAN
-2 DATE 13 AUG 2025
-3 TIME 23:08:27
+2 DATE 14 DEC 2025
+3 TIME 22:04:33
 0 @I3358@ INDI
 1 NAME Maud Madelief /Kranendonk/
 2 TYPE birth
@@ -54089,8 +54089,8 @@
 1 FAMC @F1283@
 2 PEDI birth
 1 CHAN
-2 DATE 13 AUG 2025
-3 TIME 23:08:27
+2 DATE 14 DEC 2025
+3 TIME 22:04:26
 0 @I3359@ INDI
 1 NAME Jacobus /van der Linden/
 2 TYPE birth
@@ -75465,9 +75465,17 @@
 1 FAMC @F1776@
 2 PEDI birth
 1 FAMS @F1774@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-26K?lang=en
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-M75?lang=en
 1 CHAN
-2 DATE 7 DEC 2025
-3 TIME 14:13:18
+2 DATE 17 DEC 2025
+3 TIME 22:05:04
 0 @I4612@ INDI
 1 NAME Pieter Saeckes //
 2 TYPE birth
@@ -75486,11 +75494,21 @@
 2 DATE 21 JAN 1696
 2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
 2 NOTE @N1891@
+1 FAMC @F1847@
+2 PEDI birth
 1 FAMS @F1774@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-262?lang=en
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-M7K?lang=en
 1 NOTE @N1892@
 1 CHAN
-2 DATE 6 DEC 2025
-3 TIME 23:46:30
+2 DATE 17 DEC 2025
+3 TIME 22:07:33
 0 @I4613@ INDI
 1 NAME Sake Pieters //
 2 TYPE birth
@@ -75524,10 +75542,14 @@
 1 FAMC @F1774@
 2 PEDI birth
 1 FAMS @F1775@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-MS7?lang=en
 1 NOTE @N1893@
 1 CHAN
-2 DATE 7 DEC 2025
-3 TIME 13:34:45
+2 DATE 17 DEC 2025
+3 TIME 22:03:30
 0 @I4615@ INDI
 1 NAME Hieronimy Balthemewitz /Dopckewitz/
 2 TYPE birth
@@ -76096,9 +76118,13 @@
 1 DEAT
 2 DATE AFT 1572
 1 FAMS @F1791@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-MB3?lang=en
 1 CHAN
-2 DATE 8 DEC 2025
-3 TIME 21:05:55
+2 DATE 27 DEC 2025
+3 TIME 13:12:28
 0 @I4647@ INDI
 1 NAME Alle Arends //
 2 TYPE birth
@@ -76118,9 +76144,13 @@
 1 FACT Armvoogd
 2 TYPE Occupation
 1 FAMS @F1791@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-MYY?lang=en
 1 CHAN
-2 DATE 8 DEC 2025
-3 TIME 21:05:55
+2 DATE 27 DEC 2025
+3 TIME 13:05:09
 0 @I4648@ INDI
 1 NAME Reymcke Alles //
 2 TYPE birth
@@ -76167,9 +76197,13 @@
 1 FAMC @F1791@
 2 PEDI birth
 1 FAMS @F1793@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRGW-BS9?lang=en
 1 CHAN
-2 DATE 8 DEC 2025
-3 TIME 21:37:53
+2 DATE 27 DEC 2025
+3 TIME 17:39:37
 0 @I4651@ INDI
 1 NAME NN //
 2 TYPE birth
@@ -76193,9 +76227,13 @@
 1 FAMC @F1791@
 2 PEDI birth
 1 FAMS @F1794@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRGW-1RX?lang=en
 1 CHAN
-2 DATE 8 DEC 2025
-3 TIME 21:37:53
+2 DATE 27 DEC 2025
+3 TIME 17:41:11
 0 @I4653@ INDI
 1 NAME N. Minnerts //
 2 TYPE birth
@@ -76205,9 +76243,13 @@
 2 DATE 1504
 2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
 1 FAMS @F1794@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRGW-1RN?lang=en
 1 CHAN
-2 DATE 8 DEC 2025
-3 TIME 21:24:00
+2 DATE 27 DEC 2025
+3 TIME 17:43:31
 0 @I4654@ INDI
 1 NAME Saecke Alles //
 2 TYPE birth
@@ -76225,9 +76267,13 @@
 1 FAMC @F1791@
 2 PEDI birth
 1 FAMS @F1795@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-MH2?lang=en
 1 CHAN
-2 DATE 8 DEC 2025
-3 TIME 21:37:53
+2 DATE 27 DEC 2025
+3 TIME 13:08:33
 0 @I4655@ INDI
 1 NAME Jouck Rinthies //
 2 TYPE birth
@@ -76242,10 +76288,16 @@
 1 DEAT
 2 DATE 1581
 2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FAMC @F1853@
+2 PEDI birth
 1 FAMS @F1795@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-MCS?lang=en
 1 CHAN
-2 DATE 8 DEC 2025
-3 TIME 21:35:06
+2 DATE 28 DEC 2025
+3 TIME 16:57:29
 0 @I4656@ INDI
 1 NAME Barber Alles //
 2 TYPE birth
@@ -76260,9 +76312,13 @@
 1 FAMC @F1791@
 2 PEDI birth
 1 FAMS @F1796@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-MBZ?lang=en
 1 CHAN
-2 DATE 8 DEC 2025
-3 TIME 21:39:54
+2 DATE 27 DEC 2025
+3 TIME 17:42:26
 0 @I4657@ INDI
 1 NAME Lyeppe Rinthies //
 2 TYPE birth
@@ -76272,8 +76328,8 @@
 2 SPFX Lieppe Reyntthies
 1 SEX M
 1 BIRT
-2 DATE 1525
-2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+2 DATE ABT 1520
+2 NOTE @N1944@
 1 DEAT
 2 DATE 1575
 2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
@@ -76281,10 +76337,16 @@
 2 TYPE Occupation
 1 FACT Volmacht
 2 TYPE Occupation
+1 FAMC @F1853@
+2 PEDI birth
 1 FAMS @F1796@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-M1C?lang=en
 1 CHAN
-2 DATE 8 DEC 2025
-3 TIME 21:40:36
+2 DATE 28 DEC 2025
+3 TIME 16:57:29
 0 @I4658@ INDI
 1 NAME Rinnert Goytses //
 2 TYPE birth
@@ -76303,12 +76365,14 @@
 2 TYPE Occupation
 1 FACT Armenvoogd
 2 TYPE Occupation
+1 FAMC @F1846@
+2 PEDI birth
 1 FAMS @F1797@
 1 NOTE @N1901@
 1 NOTE @N1902@
 1 CHAN
-2 DATE 8 DEC 2025
-3 TIME 23:01:44
+2 DATE 15 DEC 2025
+3 TIME 22:25:56
 0 @I4659@ INDI
 1 NAME Sijke Hylckes //
 2 TYPE birth
@@ -76627,10 +76691,16 @@
 1 DEAT
 2 DATE 1583
 2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 FAMC @F1842@
+2 PEDI birth
 1 FAMS @F1806@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:36FV-VDX?lang=en
 1 CHAN
-2 DATE 10 DEC 2025
-3 TIME 22:50:46
+2 DATE 15 DEC 2025
+3 TIME 21:06:17
 0 @I4677@ INDI
 1 NAME Foop Sjoerdts /Ydsma/
 2 TYPE birth
@@ -77036,11 +77106,17 @@
 2 TYPE Occupation
 1 FACT Landeigenaar
 2 TYPE Occupation
+1 FAMC @F1832@
+2 PEDI birth
 1 FAMS @F1818@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2LQ
 1 NOTE @N1922@
 1 CHAN
-2 DATE 13 DEC 2025
-3 TIME 22:11:33
+2 DATE 14 DEC 2025
+3 TIME 14:54:07
 0 @I4700@ INDI
 1 NAME Aelthie Sjoerds /Ydtsma/
 2 TYPE birth
@@ -77550,6 +77626,1521 @@
 1 CHAN
 2 DATE 13 DEC 2025
 3 TIME 23:05:36
+0 @I4729@ INDI
+1 NAME NN //
+2 TYPE birth
+2 GIVN NN
+1 SEX F
+1 FAMS @F1832@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 14:05:50
+0 @I4730@ INDI
+1 NAME Aethie Aelckes /Ydtsma/
+2 TYPE birth
+2 GIVN Aethie Aelckes
+2 SURN Ydtsma
+1 NAME  /Aelcke Gerckes Ydtsma/
+2 TYPE aka
+2 SPFX Aelcke Gerckes Ydtsma
+1 NAME  /Aetze Gerckes Itsma/
+2 TYPE aka
+2 SPFX Aetze Gerckes Itsma
+1 SEX M
+1 BIRT
+2 DATE 1485
+2 PLAC Harkema Opeinde (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 1552
+2 PLAC Augustinusga (Achtkarspelen) [Friesland]
+1 FAMC @F1833@
+2 PEDI birth
+1 FAMS @F1832@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2LQ?lang=en
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 17:50:11
+0 @I4731@ INDI
+1 NAME Foop //
+2 TYPE birth
+2 GIVN Foop
+1 SEX F
+1 BIRT
+2 DATE ABT 1450
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 FAMS @F1833@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2LK?lang=en
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 14:53:08
+0 @I4732@ INDI
+1 NAME Aelcke Riencks /Ydtsma/
+2 TYPE birth
+2 GIVN Aelcke Riencks
+2 SURN Ydtsma
+1 NAME  /Aelcke Itsma/
+2 TYPE aka
+2 SPFX Aelcke Itsma
+1 NAME  /Aelcke Ydtsma/
+2 TYPE aka
+2 SPFX Aelcke Ydtsma
+1 SEX M
+1 BIRT
+2 DATE 1445
+2 PLAC Harkema Opeinde, Augustinusga (Achtkarspelen) [Friesland]
+1 FAMC @F1834@
+2 PEDI birth
+1 FAMS @F1833@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2L2?lang=en
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:43:21
+0 @I4733@ INDI
+1 NAME Gercke Aelckes /Ydtsma/
+2 TYPE birth
+2 GIVN Gercke Aelckes
+2 SURN Ydtsma
+1 NAME  /Gercke Aelckes Itsma/
+2 TYPE aka
+2 SPFX Gercke Aelckes Itsma
+1 SEX M
+1 BIRT
+2 DATE 1470
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 1511
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 FAMC @F1833@
+2 PEDI birth
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 15:07:14
+0 @I4734@ INDI
+1 NAME Wyts /Tjaerda van Starkenborgh/
+2 TYPE birth
+2 GIVN Wyts
+2 SURN Tjaerda van Starkenborgh
+1 NAME  /Wyts Sydsdr Tjaerda van Starkenborgh/
+2 TYPE aka
+2 SPFX Wyts Sydsdr Tjaerda van Starkenborgh
+1 SEX F
+1 BIRT
+2 DATE 1415
+2 PLAC Ee (Dongeradeel) [Friesland]
+1 DEAT
+2 DATE 1454
+1 FAMC @F1835@
+2 PEDI birth
+1 FAMS @F1834@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2LL?lang=en
+1 NOTE @N1927@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 17:18:39
+0 @I4735@ INDI
+1 NAME Rienck Werps /Ydtsma/
+2 TYPE birth
+2 GIVN Rienck Werps
+2 SURN Ydtsma
+1 SEX M
+1 BIRT
+2 DATE 1410
+2 PLAC Hennaarderadeel [Friesland]
+1 FAMC @F1841@
+2 PEDI birth
+1 FAMS @F1834@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2LG?lang=en
+1 NOTE @N1928@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 20:47:39
+0 @I4736@ INDI
+1 NAME Sietse /Tjaerda van Starkenborgh/
+2 TYPE birth
+2 GIVN Sietse
+2 SURN Tjaerda van Starkenborgh
+1 NAME  /Sydse Tjaerda/
+2 TYPE aka
+2 SPFX Sydse Tjaerda
+1 NAME  /Sydse Tjaerda (van Starkenborg)/
+2 TYPE aka
+2 SPFX Sydse Tjaerda (van Starkenborg)
+1 NAME  /Sydse Tjaerdtsz Tjaerda/
+2 TYPE aka
+2 SPFX Sydse Tjaerdtsz Tjaerda
+1 NAME  /Syds Tjaerds Starkenborg/
+2 TYPE aka
+2 SPFX Syds Tjaerds Starkenborg
+1 NAME  /Sydse Tjaerds (van Starkenborg)/
+2 TYPE aka
+2 SPFX Sydse Tjaerds (van Starkenborg)
+1 SEX M
+1 BIRT
+2 DATE ABT 1390
+2 PLAC Sijbrandahuis, Rinsumageest (Dantumadeel) [Friesland]
+1 DEAT
+2 DATE 10 OCT 1444
+2 PLAC Sijbrandahuis, Rinsumageest (Dantumadeel) [Friesland]
+1 FAMC @F1862@
+2 PEDI birth
+1 FAMS @F1835@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2LT?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:02:13
+0 @I4737@ INDI
+1 NAME Alydt Upkes /van Starkenborgh van Huninga/
+2 TYPE birth
+2 GIVN Alydt Upkes
+2 SURN van Starkenborgh van Huninga
+1 NAME  /Alydt Upkes van Starkenborgh van Huninga/
+2 TYPE aka
+2 SPFX Alydt Upkes van Starkenborgh van Huninga
+1 NAME  /Alydt Upkes Huninga (huyningha)/
+2 TYPE aka
+2 SPFX Alydt Upkes Huninga (huyningha)
+1 NAME  /Alydt Upkes Huninga/
+2 TYPE aka
+2 SPFX Alydt Upkes Huninga
+1 SEX F
+1 BIRT
+2 DATE 1390
+2 PLAC Selwerd (Groningen) [Groningen]
+1 DEAT
+2 DATE 1475
+2 PLAC Rinsumageest (Dantumadeel) [Friesland]
+1 FAMC @F1856@
+2 PEDI birth
+1 FAMS @F1835@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2LR?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 19:44:00
+0 @I4738@ INDI
+1 NAME Werp Riencks /Ydtsma/
+2 TYPE birth
+2 GIVN Werp Riencks
+2 SURN Ydtsma
+1 NAME Worp //
+2 TYPE aka
+2 GIVN Worp
+1 NAME  /later Donia (Ydsma, Idsma)/
+2 TYPE aka
+2 SPFX later Donia (Ydsma, Idsma)
+1 SEX M
+1 BIRT
+2 DATE 1440
+2 PLAC Dantumawoude (Dantumadeel) [Friesland]
+1 DEAT
+2 DATE 1515
+1 FAMC @F1834@
+2 PEDI birth
+1 FAMS @F1836@
+1 FAMS @F1838@
+1 NOTE @N1929@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:43:21
+0 @I4739@ INDI
+1 NAME Saepck Ndr //
+2 TYPE birth
+2 GIVN Saepck Ndr
+1 NAME  /later Donia/
+2 TYPE aka
+2 SPFX later Donia
+1 SEX F
+1 BIRT
+2 DATE 1440
+1 DEAT
+2 DATE AFT 1495
+1 FAMS @F1836@
+1 FAMS @F1837@
+1 NOTE @N1930@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:25:25
+0 @I4740@ INDI
+1 NAME Douwe Bockes /Donia/
+2 TYPE birth
+2 GIVN Douwe Bockes
+2 SURN Donia
+1 SEX M
+1 BIRT
+2 DATE 1435
+1 DEAT
+2 DATE BEF 1495
+1 FAMS @F1837@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:25:25
+0 @I4741@ INDI
+1 NAME Frau Gatzedr /Juwsma/
+2 TYPE birth
+2 GIVN Frau Gatzedr
+2 SURN Juwsma
+1 NAME  /Frouck/
+2 TYPE aka
+2 SPFX Frouck
+1 SEX F
+1 BIRT
+2 DATE 1452
+2 PLAC Rinsumageest (Dantumadeel) [Friesland]
+1 DEAT
+2 DATE 1500
+1 FAMS @F1838@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:34:32
+0 @I4742@ INDI
+1 NAME Douwe Riencks /Ydtsma/
+2 TYPE birth
+2 GIVN Douwe Riencks
+2 SURN Ydtsma
+1 SEX M
+1 BIRT
+2 DATE 1444
+1 FAMC @F1834@
+2 PEDI birth
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:43:21
+0 @I4743@ INDI
+1 NAME Keympe Riencks /Ydtsma/
+2 TYPE birth
+2 GIVN Keympe Riencks
+2 SURN Ydtsma
+1 SEX M
+1 BIRT
+2 DATE 1450
+1 FAMC @F1834@
+2 PEDI birth
+1 FAMS @F1839@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:43:21
+0 @I4744@ INDI
+1 NAME Kinsck /van Ayenga/
+2 TYPE birth
+2 GIVN Kinsck
+2 SPFX van
+2 SURN Ayenga
+1 NAME  /Alenga/
+2 TYPE aka
+2 SPFX Alenga
+1 SEX F
+1 BIRT
+2 DATE ABT 1440
+1 FAMS @F1839@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:39:51
+0 @I4745@ INDI
+1 NAME Jeppe Riencks /Ydtsma/
+2 TYPE birth
+2 GIVN Jeppe Riencks
+2 SURN Ydtsma
+1 NAME  /Jeppe van Elinga/
+2 TYPE aka
+2 SPFX Jeppe van Elinga
+1 NAME  /Jeppe Elinga/
+2 TYPE aka
+2 SPFX Jeppe Elinga
+1 NAME  /Ydsma/
+2 TYPE aka
+2 SPFX Ydsma
+1 SEX M
+1 BIRT
+2 DATE 1470
+2 PLAC Itens (Hennaarderadeel) [Friesland]
+1 FAMC @F1834@
+2 PEDI birth
+1 FAMS @F1840@
+1 NOTE @N1931@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:48:15
+0 @I4746@ INDI
+1 NAME NN /Elinga/
+2 TYPE birth
+2 GIVN NN
+2 SURN Elinga
+1 SEX F
+1 BIRT
+2 DATE ABT 1470
+1 DEAT
+2 DATE AFT 1537
+1 FAMS @F1840@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:49:00
+0 @I4747@ INDI
+1 NAME NN //
+2 TYPE birth
+2 GIVN NN
+1 SEX F
+1 FAMS @F1841@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 20:45:24
+0 @I4748@ INDI
+1 NAME Werp /Ydtsma/
+2 TYPE birth
+2 GIVN Werp
+2 SURN Ydtsma
+1 SEX M
+1 BIRT
+2 DATE 1375
+2 PLAC Hennaarderadeel [Friesland]
+1 FAMS @F1841@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 20:45:24
+0 @I4749@ INDI
+1 NAME Pyr Werps /Ydtsma/
+2 TYPE birth
+2 GIVN Pyr Werps
+2 SURN Ydtsma
+1 NAME  /Pyer/
+2 TYPE aka
+2 SPFX Pyer
+1 NAME  /Pier/
+2 TYPE aka
+2 SPFX Pier
+1 SEX M
+1 BIRT
+2 DATE 1400
+2 PLAC Oosterend (Hennaarderadeel) [Friesland]
+1 FAMC @F1841@
+2 PEDI birth
+1 NOTE @N1932@
+1 NOTE @N1933@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 20:49:33
+0 @I4750@ INDI
+1 NAME Foolck Jansdr //
+2 TYPE birth
+2 GIVN Foolck Jansdr
+1 SEX F
+1 BIRT
+2 DATE 1503
+1 FAMC @F1844@
+2 PEDI birth
+1 FAMS @F1842@
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 21:19:06
+0 @I4751@ INDI
+1 NAME Ebdye Wybes //
+2 TYPE birth
+2 GIVN Ebdye Wybes
+1 SEX M
+1 BIRT
+2 DATE 1503
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE AFT 1552
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 FAMC @F1845@
+2 PEDI birth
+1 FAMS @F1842@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:36FV-VDZ?lang=en
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 21:34:49
+0 @I4752@ INDI
+1 NAME Wybe Ebdyesz //
+2 TYPE birth
+2 GIVN Wybe Ebdyesz
+1 SEX M
+1 BIRT
+2 DATE 1530
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 1613
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 FAMC @F1842@
+2 PEDI birth
+1 FAMS @F1843@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:36FV-VDM?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 17:05:01
+0 @I4753@ INDI
+1 NAME Trijntje Rintziedr //
+2 TYPE birth
+2 GIVN Trijntje Rintziedr
+1 NAME  /Rinthiedr/
+2 TYPE aka
+2 SPFX Rinthiedr
+1 NAME  /Rinthies/
+2 TYPE aka
+2 SPFX Rinthies
+1 NAME  /Rintses/
+2 TYPE aka
+2 SPFX Rintses
+1 SEX F
+1 BIRT
+2 DATE AFT 1538
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 1616
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 FAMS @F1843@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:36FV-VD9?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 17:07:50
+0 @I4754@ INDI
+1 NAME Griet Ebbziedr //
+2 TYPE birth
+2 GIVN Griet Ebbziedr
+1 SEX F
+1 BIRT
+2 DATE AFT 1535
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE BEF 23 FEB 1598
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 FAMC @F1842@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:36FV-VDD?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 17:05:58
+0 @I4755@ INDI
+1 NAME Jannis Ebdyes //
+2 TYPE birth
+2 GIVN Jannis Ebdyes
+1 SEX M
+1 BIRT
+2 DATE AFT 1535
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 DEAT
+2 DATE 23 FEB 1598
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 FAMC @F1842@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:36FV-VD6?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 17:06:45
+0 @I4756@ INDI
+1 NAME Grietje //
+2 TYPE birth
+2 GIVN Grietje
+1 SEX F
+1 FAMS @F1844@
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 21:19:06
+0 @I4757@ INDI
+1 NAME Jan Bennes //
+2 TYPE birth
+2 GIVN Jan Bennes
+1 SEX M
+1 BIRT
+2 DATE ABT 1475
+1 FAMS @F1844@
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 21:19:06
+0 @I4758@ INDI
+1 NAME NN //
+2 TYPE birth
+2 GIVN NN
+1 SEX F
+1 FAMS @F1845@
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 21:34:49
+0 @I4759@ INDI
+1 NAME Wybe Wybes //
+2 TYPE birth
+2 GIVN Wybe Wybes
+1 SEX M
+1 BIRT
+2 DATE ABT 1470
+1 FAMS @F1845@
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 21:34:49
+0 @I4760@ INDI
+1 NAME Jouckjen Rinnerts //
+2 TYPE birth
+2 GIVN Jouckjen Rinnerts
+1 SEX F
+1 BIRT
+2 DATE 1557
+1 FAMS @F1846@
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 22:25:56
+0 @I4761@ INDI
+1 NAME Goythie Jans //
+2 TYPE birth
+2 GIVN Goythie Jans
+1 NAME  /Gooytsen/
+2 TYPE aka
+2 SPFX Gooytsen
+1 SEX M
+1 BIRT
+2 DATE 1554
+2 PLAC Kollumerzwaag (Kollumerland en Nieuwkruisland) [Friesland]
+1 DEAT
+2 DATE AFT 1623
+2 PLAC Bergum (Tietjerksteradeel) [Friesland]
+1 FAMS @F1846@
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 22:25:56
+0 @I4762@ INDI
+1 NAME Bauckjen Pyters //
+2 TYPE birth
+2 GIVN Bauckjen Pyters
+1 SEX F
+1 BIRT
+2 DATE ABT 1600
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE AFT 1667
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 FAMS @F1847@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-M2Q?lang=en
+1 CHAN
+2 DATE 17 DEC 2025
+3 TIME 22:05:55
+0 @I4763@ INDI
+1 NAME Saacke Hoeckes //
+2 TYPE birth
+2 GIVN Saacke Hoeckes
+1 NAME  /Saecke/
+2 TYPE aka
+2 SPFX Saecke
+1 SEX M
+1 BIRT
+2 DATE 1585
+2 PLAC Noorderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE BEF 1648
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FACT Dorpsrechter
+2 TYPE Occupation
+1 FAMC @F1850@
+2 PEDI birth
+1 FAMS @F1849@
+1 FAMS @F1847@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-MHZ?lang=en
+1 NOTE @N1934@
+1 CHAN
+2 DATE 17 DEC 2025
+3 TIME 22:36:18
+0 @I4764@ INDI
+1 NAME Haebel Saeckes //
+2 TYPE birth
+2 GIVN Haebel Saeckes
+1 SEX F
+1 BIRT
+2 DATE 1632
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1682
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMC @F1847@
+2 PEDI birth
+1 FAMS @F1848@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-M2H?lang=en
+1 CHAN
+2 DATE 17 DEC 2025
+3 TIME 22:15:00
+0 @I4765@ INDI
+1 NAME Hendrik Franzes //
+2 TYPE birth
+2 GIVN Hendrik Franzes
+1 SEX M
+1 BIRT
+2 DATE 1643
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1698
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FACT Veenbaas
+2 TYPE Occupation
+1 FAMS @F1848@
+1 CHAN
+2 DATE 17 DEC 2025
+3 TIME 22:15:00
+0 @I4766@ INDI
+1 NAME Hijlcke Feites //
+2 TYPE birth
+2 GIVN Hijlcke Feites
+1 SEX F
+1 BIRT
+2 DATE ABT 1610
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE ABT 1667
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 FAMS @F1849@
+1 CHAN
+2 DATE 17 DEC 2025
+3 TIME 22:17:49
+0 @I4767@ INDI
+1 NAME Haebel Saackes //
+2 TYPE birth
+2 GIVN Haebel Saackes
+1 SEX F
+1 BIRT
+2 DATE 1551
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FAMC @F1795@
+2 PEDI birth
+1 FAMS @F1850@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-MHH?lang=en
+1 CHAN
+2 DATE 27 DEC 2025
+3 TIME 13:20:44
+0 @I4768@ INDI
+1 NAME Hoecke Utses //
+2 TYPE birth
+2 GIVN Hoecke Utses
+1 NAME  /Wtties/
+2 TYPE aka
+2 SPFX Wtties
+1 SEX M
+1 BIRT
+2 DATE BEF 1549
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FAMS @F1850@
+1 OBJE
+2 FORM URL
+2 TITL Familysearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-MHS?lang=en
+1 CHAN
+2 DATE 17 DEC 2025
+3 TIME 22:39:40
+0 @I4770@ INDI
+1 NAME Arent Saeckes //
+2 TYPE birth
+2 GIVN Arent Saeckes
+1 SEX M
+1 BIRT
+2 DATE ABT 1536
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FAMC @F1795@
+2 PEDI birth
+1 CHAN
+2 DATE 27 DEC 2025
+3 TIME 13:20:44
+0 @I4771@ INDI
+1 NAME Eelck Saeckes //
+2 TYPE birth
+2 GIVN Eelck Saeckes
+1 SEX F
+1 BIRT
+2 DATE 1538
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE DEC 1584
+2 PLAC Leeuwarden [Friesland]
+1 FAMC @F1795@
+2 PEDI birth
+1 FAMS @F1852@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRGQ-MCL?lang=en
+1 CHAN
+2 DATE 27 DEC 2025
+3 TIME 15:40:14
+0 @I4772@ INDI
+1 NAME Eercke Arents /van Haersma/
+2 TYPE birth
+2 GIVN Eercke Arents
+2 SPFX van
+2 SURN Haersma
+1 SEX M
+1 BIRT
+2 DATE 1540
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE ABT 25 DEC 1584
+2 PLAC Leeuwarden [Friesland]
+2 NOTE @N1937@
+1 BURI
+2 PLAC Leeuwarden [Friesland]
+1 FAMS @F1852@
+1 CHAN
+2 DATE 27 DEC 2025
+3 TIME 15:40:14
+0 @I4773@ INDI
+1 NAME Houck Eerckes /van Haersma/
+2 TYPE birth
+2 GIVN Houck Eerckes
+2 SPFX van
+2 SURN Haersma
+1 NAME  /Houckje Aarckes/
+2 TYPE aka
+2 SPFX Houckje Aarckes
+1 SEX F
+1 BIRT
+2 DATE ABT 1564
+1 DEAT
+2 DATE 2 APR 1596
+2 PLAC Leeuwarden [Friesland]
+2 NOTE @N1938@
+2 NOTE @N1939@
+1 BURI
+2 PLAC Galileeërkerk te Leeuwarden [Friesland]
+1 FAMC @F1852@
+2 PEDI birth
+1 CHAN
+2 DATE 27 DEC 2025
+3 TIME 17:33:27
+0 @I4774@ INDI
+1 NAME Taets Eerckes /van Haersma/
+2 TYPE birth
+2 GIVN Taets Eerckes
+2 SPFX van
+2 SURN Haersma
+1 SEX F
+1 BIRT
+2 DATE ABT 1570
+1 DEAT
+2 DATE 1603
+2 PLAC Leeuwarden [Friesland]
+1 FAMC @F1852@
+2 PEDI birth
+1 CHAN
+2 DATE 27 DEC 2025
+3 TIME 17:33:27
+0 @I4775@ INDI
+1 NAME Arend Eerckes /van Haersma/
+2 TYPE birth
+2 GIVN Arend Eerckes
+2 SPFX van
+2 SURN Haersma
+1 NAME  /Arnoldus Arent/
+2 TYPE aka
+2 SPFX Arnoldus Arent
+1 SEX M
+1 BIRT
+2 DATE 1584
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE AFT 1643
+2 NOTE @N1941@
+1 FACT Grietman van Smallingerland 1625-1637
+2 TYPE Occupation
+1 FACT volmacht ten landdage
+2 TYPE Occupation
+1 FACT gecommitteerde in de Rekenkamer
+2 TYPE Occupation
+1 FAMC @F1852@
+2 PEDI birth
+1 NOTE @N1942@
+1 CHAN
+2 DATE 27 DEC 2025
+3 TIME 17:36:09
+0 @I4776@ INDI
+1 NAME Rinthie Oeges //
+2 TYPE birth
+2 GIVN Rinthie Oeges
+1 NAME  /Reynthie/
+2 TYPE aka
+2 SPFX Reynthie
+1 NAME  /Reyntthy/
+2 TYPE aka
+2 SPFX Reyntthy
+1 NAME  /Reijntthij/
+2 TYPE aka
+2 SPFX Reijntthij
+1 NAME  /Rintse/
+2 TYPE aka
+2 SPFX Rintse
+1 SEX M
+1 BIRT
+2 DATE ABT 1485
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE ABT 1543
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 FAMS @F1853@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-MB6?lang=en
+1 CHAN
+2 DATE 27 DEC 2025
+3 TIME 20:06:01
+0 @I4777@ INDI
+1 NAME Eelck Tjallings //
+2 TYPE birth
+2 GIVN Eelck Tjallings
+1 SEX F
+1 BIRT
+2 DATE ABT 1487
+1 FAMS @F1853@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-MBK?lang=en
+1 CHAN
+2 DATE 27 DEC 2025
+3 TIME 20:11:47
+0 @I4778@ INDI
+1 NAME Jeltje Rinthies //
+2 TYPE birth
+2 GIVN Jeltje Rinthies
+1 SEX F
+1 BIRT
+2 DATE 1516
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE AFT 1582
+2 PLAC Beets (Opsterland) [Friesland]
+2 NOTE @N1943@
+1 FAMC @F1853@
+2 PEDI birth
+1 FAMS @F1854@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-MBY?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 16:57:29
+0 @I4779@ INDI
+1 NAME Jochum Melles //
+2 TYPE birth
+2 GIVN Jochum Melles
+1 NAME  /Jogchum/
+2 TYPE aka
+2 SPFX Jogchum
+1 SEX M
+1 BIRT
+2 DATE ABT 1512
+2 PLAC Beets (Opsterland) [Friesland]
+1 DEAT
+2 DATE 1590
+2 PLAC Beets (Opsterland) [Friesland]
+1 FAMS @F1854@
+1 CHAN
+2 DATE 27 DEC 2025
+3 TIME 21:48:54
+0 @I4780@ INDI
+1 NAME Tjallingh Rinthies //
+2 TYPE birth
+2 GIVN Tjallingh Rinthies
+1 SEX M
+1 BIRT
+2 DATE 1520
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1591
+2 PLAC Kortehemmen (Smallingerland) [Friesland]
+1 FACT Boer
+2 TYPE Occupation
+1 FACT Dorpsrechter
+2 TYPE Occupation
+1 FAMC @F1853@
+2 PEDI birth
+1 FAMS @F1855@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-M1W?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 16:57:29
+0 @I4781@ INDI
+1 NAME NN Douwes //
+2 TYPE birth
+2 GIVN NN Douwes
+1 SEX F
+1 BIRT
+2 DATE 1522
+2 PLAC Nijega (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1591
+2 PLAC Kortehemmen (Smallingerland) [Friesland]
+1 FAMS @F1855@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-9MC?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:22:47
+0 @I4782@ INDI
+1 NAME Rixt Rinthies //
+2 TYPE birth
+2 GIVN Rixt Rinthies
+1 SEX F
+1 BIRT
+2 DATE ABT 1522
+2 PLAC Zuiderdrachten (Smallingerland) [Friesland]
+1 DEAT
+2 DATE 1589
+2 PLAC Garijp (Tietjerksteradeel) [Friesland]
+1 FAMC @F1853@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:SRG4-M1N?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 16:57:29
+0 @I4783@ INDI
+1 NAME Upko Hemmens /Huningha/
+2 TYPE birth
+2 GIVN Upko Hemmens
+2 SURN Huningha
+1 NAME  /Upko Hemmens Huninga/
+2 TYPE aka
+2 SPFX Upko Hemmens Huninga
+1 SEX M
+1 BIRT
+2 DATE BET 1342 AND 1350
+2 PLAC Oostwold (Leek) [Groningen]
+3 MAP
+4 LATI N53.201523
+4 LONG E6.440103
+1 DEAT
+2 DATE 1398
+2 PLAC Oostwold (Leek) [Groningen]
+3 MAP
+4 LATI N53.201523
+4 LONG E6.440103
+1 FAMC @F1857@
+2 PEDI birth
+1 FAMS @F1856@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2GM?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:15:09
+0 @I4784@ INDI
+1 NAME Weya /Poptada/
+2 TYPE birth
+2 GIVN Weya
+2 SURN Poptada
+1 SEX F
+1 BIRT
+2 DATE 1355
+2 PLAC Oostwold (Midwolda) [Groningen]
+3 MAP
+4 LATI N53.202354
+4 LONG E7.045025
+1 DEAT
+2 DATE 1412
+2 PLAC Oostwold (Midwolda) [Groningen]
+3 MAP
+4 LATI N53.202354
+4 LONG E7.045025
+1 FAMS @F1856@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2L1?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 17:32:57
+0 @I4785@ INDI
+1 NAME Hemmo Upkes /Huninga/
+2 TYPE birth
+2 GIVN Hemmo Upkes
+2 SURN Huninga
+1 NAME  /Hemmo Upkes Huningha/
+2 TYPE aka
+2 SPFX Hemmo Upkes Huningha
+1 SEX M
+1 BIRT
+2 DATE 1325
+2 PLAC Oostwold (Midwolda) [Groningen]
+3 MAP
+4 LATI N53.202354
+4 LONG E7.045025
+1 DEAT
+2 DATE 1420
+1 FAMC @F1858@
+2 PEDI birth
+1 FAMS @F1857@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2G9?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:24:13
+0 @I4786@ INDI
+1 NAME Ideke /Houwerda/
+2 TYPE birth
+2 GIVN Ideke
+2 SURN Houwerda
+1 SEX F
+1 BIRT
+2 DATE 1325
+2 PLAC Termunten (Delfzijl) [Groningen]
+1 DEAT
+2 DATE 1428
+1 FAMC @F1866@
+2 PEDI birth
+1 FAMS @F1857@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2GS?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:42:06
+0 @I4787@ INDI
+1 NAME Upko /Huninga/
+2 TYPE birth
+2 GIVN Upko
+2 SURN Huninga
+1 SEX M
+1 BIRT
+2 DATE ABT 1300
+2 PLAC Huningue, Haut-Rhin, Alsace, France
+1 FAMC @F1859@
+2 PEDI birth
+1 FAMS @F1858@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2GQ?lang=en
+1 NOTE @N1947@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:14:10
+0 @I4788@ INDI
+1 NAME Juffer Hunens //
+2 TYPE birth
+2 GIVN Juffer Hunens
+1 SEX F
+1 BIRT
+2 DATE 1305
+2 PLAC Uckoborg, Jemgum, East‑Frisia, Germany
+3 NOTE @N1946@
+1 FAMC @F1860@
+2 PEDI birth
+1 FAMS @F1858@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2G3?lang=en
+1 NOTE @N1948@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:22:29
+0 @I4789@ INDI
+1 NAME NN /Hunigue/
+2 TYPE birth
+2 GIVN NN
+2 SURN Hunigue
+1 SEX M
+1 BIRT
+2 DATE ABT 1264
+2 PLAC Huningue, Haut-Rhin, Alsace, France
+1 FAMS @F1859@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:14:10
+0 @I4790@ INDI
+1 NAME nn //
+2 TYPE birth
+2 GIVN nn
+1 SEX F
+1 BIRT
+2 DATE ABT 1269
+2 PLAC Huningue, Haut-Rhin, Alsace, France
+1 FAMS @F1859@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:14:10
+0 @I4791@ INDI
+1 NAME NN /Uckoborg/
+2 TYPE birth
+2 GIVN NN
+2 SURN Uckoborg
+1 SEX M
+1 BIRT
+2 DATE ABT 1280
+1 FAMS @F1860@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:22:29
+0 @I4792@ INDI
+1 NAME nn /Uckoborg/
+2 TYPE birth
+2 GIVN nn
+2 SURN Uckoborg
+1 SEX F
+1 BIRT
+2 DATE ABT 1285
+1 FAMS @F1860@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:22:29
+0 @I4793@ INDI
+1 NAME Wemele /Huninga/
+2 TYPE birth
+2 GIVN Wemele
+2 SURN Huninga
+1 SEX F
+1 FAMC @F1858@
+2 PEDI birth
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:24:13
+0 @I4794@ INDI
+1 NAME Hayo /Huninga/
+2 TYPE birth
+2 GIVN Hayo
+2 SURN Huninga
+1 SEX M
+1 BIRT
+2 DATE BET 1325 AND 1336
+1 FACT Proost van het klooster te Aduard.
+2 TYPE Occupation
+1 FAMC @F1858@
+2 PEDI birth
+1 FAMS @F1861@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:30:33
+0 @I4795@ INDI
+1 NAME NN Ayolts /Weynga/
+2 TYPE birth
+2 GIVN NN Ayolts
+2 SURN Weynga
+1 SEX F
+1 FAMS @F1861@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:30:33
+0 @I4796@ INDI
+1 NAME NN /Huninga/
+2 TYPE birth
+2 GIVN NN
+2 SURN Huninga
+1 SEX M
+1 FAMC @F1861@
+2 PEDI birth
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:30:33
+0 @I4797@ INDI
+1 NAME Tjaerdt Epes /Tjaerda van Starkenborgh/
+2 TYPE birth
+2 GIVN Tjaerdt Epes
+2 SURN Tjaerda van Starkenborgh
+1 SEX M
+1 BIRT
+2 DATE ABT 1360
+2 PLAC Rinsumageest (Dantumadeel) [Friesland]
+1 DEAT
+2 DATE 1429
+2 PLAC Rinsumageest (Dantumadeel) [Friesland]
+1 FAMC @F1863@
+2 PEDI birth
+1 FAMS @F1862@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2LB?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:15:18
+0 @I4798@ INDI
+1 NAME Jouck Sytses /van Martena/
+2 TYPE birth
+2 GIVN Jouck Sytses
+2 SPFX van
+2 SURN Martena
+1 SEX F
+1 BIRT
+2 DATE BET 1360 AND 1375
+2 PLAC Cornjum (Leeuwarderadeel) [Friesland]
+3 MAP
+4 LATI N53.243547
+4 LONG E5.780743
+1 DEAT
+2 DATE 1429
+2 PLAC Rinsumageest (Dantumadeel) [Friesland]
+1 FAMC @F1864@
+2 PEDI birth
+1 FAMS @F1862@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2LY?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:56:03
+0 @I4799@ INDI
+1 NAME Epe /Tjaerda van Starkenborgh/
+2 TYPE birth
+2 GIVN Epe
+2 SURN Tjaerda van Starkenborgh
+1 SEX M
+1 FAMS @F1863@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2G7?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:15:18
+0 @I4800@ INDI
+1 NAME Sytse Hessels /van Martena/
+2 TYPE birth
+2 GIVN Sytse Hessels
+2 SPFX van
+2 SURN Martena
+1 NAME  /Syds Hessels van Martena/
+2 TYPE aka
+2 SPFX Syds Hessels van Martena
+1 SEX M
+1 BIRT
+2 DATE 1300
+2 PLAC Cornjum (Leeuwarderadeel) [Friesland]
+3 MAP
+4 LATI N53.243547
+4 LONG E5.780743
+1 DEAT
+2 DATE 1360
+1 FAMC @F1865@
+2 PEDI birth
+1 FAMS @F1864@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2GW?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:47:08
+0 @I4801@ INDI
+1 NAME Hessel Sydses /van Martena/
+2 TYPE birth
+2 GIVN Hessel Sydses
+2 SPFX van
+2 SURN Martena
+1 SEX M
+1 BIRT
+2 DATE 1275
+2 PLAC Cornjum (Leeuwarderadeel) [Friesland]
+3 MAP
+4 LATI N53.243547
+4 LONG E5.780743
+1 DEAT
+2 DATE 16 AUG 1312
+2 PLAC Cornjum (Leeuwarderadeel) [Friesland]
+3 MAP
+4 LATI N53.243547
+4 LONG E5.780743
+1 FAMC @F1868@
+2 PEDI birth
+1 FAMS @F1865@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2G4?lang=en
+1 NOTE @N1950@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 23:23:46
+0 @I4802@ INDI
+1 NAME Menno /Houwerda/
+2 TYPE birth
+2 GIVN Menno
+2 SURN Houwerda
+1 SEX M
+1 BIRT
+2 DATE 1320
+2 PLAC Oostwold
+1 DEAT
+2 DATE 2 NOV 1418
+1 FAMS @F1866@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:42:06
+0 @I4803@ INDI
+1 NAME Gedeke /Weynga/
+2 TYPE birth
+2 GIVN Gedeke
+2 SURN Weynga
+1 NAME  /Gedeke Weijinga/
+2 TYPE aka
+2 SPFX Gedeke Weijinga
+1 SEX F
+1 FAMS @F1866@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:42:06
+0 @I4804@ INDI
+1 NAME Johan Sytzes /van Martena/
+2 TYPE birth
+2 GIVN Johan Sytzes
+2 SPFX van
+2 SURN Martena
+1 SEX M
+1 BIRT
+2 DATE 1320
+2 PLAC Cornjum (Leeuwarderadeel) [Friesland]
+3 MAP
+4 LATI N53.243547
+4 LONG E5.780743
+1 DEAT
+2 DATE 1363
+2 PLAC Cornjum (Leeuwarderadeel) [Friesland]
+3 MAP
+4 LATI N53.243547
+4 LONG E5.780743
+1 FACT Huursoldaat voor de heer van Egmond.
+2 TYPE Occupation
+1 FAMC @F1864@
+2 PEDI birth
+1 FAMS @F1867@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 23:01:02
+0 @I4805@ INDI
+1 NAME Auck Sippes /Heemstra/
+2 TYPE birth
+2 GIVN Auck Sippes
+2 SURN Heemstra
+1 SEX F
+1 DEAT
+2 PLAC Morra [Friesland]
+3 MAP
+4 LATI N53.372204
+4 LONG E6.089045
+1 FAMS @F1867@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 23:01:02
+0 @I4806@ INDI
+1 NAME Sietse Hessels /van Martena/
+2 TYPE birth
+2 GIVN Sietse Hessels
+2 SPFX van
+2 SURN Martena
+1 NAME  /Sytse Hessels Martena/
+2 TYPE aka
+2 SPFX Sytse Hessels Martena
+1 NAME  /Syts Hessels van Martena/
+2 TYPE aka
+2 SPFX Syts Hessels van Martena
+1 NAME  /Sytse Hessel van Martena/
+2 TYPE aka
+2 SPFX Sytse Hessel van Martena
+1 NAME  /Syts van Martena/
+2 TYPE aka
+2 SPFX Syts van Martena
+1 SEX M
+1 BIRT
+2 DATE 1250
+2 PLAC Cornjum (Leeuwarderadeel) [Friesland]
+3 MAP
+4 LATI N53.243547
+4 LONG E5.780743
+1 DEAT
+2 DATE 1330
+1 FAMC @F1869@
+2 PEDI birth
+1 FAMS @F1868@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2GH?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 23:31:35
+0 @I4807@ INDI
+1 NAME Hessel Sytses /van Martena/
+2 TYPE birth
+2 GIVN Hessel Sytses
+2 SPFX van
+2 SURN Martena
+1 NAME  /Hessel Sydses Martena/
+2 TYPE aka
+2 SPFX Hessel Sydses Martena
+1 NAME  /Hessel Sydses van Martena/
+2 TYPE aka
+2 SPFX Hessel Sydses van Martena
+1 SEX M
+1 BIRT
+2 DATE 1225
+2 PLAC Cornjum (Leeuwarderadeel) [Friesland]
+3 MAP
+4 LATI N53.243547
+4 LONG E5.780743
+1 DEAT
+2 DATE 16 AUG 1312
+2 NOTE @N1951@
+1 FAMS @F1869@
+1 OBJE
+2 FORM URL
+2 TITL FamilySearch
+2 FILE https://www.familysearch.org/ark:/61903/2:2:3H6N-2GC?lang=en
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 23:32:18
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -95222,9 +96813,12 @@
 1 MARR
 2 DATE ABT 1534
 2 PLAC Drachten (Smallingerland) [Friesland]
+1 CHIL @I4770@
+1 CHIL @I4771@
+1 CHIL @I4767@
 1 CHAN
-2 DATE 8 DEC 2025
-3 TIME 21:35:06
+2 DATE 27 DEC 2025
+3 TIME 13:20:44
 0 @F1796@ FAM
 1 HUSB @I4657@
 1 WIFE @I4656@
@@ -95559,6 +97153,312 @@
 1 CHAN
 2 DATE 13 DEC 2025
 3 TIME 23:04:12
+0 @F1832@ FAM
+1 HUSB @I4730@
+1 WIFE @I4729@
+1 CHIL @I4699@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 14:05:50
+0 @F1833@ FAM
+1 HUSB @I4732@
+1 WIFE @I4731@
+1 MARR
+2 DATE BEF 1472
+2 PLAC Drogeham (Achtkarspelen) [Friesland]
+1 CHIL @I4733@
+1 CHIL @I4730@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 15:06:29
+0 @F1834@ FAM
+1 HUSB @I4735@
+1 WIFE @I4734@
+1 CHIL @I4738@
+1 CHIL @I4742@
+1 CHIL @I4732@
+1 CHIL @I4743@
+1 CHIL @I4745@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:43:21
+0 @F1835@ FAM
+1 HUSB @I4736@
+1 WIFE @I4737@
+1 CHIL @I4734@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 18:46:16
+0 @F1836@ FAM
+1 HUSB @I4738@
+1 WIFE @I4739@
+1 MARR
+2 DATE 1470
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:29:14
+0 @F1837@ FAM
+1 HUSB @I4740@
+1 WIFE @I4739@
+1 MARR
+2 DATE 1460
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:25:25
+0 @F1838@ FAM
+1 HUSB @I4738@
+1 WIFE @I4741@
+1 MARR
+2 DATE AFT 1485
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:34:32
+0 @F1839@ FAM
+1 HUSB @I4743@
+1 WIFE @I4744@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:39:51
+0 @F1840@ FAM
+1 HUSB @I4745@
+1 WIFE @I4746@
+1 MARR
+2 DATE ABT 1490
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 19:48:15
+0 @F1841@ FAM
+1 HUSB @I4748@
+1 WIFE @I4747@
+1 CHIL @I4749@
+1 CHIL @I4735@
+1 CHAN
+2 DATE 14 DEC 2025
+3 TIME 20:47:39
+0 @F1842@ FAM
+1 HUSB @I4751@
+1 WIFE @I4750@
+1 MARR
+2 DATE ABT 1530
+1 MARR
+2 DATE 1535
+2 PLAC Achtkarspelen [Friesland]
+3 MAP
+4 LATI N53.25
+4 LONG E6.15
+1 CHIL @I4752@
+1 CHIL @I4754@
+1 CHIL @I4755@
+1 CHIL @I4676@
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 21:06:17
+0 @F1843@ FAM
+1 HUSB @I4752@
+1 WIFE @I4753@
+1 MARR
+2 DATE ABT 1555
+2 PLAC Kooten (Achtkarspelen) [Friesland]
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 08:08:04
+0 @F1844@ FAM
+1 HUSB @I4757@
+1 WIFE @I4756@
+1 CHIL @I4750@
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 21:19:06
+0 @F1845@ FAM
+1 HUSB @I4759@
+1 WIFE @I4758@
+1 CHIL @I4751@
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 21:34:49
+0 @F1846@ FAM
+1 HUSB @I4761@
+1 WIFE @I4760@
+1 CHIL @I4658@
+1 CHAN
+2 DATE 15 DEC 2025
+3 TIME 22:25:56
+0 @F1847@ FAM
+1 HUSB @I4763@
+1 WIFE @I4762@
+1 MARR
+2 DATE ABT 1628
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 CHIL @I4612@
+1 CHIL @I4764@
+1 CHAN
+2 DATE 17 DEC 2025
+3 TIME 22:07:34
+0 @F1848@ FAM
+1 HUSB @I4765@
+1 WIFE @I4764@
+1 MARR
+2 DATE 1660
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 CHAN
+2 DATE 17 DEC 2025
+3 TIME 22:15:00
+0 @F1849@ FAM
+1 HUSB @I4763@
+1 WIFE @I4766@
+1 CHAN
+2 DATE 17 DEC 2025
+3 TIME 22:17:49
+0 @F1850@ FAM
+1 HUSB @I4768@
+1 WIFE @I4767@
+1 MARR
+2 DATE ABT 1575
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 CHIL @I4763@
+1 CHAN
+2 DATE 17 DEC 2025
+3 TIME 22:36:18
+0 @F1852@ FAM
+1 HUSB @I4772@
+1 WIFE @I4771@
+1 MARR
+2 DATE ABT 1560
+2 PLAC Leeuwarden [Friesland]
+1 CHIL @I4773@
+1 CHIL @I4774@
+1 CHIL @I4775@
+1 CHAN
+2 DATE 27 DEC 2025
+3 TIME 17:33:27
+0 @F1853@ FAM
+1 HUSB @I4776@
+1 WIFE @I4777@
+1 MARR
+2 DATE ABT 1510
+2 PLAC Drachten (Smallingerland) [Friesland]
+1 CHIL @I4655@
+1 CHIL @I4778@
+1 CHIL @I4780@
+1 CHIL @I4657@
+1 CHIL @I4782@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 16:57:29
+0 @F1854@ FAM
+1 HUSB @I4779@
+1 WIFE @I4778@
+1 MARR
+2 DATE ABT 1535
+2 PLAC Beets (Opsterland) [Friesland]
+1 CHAN
+2 DATE 27 DEC 2025
+3 TIME 21:48:54
+0 @F1855@ FAM
+1 HUSB @I4780@
+1 WIFE @I4781@
+1 MARR
+2 DATE 1544
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 14:28:37
+0 @F1856@ FAM
+1 HUSB @I4783@
+1 WIFE @I4784@
+1 CHIL @I4737@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 19:44:00
+0 @F1857@ FAM
+1 HUSB @I4785@
+1 WIFE @I4786@
+1 CHIL @I4783@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:15:09
+0 @F1858@ FAM
+1 HUSB @I4787@
+1 WIFE @I4788@
+1 MARR
+2 DATE ABT 1320
+1 CHIL @I4785@
+1 CHIL @I4794@
+1 CHIL @I4793@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:24:13
+0 @F1859@ FAM
+1 HUSB @I4789@
+1 WIFE @I4790@
+1 CHIL @I4787@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:14:10
+0 @F1860@ FAM
+1 HUSB @I4791@
+1 WIFE @I4792@
+1 CHIL @I4788@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:22:29
+0 @F1861@ FAM
+1 HUSB @I4794@
+1 WIFE @I4795@
+1 CHIL @I4796@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 20:30:33
+0 @F1862@ FAM
+1 HUSB @I4797@
+1 WIFE @I4798@
+1 CHIL @I4736@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:02:13
+0 @F1863@ FAM
+1 HUSB @I4799@
+1 CHIL @I4797@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:15:18
+0 @F1864@ FAM
+1 HUSB @I4800@
+1 CHIL @I4804@
+1 CHIL @I4798@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:56:03
+0 @F1865@ FAM
+1 HUSB @I4801@
+1 CHIL @I4800@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:26:41
+0 @F1866@ FAM
+1 HUSB @I4802@
+1 WIFE @I4803@
+1 CHIL @I4786@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 22:42:06
+0 @F1867@ FAM
+1 HUSB @I4804@
+1 WIFE @I4805@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 23:01:02
+0 @F1868@ FAM
+1 HUSB @I4806@
+1 CHIL @I4801@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 23:23:46
+0 @F1869@ FAM
+1 HUSB @I4807@
+1 CHIL @I4806@
+1 CHAN
+2 DATE 28 DEC 2025
+3 TIME 23:31:35
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -106443,6 +108343,7 @@
 1 CONC e Wybrens ten westen, de hooiweg ten zuiden en 't "Oldiept" ten noorden
 1 CONC ; bij wijze van rente de crediteuren het gebruik van deze maden toegesta
 1 CONC an
+0 @N1898@ NOTE Volgens FamilySearch.
 0 @N1899@ NOTE Bron: Tietjerksteradeel e.o.
 1 CONT Soort registratie: Vermeldingen Tietjerksteradeel e.o.
 1 CONT Bijzonderheden: Berber Haersma;
@@ -106663,6 +108564,122 @@
 0 @N1923@ NOTE Ook vermelding van overlijden in 1572.
 0 @N1924@ NOTE Ook vermelding van overlijden in Suameer (Tietsjerksteradeel) [Frie
 1 CONC sland]
+0 @N1925@ NOTE https://www.familysearch.org/ark:/61903/2:2:3H6N-2LQ?lang=en
+0 @N1926@ NOTE https://www.familysearch.org/ark:/61903/2:2:3H6N-2LQ?lang=en
+0 @N1927@ NOTE Afkomstig uit Ee.
+0 @N1928@ NOTE Afkomstig uit Wierum.ook genaamd Ydsma
+1 CONT Genoemd omstreeks 1483 en vermoedelijk in OFO IV-75 d.d. 28-6-1487.
+0 @N1929@ NOTE Werp genoemd in 1487 en te Dantumawoude bij R.v.A. 1511 en 1514.
+1 CONT Hij noemde zich ook wel Donia na zijn huwelijk met Saepck.
+1 CONT Volgens het stamboek F.A. zouden alle 4 kinderen van de eerste vrouw zij
+1 CONC n.
+0 @N1930@ NOTE Zij noemde zich Saepck van Donia naar haar overleden man.
+0 @N1931@ NOTE Hij noemde zich Jeppe van Elinga en wordt genoemd in OFO IV-119 d.d
+1 CONC . 27-3-1500.
+1 CONT HvF 16689-14 d.d. 1538: Jeppe Elinga namens zijn vrouw.
+1 CONT HvF 16691-4 d.d. 1554: Jeppe Elinga kinderen met als voogd Foppe Matthys
+1 CONC es Unia.
+0 @N1932@ NOTE Pyr (Pier), wordt op 18 augustus 1450 genoemd als mederechter van H
+1 CONC ennaarderadeel en zijn zegel hechtte aan een koopbrief.
+0 @N1933@ NOTE In de nalatenschap van Hoyte Sipkens uit 1565 is onder andere sprak
+1 CONC e van ‘brieven beroerende Pyr Ydtsma’. Deze man zal ongetwijfeld dezelfd
+1 CONC e zijn als Peder Ydzama, die op 18-8-1450 als mederechter van Hennaarder
+1 CONC adeel zijn zegel hechtte aan een koopbrief, net als de grietman Jarich E
+1 CONC posoen te Wommels en de andere mederechter, Jelle Koyfen. De schrijver
+1 CONC s van het artikel uit het GJ, gerenommeerde (Friese) genealogen, nemen a
+1 CONC an dat Pier de vader is van Syurdt.
+0 @N1934@ NOTE Saecke Hoeckes
+1 CONT Namen geboorte: Sake Hoe(c)kes Saeke Hoeckes Saecke Hoeckes
+1 CONT Geslacht: Man
+1 CONT Geboorte: 1585 - Drachten, Smallingerland, Friesland, Nederland
+1 CONT Huwelijk: Echtgeno(o)t(e) of partner: Bauckjen Pyters - Tussen 1619 en 1
+1 CONC 620
+1 CONT Huwelijk: Echtgeno(o)t(e) of partner: Baukje Pieters - Tussen 1620 en 16
+1 CONC 28 - Drachten, Smallingerland, Friesland, Nederland
+1 CONT Overlijden: Tot 1647 - Zuider Drachten, Friesland, Nederland
+1 CONT Beroep: dorpsrechter
+1 CONT Ouders: Hoecke Wtties, Haebel Sakes
+1 CONT Echtgenoten of partners: Bauckjen Pyters, Baukje Pieters, Hijlcke Feites
+1 CONT Kinderen: Pieter Sakes, Heabel Sakes
+0 @N1935@ NOTE Volgens Familysearch.
+0 @N1936@ NOTE Volgens Familysearch.
+0 @N1937@ NOTE Genoemd
+1 CONT Eerke Arends van Haersma
+1 CONT Diversen: gecommitteerde ten landsdage
+1 CONT Religie: N.H.
+1 CONT Gehuwd met: Eelkje Sakes
+0 @N1938@ NOTE Aanvulling begraafboeken
+1 CONT Soort registratie: Inschrijving Leeuwarden Aanvulling Begraafboek
+1 CONT (Akte)datum: 02-04-1596
+1 CONT Plaats: Leeuwarden
+1 CONT Bijzonderheden:
+1 CONT Signatuur: ZERK-GK
+1 CONT Overledene Houck Eercke Arentsdr. (haersma)
+1 CONT overleden op 02-04-1596
+1 CONT Relatie gehuwd met dr. Jelte Hillama
+1 CONT 
+1 CONT Genoemd
+1 CONT Houkje Eerkes van Haersma
+1 CONT leeftijd 32 jaar, overleden op 02-04-1596
+1 CONT Diversen: geboren rond 1564
+1 CONT Religie: N.H.
+1 CONT Kind van: Eerke Haersma
+1 CONT Gehuwd met: Jelte Keimpes Hillama
+0 @N1939@ NOTE Bron: Tietjerksteradeel e.o.
+1 CONT Soort registratie: Vermeldingen Tietjerksteradeel e.o.
+1 CONT Bijzonderheden:
+1 CONT Houck Eerckedr Haersma; overl. (Leeuwarden) 2 april 1596;
+1 CONT tr. dr. Gellius Hillama (el. 1588); LWN y14 849; Ned. Leeuw 1923 9; Gen
+1 CONC . Jierb. 1985 63; De Heeren van den Rade 264-266; geen kinderen
+1 CONT Vermeld Houck Eerckedr Haersma
+1 CONT Vader Eercke Arentsz
+1 CONT Moeder Eelck Saeckedr
+0 @N1940@ NOTE family search: Grietman van Smallingerland
+0 @N1941@ NOTE Genoemd Arend Eerkes van Haersma
+1 CONT Diversen: geboren rond 1584;
+1 CONT grietman Smallingerland 1625-1637; overleden na 1643
+1 CONT Religie: N.H.
+1 CONT Gehuwd met: 1609 Hielkje van Harckama
+0 @N1942@ NOTE Tietjerksteradeel e.o.
+1 CONT Soort registratie: Tietjerksteradeel bevolking inschrijvingen
+1 CONT Bijzonderheden:
+1 CONT AErnt van Haersma; grietman van Smallingerland 1625-1637, volmacht ten l
+1 CONC anddage, gecommitteerde in de Rekenkamer;
+1 CONT tr. Dokkum 30 juli 1609 Hylck van Harckama;
+1 CONT op lidm. lijst Oudega 1640 (obiit), testeert Oudega 16 okt. 1643; is 164
+1 CONC 0 eig. voor ½ van Oostermeer stem 25; TIE S3 131v;
+1 CONT ki.: Eelckjen, geb. 1610 (tr. Pytter Boelens); Aulus, geb. 1611
+1 CONT Vermeld AErnt van Haersma
+1 CONT Vader Eercke Haersma
+1 CONT Moeder Eelck Saeckedr
+0 @N1943@ NOTE Volgens FamilySearch
+0 @N1944@ NOTE Volgens Familysearch
+0 @N1945@ NOTE Volgens Familysearch
+0 @N1946@ NOTE Er is niets van de Uckoborg bekend of teruggevonden.
+0 @N1947@ NOTE https://www.nazatendevries.nl/Genealogie/Huninga/Upko%20N%20Huninga
+1 CONC %20en%20Juffer%20Hunens%20v.d.%20Uckoborg.html
+0 @N1948@ NOTE https://www.nazatendevries.nl/Genealogie/Huninga/Upko%20N%20Huninga
+1 CONC %20en%20Juffer%20Hunens%20v.d.%20Uckoborg.html
+0 @N1949@ NOTE Sytse Hessels van Martena was een edelman en had verschillende best
+1 CONC uursfuncties in Friesland, waaronder die van grietman van het district M
+1 CONC enaldumadeel. Hij wordt ook genoemd als een van de getuigen in een oorko
+1 CONC nde uit 1285 waarin de bisschop vanUtrecht privileges verleende aan de i
+1 CONC nwoners van Leeuwarden.
+0 @N1950@ NOTE MARTENA (Hessel van) was de 9e, of volgens anderen de 10e, potentaa
+1 CONC t van Friesland, waartoe hij den 6 November 1306 verkozen werd. Hij wa
+1 CONC s een vreedzaam man, die den oorlog niet beminde, doch meermalen werd hi
+1 CONC j genoodzaakt ten oorlog te trekken, zoo als in 1309, toen de graaf va
+1 CONC n Holland met 1500 man in Gaasterland viel, dat brandschatte en vervolge
+1 CONC ns naar Stavoren trok, waar Martena met zijne Friezen lag. Deze trok de
+1 CONC n graaf tegen, doch nog voor hij Gaasterland bereikt had, had deze het r
+1 CONC eeds verlaten. Hij overleed den 16 Augustus 1312. Joannes Vlieterpius, d
+1 CONC oor zijne geschiedkundige schriften bekend, was zijn geheimschrijver.
+1 CONT 
+1 CONT Zie Ocko Scharlensis, Chron. v. Friesl. bl. 136-133; Hamconius, Frisia
+1 CONC . p. 44; Winsemius, Chron. v. Friesl. bl. 185-187, 190; Schotanus, Gesch
+1 CONC . v. Friesl. bl. 164; Suffrid. Petrus, de Script. Frisia, dec. VIII, cap
+1 CONC . 2; te Water, Verb. der Edelen, D. III. bl. 95.
+0 @N1951@ NOTE Mogelijk verwisseling.
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
