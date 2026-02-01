@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 24 JAN 2026
-2 TIME 23:29:57
+1 DATE 1 FEB 2026
+2 TIME 23:43:48
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2026 .
@@ -2759,8 +2759,8 @@
 1 FAMS @F0063@
 1 NOTE @N0064@
 1 CHAN
-2 DATE 11 AUG 2025
-3 TIME 00:26:25
+2 DATE 29 JAN 2026
+3 TIME 21:12:26
 0 @I0141@ INDI
 1 NAME Clasina /de Bie/
 2 TYPE birth
@@ -5577,8 +5577,8 @@
 2 PEDI birth
 1 FAMS @F0134@
 1 CHAN
-2 DATE 26 JAN 2025
-3 TIME 12:34:33
+2 DATE 30 JAN 2026
+3 TIME 15:05:33
 0 @I0290@ INDI
 1 NAME Maaike Adriana /Bor/
 2 TYPE birth
@@ -6675,22 +6675,41 @@
 3 MAP
 4 LATI N52.486864
 4 LONG E4.657112
+1 BURI
+2 PLAC De Biezen te Santpoort-Noord [Noord Holland]
+1 FACT Visscher
+2 TYPE Occupation
 1 FAMC @F0157@
 2 PEDI birth
 1 FAMS @F0156@
+1 FAMS @F2110@
 1 CHAN
-2 DATE 31 MAY 2025
-3 TIME 12:57:13
+2 DATE 29 JAN 2026
+3 TIME 21:09:53
 0 @I0347@ INDI
 1 NAME Lubbertje /Hendriksen/
 2 TYPE birth
 2 GIVN Lubbertje
 2 SURN Hendriksen
 1 SEX F
+1 BIRT
+2 DATE 13 AUG 1900
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 17 SEP 1957
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMC @F2111@
+2 PEDI birth
 1 FAMS @F0156@
 1 CHAN
-2 DATE 25 JAN 2025
-3 TIME 19:39:38
+2 DATE 29 JAN 2026
+3 TIME 21:15:09
 0 @I0348@ INDI
 1 NAME Hendrik /Klaassen/
 2 TYPE birth
@@ -15010,6 +15029,11 @@
 2 TYPE birth
 2 GIVN Pieternella
 2 SURN Verkleij
+1 NAME Petronella /van der Kley/
+2 TYPE aka
+2 GIVN Petronella
+2 SPFX van der
+2 SURN Kley
 1 SEX F
 1 BIRT
 2 DATE 15 FEB 1761
@@ -15025,8 +15049,8 @@
 4 LONG E4.597106
 1 FAMS @F0301@
 1 CHAN
-2 DATE 28 MAY 2025
-3 TIME 21:14:50
+2 DATE 30 JAN 2026
+3 TIME 14:48:37
 0 @I0782@ INDI
 1 NAME Johan Heinrich Carl /Gerlach/
 2 TYPE birth
@@ -22537,8 +22561,8 @@
 2 PEDI birth
 1 FAMS @F0447@
 1 CHAN
-2 DATE 31 MAY 2025
-3 TIME 13:04:21
+2 DATE 29 JAN 2026
+3 TIME 21:09:53
 0 @I1207@ INDI
 1 NAME Leuntje /van Rijn/
 2 TYPE birth
@@ -39658,7 +39682,10 @@
 4 LONG E5.861307
 1 DEAT
 2 DATE 13 SEP 2014
-2 PLAC Spijkenisse
+2 PLAC Spijkenisse [Zuid Holland]
+3 MAP
+4 LATI N51.856054
+4 LONG E4.296446
 1 FAMC @F0785@
 2 PEDI birth
 1 FAMS @F0799@
@@ -40455,7 +40482,10 @@
 1 SEX F
 1 BIRT
 2 DATE 9 DEC 1957
-2 PLAC Vlaardingen
+2 PLAC Vlaardingen [Zuid Holland]
+3 MAP
+4 LATI N51.912462
+4 LONG E4.347212
 1 FAMS @F0799@
 1 CHAN
 2 DATE 14 DEC 2025
@@ -40468,7 +40498,10 @@
 1 SEX M
 1 BIRT
 2 DATE 8 MAR 1981
-2 PLAC Vlaardingen
+2 PLAC Vlaardingen [Zuid Holland]
+3 MAP
+4 LATI N51.912462
+4 LONG E4.347212
 1 FAMC @F0799@
 2 PEDI birth
 1 CHAN
@@ -40483,6 +40516,9 @@
 1 BIRT
 2 DATE 5 NOV 1982
 2 PLAC Maassluis [Zuid Holland]
+3 MAP
+4 LATI N51.92252
+4 LONG E4.252798
 1 FAMC @F0799@
 2 PEDI birth
 1 CHAN
@@ -40498,9 +40534,15 @@
 2 DATE 9 JAN 1951
 1 DEAT
 2 DATE 8 OCT 2007
-2 PLAC Doetinchem
+2 PLAC Doetinchem [Gelderland]
+3 MAP
+4 LATI N51.964397
+4 LONG E6.292964
 1 BURI
-2 PLAC Slangenburg te Doetinchem
+2 PLAC Slangenburg te Doetinchem [Gelderland]
+3 MAP
+4 LATI N51.960396
+4 LONG E6.360873
 1 FAMS @F0800@
 1 CHAN
 2 DATE 6 JUL 2025
@@ -40513,7 +40555,10 @@
 1 SEX M
 1 BIRT
 2 DATE 6 JUL 1989
-2 PLAC Doetinchem
+2 PLAC Doetinchem [Gelderland]
+3 MAP
+4 LATI N51.964397
+4 LONG E6.292964
 1 FAMC @F0800@
 2 PEDI birth
 1 CHAN
@@ -40527,7 +40572,10 @@
 1 SEX F
 1 BIRT
 2 DATE 13 JAN 1992
-2 PLAC Doetinchem
+2 PLAC Doetinchem [Gelderland]
+3 MAP
+4 LATI N51.964397
+4 LONG E6.292964
 1 FAMC @F0800@
 2 PEDI birth
 1 CHAN
@@ -40553,7 +40601,10 @@
 1 SEX M
 1 BIRT
 2 DATE 5 JAN 1983
-2 PLAC Doetinchem
+2 PLAC Doetinchem [Gelderland]
+3 MAP
+4 LATI N51.964397
+4 LONG E6.292964
 1 FAMC @F0801@
 2 PEDI birth
 1 FAMS @F0802@
@@ -40578,7 +40629,10 @@
 1 SEX F
 1 BIRT
 2 DATE 6 FEB 1985
-2 PLAC Doetinchem
+2 PLAC Doetinchem [Gelderland]
+3 MAP
+4 LATI N51.964397
+4 LONG E6.292964
 1 FAMC @F0801@
 2 PEDI birth
 1 CHAN
@@ -40620,6 +40674,9 @@
 1 BIRT
 2 DATE 30 MAY 1805
 2 PLAC Oude Wetering [Zuid Holland]
+3 MAP
+4 LATI N52.214375
+4 LONG E4.639979
 1 DEAT
 2 DATE 18 JAN 1879
 2 NOTE @N0984@
@@ -40627,6 +40684,9 @@
 1 BAPM
 2 DATE 2 JUN 1805
 2 PLAC Oude Wetering [Zuid Holland]
+3 MAP
+4 LATI N52.214375
+4 LONG E4.639979
 2 NOTE @N0992@
 1 FAMC @F0811@
 2 PEDI birth
@@ -40876,7 +40936,10 @@
 1 SEX M
 1 BIRT
 2 DATE 1775
-2 PLAC Voorschoten
+2 PLAC Voorschoten [Zuid Holland]
+3 MAP
+4 LATI N52.123772
+4 LONG E4.43867
 1 DEAT
 2 DATE 13 JUN 1824
 2 PLAC Rotterdam [Zuid Holland]
@@ -40886,7 +40949,10 @@
 2 NOTE @N1003@
 1 BAPM
 2 DATE 26 MAR 1775
-2 PLAC Voorschoten
+2 PLAC Voorschoten [Zuid Holland]
+3 MAP
+4 LATI N52.123772
+4 LONG E4.43867
 1 FAMC @F0814@
 2 PEDI birth
 1 FAMS @F0810@
@@ -40967,7 +41033,10 @@
 2 SURN Koolhaas
 1 SEX F
 1 BIRT
-2 PLAC Pouderoijen
+2 PLAC Pouderoijen [Gelderland]
+3 MAP
+4 LATI N51.785556
+4 LONG E5.080278
 1 FAMC @F0813@
 2 PEDI birth
 1 FAMS @F0812@
@@ -41058,7 +41127,10 @@
 2 DATE 1706
 1 BAPM
 2 DATE 5 FEB 1706
-2 PLAC Laren, Gelderland
+2 PLAC Laren [Gelderland]
+3 MAP
+4 LATI N52.19223
+4 LONG E6.364999
 1 FAMC @F0817@
 2 PEDI birth
 1 FAMS @F0815@
@@ -41129,7 +41201,10 @@
 2 DATE 1706
 1 BAPM
 2 DATE 8 OCT 1682
-2 PLAC Lochem
+2 PLAC Lochem [Gelderland]
+3 MAP
+4 LATI N52.160556
+4 LONG E6.415833
 1 FAMC @F0822@
 2 PEDI birth
 1 FAMS @F0817@
@@ -41710,6 +41785,9 @@
 1 BAPM
 2 DATE 12 MAR 1769
 2 PLAC Kollum (Kollumerland en Nieuwkruisland) [Friesland]
+3 MAP
+4 LATI N53.280153
+4 LONG E6.146927
 1 FAMC @F0829@
 2 PEDI birth
 1 FAMS @F0830@
@@ -41752,10 +41830,16 @@
 2 DATE 5 JUN 1797
 1 DEAT
 2 DATE 29 JUL 1865
-2 PLAC Kollumerland
+2 PLAC Kollumerland [Friesland]
+3 MAP
+4 LATI N53.299697
+4 LONG E6.177064
 1 BAPM
 2 DATE 25 JUN 1797
 2 PLAC Kollum (Kollumerland en Nieuwkruisland) [Friesland]
+3 MAP
+4 LATI N53.280153
+4 LONG E6.146927
 1 FAMC @F0830@
 2 PEDI birth
 1 FAMS @F0831@
@@ -41782,7 +41866,10 @@
 2 DATE 1678
 1 BAPM
 2 DATE 13 JAN 1678
-2 PLAC Lochem
+2 PLAC Lochem [Gelderland]
+3 MAP
+4 LATI N52.160556
+4 LONG E6.415833
 1 FAMC @F0822@
 2 PEDI birth
 1 CHAN
@@ -41827,7 +41914,10 @@
 2 DATE 1685
 1 BAPM
 2 DATE 11 OCT 1685
-2 PLAC Lochem
+2 PLAC Lochem [Gelderland]
+3 MAP
+4 LATI N52.160556
+4 LONG E6.415833
 1 FAMC @F0822@
 2 PEDI birth
 1 CHAN
@@ -41841,7 +41931,10 @@
 1 SEX F
 1 BAPM
 2 DATE 1 JAN 1688
-2 PLAC Laren, Gelderland
+2 PLAC Laren [Gelderland]
+3 MAP
+4 LATI N52.19223
+4 LONG E6.364999
 1 FAMC @F0822@
 2 PEDI birth
 1 FAMS @F0833@
@@ -41938,7 +42031,10 @@
 1 SEX F
 1 BAPM
 2 DATE 29 MAY 1692
-2 PLAC Laren, Gelderland
+2 PLAC Laren [Gelderland]
+3 MAP
+4 LATI N52.19223
+4 LONG E6.364999
 1 FAMC @F0822@
 2 PEDI birth
 1 CHAN
@@ -43839,7 +43935,10 @@
 1 SEX F
 1 BIRT
 2 DATE 1891
-2 PLAC Spijkenisse
+2 PLAC Spijkenisse [Zuid Holland]
+3 MAP
+4 LATI N51.856054
+4 LONG E4.296446
 1 FAMC @F0875@
 2 PEDI birth
 1 FAMS @F0874@
@@ -63327,6 +63426,9 @@
 1 BAPM
 2 DATE 1 JUL 1770
 2 PLAC Oude Wetering [Zuid Holland]
+3 MAP
+4 LATI N52.214375
+4 LONG E4.639979
 1 FAMC @F1314@
 2 PEDI birth
 1 CHAN
@@ -63341,12 +63443,21 @@
 1 SEX M
 1 BIRT
 2 PLAC Oude Wetering [Zuid Holland]
+3 MAP
+4 LATI N52.214375
+4 LONG E4.639979
 1 BAPM
 2 DATE 19 APR 1772
 2 PLAC Oude Wetering [Zuid Holland]
+3 MAP
+4 LATI N52.214375
+4 LONG E4.639979
 1 BURI
 2 DATE 24 DEC 1777
 2 PLAC Oude Wetering [Zuid Holland]
+3 MAP
+4 LATI N52.214375
+4 LONG E4.639979
 1 FAMC @F1314@
 2 PEDI birth
 1 CHAN
@@ -63370,6 +63481,9 @@
 1 BAPM
 2 DATE 17 OCT 1779
 2 PLAC Oude Wetering [Zuid Holland]
+3 MAP
+4 LATI N52.214375
+4 LONG E4.639979
 1 FAMC @F1314@
 2 PEDI birth
 1 FAMS @F1315@
@@ -63386,6 +63500,9 @@
 1 BAPM
 2 DATE 21 JUN 1783
 2 PLAC Oude Wetering [Zuid Holland]
+3 MAP
+4 LATI N52.214375
+4 LONG E4.639979
 1 FAMC @F1314@
 2 PEDI birth
 1 CHAN
@@ -63401,6 +63518,9 @@
 1 BAPM
 2 DATE 12 MAY 1788
 2 PLAC Oude Wetering [Zuid Holland]
+3 MAP
+4 LATI N52.214375
+4 LONG E4.639979
 1 FAMC @F1314@
 2 PEDI birth
 1 CHAN
@@ -63494,6 +63614,9 @@
 1 BAPM
 2 DATE 13 MAR 1808
 2 PLAC Oude Wetering [Zuid Holland]
+3 MAP
+4 LATI N52.214375
+4 LONG E4.639979
 1 FAMC @F1315@
 2 PEDI birth
 1 CHAN
@@ -63515,6 +63638,9 @@
 1 BAPM
 2 DATE 10 MAR 1810
 2 PLAC Oude Wetering [Zuid Holland]
+3 MAP
+4 LATI N52.214375
+4 LONG E4.639979
 1 FAMC @F1315@
 2 PEDI birth
 1 FAMS @F1317@
@@ -74359,8 +74485,8 @@
 1 FAMS @F1527@
 1 NOTE @N1656@
 1 CHAN
-2 DATE 12 OCT 2025
-3 TIME 23:09:48
+2 DATE 30 JAN 2026
+3 TIME 17:46:09
 0 @I4031@ INDI
 1 NAME Lena /van der Wulp/
 2 TYPE birth
@@ -74420,28 +74546,44 @@
 2 DATE 12 OCT 2025
 3 TIME 23:05:33
 0 @I4034@ INDI
-1 NAME Dingeman Ariensz /Lucht/
+1 NAME Dingeman Ariensz /Luchten/
 2 TYPE birth
 2 GIVN Dingeman Ariensz
-2 SURN Lucht
+2 SURN Luchten
 1 SEX M
-1 DEAT
+1 BIRT
+2 DATE 20 AUG 1645
 2 PLAC Dordrecht [Zuid Holland]
 3 MAP
 4 LATI N51.814504
 4 LONG E4.667087
+1 DEAT
+2 DATE 20 MAR 1708
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F2133@
+2 PEDI birth
 1 FAMS @F1529@
 1 NOTE @N1659@
 1 CHAN
-2 DATE 12 OCT 2025
-3 TIME 23:09:48
+2 DATE 30 JAN 2026
+3 TIME 22:31:18
 0 @I4035@ INDI
-1 NAME Cornelia /Michiels/
+1 NAME Cornelia Michielsd. /Blanckers/
 2 TYPE birth
-2 GIVN Cornelia
-2 SURN Michiels
+2 GIVN Cornelia Michielsd.
+2 SURN Blanckers
 1 SEX F
+1 BIRT
+2 DATE 1647
+2 PLAC Bergen op Zoom [Noord Brabant]
+3 MAP
+4 LATI N51.49432
+4 LONG E4.287471
 1 DEAT
+2 DATE 30 OCT 1713
 2 PLAC Dordrecht [Zuid Holland]
 3 MAP
 4 LATI N51.814504
@@ -74449,8 +74591,8 @@
 1 FAMS @F1529@
 1 NOTE @N1660@
 1 CHAN
-2 DATE 12 OCT 2025
-3 TIME 23:09:48
+2 DATE 30 JAN 2026
+3 TIME 17:35:46
 0 @I4036@ INDI
 1 NAME Johannes /de Kievit/
 2 TYPE birth
@@ -87309,6 +87451,9 @@
 2 PLAC Drogeham (Achtkarspelen) [Friesland]
 1 DEAT
 2 PLAC Kollum (Kollumerland en Nieuwkruisland) [Friesland]
+3 MAP
+4 LATI N53.280153
+4 LONG E6.146927
 1 FAMC @F1818@
 2 PEDI birth
 1 FAMS @F1821@
@@ -94632,10 +94777,14 @@
 3 MAP
 4 LATI N52.456819
 4 LONG E4.605408
+1 FACT Grondwerker
+2 TYPE Occupation
+1 FAMC @F2083@
+2 PEDI birth
 1 FAMS @F1981@
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 19:27:35
+2 DATE 29 JAN 2026
+3 TIME 20:22:53
 0 @I5100@ INDI
 1 NAME Hendrika /Bierman/
 2 TYPE birth
@@ -94663,12 +94812,16 @@
 2 PEDI birth
 1 FAMS @F1981@
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5101@ INDI
 1 NAME Pancratius Petrus /Bierman/
 2 TYPE birth
 2 GIVN Pancratius Petrus
+2 SURN Bierman
+1 NAME Bancras Petrus /Bierman/
+2 TYPE aka
+2 GIVN Bancras Petrus
 2 SURN Bierman
 1 SEX M
 1 BIRT
@@ -94685,12 +94838,16 @@
 2 PLAC Driehuis [Noord Holland]
 1 FACT Arbeider
 2 TYPE Occupation
+1 FACT Koopman
+2 TYPE Occupation
 1 FACT Groenteboer met paard
 2 TYPE Occupation
+1 FAMC @F2109@
+2 PEDI birth
 1 FAMS @F1982@
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 20:11:35
+2 DATE 29 JAN 2026
+3 TIME 20:36:15
 0 @I5102@ INDI
 1 NAME Alida /Raaphorst/
 2 TYPE birth
@@ -94706,10 +94863,12 @@
 3 MAP
 4 LATI N52.386928
 4 LONG E4.643908
+1 FAMC @F2084@
+2 PEDI birth
 1 FAMS @F1982@
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 20:11:35
+2 DATE 29 JAN 2026
+3 TIME 20:34:04
 0 @I5103@ INDI
 1 NAME Elisabeth /Bierman/
 2 TYPE birth
@@ -94730,8 +94889,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5104@ INDI
 1 NAME Petronella /Bierman/
 2 TYPE birth
@@ -94759,8 +94918,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5105@ INDI
 1 NAME Johanna Hendrica /Bierman/
 2 TYPE birth
@@ -94787,8 +94946,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5106@ INDI
 1 NAME Adrianus Nicolaas /Bierman/
 2 TYPE birth
@@ -94818,8 +94977,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5107@ INDI
 1 NAME Alida /Bierman/
 2 TYPE birth
@@ -94841,8 +95000,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5108@ INDI
 1 NAME Adrianus Nicolaas /Bierman/
 2 TYPE birth
@@ -94863,8 +95022,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5109@ INDI
 1 NAME Christina /Bierman/
 2 TYPE birth
@@ -94881,8 +95040,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5110@ INDI
 1 NAME Alida /Bierman/
 2 TYPE birth
@@ -94909,8 +95068,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5111@ INDI
 1 NAME Petrus /Bierman/
 2 TYPE birth
@@ -94932,8 +95091,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5112@ INDI
 1 NAME Adriana /Bierman/
 2 TYPE birth
@@ -94955,8 +95114,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5113@ INDI
 1 NAME Adriana /Bierman/
 2 TYPE birth
@@ -94975,8 +95134,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5114@ INDI
 1 NAME Maria Elisabeth /Bierman/
 2 TYPE birth
@@ -94994,8 +95153,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5115@ INDI
 1 NAME Elisabeth /Bierman/
 2 TYPE birth
@@ -95016,8 +95175,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5116@ INDI
 1 NAME Johanna /Bierman/
 2 TYPE birth
@@ -95035,8 +95194,8 @@
 1 FAMC @F1982@
 2 PEDI birth
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @I5117@ INDI
 1 NAME Helena /Zappeij/
 2 TYPE birth
@@ -95511,10 +95670,10 @@
 1 SEX M
 1 BIRT
 2 DATE 27 FEB 1747
-2 PLAC Bad Ems, Hess-N., Prussia
+2 PLAC Bad Ems [Hessen] Prussia
 1 DEAT
 2 DATE 25 MAR 1813
-2 PLAC Bad Ems, Hess-N., Prussia
+2 PLAC Bad Ems [Hessen] Prussia
 1 FAMC @F1991@
 2 PEDI birth
 1 FAMS @F1990@
@@ -95539,13 +95698,13 @@
 1 SEX M
 1 BIRT
 2 DATE 1699
-2 PLAC Bad Ems, Rijnland-Palts, Duitsland
+2 PLAC Bad Ems [Rheinland-Pfaltz] Deutschland
 3 MAP
 4 LATI N50.334033
 4 LONG E7.718998
 1 DEAT
 2 DATE 6 AUG 1766
-2 PLAC Bad Ems, Rijnland-Palts, Duitsland
+2 PLAC Bad Ems [Rheinland-Pfaltz] Deutschland
 3 MAP
 4 LATI N50.334033
 4 LONG E7.718998
@@ -95561,13 +95720,13 @@
 1 SEX F
 1 BIRT
 2 DATE 1704
-2 PLAC Bad Ems, Rijnland-Palts, Duitsland
+2 PLAC Bad Ems [Rheinland-Pfaltz] Deutschland
 3 MAP
 4 LATI N50.334033
 4 LONG E7.718998
 1 DEAT
 2 DATE 17 JAN 1779
-2 PLAC Bad Ems, Rijnland-Palts, Duitsland
+2 PLAC Bad Ems [Rheinland-Pfaltz] Deutschland
 3 MAP
 4 LATI N50.334033
 4 LONG E7.718998
@@ -97779,18 +97938,20 @@
 1 BIRT
 2 DATE 8 JAN 1851
 2 PLAC Wilnis [Utrecht]
+2 NOTE @N2382@
 1 DEAT
 2 DATE 15 SEP 1932
 2 PLAC Bodegraven [Zuid Holland]
 3 MAP
 4 LATI N52.081948
 4 LONG E4.744657
+2 NOTE @N2410@
 1 FAMC @F2044@
 2 PEDI birth
 1 FAMS @F2034@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 19:20:31
+2 DATE 30 JAN 2026
+3 TIME 13:53:19
 0 @I5247@ INDI
 1 NAME Elizabeth Jaantje /Stolwijk/
 2 TYPE birth
@@ -98076,8 +98237,8 @@
 1 FAMS @F2037@
 1 FAMS @F2038@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 16:32:46
+2 DATE 25 JAN 2026
+3 TIME 22:06:23
 0 @I5260@ INDI
 1 NAME Jacobus /Stolwijk/
 2 TYPE birth
@@ -98308,55 +98469,122 @@
 2 TYPE birth
 2 GIVN Klaas
 2 SURN Kuijlenburg
+1 NAME Nicolaas /Kuijlenburg/
+2 TYPE aka
+2 GIVN Nicolaas
+2 SURN Kuijlenburg
 1 SEX M
+1 BIRT
+2 DATE 1820
+2 PLAC Wilnis [Utrecht]
+1 DEAT
+2 DATE 5 DEC 1890
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2339@
 1 FAMC @F2045@
 2 PEDI birth
 1 FAMS @F2044@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 19:17:30
+2 DATE 30 JAN 2026
+3 TIME 14:22:21
 0 @I5273@ INDI
 1 NAME Adriana /Bellersen/
 2 TYPE birth
 2 GIVN Adriana
 2 SURN Bellersen
 1 SEX F
+1 BIRT
+2 DATE 1 OCT 1822
+2 PLAC Nieuwveen [Zuid Holland]
+3 MAP
+4 LATI N52.19795
+4 LONG E4.755741
+2 NOTE @N2345@
+1 DEAT
+2 DATE 14 APR 1890
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2357@
 1 FAMC @F2046@
 2 PEDI birth
 1 FAMS @F2044@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 19:18:31
+2 DATE 25 JAN 2026
+3 TIME 23:19:01
 0 @I5274@ INDI
 1 NAME Anthonij /Kuijlenburg/
 2 TYPE birth
 2 GIVN Anthonij
 2 SURN Kuijlenburg
+1 NAME Toon /Kuilenborg/
+2 TYPE aka
+2 GIVN Toon
+2 SURN Kuilenborg
 1 SEX M
+1 BIRT
+2 DATE 1 FEB 1768
+2 PLAC Kamerik [Utrecht]
+3 MAP
+4 LATI N52.110833
+4 LONG E4.892778
+1 DEAT
+2 DATE 13 MAR 1841
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2290@
+1 FAMC @F2067@
+2 PEDI birth
 1 FAMS @F2045@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 19:17:30
+2 DATE 25 JAN 2026
+3 TIME 17:18:36
 0 @I5275@ INDI
 1 NAME Neeltje /Plomp/
 2 TYPE birth
 2 GIVN Neeltje
 2 SURN Plomp
 1 SEX F
+1 DEAT
+2 DATE 29 DEC 1834
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2336@
+1 BAPM
+2 DATE 19 MAR 1782
+2 PLAC Mijdrecht en Wilnis [Utrecht]
+2 NOTE @N2335@
+1 FAMC @F2072@
+2 PEDI birth
 1 FAMS @F2045@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 19:17:30
+2 DATE 25 JAN 2026
+3 TIME 19:28:34
 0 @I5276@ INDI
 1 NAME Franciscus /Bellersen/
 2 TYPE birth
 2 GIVN Franciscus
 2 SURN Bellersen
 1 SEX M
+1 BIRT
+2 DATE ABT 1781
+2 PLAC Twistringen, Hannover, [Niedersachsen] Duitsland
+3 MAP
+4 LATI N52.797348
+4 LONG E8.637678
+1 DEAT
+2 DATE 21 SEP 1848
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2355@
+1 FACT Winkelier
+2 TYPE Occupation
+1 FAMC @F2081@
+2 PEDI birth
 1 FAMS @F2046@
+1 RESI
+2 ADDR Nieuwveen
+3 CONT Zuid Holland
+3 CITY Nieuwveen
+3 STAE Zuid Holland
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 19:18:31
+2 DATE 25 JAN 2026
+3 TIME 23:15:06
 0 @I5277@ INDI
 1 NAME Helena /de Jong/
 2 TYPE birth
@@ -98364,10 +98592,23 @@
 2 SPFX de
 2 SURN Jong
 1 SEX F
+1 BIRT
+2 DATE ABT 1800
+2 PLAC Papekop [Utrecht]
+3 MAP
+4 LATI N52.045921
+4 LONG E4.853135
+1 FAMC @F2082@
+2 PEDI birth
 1 FAMS @F2046@
+1 RESI
+2 ADDR Nieuwveen
+3 CONT Zuid Holland
+3 CITY Nieuwveen
+3 STAE Zuid Holland
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 19:18:31
+2 DATE 25 JAN 2026
+3 TIME 22:09:21
 0 @I5278@ INDI
 1 NAME Maria /Stadsvoort/
 2 TYPE birth
@@ -98575,6 +98816,13 @@
 4 LATI N52.150448
 4 LONG E4.777684
 2 NOTE @N2232@
+1 DEAT
+2 DATE 10 OCT 1953
+2 PLAC Nieuwkoop [Zuid Holland]
+3 MAP
+4 LATI N52.150448
+4 LONG E4.777684
+2 NOTE @N2285@
 1 FACT Dienstbode
 2 TYPE Occupation
 1 FAMC @F2040@
@@ -98586,8 +98834,8 @@
 3 CITY Nieuwkoop
 3 STAE Zuid Holland
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 23:01:50
+2 DATE 25 JAN 2026
+3 TIME 13:32:32
 0 @I5292@ INDI
 1 NAME Johanna /Lunenburg/
 2 TYPE birth
@@ -98601,11 +98849,19 @@
 4 LATI N52.150448
 4 LONG E4.777684
 2 NOTE @N2235@
+1 DEAT
+2 DATE 17 APR 1957
+2 PLAC Gouda [Zuid Holland]
+3 MAP
+4 LATI N52.011497
+4 LONG E4.710546
+2 NOTE @N2286@
 1 FAMC @F2040@
 2 PEDI birth
+1 FAMS @F2062@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 22:41:22
+2 DATE 25 JAN 2026
+3 TIME 13:35:19
 0 @I5293@ INDI
 1 NAME Johannes /Lunenburg/
 2 TYPE birth
@@ -98619,11 +98875,19 @@
 4 LATI N52.150448
 4 LONG E4.777684
 2 NOTE @N2238@
+1 DEAT
+2 DATE 19 MAR 1943
+2 PLAC Woerden [Utrecht]
+3 MAP
+4 LATI N52.083333
+4 LONG E4.883333
+2 NOTE @N2283@
+2 NOTE @N2284@
 1 FAMC @F2040@
 2 PEDI birth
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 22:41:22
+2 DATE 25 JAN 2026
+3 TIME 13:30:13
 0 @I5294@ INDI
 1 NAME Cornelia /Lunenburg/
 2 TYPE birth
@@ -98658,9 +98922,10 @@
 2 NOTE @N2244@
 1 FAMC @F2040@
 2 PEDI birth
+1 FAMS @F2061@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 22:41:22
+2 DATE 25 JAN 2026
+3 TIME 13:26:20
 0 @I5296@ INDI
 1 NAME Gijsberta Jacoba /Lunenburg/
 2 TYPE birth
@@ -98699,11 +98964,19 @@
 4 LATI N52.150448
 4 LONG E4.777684
 2 NOTE @N2251@
+1 DEAT
+2 DATE 9 DEC 1966
+2 PLAC Woerden [Utrecht]
+3 MAP
+4 LATI N52.083333
+4 LONG E4.883333
+2 NOTE @N2287@
 1 FAMC @F2040@
 2 PEDI birth
+1 FAMS @F2058@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 22:41:22
+2 DATE 25 JAN 2026
+3 TIME 13:36:28
 0 @I5298@ INDI
 1 NAME Antonia /Lunenburg/
 2 TYPE birth
@@ -98719,9 +98992,10 @@
 2 NOTE @N2254@
 1 FAMC @F2040@
 2 PEDI birth
+1 FAMS @F2060@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 22:41:22
+2 DATE 25 JAN 2026
+3 TIME 13:19:48
 0 @I5299@ INDI
 1 NAME Everhardus /Kroon/
 2 TYPE birth
@@ -98825,6 +99099,3975 @@
 1 CHAN
 2 DATE 24 JAN 2026
 3 TIME 23:27:40
+0 @I5305@ INDI
+1 NAME Martinus /van Dam/
+2 TYPE birth
+2 GIVN Martinus
+2 SPFX van
+2 SURN Dam
+1 SEX M
+1 BIRT
+2 DATE ABT 1887
+2 PLAC Nieuwkoop [Zuid Holland]
+3 MAP
+4 LATI N52.150448
+4 LONG E4.777684
+1 FACT Veldarbeider
+2 TYPE Occupation
+1 FAMC @F2059@
+2 PEDI birth
+1 FAMS @F2058@
+1 RESI
+2 ADDR Nieuwkoop
+3 CONT Zuid Holland
+3 CITY Nieuwkoop
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:26:59
+0 @I5306@ INDI
+1 NAME Theodorus /van Dam/
+2 TYPE birth
+2 GIVN Theodorus
+2 SPFX van
+2 SURN Dam
+1 SEX M
+1 FAMS @F2059@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:12:05
+0 @I5307@ INDI
+1 NAME Maria Johanna /Luff/
+2 TYPE birth
+2 GIVN Maria Johanna
+2 SURN Luff
+1 SEX F
+1 BIRT
+2 DATE ABT 1859
+1 FAMS @F2059@
+1 RESI
+2 ADDR Nieuwkoop
+3 CONT Zuid Holland
+3 CITY Nieuwkoop
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:12:05
+0 @I5308@ INDI
+1 NAME Gijsbertus Adrianus /van Leeuwen/
+2 TYPE birth
+2 GIVN Gijsbertus Adrianus
+2 SPFX van
+2 SURN Leeuwen
+1 SEX M
+1 BIRT
+2 DATE ABT 1889
+2 PLAC Nieuwkoop [Zuid Holland]
+3 MAP
+4 LATI N52.150448
+4 LONG E4.777684
+1 FACT Veldarbeider
+2 TYPE Occupation
+1 FAMS @F2060@
+1 RESI
+2 ADDR Nieuwkoop
+3 CONT Zuid Holland
+3 CITY Nieuwkoop
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:19:48
+0 @I5309@ INDI
+1 NAME Johanna /van Dam/
+2 TYPE birth
+2 GIVN Johanna
+2 SPFX van
+2 SURN Dam
+1 SEX F
+1 BIRT
+2 DATE ABT 1896
+2 PLAC Nieuwkoop [Zuid Holland]
+3 MAP
+4 LATI N52.150448
+4 LONG E4.777684
+1 FAMC @F2059@
+2 PEDI birth
+1 FAMS @F2061@
+1 RESI
+2 ADDR Nieuwkoop
+3 CONT Zuid Holland
+3 CITY Nieuwkoop
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:26:59
+0 @I5310@ INDI
+1 NAME Johannes /Boetekees/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Boetekees
+1 SEX M
+1 FAMS @F2062@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:35:19
+0 @I5311@ INDI
+1 NAME Joris /Kuijlenburg/
+2 TYPE birth
+2 GIVN Joris
+2 SURN Kuijlenburg
+1 SEX M
+1 BIRT
+2 DATE 7 DEC 1812
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2323@
+1 DEAT
+2 DATE 29 MAR 1890
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2328@
+1 FAMC @F2045@
+2 PEDI birth
+1 FAMS @F2063@
+1 FAMS @F2065@
+1 FAMS @F2069@
+1 NOTE @N2324@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
+0 @I5312@ INDI
+1 NAME Margaretha /van Zijl/
+2 TYPE birth
+2 GIVN Margaretha
+2 SPFX van
+2 SURN Zijl
+1 NAME Grietje /van Zijl/
+2 TYPE aka
+2 GIVN Grietje
+2 SPFX van
+2 SURN Zijl
+1 SEX F
+1 BIRT
+2 DATE ABT 1815
+2 PLAC Wilnis [Utrecht]
+1 FAMC @F2064@
+2 PEDI birth
+1 FAMS @F2063@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:02:09
+0 @I5313@ INDI
+1 NAME Pieter /van Zijl/
+2 TYPE birth
+2 GIVN Pieter
+2 SPFX van
+2 SURN Zijl
+1 SEX M
+1 FAMS @F2064@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:50:28
+0 @I5314@ INDI
+1 NAME Matje /van Schaik/
+2 TYPE birth
+2 GIVN Matje
+2 SPFX van
+2 SURN Schaik
+1 SEX F
+1 FAMS @F2064@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:50:28
+0 @I5315@ INDI
+1 NAME Catrina /Verder/
+2 TYPE birth
+2 GIVN Catrina
+2 SURN Verder
+1 SEX F
+1 BIRT
+2 DATE ABT 1809
+2 PLAC Vinkeveen [Utrecht]
+1 FAMC @F2066@
+2 PEDI birth
+1 FAMS @F2065@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:03:12
+0 @I5316@ INDI
+1 NAME Hendrik /Verder/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Verder
+1 SEX M
+1 FAMS @F2066@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:03:12
+0 @I5317@ INDI
+1 NAME Cornelia /van der Aard/
+2 TYPE birth
+2 GIVN Cornelia
+2 SPFX van der
+2 SURN Aard
+1 SEX F
+1 FAMS @F2066@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:03:12
+0 @I5318@ INDI
+1 NAME Jan /Kuijlenburg/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Kuijlenburg
+1 SEX M
+1 FAMS @F2067@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:05:28
+0 @I5319@ INDI
+1 NAME Geertrui /Lelijveld/
+2 TYPE birth
+2 GIVN Geertrui
+2 SURN Lelijveld
+1 SEX F
+1 FAMS @F2067@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:05:28
+0 @I5320@ INDI
+1 NAME Geertrui /Kuijlenburg/
+2 TYPE birth
+2 GIVN Geertrui
+2 SURN Kuijlenburg
+1 SEX F
+1 BIRT
+2 DATE ABT 1805
+2 PLAC Wilnis [Utrecht]
+1 DEAT
+2 DATE 1 MAR 1854
+2 PLAC Abcoude en Proosdij
+2 NOTE @N2296@
+1 BAPM
+2 DATE 13 MAY 1804
+2 PLAC Mijdrecht [Utrecht]
+3 MAP
+4 LATI N52.207478
+4 LONG E4.866422
+2 NOTE @N2304@
+2 NOTE @N2305@
+2 NOTE @N2308@
+1 FAMC @F2045@
+2 PEDI birth
+1 FAMS @F2068@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
+0 @I5321@ INDI
+1 NAME Jan /van der Meere/
+2 TYPE birth
+2 GIVN Jan
+2 SPFX van der
+2 SURN Meere
+1 SEX M
+1 FAMS @F2068@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:48:05
+0 @I5322@ INDI
+1 NAME Cornelia /Twaalfhoven/
+2 TYPE birth
+2 GIVN Cornelia
+2 SURN Twaalfhoven
+1 SEX F
+1 BIRT
+2 DATE ABT 1829
+2 PLAC Mijdrecht [Utrecht]
+3 MAP
+4 LATI N52.207478
+4 LONG E4.866422
+1 FAMC @F2070@
+2 PEDI birth
+1 FAMS @F2069@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:52:51
+0 @I5323@ INDI
+1 NAME Gerrit /Twaalfhoven/
+2 TYPE birth
+2 GIVN Gerrit
+2 SURN Twaalfhoven
+1 SEX M
+1 FAMS @F2070@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:52:51
+0 @I5324@ INDI
+1 NAME Maria /Blankestein/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Blankestein
+1 SEX F
+1 FAMS @F2070@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:52:51
+0 @I5325@ INDI
+1 NAME Aaltje /Kuijlenburg/
+2 TYPE birth
+2 GIVN Aaltje
+2 SURN Kuijlenburg
+1 SEX F
+1 BIRT
+2 DATE 22 OCT 1815
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2330@
+1 DEAT
+2 DATE 3 MAR 1865
+2 PLAC Diemen [Noord Holland]
+2 NOTE @N2299@
+1 FAMC @F2045@
+2 PEDI birth
+1 FAMS @F2077@
+1 FAMS @F2071@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
+0 @I5326@ INDI
+1 NAME Johannes Reinnus /Wigmans/
+2 TYPE birth
+2 GIVN Johannes Reinnus
+2 SURN Wigmans
+1 SEX M
+1 BIRT
+2 DATE 8 DEC 1813
+2 PLAC Angerlo (Zevenaar) [Gelderland]
+3 MAP
+4 LATI N51.995666
+4 LONG E6.132847
+2 NOTE @N2332@
+1 FACT Boerenknecht
+2 TYPE Occupation
+1 FAMC @F2078@
+2 PEDI birth
+1 FAMS @F2071@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 19:20:26
+0 @I5327@ INDI
+1 NAME Gerrit /Kuijlenburg/
+2 TYPE birth
+2 GIVN Gerrit
+2 SURN Kuijlenburg
+1 SEX M
+1 BAPM
+2 DATE 28 MAR 1803
+2 PLAC Mijdrecht en Wilnis [Utrecht]
+2 NOTE @N2302@
+2 NOTE @N2303@
+1 FAMC @F2045@
+2 PEDI birth
+1 FAMS @F2073@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
+0 @I5328@ INDI
+1 NAME Gerrit /Kuijlenburg/
+2 TYPE birth
+2 GIVN Gerrit
+2 SURN Kuijlenburg
+1 SEX M
+1 DEAT
+2 DATE 5 MAR 1866
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2307@
+1 BAPM
+2 DATE 25 JAN 1806
+2 PLAC Mijdrecht [Utrecht]
+3 MAP
+4 LATI N52.207478
+4 LONG E4.866422
+2 NOTE @N2306@
+2 NOTE @N2321@
+1 FACT Veehouder
+2 TYPE Occupation
+1 FAMC @F2045@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
+0 @I5329@ INDI
+1 NAME Joris /Plomp/
+2 TYPE birth
+2 GIVN Joris
+2 SURN Plomp
+1 SEX M
+1 FAMS @F2072@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 17:47:53
+0 @I5330@ INDI
+1 NAME Aaltje /van Velsen/
+2 TYPE birth
+2 GIVN Aaltje
+2 SPFX van
+2 SURN Velsen
+1 SEX F
+1 FAMS @F2072@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 17:47:53
+0 @I5331@ INDI
+1 NAME Maria /van der Aar/
+2 TYPE birth
+2 GIVN Maria
+2 SPFX van der
+2 SURN Aar
+1 SEX F
+1 DEAT
+2 DATE 23 JAN 1891
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2309@
+1 BAPM
+2 DATE 10 DEC 1810
+2 PLAC Mijdrecht [Utrecht]
+3 MAP
+4 LATI N52.207478
+4 LONG E4.866422
+1 FAMC @F2074@
+2 PEDI birth
+1 FAMS @F2073@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 18:05:08
+0 @I5332@ INDI
+1 NAME Cornelis /van der Aar/
+2 TYPE birth
+2 GIVN Cornelis
+2 SPFX van der
+2 SURN Aar
+1 SEX M
+1 FAMS @F2074@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 18:05:08
+0 @I5333@ INDI
+1 NAME Dirkje /Kouw/
+2 TYPE birth
+2 GIVN Dirkje
+2 SURN Kouw
+1 SEX F
+1 FAMS @F2074@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 18:05:08
+0 @I5334@ INDI
+1 NAME Jan /Kuijlenburg/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Kuijlenburg
+1 SEX M
+1 BIRT
+2 DATE 1807
+2 PLAC Wilnis [Utrecht]
+1 DEAT
+2 DATE 31 JUL 1854
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2315@
+1 BAPM
+2 DATE 17 MAY 1807
+2 PLAC Mijdrecht en Wilnis [Utrecht]
+2 NOTE @N2319@
+2 NOTE @N2320@
+1 FAMC @F2045@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
+0 @I5335@ INDI
+1 NAME Joris /Kuijlenburg/
+2 TYPE birth
+2 GIVN Joris
+2 SURN Kuijlenburg
+1 SEX M
+1 BAPM
+2 DATE 17 OCT 1808
+2 PLAC Mijdrecht en Wilnis [Utrecht]
+2 NOTE @N2316@
+2 NOTE @N2317@
+2 NOTE @N2318@
+1 FAMC @F2045@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
+0 @I5336@ INDI
+1 NAME Teuntje /Kuijlenburg/
+2 TYPE birth
+2 GIVN Teuntje
+2 SURN Kuijlenburg
+1 SEX F
+1 BAPM
+2 DATE 1811
+2 PLAC Mijdrecht en Wilnis [Utrecht]
+2 NOTE @N2322@
+1 FAMC @F2045@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
+0 @I5337@ INDI
+1 NAME Maria /Kuijlenburg/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Kuijlenburg
+1 SEX F
+1 BIRT
+2 DATE 15 MAY 1814
+2 PLAC Wilnis [Utrecht]
+1 DEAT
+2 DATE 29 NOV 1880
+2 PLAC Vinkeveen en Waverveen [Utrecht]
+1 FAMC @F2045@
+2 PEDI birth
+1 FAMS @F2075@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
+0 @I5338@ INDI
+1 NAME Willem /van Leeuwen/
+2 TYPE birth
+2 GIVN Willem
+2 SPFX van
+2 SURN Leeuwen
+1 SEX M
+1 BIRT
+2 DATE 1816
+2 PLAC Mijdrecht [Utrecht]
+3 MAP
+4 LATI N52.207478
+4 LONG E4.866422
+1 DEAT
+2 DATE 3 JUL 1867
+2 PLAC Abcoude en Proosdij
+1 FAMC @F2076@
+2 PEDI birth
+1 FAMS @F2075@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 19:08:11
+0 @I5339@ INDI
+1 NAME Jan /van Leeuwen/
+2 TYPE birth
+2 GIVN Jan
+2 SPFX van
+2 SURN Leeuwen
+1 SEX M
+1 FAMS @F2076@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 19:08:11
+0 @I5340@ INDI
+1 NAME Jannetje /Krook/
+2 TYPE birth
+2 GIVN Jannetje
+2 SURN Krook
+1 SEX F
+1 FAMS @F2076@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 19:08:11
+0 @I5341@ INDI
+1 NAME Cornelis /Brev/
+2 TYPE birth
+2 GIVN Cornelis
+2 SURN Brev
+1 SEX M
+1 BIRT
+2 DATE 1820
+2 PLAC Nederhorst den Berg [Noord Holland]
+3 MAP
+4 LATI N52.260145
+4 LONG E5.044887
+1 FAMS @F2077@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 19:25:39
+0 @I5342@ INDI
+1 NAME Bernardus /Wigmans/
+2 TYPE birth
+2 GIVN Bernardus
+2 SURN Wigmans
+1 SEX M
+1 FAMS @F2078@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 19:20:26
+0 @I5343@ INDI
+1 NAME Gerharda Francisca /Neuyen/
+2 TYPE birth
+2 GIVN Gerharda Francisca
+2 SURN Neuyen
+1 SEX F
+1 FAMS @F2078@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 19:20:26
+0 @I5344@ INDI
+1 NAME Klaas /Kuijlenburg/
+2 TYPE birth
+2 GIVN Klaas
+2 SURN Kuijlenburg
+1 SEX M
+1 BIRT
+2 DATE 13 JAN 1817
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2338@
+1 DEAT
+2 DATE 29 APR 1817
+2 PLAC Wilnis [Utrecht]
+1 FAMC @F2045@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
+0 @I5345@ INDI
+1 NAME Johannes /Kuijlenburg/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Kuijlenburg
+1 SEX M
+1 BIRT
+2 DATE 4 JAN 1822
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2341@
+1 DEAT
+2 DATE 27 NOV 1896
+2 PLAC Utrecht [Utrecht]
+3 MAP
+4 LATI N52.090402
+4 LONG E5.120298
+1 FAMC @F2045@
+2 PEDI birth
+1 FAMS @F2079@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
+0 @I5346@ INDI
+1 NAME Geertruida /Liesveld/
+2 TYPE birth
+2 GIVN Geertruida
+2 SURN Liesveld
+1 SEX F
+1 BIRT
+2 DATE 25 AUG 1839
+2 PLAC Vinkeveen en Waverveen [Utrecht]
+1 DEAT
+2 DATE 17 AUG 1863
+2 PLAC Vinkeveen en Waverveen [Utrecht]
+1 FAMC @F2080@
+2 PEDI birth
+1 FAMS @F2079@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 20:22:48
+0 @I5347@ INDI
+1 NAME Hendrik /Liesveld/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Liesveld
+1 SEX M
+1 FAMS @F2080@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 20:22:48
+0 @I5348@ INDI
+1 NAME Wilhelmina /van Dam/
+2 TYPE birth
+2 GIVN Wilhelmina
+2 SPFX van
+2 SURN Dam
+1 SEX F
+1 FAMS @F2080@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 20:22:48
+0 @I5349@ INDI
+1 NAME Jahannes Hendricus /Kuijlenburg/
+2 TYPE birth
+2 GIVN Jahannes Hendricus
+2 SURN Kuijlenburg
+1 SEX M
+1 BIRT
+2 DATE 1868
+1 DEAT
+2 DATE 1960
+1 FAMC @F2079@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 20:23:59
+0 @I5350@ INDI
+1 NAME Evert /Kuijlenburg/
+2 TYPE birth
+2 GIVN Evert
+2 SURN Kuijlenburg
+1 SEX M
+1 BIRT
+2 DATE 1824
+1 DEAT
+2 DATE 18 AUG 1843
+2 PLAC Weesperkarspel [Noord Holland]
+3 MAP
+4 LATI N52.3
+4 LONG E5.033333
+2 NOTE @N2343@
+2 NOTE @N2344@
+1 FAMC @F2045@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
+0 @I5351@ INDI
+1 NAME Johannes Henricus /Bellersen/
+2 TYPE birth
+2 GIVN Johannes Henricus
+2 SURN Bellersen
+1 SEX M
+1 FAMS @F2081@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 23:23:14
+0 @I5352@ INDI
+1 NAME Maria Geertrui /Hamman/
+2 TYPE birth
+2 GIVN Maria Geertrui
+2 SURN Hamman
+1 SEX F
+1 FAMS @F2081@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 22:00:57
+0 @I5353@ INDI
+1 NAME Willem /de Jong/
+2 TYPE birth
+2 GIVN Willem
+2 SPFX de
+2 SURN Jong
+1 SEX M
+1 FACT Bouwman
+2 TYPE Occupation
+1 FAMS @F2082@
+1 RESI
+2 ADDR Wilnis
+3 CONT Utrecht
+3 CITY Wilnis
+3 STAE Utrecht
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 22:03:13
+0 @I5354@ INDI
+1 NAME Johanna /Honkoop/
+2 TYPE birth
+2 GIVN Johanna
+2 SURN Honkoop
+1 SEX F
+1 FAMS @F2082@
+1 RESI
+2 ADDR Wilnis
+3 CONT Utrecht
+3 CITY Wilnis
+3 STAE Utrecht
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 22:03:13
+0 @I5355@ INDI
+1 NAME Johannes /Bellersen/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Bellersen
+1 SEX M
+1 BIRT
+2 DATE 19 SEP 1824
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2353@
+1 DEAT
+2 DATE 16 APR 1899
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2358@
+1 FAMC @F2046@
+2 PEDI birth
+1 FAMS @F2113@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:35:55
+0 @I5356@ INDI
+1 NAME Wilhelmus /Bellersen/
+2 TYPE birth
+2 GIVN Wilhelmus
+2 SURN Bellersen
+1 SEX M
+1 BIRT
+2 DATE 5 MAR 1828
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2354@
+1 DEAT
+2 DATE 13 MAY 1828
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2359@
+1 FAMC @F2046@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 23:21:31
+0 @I5357@ INDI
+1 NAME Anna /Bellersen/
+2 TYPE birth
+2 GIVN Anna
+2 SURN Bellersen
+1 SEX F
+1 BIRT
+2 DATE ABT 1827
+1 DEAT
+2 DATE 17 FEB 1830
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2356@
+1 FAMC @F2046@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 23:17:49
+0 @I5358@ INDI
+1 NAME Gijsbert /de Bie/
+2 TYPE birth
+2 GIVN Gijsbert
+2 SPFX de
+2 SURN Bie
+1 SEX M
+1 BIRT
+2 DATE 10 AUG 1846
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE 7 JAN 1908
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FACT Arbeider
+2 TYPE Occupation
+1 FACT Kanaalwerker
+2 TYPE Occupation
+1 FAMC @F2095@
+2 PEDI birth
+1 FAMS @F2083@
+1 RESI
+2 ADDR Wonende in de Breesaap
+3 ADR1 Wonende in de Breesaap
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:23:16
+0 @I5359@ INDI
+1 NAME Niesje /Diependiener/
+2 TYPE birth
+2 GIVN Niesje
+2 SURN Diependiener
+1 SEX F
+1 BIRT
+2 DATE 17 NOV 1843
+2 PLAC Den Helder [Noord Holland]
+3 MAP
+4 LATI N52.956196
+4 LONG E4.760236
+1 DEAT
+2 DATE 14 AUG 1916
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMC @F2096@
+2 PEDI birth
+1 FAMS @F2100@
+1 FAMS @F2083@
+1 FAMS @F2101@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:18:54
+0 @I5360@ INDI
+1 NAME Joannes Johannesz. /Raaphorst/
+2 TYPE birth
+2 GIVN Joannes Johannesz.
+2 SURN Raaphorst
+1 NAME Jan /Raaphorst/
+2 TYPE aka
+2 GIVN Jan
+2 SURN Raaphorst
+1 SEX M
+1 BIRT
+2 DATE 2 OCT 1830
+2 PLAC Noordwijk [Zuid Holland]
+1 DEAT
+2 DATE 30 JUL 1899
+2 PLAC Noordwijk [Zuid Holland]
+1 FACT Arbeider
+2 TYPE Occupation
+1 FAMC @F2087@
+2 PEDI birth
+1 FAMS @F2084@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:30:37
+0 @I5361@ INDI
+1 NAME Elisabeth /Steenvoorden/
+2 TYPE birth
+2 GIVN Elisabeth
+2 SURN Steenvoorden
+1 SEX F
+1 BIRT
+2 DATE 1 MAR 1832
+2 PLAC Noordwijk [Zuid Holland]
+1 DEAT
+2 DATE 25 NOV 1885
+2 PLAC Noordwijk [Zuid Holland]
+1 BAPM
+2 DATE 1 MAR 1832
+2 PLAC Noordwijk [Zuid Holland]
+1 FACT Diensbode
+2 TYPE Occupation
+1 FACT Huisvrouw
+2 TYPE Occupation
+1 FAMC @F2089@
+2 PEDI birth
+1 FAMS @F2084@
+1 RESI
+2 ADDR Noordwijk Binnen 41
+3 CONT Noordwijk
+3 CONT Zuid Holland
+3 ADR1 Noordwijk Binnen 41
+3 CITY Noordwijk
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:36:51
+0 @I5362@ INDI
+1 NAME Johannis /Raaphorst/
+2 TYPE birth
+2 GIVN Johannis
+2 SURN Raaphorst
+1 SEX M
+1 BIRT
+2 DATE 12 APR 1855
+2 PLAC Noordwijk [Zuid Holland]
+1 DEAT
+2 DATE 13 JUN 1855
+2 PLAC Noordwijk [Zuid Holland]
+1 FAMC @F2084@
+2 PEDI birth
+1 RESI
+2 ADDR Noordwijk Binnen 184
+3 CONT Noordwijk
+3 CONT Zuid Holland
+3 ADR1 Noordwijk Binnen 184
+3 CITY Noordwijk
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:34:04
+0 @I5363@ INDI
+1 NAME Johannes /Raaphorst/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Raaphorst
+1 SEX M
+1 BIRT
+2 DATE 12 JAN 1858
+2 PLAC Noordwijk [Zuid Holland]
+1 DEAT
+2 DATE 8 APR 1943
+2 PLAC Haarlem [Noord Holland]
+3 MAP
+4 LATI N52.386928
+4 LONG E4.643908
+1 FACT Arbeider
+2 TYPE Occupation
+1 FAMC @F2084@
+2 PEDI birth
+1 RESI
+2 ADDR Noordwijk Binnen 185
+3 CONT Noordwijk
+3 CONT Zuid Holland
+3 ADR1 Noordwijk Binnen 185
+3 CITY Noordwijk
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:34:04
+0 @I5364@ INDI
+1 NAME Helena /Raaphorst/
+2 TYPE birth
+2 GIVN Helena
+2 SURN Raaphorst
+1 SEX F
+1 BIRT
+2 DATE 4 FEB 1859
+2 PLAC Noordwijk [Zuid Holland]
+1 DEAT
+2 DATE 16 OCT 1947
+2 PLAC Lisse [Zuid Holland]
+3 MAP
+4 LATI N52.257567
+4 LONG E4.557157
+1 FAMC @F2084@
+2 PEDI birth
+1 FAMS @F2085@
+1 RESI
+2 ADDR Noordwijk Binnen 185
+3 CONT Noordwijk
+3 CONT Zuid Holland
+3 ADR1 Noordwijk Binnen 185
+3 CITY Noordwijk
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:34:04
+0 @I5365@ INDI
+1 NAME  /Ruigrok/
+2 TYPE birth
+2 SURN Ruigrok
+1 SEX M
+1 FAMS @F2085@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 21:53:02
+0 @I5366@ INDI
+1 NAME Hendrik Jansz. /Raaphorst/
+2 TYPE birth
+2 GIVN Hendrik Jansz.
+2 SURN Raaphorst
+1 SEX M
+1 BIRT
+2 DATE 23 NOV 1860
+2 PLAC Noordwijk [Zuid Holland]
+1 DEAT
+2 DATE 19 MAR 1863
+2 PLAC Noordwijk [Zuid Holland]
+1 FACT Arbeider ? 3 jaar ??
+2 TYPE Occupation
+1 FAMC @F2084@
+2 PEDI birth
+1 RESI
+2 ADDR Noordwijk Binnen 105
+3 CONT Noordwijk
+3 CONT Zuid Holland
+3 ADR1 Noordwijk Binnen 105
+3 CITY Noordwijk
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:34:04
+0 @I5367@ INDI
+1 NAME Johanna /Raaphorst/
+2 TYPE birth
+2 GIVN Johanna
+2 SURN Raaphorst
+1 SEX F
+1 BIRT
+2 DATE 26 JAN 1863
+2 PLAC Noordwijk [Zuid Holland]
+1 DEAT
+2 DATE 21 SEP 1865
+2 PLAC Noordwijk [Zuid Holland]
+1 FAMC @F2084@
+2 PEDI birth
+1 RESI
+2 ADDR Noordwijk Binnen 143
+3 CONT Noordwijk
+3 CONT Zuid Holland
+3 ADR1 Noordwijk Binnen 143
+3 CITY Noordwijk
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:34:04
+0 @I5368@ INDI
+1 NAME Johanna /Raaphorst/
+2 TYPE birth
+2 GIVN Johanna
+2 SURN Raaphorst
+1 SEX F
+1 BIRT
+2 DATE 13 DEC 1866
+2 PLAC Noordwijk [Zuid Holland]
+1 DEAT
+2 DATE 7 AUG 1944
+2 PLAC Anna Paulowna [Noord Holland]
+3 MAP
+4 LATI N52.861512
+4 LONG E4.822976
+1 BURI
+2 DATE AUG 1945
+2 PLAC Anna Paulowna [Noord Holland]
+3 MAP
+4 LATI N52.861512
+4 LONG E4.822976
+1 FAMC @F2084@
+2 PEDI birth
+1 FAMS @F2086@
+1 RESI
+2 ADDR Douzastraat 8
+3 CONT Noordwijk
+3 CONT Zuid Holland
+3 ADR1 Douzastraat 8
+3 CITY Noordwijk
+3 STAE Zuid Holland
+1 RESI
+2 ADDR Noordwijk Binnen 143
+3 CONT Noordwijk
+3 CONT Zuid Holland
+3 ADR1 Noordwijk Binnen 143
+3 CITY Noordwijk
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:34:04
+0 @I5369@ INDI
+1 NAME  /van der Zalm/
+2 TYPE birth
+2 SPFX van der
+2 SURN Zalm
+1 SEX M
+1 FAMS @F2086@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:13:24
+0 @I5370@ INDI
+1 NAME Hugo /Raaphorst/
+2 TYPE birth
+2 GIVN Hugo
+2 SURN Raaphorst
+1 SEX M
+1 BIRT
+2 DATE 19 JUL 1869
+2 PLAC Noordwijk [Zuid Holland]
+1 DEAT
+2 DATE 7 APR 1943
+2 PLAC Leiden [Zuid Holland]
+3 MAP
+4 LATI N52.163452
+4 LONG E4.4802
+1 FACT Bloemistknecht
+2 TYPE Occupation
+1 FAMC @F2084@
+2 PEDI birth
+1 RESI
+2 ADDR Noordwijk Binnen 143
+3 CONT Noordwijk
+3 CONT Zuid Holland
+3 ADR1 Noordwijk Binnen 143
+3 CITY Noordwijk
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:34:04
+0 @I5371@ INDI
+1 NAME Johannes Huigsz. /Raaphorst/
+2 TYPE birth
+2 GIVN Johannes Huigsz.
+2 SURN Raaphorst
+1 NAME Jan /Raaphorst/
+2 TYPE aka
+2 GIVN Jan
+2 SURN Raaphorst
+1 SEX M
+1 BIRT
+2 DATE 16 NOV 1792
+2 PLAC Noordwijk-Binnen [Zuid Holland]
+3 MAP
+4 LATI N52.235305
+4 LONG E4.4463
+1 DEAT
+2 DATE 22 NOV 1846
+2 PLAC Noordwijk [Zuid Holland]
+1 BAPM
+2 DATE 16 NOV 1792
+2 PLAC Noordwijk [Zuid Holland]
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FACT Winkelier
+2 TYPE Occupation
+1 FAMC @F2088@
+2 PEDI birth
+1 FAMS @F2087@
+1 RESI
+2 ADDR Huisnummer 307
+3 CONT Noordwijk
+3 CONT Zuid Holland
+3 ADR1 Huisnummer 307
+3 CITY Noordwijk
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:26:56
+0 @I5372@ INDI
+1 NAME Hendrikje Gerritsdr. /Janson/
+2 TYPE birth
+2 GIVN Hendrikje Gerritsdr.
+2 SURN Janson
+1 NAME Hendreintje /Janson/
+2 TYPE aka
+2 GIVN Hendreintje
+2 SURN Janson
+1 SEX F
+1 BIRT
+2 DATE 9 OCT 1795
+2 PLAC Noordwijk [Zuid Holland]
+1 DEAT
+2 DATE 9 SEP 1849
+2 PLAC Noordwijk [Zuid Holland]
+1 BAPM
+2 DATE 10 OCT 1795
+2 PLAC Noordwijk [Zuid Holland]
+1 FAMS @F2087@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:24:26
+0 @I5373@ INDI
+1 NAME Huig Pietersz /Raaphorst/
+2 TYPE birth
+2 GIVN Huig Pietersz
+2 SURN Raaphorst
+1 SEX M
+1 FAMS @F2088@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:26:56
+0 @I5374@ INDI
+1 NAME Crijntje Jansd. /de Haas/
+2 TYPE birth
+2 GIVN Crijntje Jansd.
+2 SPFX de
+2 SURN Haas
+1 SEX F
+1 FAMS @F2088@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:30:48
+0 @I5375@ INDI
+1 NAME Leendert Leendertsz. /Steenvoorden/
+2 TYPE birth
+2 GIVN Leendert Leendertsz.
+2 SURN Steenvoorden
+1 SEX M
+1 BIRT
+2 DATE 4 NOV 1790
+2 PLAC Noordwijk-Binnen [Zuid Holland]
+3 MAP
+4 LATI N52.235305
+4 LONG E4.4463
+1 DEAT
+2 DATE 27 SEP 1845
+2 PLAC Noordwijk [Zuid Holland]
+1 FACT Buiten Beroep
+2 TYPE Occupation
+1 FAMS @F2089@
+1 RESI
+2 ADDR Noordwijk Binnen Huisnummer 167
+3 CONT Noordwijk
+3 CONT Zuid Holland
+3 ADR1 Noordwijk Binnen Huisnummer 167
+3 CITY Noordwijk
+3 STAE Zuid Holland
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:36:51
+0 @I5376@ INDI
+1 NAME Maria Alida Jacobsdr /van Ham/
+2 TYPE birth
+2 GIVN Maria Alida Jacobsdr
+2 SPFX van
+2 SURN Ham
+1 SEX F
+1 BIRT
+2 DATE 18 AUG 1797
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 DEAT
+2 DATE 16 MAY 1862
+2 PLAC Leiden [Zuid Holland]
+3 MAP
+4 LATI N52.163452
+4 LONG E4.4802
+1 BAPM
+2 DATE 18 AUG 1797
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 FACT Dienstbode
+2 TYPE Occupation
+1 FAMC @F2090@
+2 PEDI birth
+1 FAMS @F2089@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:48:28
+0 @I5377@ INDI
+1 NAME Jacobus /van Ham/
+2 TYPE birth
+2 GIVN Jacobus
+2 SPFX van
+2 SURN Ham
+1 SEX M
+1 BIRT
+2 DATE ABT 5 DEC 1765
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 DEAT
+2 DATE 19 FEB 1819
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 BAPM
+2 DATE 5 DEC 1765
+2 PLAC Kerk de Toren aan Singel 156 te Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.375272
+4 LONG E4.889638
+3 NOTE @N1966@
+1 FAMS @F2090@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:43:29
+0 @I5378@ INDI
+1 NAME Maria Elisabet /Schild/
+2 TYPE birth
+2 GIVN Maria Elisabet
+2 SURN Schild
+1 SEX F
+1 BIRT
+2 DATE ABT 1764
+2 PLAC Meppen [Niedersachsen] Duitsland
+3 MAP
+4 LATI N52.694829
+4 LONG E7.296213
+1 DEAT
+2 DATE ABT 1830
+1 FAMS @F2090@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:43:29
+0 @I5379@ INDI
+1 NAME Jacobus /van Ham/
+2 TYPE birth
+2 GIVN Jacobus
+2 SPFX van
+2 SURN Ham
+1 SEX M
+1 BIRT
+2 DATE 10 MAY 1796
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 DEAT
+2 DATE 7 JUL 1797
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 FAMC @F2090@
+2 PEDI birth
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:48:28
+0 @I5380@ INDI
+1 NAME Elisabet Jacoba /van Ham/
+2 TYPE birth
+2 GIVN Elisabet Jacoba
+2 SPFX van
+2 SURN Ham
+1 SEX F
+1 BIRT
+2 DATE 7 MAY 1799
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 BAPM
+2 DATE 7 MAY 1799
+2 PLAC Kerk de Duif, Amsterdam [Noord Holland]
+1 FAMC @F2090@
+2 PEDI birth
+1 FAMS @F2091@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:49:12
+0 @I5381@ INDI
+1 NAME  /Soeters/
+2 TYPE birth
+2 SURN Soeters
+1 SEX M
+1 FAMS @F2091@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:49:12
+0 @I5382@ INDI
+1 NAME Gijsbertus /de Bie/
+2 TYPE birth
+2 GIVN Gijsbertus
+2 SPFX de
+2 SURN Bie
+1 SEX M
+1 BIRT
+2 DATE 10 APR 1872
+3 TIME 21:00
+2 PLAC De Heide (Velsen) [Noord Holland]
+3 MAP
+4 LATI N52.460434
+4 LONG E4.624735
+3 NOTE @N2372@
+1 DEAT
+2 DATE 19 APR 1899
+2 PLAC De Heide (Velsen) [Noord Holland]
+3 MAP
+4 LATI N52.460434
+4 LONG E4.624735
+3 NOTE @N2372@
+1 FACT Arbeider
+2 TYPE Occupation
+2 NOTE @N2361@
+1 FAMC @F2083@
+2 PEDI birth
+1 FAMS @F2102@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 22:15:41
+0 @I5383@ INDI
+1 NAME Christina Johanna /de Bie/
+2 TYPE birth
+2 GIVN Christina Johanna
+2 SPFX de
+2 SURN Bie
+1 SEX F
+1 BIRT
+2 DATE 7 OCT 1879
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE 12 NOV 1922
+2 PLAC Beverwijk [Noord Holland]
+3 MAP
+4 LATI N52.486864
+4 LONG E4.657112
+1 FAMC @F2083@
+2 PEDI birth
+1 FAMS @F2092@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 22:15:41
+0 @I5384@ INDI
+1 NAME Albertus /Bosman/
+2 TYPE birth
+2 GIVN Albertus
+2 SURN Bosman
+1 SEX M
+1 BIRT
+2 DATE 29 OCT 1877
+2 PLAC Beverwijk [Noord Holland]
+3 MAP
+4 LATI N52.486864
+4 LONG E4.657112
+1 DEAT
+2 DATE 9 SEP 1931
+2 PLAC Wijk aan Zee en Duin [Noord Holland]
+1 FACT Blikslager
+2 TYPE Occupation
+2 NOTE @N2362@
+1 FAMS @F2092@
+1 CHAN
+2 DATE 27 JAN 2026
+3 TIME 20:11:12
+0 @I5385@ INDI
+1 NAME Christina Johanna /Bosman/
+2 TYPE birth
+2 GIVN Christina Johanna
+2 SURN Bosman
+1 SEX F
+1 BIRT
+2 DATE 21 DEC 1899
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMC @F2092@
+2 PEDI birth
+1 FAMS @F2093@
+1 CHAN
+2 DATE 27 JAN 2026
+3 TIME 20:15:33
+0 @I5386@ INDI
+1 NAME  /Meijboom/
+2 TYPE birth
+2 SURN Meijboom
+1 SEX M
+1 FAMS @F2093@
+1 CHAN
+2 DATE 27 JAN 2026
+3 TIME 20:13:17
+0 @I5387@ INDI
+1 NAME Ellis /Bosman/
+2 TYPE birth
+2 GIVN Ellis
+2 SURN Bosman
+1 SEX M
+1 BIRT
+2 DATE 12 MAR 1914
+2 PLAC Beverwijk [Noord Holland]
+3 MAP
+4 LATI N52.486864
+4 LONG E4.657112
+1 DEAT
+2 DATE 8 APR 1982
+2 PLAC Beverwijk [Noord Holland]
+3 MAP
+4 LATI N52.486864
+4 LONG E4.657112
+1 BURI
+2 PLAC Beverwijk [Noord Holland]
+3 MAP
+4 LATI N52.486864
+4 LONG E4.657112
+1 FAMC @F2092@
+2 PEDI birth
+1 CHAN
+2 DATE 27 JAN 2026
+3 TIME 20:15:33
+0 @I5388@ INDI
+1 NAME Niesje /de Bie/
+2 TYPE birth
+2 GIVN Niesje
+2 SPFX de
+2 SURN Bie
+1 SEX F
+1 BIRT
+2 DATE 13 APR 1883
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE 5 FEB 1900
+2 PLAC Leiden [Zuid Holland]
+3 MAP
+4 LATI N52.163452
+4 LONG E4.4802
+1 FAMC @F2083@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 22:15:41
+0 @I5389@ INDI
+1 NAME Arendje Hendrika /de Bie/
+2 TYPE birth
+2 GIVN Arendje Hendrika
+2 SPFX de
+2 SURN Bie
+1 SEX F
+1 BIRT
+2 DATE ABT 1884
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE TO 1888
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMC @F2083@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 22:15:41
+0 @I5390@ INDI
+1 NAME Johannes /de Bie/
+2 TYPE birth
+2 GIVN Johannes
+2 SPFX de
+2 SURN Bie
+1 SEX M
+1 BIRT
+2 DATE 19 JAN 1886
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FACT Stoker stoomtrawler
+2 TYPE Occupation
+1 FAMC @F2083@
+2 PEDI birth
+1 FAMS @F2106@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 19:49:02
+0 @I5391@ INDI
+1 NAME Arendje Hendrika /de Bie/
+2 TYPE birth
+2 GIVN Arendje Hendrika
+2 SPFX de
+2 SURN Bie
+1 SEX F
+1 BIRT
+2 DATE 13 DEC 1888
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE 11 MAR 1921
+2 PLAC Haarlem [Noord Holland]
+3 MAP
+4 LATI N52.386928
+4 LONG E4.643908
+1 FAMC @F2083@
+2 PEDI birth
+1 FAMS @F2108@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:21:24
+0 @I5392@ INDI
+1 NAME  /Oldenburg/
+2 TYPE birth
+2 SURN Oldenburg
+1 SEX M
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:21:24
+0 @I5393@ INDI
+1 NAME Gijsbertus /de Bie/
+2 TYPE birth
+2 GIVN Gijsbertus
+2 SPFX de
+2 SURN Bie
+1 SEX M
+1 BIRT
+2 DATE 4 NOV 1812
+2 PLAC Langbroek [Utrecht]
+1 DEAT
+2 DATE 1864
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+2 NOTE @N2367@
+1 FACT Arbeider
+2 TYPE Occupation
+2 NOTE @N2363@
+1 FACT Landman / Farmer
+2 TYPE Occupation
+2 NOTE @N2364@
+1 FACT Laborer
+2 TYPE Occupation
+2 NOTE @N2365@
+1 FAMS @F2095@
+1 CHAN
+2 DATE 27 JAN 2026
+3 TIME 21:30:22
+0 @I5394@ INDI
+1 NAME Arendje Hendrica /Eggeraat/
+2 TYPE birth
+2 GIVN Arendje Hendrica
+2 SURN Eggeraat
+1 SEX F
+1 BIRT
+2 DATE 10 AUG 1818
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 DEAT
+2 DATE 13 AUG 1855
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FACT Dienstbode
+2 TYPE Occupation
+1 FACT Domestic - servant - maid
+2 TYPE Occupation
+2 NOTE @N2368@
+1 FAMS @F2095@
+1 CHAN
+2 DATE 27 JAN 2026
+3 TIME 21:35:06
+0 @I5395@ INDI
+1 NAME Heinrich Wilbrand /Dependehner/
+2 TYPE birth
+2 GIVN Heinrich Wilbrand
+2 SURN Dependehner
+1 NAME Hendrik /Dependehner/
+2 TYPE aka
+2 GIVN Hendrik
+2 SURN Dependehner
+1 SEX M
+1 BIRT
+2 DATE 1806
+2 PLAC Osnabruck [Nordrheinwestfalen] Deutschland
+1 DEAT
+2 DATE 29 MAR 1856
+2 PLAC Den Helder [Noord Holland]
+3 MAP
+4 LATI N52.956196
+4 LONG E4.760236
+1 FACT Schipper
+2 TYPE Occupation
+2 NOTE @N2369@
+1 FAMC @F2097@
+2 PEDI birth
+1 FAMS @F2096@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 07:23:03
+0 @I5396@ INDI
+1 NAME Saartje /Brussee/
+2 TYPE birth
+2 GIVN Saartje
+2 SURN Brussee
+1 SEX F
+1 BIRT
+2 DATE 28 OCT 1809
+2 PLAC Alkmaar [Noord Holland]
+3 MAP
+4 LATI N52.632329
+4 LONG E4.75351
+1 DEAT
+2 DATE 1889
+1 FAMS @F2096@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:41:25
+0 @I5397@ INDI
+1 NAME Johann Bernard /Dependehner/
+2 TYPE birth
+2 GIVN Johann Bernard
+2 SURN Dependehner
+1 SEX M
+1 FAMS @F2097@
+1 CHAN
+2 DATE 27 JAN 2026
+3 TIME 22:29:10
+0 @I5398@ INDI
+1 NAME Anna Maria /Kosiek/
+2 TYPE birth
+2 GIVN Anna Maria
+2 SURN Kosiek
+1 SEX F
+1 FAMS @F2097@
+1 CHAN
+2 DATE 27 JAN 2026
+3 TIME 22:29:10
+0 @I5399@ INDI
+1 NAME Anna Maria /Diependiener/
+2 TYPE birth
+2 GIVN Anna Maria
+2 SURN Diependiener
+1 SEX F
+1 BIRT
+2 DATE 21 SEP 1834
+2 PLAC Alkmaar [Noord Holland]
+3 MAP
+4 LATI N52.632329
+4 LONG E4.75351
+1 DEAT
+2 DATE 25 FEB 1894
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+2 NOTE @N2370@
+1 FACT Herbergierster
+2 TYPE Occupation
+1 FACT Winkelierster
+2 TYPE Occupation
+1 FAMC @F2096@
+2 PEDI birth
+1 FAMS @F2098@
+1 FAMS @F2099@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 19:43:32
+0 @I5400@ INDI
+1 NAME Sara Catharina /Diependiner/
+2 TYPE birth
+2 GIVN Sara Catharina
+2 SURN Diependiner
+1 SEX F
+1 BIRT
+2 DATE 1 JUN 1838
+2 PLAC Alkmaar [Noord Holland]
+3 MAP
+4 LATI N52.632329
+4 LONG E4.75351
+1 FAMC @F2096@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 07:23:48
+0 @I5401@ INDI
+1 NAME Johanna /Diependiner/
+2 TYPE birth
+2 GIVN Johanna
+2 SURN Diependiner
+1 SEX F
+1 BIRT
+2 DATE 9 MAR 1840
+2 PLAC Alkmaar [Noord Holland]
+3 MAP
+4 LATI N52.632329
+4 LONG E4.75351
+1 DEAT
+2 DATE 11 MAR 1863
+2 PLAC Den Helder [Noord Holland]
+3 MAP
+4 LATI N52.956196
+4 LONG E4.760236
+1 FAMC @F2096@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 18:33:21
+0 @I5402@ INDI
+1 NAME Jan /Kolk/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Kolk
+1 SEX M
+1 BIRT
+2 DATE 11 FEB 1830
+2 PLAC Heemstede [Noord Holland]
+3 MAP
+4 LATI N52.350916
+4 LONG E4.61956
+1 DEAT
+2 DATE 2 SEP 1872
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+2 NOTE @N2371@
+1 FACT Arbeider
+2 TYPE Occupation
+1 FACT Aardwerker
+2 TYPE Occupation
+1 FACT Kastelein
+2 TYPE Occupation
+1 FACT Kanaalwerker
+2 TYPE Occupation
+1 FAMS @F2098@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 18:37:39
+0 @I5403@ INDI
+1 NAME Hendrik /Kolk/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Kolk
+1 SEX M
+1 BIRT
+2 DATE 17 SEP 1861
+2 PLAC Den Helder [Noord Holland]
+3 MAP
+4 LATI N52.956196
+4 LONG E4.760236
+1 DEAT
+2 DATE 7 NOV 1929
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FACT Arbeider
+2 TYPE Occupation
+1 FAMC @F2098@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 19:34:57
+0 @I5404@ INDI
+1 NAME Anna Maria /Kolk/
+2 TYPE birth
+2 GIVN Anna Maria
+2 SURN Kolk
+1 SEX F
+1 BIRT
+2 DATE 16 MAR 1863
+2 PLAC Zijpe [Noord Holland]
+3 MAP
+4 LATI N52.822778
+4 LONG E4.720556
+1 FAMC @F2098@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 19:34:57
+0 @I5405@ INDI
+1 NAME Janne Johanna /Kolk/
+2 TYPE birth
+2 GIVN Janne Johanna
+2 SURN Kolk
+1 SEX F
+1 BIRT
+2 DATE 28 NOV 1865
+3 TIME 05:00
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE 19 MAR 1866
+2 PLAC De Heide (Velsen) [Noord Holland]
+3 MAP
+4 LATI N52.460434
+4 LONG E4.624735
+3 NOTE @N2372@
+1 FAMC @F2098@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 19:34:57
+0 @I5406@ INDI
+1 NAME Willem /Kolk/
+2 TYPE birth
+2 GIVN Willem
+2 SURN Kolk
+1 SEX M
+1 BIRT
+2 DATE 11 AUG 1867
+3 TIME 01:00
+2 PLAC De Heide (Velsen) [Noord Holland]
+3 MAP
+4 LATI N52.460434
+4 LONG E4.624735
+3 NOTE @N2372@
+1 DEAT
+2 DATE 30 DEC 1895
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMC @F2098@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 19:34:57
+0 @I5407@ INDI
+1 NAME Jan /Kolk/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Kolk
+1 SEX M
+1 BIRT
+2 DATE 2 SEP 1869
+3 TIME 16:00
+2 PLAC De Heide (Velsen) [Noord Holland]
+3 MAP
+4 LATI N52.460434
+4 LONG E4.624735
+3 NOTE @N2372@
+1 FACT Bankwerker
+2 TYPE Occupation
+1 FAMC @F2098@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 19:34:57
+0 @I5408@ INDI
+1 NAME Christiaan Frederik /Kolk/
+2 TYPE birth
+2 GIVN Christiaan Frederik
+2 SURN Kolk
+1 SEX M
+1 BIRT
+2 DATE 15 APR 1871
+2 PLAC De Heide (Velsen) [Noord Holland]
+3 MAP
+4 LATI N52.460434
+4 LONG E4.624735
+3 NOTE @N2372@
+1 FAMC @F2098@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 19:34:57
+0 @I5409@ INDI
+1 NAME Jansje Johanna /Kolk/
+2 TYPE birth
+2 GIVN Jansje Johanna
+2 SURN Kolk
+1 SEX F
+1 BIRT
+2 DATE 26 SEP 1872
+3 TIME 23:30
+2 PLAC De Heide (Velsen) [Noord Holland]
+3 MAP
+4 LATI N52.460434
+4 LONG E4.624735
+3 NOTE @N2372@
+1 FAMC @F2098@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 19:34:57
+0 @I5410@ INDI
+1 NAME Jacob Johannes /Schippers/
+2 TYPE birth
+2 GIVN Jacob Johannes
+2 SURN Schippers
+1 SEX M
+1 BIRT
+2 DATE 10 AUG 1829
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 DEAT
+2 DATE 25 FEB 1894
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FACT Arbeider
+2 TYPE Occupation
+1 FACT Polderwerker
+2 TYPE Occupation
+1 FAMS @F2099@
+1 NOTE @N2373@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 19:43:32
+0 @I5411@ INDI
+1 NAME Jacob Johannes /Schippers/
+2 TYPE birth
+2 GIVN Jacob Johannes
+2 SURN Schippers
+1 SEX M
+1 BIRT
+2 DATE 27 JAN 1875
+3 TIME 05:30
+2 PLAC De Heide (Velsen) [Noord Holland]
+3 MAP
+4 LATI N52.460434
+4 LONG E4.624735
+3 NOTE @N2372@
+1 DEAT
+2 DATE 19 SEP 1877
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMC @F2099@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:05:35
+0 @I5412@ INDI
+1 NAME Jacoba Johanna Maria /Schippers/
+2 TYPE birth
+2 GIVN Jacoba Johanna Maria
+2 SURN Schippers
+1 SEX F
+1 BIRT
+2 DATE 5 APR 1878
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE 6 JUN 1883
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMC @F2099@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:05:35
+0 @I5413@ INDI
+1 NAME Leendert /van der Kolk/
+2 TYPE birth
+2 GIVN Leendert
+2 SPFX van der
+2 SURN Kolk
+1 SEX M
+1 BIRT
+2 DATE ABT 1838
+1 DEAT
+2 DATE 19 MAR 1869
+2 PLAC Oud-Beijerland
+1 FACT Matroos bij de Marine.
+2 TYPE Occupation
+1 FAMS @F2100@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:15:25
+0 @I5414@ INDI
+1 NAME n.n. //
+2 TYPE birth
+2 GIVN n.n.
+1 SEX M
+1 FAMS @F2101@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:18:34
+0 @I5415@ INDI
+1 NAME Sara Hendrika /Diependiener/
+2 TYPE birth
+2 GIVN Sara Hendrika
+2 SURN Diependiener
+1 SEX F
+1 BIRT
+2 DATE 30 JUL 1870
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE 16 MAR 1872
+2 PLAC De Heide (Velsen) [Noord Holland]
+3 MAP
+4 LATI N52.460434
+4 LONG E4.624735
+3 NOTE @N2372@
+1 FAMC @F2101@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:18:34
+0 @I5416@ INDI
+1 NAME Hendrik /de Bie/
+2 TYPE birth
+2 GIVN Hendrik
+2 SPFX de
+2 SURN Bie
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1874
+3 TIME 03:00
+2 PLAC De Heide (Velsen) [Noord Holland]
+3 MAP
+4 LATI N52.460434
+4 LONG E4.624735
+3 NOTE @N2372@
+1 DEAT
+2 DATE 2 OCT 1875
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMC @F2083@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 22:15:41
+0 @I5417@ INDI
+1 NAME Guurtje /Roderwijn/
+2 TYPE birth
+2 GIVN Guurtje
+2 SURN Roderwijn
+1 SEX F
+1 BIRT
+2 DATE ABT 1877
+2 PLAC Akersloot [Noord Holland]
+1 FAMC @F2103@
+2 PEDI birth
+1 FAMS @F2102@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:40:25
+0 @I5418@ INDI
+1 NAME Dirk /Roderwijn/
+2 TYPE birth
+2 GIVN Dirk
+2 SURN Roderwijn
+1 SEX M
+1 FAMS @F2103@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:40:25
+0 @I5419@ INDI
+1 NAME Eefje /Dekker/
+2 TYPE birth
+2 GIVN Eefje
+2 SURN Dekker
+1 SEX F
+1 FAMS @F2103@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:40:25
+0 @I5420@ INDI
+1 NAME Hendrik /de Bie/
+2 TYPE birth
+2 GIVN Hendrik
+2 SPFX de
+2 SURN Bie
+1 SEX M
+1 BIRT
+2 DATE 17 DEC 1875
+3 TIME 13:00
+2 PLAC De Heide (Velsen) [Noord Holland]
+3 MAP
+4 LATI N52.460434
+4 LONG E4.624735
+3 NOTE @N2372@
+1 DEAT
+2 DATE 3 NOV 1911
+2 PLAC Haarlem [Noord Holland]
+3 MAP
+4 LATI N52.386928
+4 LONG E4.643908
+1 FACT Stoker
+2 TYPE Occupation
+1 FAMC @F2083@
+2 PEDI birth
+1 FAMS @F2104@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 22:15:41
+0 @I5421@ INDI
+1 NAME Maria Hendrika /Raspoort/
+2 TYPE birth
+2 GIVN Maria Hendrika
+2 SURN Raspoort
+1 SEX F
+1 BIRT
+2 DATE 6 AUG 1876
+2 PLAC Den Helder [Noord Holland]
+3 MAP
+4 LATI N52.956196
+4 LONG E4.760236
+1 DEAT
+2 DATE 13 APR 1940
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMS @F2105@
+1 FAMS @F2104@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 22:09:33
+0 @I5422@ INDI
+1 NAME Johannes /van de Pieterman/
+2 TYPE birth
+2 GIVN Johannes
+2 SPFX van de
+2 SURN Pieterman
+1 SEX M
+1 BIRT
+2 DATE ABT 1872
+2 PLAC Haarlem [Noord Holland]
+3 MAP
+4 LATI N52.386928
+4 LONG E4.643908
+1 DEAT
+2 DATE BEF 1909
+1 FACT Werkman
+2 TYPE Occupation
+1 FAMS @F2105@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 21:40:05
+0 @I5423@ INDI
+1 NAME Saartje /de Bie/
+2 TYPE birth
+2 GIVN Saartje
+2 SPFX de
+2 SURN Bie
+1 SEX F
+1 BIRT
+2 DATE 13 FEB 1878
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE 13 OCT 1878
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMC @F2083@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 22:15:41
+0 @I5424@ INDI
+1 NAME Saartje /de Bie/
+2 TYPE birth
+2 GIVN Saartje
+2 SPFX de
+2 SURN Bie
+1 SEX F
+1 BIRT
+2 DATE 20 JAN 1882
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE 9 FEB 1882
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMC @F2083@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 22:15:41
+0 @I5425@ INDI
+1 NAME Francisca Clasina /de Weers/
+2 TYPE birth
+2 GIVN Francisca Clasina
+2 SPFX de
+2 SURN Weers
+1 SEX F
+1 BIRT
+2 DATE 31 MAY 1886
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE 6 MAR 1941
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMC @F2107@
+2 PEDI birth
+1 FAMS @F2106@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:07:18
+0 @I5426@ INDI
+1 NAME Franciscus /de Weers/
+2 TYPE birth
+2 GIVN Franciscus
+2 SPFX de
+2 SURN Weers
+1 SEX M
+1 BIRT
+2 DATE 19 MAY 1852
+2 PLAC Buiksloot [Noord Holland]
+1 DEAT
+2 DATE 10 MAY 1938
+2 PLAC De Heide (Velsen) [Noord Holland]
+3 MAP
+4 LATI N52.460434
+4 LONG E4.624735
+3 NOTE @N2372@
+2 NOTE @N2374@
+1 FAMS @F2107@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:07:18
+0 @I5427@ INDI
+1 NAME Elisabeth /Kneppers/
+2 TYPE birth
+2 GIVN Elisabeth
+2 SURN Kneppers
+1 SEX F
+1 BIRT
+2 DATE 5 SEP 1850
+2 PLAC Waddinxveen [Zuid Holland]
+3 MAP
+4 LATI N52.031085
+4 LONG E4.655681
+1 DEAT
+2 DATE 4 MAR 1928
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMS @F2107@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:07:18
+0 @I5428@ INDI
+1 NAME Jan Frederik Karel /Oldenburg/
+2 TYPE birth
+2 GIVN Jan Frederik Karel
+2 SURN Oldenburg
+1 SEX M
+1 BIRT
+2 DATE 25 APR 1882
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE AFT 1921
+1 FACT Los werkman
+2 TYPE Occupation
+1 FAMS @F2108@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:12:08
+0 @I5429@ INDI
+1 NAME Neeltje /Oldenburg/
+2 TYPE birth
+2 GIVN Neeltje
+2 SURN Oldenburg
+1 SEX F
+1 BIRT
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 DEAT
+2 DATE 22 OCT 1919
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 FAMC @F2108@
+2 PEDI birth
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:12:08
+0 @I5430@ INDI
+1 NAME Johannes Fredericus /Bierman/
+2 TYPE birth
+2 GIVN Johannes Fredericus
+2 SURN Bierman
+1 SEX M
+1 FAMS @F2109@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:28:40
+0 @I5431@ INDI
+1 NAME Petronella Antonette /Vermin/
+2 TYPE birth
+2 GIVN Petronella Antonette
+2 SURN Vermin
+1 SEX F
+1 FAMS @F2109@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:28:40
+0 @I5432@ INDI
+1 NAME Reintje /Driesten/
+2 TYPE birth
+2 GIVN Reintje
+2 SURN Driesten
+1 SEX F
+1 BIRT
+2 DATE 28 OCT 1921
+2 PLAC Harlingen [Friesland]
+3 MAP
+4 LATI N53.174588
+4 LONG E5.42497
+1 DEAT
+2 DATE 16 NOV 1999
+2 PLAC Beverwijk [Noord Holland]
+3 MAP
+4 LATI N52.486864
+4 LONG E4.657112
+1 BURI
+2 PLAC Westerveld te Driehuis [Noord Holland]
+1 FAMS @F2110@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:05:34
+0 @I5433@ INDI
+1 NAME Maria /Klaassen/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Klaassen
+1 SEX F
+1 BIRT
+2 DATE JUL 1888
+2 PLAC Putten [Gelderland]
+3 MAP
+4 LATI N52.258498
+4 LONG E5.605576
+1 DEAT
+2 DATE 20 NOV 1888
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F0157@
+2 PEDI birth
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:09:53
+0 @I5434@ INDI
+1 NAME Drees /Klaassen/
+2 TYPE birth
+2 GIVN Drees
+2 SURN Klaassen
+1 SEX M
+1 FAMC @F0156@
+2 PEDI birth
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:12:26
+0 @I5435@ INDI
+1 NAME Janna /Reijers/
+2 TYPE birth
+2 GIVN Janna
+2 SURN Reijers
+1 SEX F
+1 BIRT
+2 DATE 9 DEC 1880
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 19 NOV 1952
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMS @F2111@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:15:09
+0 @I5436@ INDI
+1 NAME Hendrik Sjoerd Hannes /Hendriksen/
+2 TYPE birth
+2 GIVN Hendrik Sjoerd Hannes
+2 SURN Hendriksen
+1 SEX M
+1 BIRT
+2 DATE 1878
+1 DEAT
+2 DATE 1952
+1 FAMC @F2112@
+2 PEDI birth
+1 FAMS @F2111@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:17:30
+0 @I5437@ INDI
+1 NAME Olof /Hendriksen/
+2 TYPE birth
+2 GIVN Olof
+2 SURN Hendriksen
+1 SEX M
+1 BIRT
+2 DATE 1831
+1 DEAT
+2 DATE 1904
+1 FAMS @F2112@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:17:30
+0 @I5438@ INDI
+1 NAME Fennetje /Klaassen/
+2 TYPE birth
+2 GIVN Fennetje
+2 SURN Klaassen
+1 SEX F
+1 BIRT
+2 DATE 1841
+1 DEAT
+2 DATE 1877
+1 FAMS @F2112@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:17:30
+0 @I5439@ INDI
+1 NAME Jannetje /van der Donk/
+2 TYPE birth
+2 GIVN Jannetje
+2 SPFX van der
+2 SURN Donk
+1 SEX F
+1 BIRT
+2 DATE ABT 1827
+2 PLAC Wilnis [Utrecht]
+1 FAMC @F2114@
+2 PEDI birth
+1 FAMS @F2113@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:36:55
+0 @I5440@ INDI
+1 NAME Hannis /van der Donk/
+2 TYPE birth
+2 GIVN Hannis
+2 SPFX van der
+2 SURN Donk
+1 SEX M
+1 FAMS @F2114@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:36:55
+0 @I5441@ INDI
+1 NAME Cornelia /de Koning/
+2 TYPE birth
+2 GIVN Cornelia
+2 SPFX de
+2 SURN Koning
+1 SEX F
+1 FAMS @F2114@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:36:55
+0 @I5442@ INDI
+1 NAME Cornelia /Kuijlenburg/
+2 TYPE birth
+2 GIVN Cornelia
+2 SURN Kuijlenburg
+1 SEX F
+1 BIRT
+2 DATE 27 JAN 1846
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2377@
+1 DEAT
+2 DATE 3 JAN 1849
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2380@
+1 FAMC @F2044@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 13:53:19
+0 @I5443@ INDI
+1 NAME Helena /Kuijlenburg/
+2 TYPE birth
+2 GIVN Helena
+2 SURN Kuijlenburg
+1 SEX F
+1 BIRT
+2 DATE 20 APR 1847
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2378@
+1 DEAT
+2 DATE 12 OCT 1855
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2386@
+1 FAMC @F2044@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 13:53:19
+0 @I5444@ INDI
+1 NAME Anthonij /Kuijlenburg/
+2 TYPE birth
+2 GIVN Anthonij
+2 SURN Kuijlenburg
+1 SEX M
+1 BIRT
+2 DATE 16 SEP 1848
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2379@
+1 FAMC @F2044@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 13:53:19
+0 @I5445@ INDI
+1 NAME Cornelia /Kuijlenburg/
+2 TYPE birth
+2 GIVN Cornelia
+2 SURN Kuijlenburg
+1 SEX F
+1 BIRT
+2 DATE 20 DEC 1849
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2381@
+1 DEAT
+2 DATE 8 MAY 1933
+2 PLAC Mijdrecht [Utrecht]
+3 MAP
+4 LATI N52.207478
+4 LONG E4.866422
+2 NOTE @N2411@
+1 FAMC @F2044@
+2 PEDI birth
+1 FAMS @F2117@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:34:59
+0 @I5446@ INDI
+1 NAME Alida /Kuijlenburg/
+2 TYPE birth
+2 GIVN Alida
+2 SURN Kuijlenburg
+1 SEX F
+1 BIRT
+2 DATE 14 JUL 1852
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2383@
+1 DEAT
+2 DATE 21 JAN 1909
+2 PLAC Mijdrecht [Utrecht]
+3 MAP
+4 LATI N52.207478
+4 LONG E4.866422
+2 NOTE @N2407@
+1 FAMC @F2044@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:23:26
+0 @I5447@ INDI
+1 NAME Anthonie /Kuijlenburg/
+2 TYPE birth
+2 GIVN Anthonie
+2 SURN Kuijlenburg
+1 SEX M
+1 BIRT
+2 DATE 23 APR 1854
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2384@
+1 DEAT
+2 DATE 6 AUG 1856
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2387@
+1 FAMC @F2044@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 13:53:19
+0 @I5448@ INDI
+1 NAME Johanna /Kuijlenburg/
+2 TYPE birth
+2 GIVN Johanna
+2 SURN Kuijlenburg
+1 SEX F
+1 BIRT
+2 DATE 17 MAY 1855
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2385@
+1 DEAT
+2 DATE 21 JUN 1868
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2398@
+1 FAMC @F2044@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 13:53:19
+0 @I5449@ INDI
+1 NAME Helena /Kuijlenburg/
+2 TYPE birth
+2 GIVN Helena
+2 SURN Kuijlenburg
+1 SEX F
+1 BIRT
+2 DATE 12 AUG 1856
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2388@
+1 DEAT
+2 DATE 22 APR 1863
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2394@
+1 FAMC @F2044@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 13:53:19
+0 @I5450@ INDI
+1 NAME Anthonius Franciscus /Kuijlenburg/
+2 TYPE birth
+2 GIVN Anthonius Franciscus
+2 SURN Kuijlenburg
+1 SEX M
+1 BIRT
+2 DATE 2 OCT 1858
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2389@
+1 DEAT
+2 DATE 28 AUG 1859
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2390@
+1 FAMC @F2044@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 13:53:19
+0 @I5451@ INDI
+1 NAME Catharina /Kuijlenburg/
+2 TYPE birth
+2 GIVN Catharina
+2 SURN Kuijlenburg
+1 SEX F
+1 BIRT
+2 DATE 29 JAN 1860
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2391@
+1 DEAT
+2 DATE 8 FEB 1890
+2 PLAC Mijdrecht [Utrecht]
+3 MAP
+4 LATI N52.207478
+4 LONG E4.866422
+2 NOTE @N2403@
+1 FAMC @F2044@
+2 PEDI birth
+1 FAMS @F2115@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:12:03
+0 @I5452@ INDI
+1 NAME Franciscus Johannes /Kuijlenburg/
+2 TYPE birth
+2 GIVN Franciscus Johannes
+2 SURN Kuijlenburg
+1 SEX M
+1 BIRT
+2 DATE 17 APR 1861
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2392@
+1 DEAT
+2 DATE 22 SEP 1861
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2393@
+1 FAMC @F2044@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 13:53:19
+0 @I5453@ INDI
+1 NAME Geertruida /Kuijlenburg/
+2 TYPE birth
+2 GIVN Geertruida
+2 SURN Kuijlenburg
+1 SEX F
+1 BIRT
+2 DATE 10 AUG 1863
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2396@
+1 DEAT
+2 DATE 15 FEB 1874
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2400@
+1 FAMC @F2044@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 13:54:24
+0 @I5454@ INDI
+1 NAME Antonia /Kuijlenburg/
+2 TYPE birth
+2 GIVN Antonia
+2 SURN Kuijlenburg
+1 SEX F
+1 BIRT
+2 DATE 23 JUL 1865
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2397@
+1 FAMC @F2044@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 13:53:19
+0 @I5455@ INDI
+1 NAME Franciscus Johannes /Kuijlenburg/
+2 TYPE birth
+2 GIVN Franciscus Johannes
+2 SURN Kuijlenburg
+1 SEX M
+1 BIRT
+2 DATE 29 JAN 1869
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2399@
+1 DEAT
+2 DATE 12 FEB 1949
+2 PLAC Utrecht [Utrecht]
+3 MAP
+4 LATI N52.090402
+4 LONG E5.120298
+2 NOTE @N2412@
+1 FAMC @F2044@
+2 PEDI birth
+1 FAMS @F2119@
+1 FAMS @F2121@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:36:07
+0 @I5456@ INDI
+1 NAME Johannes /van Sprang/
+2 TYPE birth
+2 GIVN Johannes
+2 SPFX van
+2 SURN Sprang
+1 SEX M
+1 FAMC @F2116@
+2 PEDI birth
+1 FAMS @F2115@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:01:02
+0 @I5457@ INDI
+1 NAME Antonie /van Sprang/
+2 TYPE birth
+2 GIVN Antonie
+2 SPFX van
+2 SURN Sprang
+1 SEX M
+1 FAMS @F2116@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:01:02
+0 @I5458@ INDI
+1 NAME Agatha /Bredie/
+2 TYPE birth
+2 GIVN Agatha
+2 SURN Bredie
+1 SEX F
+1 FAMS @F2116@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:01:02
+0 @I5459@ INDI
+1 NAME Johannes /Zuiderwijk/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Zuiderwijk
+1 SEX M
+1 FAMC @F2118@
+2 PEDI birth
+1 FAMS @F2117@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:10:34
+0 @I5460@ INDI
+1 NAME Pieter /Zuiderwijk/
+2 TYPE birth
+2 GIVN Pieter
+2 SURN Zuiderwijk
+1 SEX M
+1 FAMS @F2118@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:10:34
+0 @I5461@ INDI
+1 NAME Aaltje /Stolwijk/
+2 TYPE birth
+2 GIVN Aaltje
+2 SURN Stolwijk
+1 SEX F
+1 FAMS @F2118@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:10:34
+0 @I5462@ INDI
+1 NAME Wilhelmina Johanna Clasina /Streumer/
+2 TYPE birth
+2 GIVN Wilhelmina Johanna Clasina
+2 SURN Streumer
+1 SEX F
+1 BIRT
+2 DATE ABT 1879
+2 PLAC Langbroek [Utrecht]
+1 FAMC @F2120@
+2 PEDI birth
+1 FAMS @F2119@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:21:22
+0 @I5463@ INDI
+1 NAME Jacobus /Streumer/
+2 TYPE birth
+2 GIVN Jacobus
+2 SURN Streumer
+1 SEX M
+1 FAMS @F2120@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:21:22
+0 @I5464@ INDI
+1 NAME Wilhelmina Johanna /Maarschalkerweerd/
+2 TYPE birth
+2 GIVN Wilhelmina Johanna
+2 SURN Maarschalkerweerd
+1 SEX F
+1 FAMS @F2120@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:21:22
+0 @I5465@ INDI
+1 NAME Willemina Johanna /Borra/
+2 TYPE birth
+2 GIVN Willemina Johanna
+2 SURN Borra
+1 SEX F
+1 BIRT
+2 DATE ABT 1883
+2 PLAC Utrecht [Utrecht]
+3 MAP
+4 LATI N52.090402
+4 LONG E5.120298
+1 FAMC @F2122@
+2 PEDI birth
+1 FAMS @F2121@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:29:05
+0 @I5466@ INDI
+1 NAME Pieter Hendrik /Borra/
+2 TYPE birth
+2 GIVN Pieter Hendrik
+2 SURN Borra
+1 SEX M
+1 FAMS @F2122@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:28:52
+0 @I5467@ INDI
+1 NAME Willemina Adriana /Jansen/
+2 TYPE birth
+2 GIVN Willemina Adriana
+2 SURN Jansen
+1 NAME Willemina Adriana /Janssen/
+2 TYPE aka
+2 GIVN Willemina Adriana
+2 SURN Janssen
+1 SEX F
+1 FAMS @F2122@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:28:52
+0 @I5468@ INDI
+1 NAME Maaike Adriana /Bor/
+2 TYPE birth
+2 GIVN Maaike Adriana
+2 SURN Bor
+1 SEX F
+1 BIRT
+2 DATE 22 APR 1855
+2 PLAC Arkel [Zuid Holland]
+3 MAP
+4 LATI N51.865475
+4 LONG E4.99725
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 15:05:33
+0 @I5469@ INDI
+1 NAME Teuntje Wilhelmina /Lugten/
+2 TYPE birth
+2 GIVN Teuntje Wilhelmina
+2 SURN Lugten
+1 SEX F
+1 BIRT
+2 DATE 14 JAN 1875
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 DEAT
+2 DATE 18 JAN 1876
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F0134@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:24:37
+0 @I5470@ INDI
+1 NAME Wilhelmina Teuntje /Lugten/
+2 TYPE birth
+2 GIVN Wilhelmina Teuntje
+2 SURN Lugten
+2 NICK Mina
+1 NAME Mina /Lugten/
+2 TYPE aka
+2 GIVN Mina
+2 SURN Lugten
+1 SEX F
+1 BIRT
+2 DATE 3 APR 1878
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 DEAT
+2 DATE 21 MAY 1938
+2 PLAC Den Haag [Zuid Holland]
+3 MAP
+4 LATI N52.071626
+4 LONG E4.299566
+1 FAMC @F0134@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:24:37
+0 @I5471@ INDI
+1 NAME Cornelis Marinus /Lugten/
+2 TYPE birth
+2 GIVN Cornelis Marinus
+2 SURN Lugten
+1 NAME Kees /Lugten/
+2 TYPE aka
+2 GIVN Kees
+2 SURN Lugten
+1 SEX M
+1 BIRT
+2 DATE 29 DEC 1879
+2 PLAC Hellevoetsluis (Voorne- Putten) [Zuid Holland]
+3 MAP
+4 LATI N51.831201
+4 LONG E4.131298
+1 DEAT
+2 DATE 2 JAN 1957
+2 PLAC Rotterdam [Zuid Holland]
+3 MAP
+4 LATI N51.924358
+4 LONG E4.474346
+1 FAMC @F0134@
+2 PEDI birth
+1 FAMS @F2124@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:24:37
+0 @I5472@ INDI
+1 NAME Susanna Jacoba Adriana /Reys/
+2 TYPE birth
+2 GIVN Susanna Jacoba Adriana
+2 SURN Reys
+1 SEX F
+1 BIRT
+2 DATE 12 NOV 1880
+2 PLAC Den Haag [Zuid Holland]
+3 MAP
+4 LATI N52.071626
+4 LONG E4.299566
+1 DEAT
+2 DATE 15 APR 1944
+2 PLAC Rotterdam [Zuid Holland]
+3 MAP
+4 LATI N51.924358
+4 LONG E4.474346
+1 FAMS @F2124@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 16:23:31
+0 @I5473@ INDI
+1 NAME Jeanetta Maria /Lugten/
+2 TYPE birth
+2 GIVN Jeanetta Maria
+2 SURN Lugten
+1 SEX F
+1 BIRT
+2 DATE 5 JUN 1881
+2 PLAC Hellevoetsluis (Voorne- Putten) [Zuid Holland]
+3 MAP
+4 LATI N51.831201
+4 LONG E4.131298
+1 DEAT
+2 DATE 3 MAY 1955
+2 PLAC Almelo [Overijssel]
+3 MAP
+4 LATI N52.365789
+4 LONG E6.668211
+1 FACT Ziekenverpleegster
+2 TYPE Occupation
+1 FACT Onderwijzeres
+2 TYPE Occupation
+2 NOTE @N2413@
+1 FAMC @F0134@
+2 PEDI birth
+1 FAMS @F2125@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:24:37
+0 @I5474@ INDI
+1 NAME Frederik Hendrik Nicolaas /Bloemink/
+2 TYPE birth
+2 GIVN Frederik Hendrik Nicolaas
+2 SURN Bloemink
+1 SEX M
+1 BIRT
+2 DATE 21 JAN 1886
+2 PLAC Gouda [Zuid Holland]
+3 MAP
+4 LATI N52.011497
+4 LONG E4.710546
+1 DEAT
+2 DATE 31 MAY 1947
+2 PLAC Leiden [Zuid Holland]
+3 MAP
+4 LATI N52.163452
+4 LONG E4.4802
+1 FACT Onderwijzer
+2 TYPE Occupation
+1 FAMS @F2125@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 16:29:47
+0 @I5475@ INDI
+1 NAME Margareta Teuntje /Lugten/
+2 TYPE birth
+2 GIVN Margareta Teuntje
+2 SURN Lugten
+2 NICK Greet
+1 NAME Greet /Lugten/
+2 TYPE aka
+2 GIVN Greet
+2 SURN Lugten
+1 SEX F
+1 BIRT
+2 DATE 9 JAN 1889
+2 PLAC Hellevoetsluis (Voorne- Putten) [Zuid Holland]
+3 MAP
+4 LATI N51.831201
+4 LONG E4.131298
+1 DEAT
+2 DATE 8 APR 1974
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 FAMC @F0134@
+2 PEDI birth
+1 FAMS @F2126@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:24:37
+0 @I5476@ INDI
+1 NAME Jacob /Bottema/
+2 TYPE birth
+2 GIVN Jacob
+2 SURN Bottema
+1 SEX M
+1 BIRT
+2 DATE 19 SEP 1886
+2 PLAC Naaldwijk [Zuid Holland]
+1 DEAT
+2 DATE 4 MAY 1950
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 FACT Machinist
+2 TYPE Occupation
+1 FAMS @F2126@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:20:07
+0 @I5477@ INDI
+1 NAME Johannes Arie /Lugten/
+2 TYPE birth
+2 GIVN Johannes Arie
+2 SURN Lugten
+1 SEX M
+1 BIRT
+2 DATE 9 MAY 1877
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 DEAT
+2 DATE 13 FEB 1919
+2 PLAC Schoonhoven
+2 NOTE @N2415@
+1 FAMC @F0134@
+2 PEDI birth
+1 FAMS @F2127@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:28:07
+0 @I5478@ INDI
+1 NAME Dirkje /Kistemaker/
+2 TYPE birth
+2 GIVN Dirkje
+2 SURN Kistemaker
+1 SEX F
+1 BIRT
+2 DATE 8 NOV 1883
+2 PLAC Venhuizen
+1 DEAT
+2 DATE 12 AUG 1960
+2 PLAC Alkmaar [Noord Holland]
+3 MAP
+4 LATI N52.632329
+4 LONG E4.75351
+1 FAMS @F2127@
+1 RESI
+2 DATE BET 1910 AND 1921
+2 ADDR Hoorn
+3 CONT Noord Holland
+3 CITY Hoorn
+3 STAE Noord Holland
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:28:07
+0 @I5479@ INDI
+1 NAME Michiel /Luchten/
+2 TYPE birth
+2 GIVN Michiel
+2 SURN Luchten
+1 SEX M
+1 BIRT
+2 DATE 28 NOV 1668
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 DEAT
+2 DATE 6 JUL 1753
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F1529@
+2 PEDI birth
+1 FAMS @F2128@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:50:11
+0 @I5480@ INDI
+1 NAME Passchijntje Dingemansd. /Lugt/
+2 TYPE birth
+2 GIVN Passchijntje Dingemansd.
+2 SURN Lugt
+1 SEX F
+1 BIRT
+2 DATE 5 MAR 1670
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F1529@
+2 PEDI birth
+1 FAMS @F2129@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:53:57
+0 @I5481@ INDI
+1 NAME Bergijna /Lugten/
+2 TYPE birth
+2 GIVN Bergijna
+2 SURN Lugten
+1 SEX F
+1 BIRT
+2 DATE 26 OCT 1671
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 DEAT
+2 DATE 30 JUN 1742
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F1529@
+2 PEDI birth
+1 FAMS @F2130@
+1 FAMS @F2131@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:55:41
+0 @I5482@ INDI
+1 NAME Cornelia /Lugten/
+2 TYPE birth
+2 GIVN Cornelia
+2 SURN Lugten
+1 SEX F
+1 BIRT
+2 DATE 23 MAR 1673
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 DEAT
+2 DATE ABT 1713
+1 FAMC @F1529@
+2 PEDI birth
+1 FAMS @F2132@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 18:29:54
+0 @I5483@ INDI
+1 NAME Pieter /Lugten/
+2 TYPE birth
+2 GIVN Pieter
+2 SURN Lugten
+1 SEX M
+1 BIRT
+2 DATE 24 SEP 1679
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 DEAT
+2 DATE 17 DEC 1680
+1 FAMC @F1529@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 19:20:26
+0 @I5484@ INDI
+1 NAME Gouda /de Haer/
+2 TYPE birth
+2 GIVN Gouda
+2 SPFX de
+2 SURN Haer
+1 SEX F
+1 BIRT
+2 PLAC Capelle
+1 DEAT
+2 DATE 17 APR 1742
+1 FAMS @F2128@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:50:11
+0 @I5485@ INDI
+1 NAME  /de Wacker/
+2 TYPE birth
+2 SPFX de
+2 SURN Wacker
+1 SEX M
+1 FAMS @F2129@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:51:04
+0 @I5486@ INDI
+1 NAME Willem Pietersz. /Biesevelt/
+2 TYPE birth
+2 GIVN Willem Pietersz.
+2 SURN Biesevelt
+1 SEX M
+1 FAMS @F2130@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:53:49
+0 @I5487@ INDI
+1 NAME Cornelis Gerritsz. /de Nuyver/
+2 TYPE birth
+2 GIVN Cornelis Gerritsz.
+2 SPFX de
+2 SURN Nuyver
+1 SEX M
+1 FAMS @F2131@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:55:41
+0 @I5488@ INDI
+1 NAME Wouter Cornelisz. /van Gilst/
+2 TYPE birth
+2 GIVN Wouter Cornelisz.
+2 SPFX van
+2 SURN Gilst
+1 SEX M
+1 FAMS @F2132@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 18:29:54
+0 @I5489@ INDI
+1 NAME Adriaen Jansz. /Locht/
+2 TYPE birth
+2 GIVN Adriaen Jansz.
+2 SURN Locht
+1 SEX M
+1 BIRT
+2 DATE 1614
+1 DEAT
+2 DATE 5 APR 1681
+2 PLAC Den Bosch [Noord Brabant]
+3 MAP
+4 LATI N51.697614
+4 LONG E5.293723
+1 FAMC @F2140@
+2 PEDI birth
+1 FAMS @F2133@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:36:32
+0 @I5490@ INDI
+1 NAME Cornelia Jandr. /van Gilse/
+2 TYPE birth
+2 GIVN Cornelia Jandr.
+2 SPFX van
+2 SURN Gilse
+1 NAME Cornelia /van Gilst/
+2 TYPE aka
+2 GIVN Cornelia
+2 SPFX van
+2 SURN Gilst
+1 SEX F
+1 BIRT
+2 DATE 1610
+1 DEAT
+2 DATE 1672
+1 FAMS @F2133@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:50:28
+0 @I5491@ INDI
+1 NAME Gerrit Ariens /Locht/
+2 TYPE birth
+2 GIVN Gerrit Ariens
+2 SURN Locht
+1 SEX M
+1 BIRT
+2 DATE DEC 1638
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 DEAT
+2 DATE 1676
+1 FAMC @F2133@
+2 PEDI birth
+1 FAMS @F2134@
+1 FAMS @F2135@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:31:18
+0 @I5492@ INDI
+1 NAME Cornelia Cornelisdr. //
+2 TYPE birth
+2 GIVN Cornelia Cornelisdr.
+1 SEX F
+1 FAMS @F2134@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 19:59:23
+0 @I5493@ INDI
+1 NAME Arientje Jacobs //
+2 TYPE birth
+2 GIVN Arientje Jacobs
+1 SEX F
+1 DEAT
+2 DATE 1673
+1 FAMS @F2135@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 20:00:47
+0 @I5494@ INDI
+1 NAME Aaltje Ariens /Lucht/
+2 TYPE birth
+2 GIVN Aaltje Ariens
+2 SURN Lucht
+1 SEX F
+1 FAMC @F2133@
+2 PEDI birth
+1 FAMS @F2136@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:31:18
+0 @I5495@ INDI
+1 NAME Bastiaan /van Sprangh/
+2 TYPE birth
+2 GIVN Bastiaan
+2 SPFX van
+2 SURN Sprangh
+1 SEX M
+1 FAMS @F2136@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 20:03:07
+0 @I5496@ INDI
+1 NAME Jan Ariens /Lugten/
+2 TYPE birth
+2 GIVN Jan Ariens
+2 SURN Lugten
+1 SEX M
+1 DEAT
+2 DATE 10 APR 1717
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F2133@
+2 PEDI birth
+1 FAMS @F2137@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:31:18
+0 @I5497@ INDI
+1 NAME Janneken /Theunis/
+2 TYPE birth
+2 GIVN Janneken
+2 SURN Theunis
+1 SEX F
+1 DEAT
+2 DATE 17 NOV 1716
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMS @F2137@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 20:12:57
+0 @I5498@ INDI
+1 NAME Teunis Ariens /Lugten/
+2 TYPE birth
+2 GIVN Teunis Ariens
+2 SURN Lugten
+1 SEX M
+1 DEAT
+2 DATE 21 MAR 1693
+1 FAMC @F2133@
+2 PEDI birth
+1 FAMS @F2138@
+1 FAMS @F2139@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:31:18
+0 @I5499@ INDI
+1 NAME Janneken Tonis /Swijgers/
+2 TYPE birth
+2 GIVN Janneken Tonis
+2 SURN Swijgers
+1 SEX F
+1 DEAT
+2 DATE 5 APR 1685
+1 FAMS @F2138@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 20:18:26
+0 @I5500@ INDI
+1 NAME Barber /Smits/
+2 TYPE birth
+2 GIVN Barber
+2 SURN Smits
+1 SEX F
+1 FAMS @F2139@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 20:30:10
+0 @I5501@ INDI
+1 NAME Cornelis Adriaens /Lugten/
+2 TYPE birth
+2 GIVN Cornelis Adriaens
+2 SURN Lugten
+1 SEX M
+1 FAMC @F2133@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:31:18
+0 @I5502@ INDI
+1 NAME Jan Jansen /Locht/
+2 TYPE birth
+2 GIVN Jan Jansen
+2 SURN Locht
+1 SEX M
+1 BIRT
+2 DATE ABT 1580
+2 PLAC Dongen [Noord Brabant]
+1 DEAT
+2 DATE 6 DEC 1625
+2 PLAC Dongen [Noord Brabant]
+1 FAMC @F2143@
+2 PEDI birth
+1 FAMS @F2140@
+1 FAMS @F2142@
+1 NOTE @N2417@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:09:21
+0 @I5503@ INDI
+1 NAME Maeijcken Jan Laureijs /Conincx/
+2 TYPE birth
+2 GIVN Maeijcken Jan Laureijs
+2 SURN Conincx
+1 SEX F
+1 BIRT
+2 DATE ABT 1590
+2 PLAC Dongen [Noord Brabant]
+1 DEAT
+2 DATE 5 DEC 1625
+1 FAMC @F2144@
+2 PEDI birth
+1 FAMS @F2140@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:17:00
+0 @I5504@ INDI
+1 NAME Janneke Jans Jansen /Locht/
+2 TYPE birth
+2 GIVN Janneke Jans Jansen
+2 SURN Locht
+1 SEX F
+1 BIRT
+2 DATE ABT 1616
+2 PLAC 's-Gravenmoer [Noord Brabant]
+1 FAMC @F2140@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:36:32
+0 @I5505@ INDI
+1 NAME Huypken Jans Jansen /Locht/
+2 TYPE birth
+2 GIVN Huypken Jans Jansen
+2 SURN Locht
+1 SEX F
+1 BIRT
+2 DATE 1618
+2 PLAC Dongen [Noord Brabant]
+1 DEAT
+2 DATE 9 APR 1657
+2 NOTE @N2418@
+1 FAMC @F2140@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:36:32
+0 @I5506@ INDI
+1 NAME Maeke Jans Jansen (de Oudere) /Locht/
+2 TYPE birth
+2 GIVN Maeke Jans Jansen (de Oudere)
+2 SURN Locht
+1 SEX F
+1 BIRT
+2 DATE ABT 1619
+2 PLAC 's-Gravenmoer [Noord Brabant]
+1 FAMC @F2140@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:36:32
+0 @I5507@ INDI
+1 NAME Maeijke Jans Jansen (de Jongere) /Locht/
+2 TYPE birth
+2 GIVN Maeijke Jans Jansen (de Jongere)
+2 SURN Locht
+1 SEX F
+1 BIRT
+2 DATE ABT 1623
+2 PLAC 's-Gravenmoer [Noord Brabant]
+1 FAMC @F2140@
+2 PEDI birth
+1 FAMS @F2141@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:37:21
+0 @I5508@ INDI
+1 NAME nn Corstiaensen //
+2 TYPE birth
+2 GIVN nn Corstiaensen
+1 SEX M
+1 FAMS @F2141@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:37:21
+0 @I5509@ INDI
+1 NAME Maeijke Jansz (Jan Cornelis) /Haensbergh/
+2 TYPE birth
+2 GIVN Maeijke Jansz (Jan Cornelis)
+2 SURN Haensbergh
+1 SEX F
+1 BIRT
+2 DATE ABT 1595
+2 PLAC 's-Gravenmoer [Noord Brabant]
+1 DEAT
+2 DATE 5 MAR 1654
+2 PLAC Dongen [Noord Brabant]
+1 FAMS @F2142@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:41:48
+0 @I5510@ INDI
+1 NAME Jacob Jans Janssen /Locht/
+2 TYPE birth
+2 GIVN Jacob Jans Janssen
+2 SURN Locht
+1 SEX M
+1 BIRT
+2 DATE ABT 1621
+2 PLAC 's-Gravenmoer [Noord Brabant]
+1 DEAT
+2 DATE 5 APR 1681
+2 PLAC Den Bosch, Boxmeer [Noord Brabant]
+1 FAMC @F2142@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:51:18
+0 @I5511@ INDI
+1 NAME Maeijke Jans Jansen (de Jongere) /Locht/
+2 TYPE birth
+2 GIVN Maeijke Jans Jansen (de Jongere)
+2 SURN Locht
+1 SEX F
+1 BIRT
+2 DATE ABT 1623
+2 PLAC 's-Gravenmoer [Noord Brabant]
+1 FAMC @F2142@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:51:18
+0 @I5512@ INDI
+1 NAME Willem Jans Janssen /Locht/
+2 TYPE birth
+2 GIVN Willem Jans Janssen
+2 SURN Locht
+1 SEX M
+1 BIRT
+2 DATE ABT 1624
+1 FAMC @F2142@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:51:18
+0 @I5513@ INDI
+1 NAME Jan /Locht/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Locht
+1 SEX M
+1 BIRT
+2 DATE ABT 1545
+2 PLAC 's-Gravenmoer [Noord Brabant]
+1 FAMS @F2143@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:09:21
+0 @I5514@ INDI
+1 NAME Jan Laureijs /Conincx/
+2 TYPE birth
+2 GIVN Jan Laureijs
+2 SURN Conincx
+1 SEX M
+1 BIRT
+2 DATE ABT 1570
+2 PLAC 's-Gravenmoer [Noord Brabant]
+1 FAMC @F2145@
+2 PEDI birth
+1 FAMS @F2144@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:18:14
+0 @I5515@ INDI
+1 NAME Laureijs Wouterssen /Conincx/
+2 TYPE birth
+2 GIVN Laureijs Wouterssen
+2 SURN Conincx
+1 SEX M
+1 BIRT
+2 DATE ABT 1540
+2 PLAC 's-Gravenmoer [Noord Brabant]
+1 FAMS @F2145@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:18:07
+0 @I5516@ INDI
+1 NAME Anthomis /Lucht/
+2 TYPE birth
+2 GIVN Anthomis
+2 SURN Lucht
+1 SEX M
+1 BIRT
+2 DATE 15 MAR 1637
+2 PLAC Den Bosch [Noord Brabant]
+3 MAP
+4 LATI N51.697614
+4 LONG E5.293723
+1 FAMC @F2133@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:31:18
+0 @I5517@ INDI
+1 NAME Jan Adriaensz /Lugten/
+2 TYPE birth
+2 GIVN Jan Adriaensz
+2 SURN Lugten
+1 SEX M
+1 BIRT
+2 DATE 1635
+1 FAMC @F2133@
+2 PEDI birth
+1 FAMS @F2146@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:35:53
+0 @I5518@ INDI
+1 NAME Janneke Theunisdr. //
+2 TYPE birth
+2 GIVN Janneke Theunisdr.
+1 SEX F
+1 FAMS @F2146@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:35:53
+0 @I5519@ INDI
+1 NAME Maria Jansdr. /Lugten/
+2 TYPE birth
+2 GIVN Maria Jansdr.
+2 SURN Lugten
+1 SEX F
+1 BIRT
+2 DATE 1660
+1 DEAT
+2 DATE 1684
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F2146@
+2 PEDI birth
+1 FAMS @F2147@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:56:01
+0 @I5520@ INDI
+1 NAME Urias /van Westenrijck/
+2 TYPE birth
+2 GIVN Urias
+2 SPFX van
+2 SURN Westenrijck
+1 SEX M
+1 BIRT
+2 DATE 24 JUL 1661
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 DEAT
+2 DATE 13 NOV 1684
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FACT Scheepstimmerman
+2 TYPE Occupation
+1 FAMS @F2147@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:56:01
+0 @I5521@ INDI
+1 NAME Neeltje /van Westenrijck/
+2 TYPE birth
+2 GIVN Neeltje
+2 SPFX van
+2 SURN Westenrijck
+1 SEX F
+1 BIRT
+2 DATE DEC 1684
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F2147@
+2 PEDI birth
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:56:01
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -100358,9 +104601,15 @@
 0 @F0134@ FAM
 1 HUSB @I0289@
 1 WIFE @I0290@
+1 CHIL @I5469@
+1 CHIL @I5470@
+1 CHIL @I5471@
+1 CHIL @I5473@
+1 CHIL @I5475@
+1 CHIL @I5477@
 1 CHAN
-2 DATE 24 JAN 2025
-3 TIME 23:40:02
+2 DATE 30 JAN 2026
+3 TIME 17:24:37
 0 @F0135@ FAM
 1 HUSB @I0291@
 1 WIFE @I0292@
@@ -100656,18 +104905,26 @@
 0 @F0156@ FAM
 1 HUSB @I0346@
 1 WIFE @I0347@
+1 MARR
+2 DATE 23 AUG 1922
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
 1 CHIL @I0140@
+1 CHIL @I5434@
 1 CHAN
-2 DATE 25 JAN 2025
-3 TIME 19:39:38
+2 DATE 29 JAN 2026
+3 TIME 21:12:26
 0 @F0157@ FAM
 1 HUSB @I0348@
 1 WIFE @I0349@
+1 CHIL @I5433@
 1 CHIL @I1206@
 1 CHIL @I0346@
 1 CHAN
-2 DATE 31 MAY 2025
-3 TIME 12:57:13
+2 DATE 29 JAN 2026
+3 TIME 21:09:53
 0 @F0158@ FAM
 1 HUSB @I0351@
 1 WIFE @I0352@
@@ -107997,6 +112254,9 @@
 1 MARR
 2 DATE 21 DEC 1979
 2 PLAC Maassluis [Zuid Holland]
+3 MAP
+4 LATI N51.92252
+4 LONG E4.252798
 1 CHIL @I2073@
 1 CHIL @I2074@
 1 CHAN
@@ -108015,7 +112275,10 @@
 1 WIFE @I2028@
 1 MARR
 2 DATE 27 SEP 1982
-2 PLAC Doetinchem
+2 PLAC Doetinchem [Gelderland]
+3 MAP
+4 LATI N51.964397
+4 LONG E6.292964
 1 CHIL @I2079@
 1 CHIL @I2081@
 1 CHAN
@@ -108225,7 +112488,10 @@
 1 WIFE @I2114@
 1 MARR
 2 DATE 26 APR 1705
-2 PLAC Laren, Gelderland
+2 PLAC Laren [Gelderland]
+3 MAP
+4 LATI N52.19223
+4 LONG E6.364999
 1 CHIL @I2109@
 1 CHAN
 2 DATE 8 JUL 2025
@@ -108277,7 +112543,10 @@
 1 WIFE @I2143@
 1 MARR
 2 DATE 29 JAN 1673
-2 PLAC Lochem
+2 PLAC Lochem [Gelderland]
+3 MAP
+4 LATI N52.160556
+4 LONG E6.415833
 1 CHIL @I2113@
 1 CHAN
 2 DATE 8 JUL 2025
@@ -108321,7 +112590,10 @@
 1 WIFE @I2155@
 1 MARR
 2 DATE 24 MAR 1594
-2 PLAC Lochem
+2 PLAC Lochem [Gelderland]
+3 MAP
+4 LATI N52.160556
+4 LONG E6.415833
 1 CHIL @I2152@
 1 CHAN
 2 DATE 8 JUL 2025
@@ -108346,7 +112618,10 @@
 1 WIFE @I2162@
 1 MARR
 2 DATE 24 MAY 1849
-2 PLAC Kollumerland
+2 PLAC Kollumerland [Friesland]
+3 MAP
+4 LATI N53.299697
+4 LONG E6.177064
 1 CHAN
 2 DATE 8 JUL 2025
 3 TIME 23:13:23
@@ -108355,7 +112630,10 @@
 1 WIFE @I2165@
 1 MARR
 2 DATE 30 JUL 1702
-2 PLAC Laren, Gelderland
+2 PLAC Laren [Gelderland]
+3 MAP
+4 LATI N52.19223
+4 LONG E6.364999
 1 CHAN
 2 DATE 9 JUL 2025
 3 TIME 07:49:14
@@ -108370,7 +112648,10 @@
 1 WIFE @I2170@
 1 MARR
 2 DATE 1 JUN 1715
-2 PLAC Laren, Gelderland
+2 PLAC Laren [Gelderland]
+3 MAP
+4 LATI N52.19223
+4 LONG E6.364999
 1 CHIL @I2171@
 1 CHAN
 2 DATE 9 JUL 2025
@@ -108380,7 +112661,10 @@
 1 WIFE @I2171@
 1 MARR
 2 DATE 26 MAY 1753
-2 PLAC Laren, Gelderland
+2 PLAC Laren [Gelderland]
+3 MAP
+4 LATI N52.19223
+4 LONG E6.364999
 1 CHIL @I2173@
 1 CHIL @I2174@
 1 CHAN
@@ -109915,7 +114199,10 @@
 1 WIFE @I2505@
 1 MARR
 2 DATE 4 MAY 1783
-2 PLAC Voorschoten
+2 PLAC Voorschoten [Zuid Holland]
+3 MAP
+4 LATI N52.123772
+4 LONG E4.43867
 1 CHIL @I2506@
 1 CHIL @I2502@
 1 CHIL @I2507@
@@ -115898,10 +120185,21 @@
 0 @F1529@ FAM
 1 HUSB @I4034@
 1 WIFE @I4035@
+1 MARR
+2 DATE 7 AUG 1667
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 CHIL @I5479@
+1 CHIL @I5480@
+1 CHIL @I5481@
+1 CHIL @I5482@
+1 CHIL @I5483@
 1 CHIL @I4030@
 1 CHAN
-2 DATE 12 OCT 2025
-3 TIME 23:09:48
+2 DATE 30 JAN 2026
+3 TIME 17:46:09
 0 @F1530@ FAM
 1 HUSB @I4043@
 1 WIFE @I4044@
@@ -117139,6 +121437,9 @@
 1 MARR
 2 DATE 9 MAY 1868
 2 PLAC Kollum (Kollumerland en Nieuwkruisland) [Friesland]
+3 MAP
+4 LATI N53.280153
+4 LONG E6.146927
 2 NOTE @N1810@
 1 CHAN
 2 DATE 6 NOV 2025
@@ -120461,6 +124762,9 @@
 0 @F1982@ FAM
 1 HUSB @I5101@
 1 WIFE @I5102@
+1 MARR
+2 DATE 20 APR 1876
+2 PLAC Noordwijk [Zuid Holland]
 1 CHIL @I5103@
 1 CHIL @I5104@
 1 CHIL @I5105@
@@ -120477,8 +124781,8 @@
 1 CHIL @I5115@
 1 CHIL @I5116@
 1 CHAN
-2 DATE 18 JAN 2026
-3 TIME 21:10:23
+2 DATE 29 JAN 2026
+3 TIME 20:25:43
 0 @F1983@ FAM
 1 HUSB @I5120@
 1 WIFE @I5117@
@@ -121087,14 +125391,14 @@
 1 HUSB @I5259@
 1 WIFE @I5261@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 16:30:36
+2 DATE 25 JAN 2026
+3 TIME 22:06:17
 0 @F2039@ FAM
 1 WIFE @I5262@
 1 CHIL @I5259@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 16:32:46
+2 DATE 25 JAN 2026
+3 TIME 22:06:23
 0 @F2040@ FAM
 1 HUSB @I5269@
 1 WIFE @I5258@
@@ -121145,24 +125449,74 @@
 0 @F2044@ FAM
 1 HUSB @I5272@
 1 WIFE @I5273@
+1 MARR
+2 DATE 11 APR 1845
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2288@
+2 NOTE @N2376@
+1 CHIL @I5442@
+1 CHIL @I5443@
+1 CHIL @I5444@
+1 CHIL @I5445@
 1 CHIL @I5246@
+1 CHIL @I5446@
+1 CHIL @I5447@
+1 CHIL @I5448@
+1 CHIL @I5449@
+1 CHIL @I5450@
+1 CHIL @I5451@
+1 CHIL @I5452@
+1 CHIL @I5453@
+1 CHIL @I5454@
+1 CHIL @I5455@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 18:31:21
+2 DATE 30 JAN 2026
+3 TIME 13:53:19
 0 @F2045@ FAM
 1 HUSB @I5274@
 1 WIFE @I5275@
+1 MARR
+2 DATE 3 MAY 1802
+2 PLAC Mijdrecht [Utrecht]
+3 MAP
+4 LATI N52.207478
+4 LONG E4.866422
+2 NOTE @N2300@
+2 NOTE @N2301@
+2 NOTE @N2337@
+1 CHIL @I5327@
+1 CHIL @I5320@
+1 CHIL @I5328@
+1 CHIL @I5334@
+1 CHIL @I5335@
+1 CHIL @I5336@
+1 CHIL @I5311@
+1 CHIL @I5337@
+1 CHIL @I5325@
+1 CHIL @I5344@
 1 CHIL @I5272@
+1 CHIL @I5345@
+1 CHIL @I5350@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 19:17:30
+2 DATE 25 JAN 2026
+3 TIME 21:01:07
 0 @F2046@ FAM
 1 HUSB @I5276@
 1 WIFE @I5277@
+1 MARR
+2 DATE 29 OCT 1821
+2 PLAC Nieuwveen [Zuid Holland]
+3 MAP
+4 LATI N52.19795
+4 LONG E4.755741
+2 NOTE @N2348@
 1 CHIL @I5273@
+1 CHIL @I5355@
+1 CHIL @I5356@
+1 CHIL @I5357@
 1 CHAN
-2 DATE 24 JAN 2026
-3 TIME 19:18:31
+2 DATE 25 JAN 2026
+3 TIME 23:17:49
 0 @F2047@ FAM
 1 HUSB @I5260@
 1 WIFE @I5278@
@@ -121255,6 +125609,864 @@
 1 CHAN
 2 DATE 24 JAN 2026
 3 TIME 23:27:40
+0 @F2058@ FAM
+1 HUSB @I5305@
+1 WIFE @I5297@
+1 MARR
+2 DATE 11 AUG 1911
+2 PLAC Nieuwkoop en Noorden [Zuid Holland]
+2 NOTE @N2268@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:09:39
+0 @F2059@ FAM
+1 HUSB @I5306@
+1 WIFE @I5307@
+1 CHIL @I5305@
+1 CHIL @I5309@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:26:59
+0 @F2060@ FAM
+1 HUSB @I5308@
+1 WIFE @I5298@
+1 MARR
+2 DATE 13 OCT 1911
+2 PLAC Nieuwkoop en Noorden [Zuid Holland]
+2 NOTE @N2273@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:19:48
+0 @F2061@ FAM
+1 HUSB @I5295@
+1 WIFE @I5309@
+1 MARR
+2 DATE 22 NOV 1912
+2 PLAC Nieuwkoop en Noorden [Zuid Holland]
+2 NOTE @N2278@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:26:20
+0 @F2062@ FAM
+1 HUSB @I5310@
+1 WIFE @I5292@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:35:19
+0 @F2063@ FAM
+1 HUSB @I5311@
+1 WIFE @I5312@
+1 MARR
+2 DATE 17 APR 1836
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2289@
+2 NOTE @N2326@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:49:21
+0 @F2064@ FAM
+1 HUSB @I5313@
+1 WIFE @I5314@
+1 CHIL @I5312@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 13:50:28
+0 @F2065@ FAM
+1 HUSB @I5311@
+1 WIFE @I5315@
+1 MARR
+2 DATE 27 APR 1841
+2 PLAC Vinkeveen en Waverveen [Utrecht]
+2 NOTE @N2291@
+2 NOTE @N2325@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:00:57
+0 @F2066@ FAM
+1 HUSB @I5316@
+1 WIFE @I5317@
+1 CHIL @I5315@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:03:12
+0 @F2067@ FAM
+1 HUSB @I5318@
+1 WIFE @I5319@
+1 CHIL @I5274@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:05:28
+0 @F2068@ FAM
+1 HUSB @I5321@
+1 WIFE @I5320@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:48:05
+0 @F2069@ FAM
+1 HUSB @I5311@
+1 WIFE @I5322@
+1 MARR
+2 DATE 13 FEB 1860
+2 PLAC Mijdrecht [Utrecht]
+3 MAP
+4 LATI N52.207478
+4 LONG E4.866422
+2 NOTE @N2297@
+2 NOTE @N2298@
+2 NOTE @N2327@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:51:46
+0 @F2070@ FAM
+1 HUSB @I5323@
+1 WIFE @I5324@
+1 CHIL @I5322@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 14:52:51
+0 @F2071@ FAM
+1 HUSB @I5326@
+1 WIFE @I5325@
+1 MARR
+2 DATE 6 NOV 1858
+2 PLAC Diemen [Noord Holland]
+2 NOTE @N2331@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 19:14:50
+0 @F2072@ FAM
+1 HUSB @I5329@
+1 WIFE @I5330@
+1 CHIL @I5275@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 17:47:53
+0 @F2073@ FAM
+1 HUSB @I5327@
+1 WIFE @I5331@
+1 MARR
+2 DATE 17 APR 1831
+2 PLAC Mijdrecht [Utrecht]
+3 MAP
+4 LATI N52.207478
+4 LONG E4.866422
+2 NOTE @N2310@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 18:03:55
+0 @F2074@ FAM
+1 HUSB @I5332@
+1 WIFE @I5333@
+1 CHIL @I5331@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 18:05:08
+0 @F2075@ FAM
+1 HUSB @I5338@
+1 WIFE @I5337@
+1 MARR
+2 DATE 12 APR 1837
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2329@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 19:07:01
+0 @F2076@ FAM
+1 HUSB @I5339@
+1 WIFE @I5340@
+1 CHIL @I5338@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 19:08:11
+0 @F2077@ FAM
+1 HUSB @I5341@
+1 WIFE @I5325@
+1 MARR
+2 DATE 9 SEP 1842
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2333@
+2 NOTE @N2334@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 19:24:52
+0 @F2078@ FAM
+1 HUSB @I5342@
+1 WIFE @I5343@
+1 CHIL @I5326@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 19:20:26
+0 @F2079@ FAM
+1 HUSB @I5345@
+1 WIFE @I5346@
+1 MARR
+2 DATE 11 FEB 1863
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2342@
+1 CHIL @I5349@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 20:23:59
+0 @F2080@ FAM
+1 HUSB @I5347@
+1 WIFE @I5348@
+1 CHIL @I5346@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 20:22:48
+0 @F2081@ FAM
+1 HUSB @I5351@
+1 WIFE @I5352@
+1 CHIL @I5276@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 22:00:57
+0 @F2082@ FAM
+1 HUSB @I5353@
+1 WIFE @I5354@
+1 CHIL @I5277@
+1 CHAN
+2 DATE 25 JAN 2026
+3 TIME 22:03:13
+0 @F2083@ FAM
+1 HUSB @I5358@
+1 WIFE @I5359@
+1 MARR
+2 DATE 21 MAR 1872
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 CHIL @I5382@
+1 CHIL @I5416@
+1 CHIL @I5420@
+1 CHIL @I5423@
+1 CHIL @I5383@
+1 CHIL @I5424@
+1 CHIL @I5388@
+1 CHIL @I5389@
+1 CHIL @I5390@
+1 CHIL @I5391@
+1 CHIL @I5099@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 22:15:41
+0 @F2084@ FAM
+1 HUSB @I5360@
+1 WIFE @I5361@
+1 MARR
+2 DATE 3 FEB 1854
+2 PLAC Noordwijk [Zuid Holland]
+1 CHIL @I5362@
+1 CHIL @I5102@
+1 CHIL @I5363@
+1 CHIL @I5364@
+1 CHIL @I5366@
+1 CHIL @I5367@
+1 CHIL @I5368@
+1 CHIL @I5370@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:34:04
+0 @F2085@ FAM
+1 HUSB @I5365@
+1 WIFE @I5364@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 21:53:02
+0 @F2086@ FAM
+1 HUSB @I5369@
+1 WIFE @I5368@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:13:24
+0 @F2087@ FAM
+1 HUSB @I5371@
+1 WIFE @I5372@
+1 MARR
+2 DATE 29 OCT 1824
+2 PLAC Noordwijk [Zuid Holland]
+1 CHIL @I5360@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:24:26
+0 @F2088@ FAM
+1 HUSB @I5373@
+1 WIFE @I5374@
+1 CHIL @I5371@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:26:56
+0 @F2089@ FAM
+1 HUSB @I5375@
+1 WIFE @I5376@
+1 MARR
+2 DATE 21 MAY 1830
+1 CHIL @I5361@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:36:51
+0 @F2090@ FAM
+1 HUSB @I5377@
+1 WIFE @I5378@
+1 MARR
+2 DATE 17 APR 1795
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+2 NOTE @N2360@
+1 CHIL @I5379@
+1 CHIL @I5376@
+1 CHIL @I5380@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:48:28
+0 @F2091@ FAM
+1 HUSB @I5381@
+1 WIFE @I5380@
+1 CHAN
+2 DATE 26 JAN 2026
+3 TIME 22:49:12
+0 @F2092@ FAM
+1 HUSB @I5384@
+1 WIFE @I5383@
+1 MARR
+2 DATE 27 MAR 1902
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 CHIL @I5385@
+1 CHIL @I5387@
+1 CHAN
+2 DATE 27 JAN 2026
+3 TIME 20:15:33
+0 @F2093@ FAM
+1 HUSB @I5386@
+1 WIFE @I5385@
+1 CHAN
+2 DATE 27 JAN 2026
+3 TIME 20:13:17
+0 @F2095@ FAM
+1 HUSB @I5393@
+1 WIFE @I5394@
+1 MARR
+2 DATE 14 AUG 1856
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+2 NOTE @N2366@
+1 CHIL @I5358@
+1 CHAN
+2 DATE 27 JAN 2026
+3 TIME 21:33:36
+0 @F2096@ FAM
+1 HUSB @I5395@
+1 WIFE @I5396@
+1 MARR
+2 DATE 26 JUN 1831
+2 PLAC Castricum [Noord Holland]
+1 CHIL @I5399@
+1 CHIL @I5400@
+1 CHIL @I5401@
+1 CHIL @I5359@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 07:23:48
+0 @F2097@ FAM
+1 HUSB @I5397@
+1 WIFE @I5398@
+1 CHIL @I5395@
+1 CHAN
+2 DATE 27 JAN 2026
+3 TIME 22:29:10
+0 @F2098@ FAM
+1 HUSB @I5402@
+1 WIFE @I5399@
+1 MARR
+2 DATE 27 SEP 1860
+2 PLAC Den Helder [Noord Holland]
+3 MAP
+4 LATI N52.956196
+4 LONG E4.760236
+1 CHIL @I5403@
+1 CHIL @I5404@
+1 CHIL @I5405@
+1 CHIL @I5406@
+1 CHIL @I5407@
+1 CHIL @I5408@
+1 CHIL @I5409@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 19:34:57
+0 @F2099@ FAM
+1 HUSB @I5410@
+1 WIFE @I5399@
+1 MARR
+2 DATE 19 NOV 1873
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 CHIL @I5411@
+1 CHIL @I5412@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:05:35
+0 @F2100@ FAM
+1 HUSB @I5413@
+1 WIFE @I5359@
+1 MARR
+2 DATE 26 OCT 1863
+2 PLAC Den Helder [Noord Holland]
+3 MAP
+4 LATI N52.956196
+4 LONG E4.760236
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:15:25
+0 @F2101@ FAM
+1 HUSB @I5414@
+1 WIFE @I5359@
+1 CHIL @I5415@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:18:34
+0 @F2102@ FAM
+1 HUSB @I5382@
+1 WIFE @I5417@
+1 MARR
+2 DATE 21 DEC 1895
+2 PLAC Graft [Noord Holland]
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:37:25
+0 @F2103@ FAM
+1 HUSB @I5418@
+1 WIFE @I5419@
+1 CHIL @I5417@
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 20:40:25
+0 @F2104@ FAM
+1 HUSB @I5420@
+1 WIFE @I5421@
+1 MARR
+2 DATE 22 APR 1909
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 21:37:59
+0 @F2105@ FAM
+1 HUSB @I5422@
+1 WIFE @I5421@
+1 MARR
+2 DATE 26 JUN 1901
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 CHAN
+2 DATE 28 JAN 2026
+3 TIME 21:41:18
+0 @F2106@ FAM
+1 HUSB @I5390@
+1 WIFE @I5425@
+1 MARR
+2 DATE 26 SEP 1912
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 19:49:02
+0 @F2107@ FAM
+1 HUSB @I5426@
+1 WIFE @I5427@
+1 MARR
+2 DATE 5 JUN 1873
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 CHIL @I5425@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:07:18
+0 @F2108@ FAM
+1 HUSB @I5428@
+1 WIFE @I5391@
+1 MARR
+2 DATE 11 FEB 1915
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
+1 CHIL @I5429@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:12:08
+0 @F2109@ FAM
+1 HUSB @I5430@
+1 WIFE @I5431@
+1 CHIL @I5101@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 20:28:40
+0 @F2110@ FAM
+1 HUSB @I0346@
+1 WIFE @I5432@
+1 MARR
+2 DATE 16 MAR 1961
+2 PLAC IJmuiden [Noord Holland]
+3 MAP
+4 LATI N52.456819
+4 LONG E4.605408
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:03:40
+0 @F2111@ FAM
+1 HUSB @I5436@
+1 WIFE @I5435@
+1 CHIL @I0347@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:15:09
+0 @F2112@ FAM
+1 HUSB @I5437@
+1 WIFE @I5438@
+1 CHIL @I5436@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:17:30
+0 @F2113@ FAM
+1 HUSB @I5355@
+1 WIFE @I5439@
+1 MARR
+2 DATE 5 APR 1850
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2375@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:35:55
+0 @F2114@ FAM
+1 HUSB @I5440@
+1 WIFE @I5441@
+1 CHIL @I5439@
+1 CHAN
+2 DATE 29 JAN 2026
+3 TIME 21:36:55
+0 @F2115@ FAM
+1 HUSB @I5456@
+1 WIFE @I5451@
+1 MARR
+2 DATE 16 SEP 1887
+2 PLAC Wilnis [Utrecht]
+2 NOTE @N2401@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:00:06
+0 @F2116@ FAM
+1 HUSB @I5457@
+1 WIFE @I5458@
+1 CHIL @I5456@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:01:02
+0 @F2117@ FAM
+1 HUSB @I5459@
+1 WIFE @I5445@
+1 MARR
+2 DATE 15 AUG 1890
+2 PLAC Mijdrecht [Utrecht]
+3 MAP
+4 LATI N52.207478
+4 LONG E4.866422
+2 NOTE @N2402@
+2 NOTE @N2404@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:07:04
+0 @F2118@ FAM
+1 HUSB @I5460@
+1 WIFE @I5461@
+1 CHIL @I5459@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:10:34
+0 @F2119@ FAM
+1 HUSB @I5455@
+1 WIFE @I5462@
+1 MARR
+2 DATE 13 JUN 1900
+2 PLAC Utrecht [Utrecht]
+3 MAP
+4 LATI N52.090402
+4 LONG E5.120298
+2 NOTE @N2405@
+1 ANUL
+2 DATE ABT 1910
+2 PLAC Utrecht [Utrecht]
+3 MAP
+4 LATI N52.090402
+4 LONG E5.120298
+2 NOTE @N2406@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:19:26
+0 @F2120@ FAM
+1 HUSB @I5463@
+1 WIFE @I5464@
+1 CHIL @I5462@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:21:22
+0 @F2121@ FAM
+1 HUSB @I5455@
+1 WIFE @I5465@
+1 MARR
+2 DATE 1 FEB 1911
+2 NOTE @N2408@
+2 NOTE @N2409@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:27:02
+0 @F2122@ FAM
+1 HUSB @I5466@
+1 WIFE @I5467@
+1 CHIL @I5465@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 14:29:05
+0 @F2124@ FAM
+1 HUSB @I5471@
+1 WIFE @I5472@
+1 MARR
+2 DATE 2 OCT 1908
+2 PLAC Den Haag [Zuid Holland]
+3 MAP
+4 LATI N52.071626
+4 LONG E4.299566
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 16:23:31
+0 @F2125@ FAM
+1 HUSB @I5474@
+1 WIFE @I5473@
+1 MARR
+2 DATE 11 MAR 1910
+2 PLAC Den Haag [Zuid Holland]
+3 MAP
+4 LATI N52.071626
+4 LONG E4.299566
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 16:28:50
+0 @F2126@ FAM
+1 HUSB @I5476@
+1 WIFE @I5475@
+1 MARR
+2 DATE 9 JUN 1911
+2 PLAC Den Haag [Zuid Holland]
+3 MAP
+4 LATI N52.071626
+4 LONG E4.299566
+2 NOTE @N2414@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:20:07
+0 @F2127@ FAM
+1 HUSB @I5477@
+1 WIFE @I5478@
+1 MARR
+2 DATE 24 MAY 1912
+2 PLAC Hem
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:28:07
+0 @F2128@ FAM
+1 HUSB @I5479@
+1 WIFE @I5484@
+1 MARR
+2 DATE 25 FEB 1692
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:50:11
+0 @F2129@ FAM
+1 HUSB @I5485@
+1 WIFE @I5480@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:51:04
+0 @F2130@ FAM
+1 HUSB @I5486@
+1 WIFE @I5481@
+1 MARR
+2 DATE 12 NOV 1696
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:53:49
+0 @F2131@ FAM
+1 HUSB @I5487@
+1 WIFE @I5481@
+1 MARR
+2 DATE 21 JAN 1704
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 17:55:41
+0 @F2132@ FAM
+1 HUSB @I5488@
+1 WIFE @I5482@
+1 MARR
+2 DATE 21 APR 1694
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 18:29:54
+0 @F2133@ FAM
+1 HUSB @I5489@
+1 WIFE @I5490@
+1 CHIL @I5517@
+1 CHIL @I5516@
+1 CHIL @I5491@
+1 CHIL @I4034@
+1 CHIL @I5494@
+1 CHIL @I5496@
+1 CHIL @I5498@
+1 CHIL @I5501@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:31:18
+0 @F2134@ FAM
+1 HUSB @I5491@
+1 WIFE @I5492@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 19:59:23
+0 @F2135@ FAM
+1 HUSB @I5491@
+1 WIFE @I5493@
+1 MARR
+2 DATE 8 MAY 1667
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 20:00:47
+0 @F2136@ FAM
+1 HUSB @I5495@
+1 WIFE @I5494@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 20:03:07
+0 @F2137@ FAM
+1 HUSB @I5496@
+1 WIFE @I5497@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 20:12:57
+0 @F2138@ FAM
+1 HUSB @I5498@
+1 WIFE @I5499@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 20:18:26
+0 @F2139@ FAM
+1 HUSB @I5498@
+1 WIFE @I5500@
+1 MARR
+2 DATE 5 SEP 1688
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 20:30:10
+0 @F2140@ FAM
+1 HUSB @I5502@
+1 WIFE @I5503@
+1 CHIL @I5489@
+1 CHIL @I5504@
+1 CHIL @I5505@
+1 CHIL @I5506@
+1 CHIL @I5507@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:36:32
+0 @F2141@ FAM
+1 HUSB @I5508@
+1 WIFE @I5507@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:37:21
+0 @F2142@ FAM
+1 HUSB @I5502@
+1 WIFE @I5509@
+1 MARR
+2 DATE ABT 1610
+2 PLAC Dongen [Noord Brabant]
+1 CHIL @I5510@
+1 CHIL @I5511@
+1 CHIL @I5512@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 21:51:18
+0 @F2143@ FAM
+1 HUSB @I5513@
+1 CHIL @I5502@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:09:21
+0 @F2144@ FAM
+1 HUSB @I5514@
+1 CHIL @I5503@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:17:00
+0 @F2145@ FAM
+1 HUSB @I5515@
+1 CHIL @I5514@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:18:14
+0 @F2146@ FAM
+1 HUSB @I5517@
+1 WIFE @I5518@
+1 CHIL @I5519@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:35:53
+0 @F2147@ FAM
+1 HUSB @I5520@
+1 WIFE @I5519@
+1 CHIL @I5521@
+1 CHAN
+2 DATE 30 JAN 2026
+3 TIME 22:56:01
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -134377,6 +139589,572 @@
 0 @N2266@ NOTE Petrus Mulders, 40 years old, residing in Nieuwkoop, kleermaker.
 0 @N2267@ NOTE Johannes van den Haak, 56 years old, residing in Nieuwkoop, schoenm
 1 CONC aker.
+0 @N2268@ NOTE Heritage Leiden and environs in Leiden (Netherlands),
+1 CONT Ambtenaar van de Burgerlijke Stand van Nieuwkoop, Part: 21, Period: 1903
+1 CONC -1912, Nieuwkoop, archive 162.1.09, inventory number 21, August 18, 1911
+1 CONC , Huwelijksregister van Nieuwkoop, 1903 - 1912;, record number 13
+0 @N2269@ NOTE Teunis van Leeuwen, 65 years old, residing in Nieuwkoop, no profess
+1 CONC ion.
+0 @N2270@ NOTE Petrus Mulders, 50 years old, residing in Nieuwkoop, kleermaker.
+0 @N2271@ NOTE Adrianus Blijleven, 28 years old, residing in Nieuwkoop, schilder.
+0 @N2272@ NOTE Cornelis Kwakkenbos, 26 years old, residing in Nieuwkoop, metselaar
+1 CONC .
+0 @N2273@ NOTE Heritage Leiden and environs in Leiden (Netherlands),
+1 CONT Ambtenaar van de Burgerlijke Stand van Nieuwkoop, Part: 21, Period: 1903
+1 CONC -1912, Nieuwkoop, archive 162.1.09, inventory number 21, October 13, 191
+1 CONC 1, Huwelijksregister van Nieuwkoop, 1903 - 1912;, record number 18
+0 @N2274@ NOTE 
+1 CONT Jacob Pieter van Vuuren, 45 years old, residing in Nieuwkoop, gemeenteve
+1 CONC ldwachter.
+0 @N2275@ NOTE François Jacobus Herman Overhand Landberg, 22 years old, residing i
+1 CONC n Nieuwkoop, ambtenaar ter secretarie.
+0 @N2276@ NOTE Cornelis Joannes Groenendijk, 26 years old, residing in Nieuwkoop
+1 CONC , no profession.
+0 @N2277@ NOTE Johannes Veenswijk, 29 years old, tuinder.
+0 @N2278@ NOTE Heritage Leiden and environs in Leiden (Netherlands),
+1 CONT Ambtenaar van de Burgerlijke Stand van Nieuwkoop, Part: 21, Period: 1903
+1 CONC -1912, Nieuwkoop, archive 162.1.09, inventory number 21, November 22, 19
+1 CONC 12, Huwelijksregister van Nieuwkoop, 1903 - 1912;, record number 23
+0 @N2279@ NOTE Petrus Mulders, 51 years old, residing in Nieuwkoop, kleermaker.
+0 @N2280@ NOTE Gijsbertus Vervoorn, 24 years old, residing in Nieuwkoop, veldarbei
+1 CONC der.
+0 @N2281@ NOTE Arie van Tricht, 26 years old, residing in Nieuwkoop, veldarbeider.
+0 @N2282@ NOTE Jacob Pieter van Vuuren, 46 years old, residing in Nieuwkoop, gemee
+1 CONC nteveldwachter.
+0 @N2283@ NOTE RHC Rijnstreek en Lopikerwaard in Woerden (Netherlands), Civil regi
+1 CONC stration deaths
+1 CONT Overlijdensakte, Woerden, inventory number 1706b, March 20, 1943, recor
+1 CONC d number 24
+0 @N2284@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1943-1950, Wo
+1 CONC erden, archive 1221, inventory number 1937, 20-03-1943, -, record numbe
+1 CONC r 24
+0 @N2285@ NOTE Heritage Leiden and environs in Leiden (Netherlands),
+1 CONT Ambtenaar van de Burgerlijke Stand van Nieuwkoop, Part: 74, Period: 1951
+1 CONC -1960, Nieuwkoop, archive 162.1.09, inventory number 74, Overlijdensregi
+1 CONC ster van Nieuwkoop, 1951 - 1960., record number 23
+0 @N2286@ NOTE Central Holland regional archive in Midden-Holland (Netherlands), C
+1 CONC ivil registration deaths
+1 CONT Bron: Burgerlijke Stand, Part: 384, Period: 1957, Gouda, archive 0060, i
+1 CONC nventory number 384, April 18, 1957, BS Overlijdensregister, record numb
+1 CONC er 134
+0 @N2287@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1961-1970, ar
+1 CONC chive 1221-2, inventory number 1886, 9-12-1966, Woerden 1966, record num
+1 CONC ber 239
+0 @N2288@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration m
+1 CONC arriages
+1 CONT Wilnis 1845, Wilnis, archive 481, inventory number 995-13, 11-04-1845, r
+1 CONC ecord number 3
+0 @N2289@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration m
+1 CONC arriages
+1 CONT Wilnis 1836, Wilnis, archive 481, inventory number 995-04, 17-04-1836, r
+1 CONC ecord number 3
+0 @N2290@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 1229-05, 15-03-1841, Wilnis 1841, re
+1 CONC cord number 5
+0 @N2291@ NOTE Regional Archives Northwest Utrecht, Civil registration marriages
+1 CONT Burgerlijke stand Vinkeveen en Waverveen, deel 1, akten van huwelijk e
+1 CONC n echtscheiding, Breukelen, archive 1201, inventory number 2504
+0 @N2292@ NOTE Hendrik Gaveel, 40 jaar oud.
+0 @N2293@ NOTE Frederik Kruijf, 29 jaar oud.
+0 @N2294@ NOTE Anthonie Merks, 41 jaar oud.
+0 @N2295@ NOTE Jan Verder, 27 jaar oud.
+0 @N2296@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, ar
+1 CONC chive 481, inventory number 1021-08, 03-03-1854, Abcoude-Proostdij 1854
+1 CONC , record number 3
+0 @N2297@ NOTE Regional Archives Northwest Utrecht in Breukelen (Netherlands), Civ
+1 CONC il registration marriages
+1 CONT Burgerlijke stand Mijdrecht, deel 4, akten van huwelijk en echtscheiding
+1 CONC , 1853-1862, Mijdrecht, archive 1201, inventory number 2313, 1860
+0 @N2298@ NOTE The Utrecht Archives, Civil registration marriages
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Mi
+1 CONC jdrecht, archive 481, inventory number 902-14, 13-02-1860, Mijdrecht 186
+1 CONC 0, record number 2
+0 @N2299@ NOTE North Holland Archives in Haarlem (Netherlands), Civil registratio
+1 CONC n deaths
+1 CONT burgerlijke stand van de gemeente Diemen, Archiefdeel van de, archive 35
+1 CONC 8.34, inventory number 31865, 04-03-1865, Overlijdensakten van de gemeen
+1 CONC te Diemen, 1865, record number 6
+0 @N2300@ NOTE The Utrecht Archives in Utrecht (Netherlands), Church records marri
+1 CONC ages
+1 CONT -, archive DTB_RHC_Vecht_Venen_1200, inventory number 1802, 03-05-1802
+1 CONC , Mijdrecht RK trouwen, folio 53
+0 @N2301@ NOTE Regional Archives Northwest Utrecht in Breukelen (Netherlands), Chu
+1 CONC rch records marriages
+1 CONT Overzicht doop-, trouw- en begraafregisters (DTB) aanwezig bij het Regio
+1 CONC naal Historisch Centrum V..., Mijdrecht, Oudhuizen en Wilnis, archive 12
+1 CONC 00, inventory number 1802, 03-05-1802, DTB R-K kerk Mijdrecht-Wilnis, de
+1 CONC el 3, trouwregister, 1703-1810, folio 53
+0 @N2302@ NOTE Regional Archives Northwest Utrecht in Breukelen (Netherlands), Chu
+1 CONC rch records baptisms
+1 CONT Overzicht doop-, trouw- en begraafregisters (DTB) aanwezig bij het Regio
+1 CONC naal Historisch Centrum V..., Mijdrecht en Wilnis, archive 1200, invento
+1 CONC ry number 1403, 28-03-1803, DTB R-K kerk Mijdrecht-Wilnis, deel 4, doopr
+1 CONC egister, 1703-1811, folio 209
+0 @N2303@ NOTE The Utrecht Archives in Utrecht (Netherlands), Church records bapti
+1 CONC sms
+1 CONT -, archive DTB_RHC_Vecht_Venen_1200, inventory number 1403, 28-03-1803
+1 CONC , Mijdrecht RK dopen, folio 209
+0 @N2304@ NOTE Regional Archives Northwest Utrecht in Breukelen (Netherlands), Chu
+1 CONC rch records baptisms
+1 CONT Overzicht doop-, trouw- en begraafregisters (DTB) aanwezig bij het Regio
+1 CONC naal Historisch Centrum V..., Mijdrecht en Wilnis, archive 1200, invento
+1 CONC ry number 1403, 13-05-1804, DTB R-K kerk Mijdrecht-Wilnis, deel 4, doopr
+1 CONC egister, 1703-1811, folio 213
+0 @N2305@ NOTE The Utrecht Archives in Utrecht (Netherlands), Church records bapti
+1 CONC sms
+1 CONT -, archive DTB_RHC_Vecht_Venen_1200, inventory number 1403, 13-05-1804
+1 CONC , Mijdrecht RK dopen, folio 213
+0 @N2306@ NOTE The Utrecht Archives in Utrecht (Netherlands), Church records bapti
+1 CONC sms
+1 CONT -, archive DTB_RHC_Vecht_Venen_1200, inventory number 1403, 25-01-1806
+1 CONC , Mijdrecht RK dopen, folio 217
+0 @N2307@ NOTE Het Utrechts Archief te Utrecht, BS Overlijden Burgerlijke Stand va
+1 CONC n de gemeenten in de provincie Utrecht 1811-1902, Wilnis, archief 481, i
+1 CONC nventaris­num­mer 1230-11, 06-03-1866, Wilnis 1866, aktenummer 13
+0 @N2308@ NOTE Regionaal Historisch Centrum Vecht en Venen te Breukelen, DTB Dope
+1 CONC n DTB R-K kerk Mijdrecht-Wilnis, deel 4, doopregister, 1703-1811, Mijdre
+1 CONC cht en Wilnis, archief 1200, inventaris­num­mer 1403, 13-05-1804
+0 @N2309@ NOTE Het Utrechts Archief te Utrecht, BS Overlijden Burgerlijke Stand va
+1 CONC n de gemeenten in de provincie Utrecht 1811-1902, Wilnis, archief 481, i
+1 CONC nventaris­num­mer 1231-13, 24-01-1891, Wilnis 1891, aktenummer 5
+0 @N2310@ NOTE Regionaal Historisch Centrum Vecht en Venen te Breukelen, BS Huweli
+1 CONC jk Burgerlijke stand Mijdrecht, deel 2, akten van huwelijk en echtscheid
+1 CONC ing, 1829-1842, Mijdrecht, archief 1201, inventaris­num­mer 2311, 1831
+0 @N2311@ NOTE Gerrit van der Gier, 51 jaar oud.
+0 @N2312@ NOTE Johannes de Haan, 26 jaar oud.
+0 @N2313@ NOTE Hendrik van Zijl, 21 jaar oud.
+0 @N2314@ NOTE Willem van Zijl, 62 jaar oud.
+0 @N2315@ NOTE Het Utrechts Archief te Utrecht, BS Overlijden Burgerlijke Stand va
+1 CONC n de gemeenten in de provincie Utrecht 1811-1902, Wilnis, archief 481, i
+1 CONC nventaris­num­mer 1229-18, 01-08-1854, Wilnis 1854, aktenummer 26
+0 @N2316@ NOTE Regionaal Historisch Centrum Vecht en Venen te Breukelen, DTB Dope
+1 CONC n DTB R-K kerk Mijdrecht-Wilnis, deel 4, doopregister, 1703-1811, Mijdre
+1 CONC cht en Wilnis, archief 1200, inventaris­num­mer 1403, 17-10-1808
+0 @N2317@ NOTE The Utrecht Archives in Utrecht (Netherlands), Church records bapti
+1 CONC sms
+1 CONT -, archive DTB_RHC_Vecht_Venen_1200, inventory number 1403, 17-10-1808
+1 CONC , Mijdrecht RK dopen, folio 226
+0 @N2318@ NOTE Regional Archives Northwest Utrecht in Breukelen (Netherlands), Chu
+1 CONC rch records baptisms
+1 CONT Overzicht doop-, trouw- en begraafregisters (DTB) aanwezig bij het Regio
+1 CONC naal Historisch Centrum V..., Mijdrecht en Wilnis, archive 1200, invento
+1 CONC ry number 1403, 17-10-1808, DTB R-K kerk Mijdrecht-Wilnis, deel 4, doopr
+1 CONC egister, 1703-1811, folio 226
+0 @N2319@ NOTE The Utrecht Archives in Utrecht (Netherlands), Church records bapti
+1 CONC sms
+1 CONT -, archive DTB_RHC_Vecht_Venen_1200, inventory number 1403, 17-05-1807
+1 CONC , Mijdrecht RK dopen, folio 222
+0 @N2320@ NOTE Regional Archives Northwest Utrecht in Breukelen (Netherlands), Chu
+1 CONC rch records baptisms
+1 CONT Overzicht doop-, trouw- en begraafregisters (DTB) aanwezig bij het Regio
+1 CONC naal Historisch Centrum V..., Mijdrecht en Wilnis, archive 1200, invento
+1 CONC ry number 1403, 17-05-1807, DTB R-K kerk Mijdrecht-Wilnis, deel 4, doopr
+1 CONC egister, 1703-1811, folio 222
+0 @N2321@ NOTE Regional Archives Northwest Utrecht in Breukelen (Netherlands), Chu
+1 CONC rch records baptisms
+1 CONT Overzicht doop-, trouw- en begraafregisters (DTB) aanwezig bij het Regio
+1 CONC naal Historisch Centrum V..., Mijdrecht en Wilnis, archive 1200, invento
+1 CONC ry number 1403, 25-01-1806, DTB R-K kerk Mijdrecht-Wilnis, deel 4, doopr
+1 CONC egister, 1703-1811, folio 217
+0 @N2322@ NOTE Mijdrecht en Wilnis, archief 1200, inventaris­num­mer 1403, 26-02-1
+1 CONC 811, DTB R-K kerk Mijdrecht-Wilnis, deel 4, doopregister, 1703-1811, fol
+1 CONC io 234
+0 @N2323@ NOTE Het Utrechts Archief te Utrecht, BS Geboorte Burgerlijke Stand va
+1 CONC n de gemeenten in de provincie Utrecht 1811-1902, Wilnis, archief 481, i
+1 CONC nventaris­num­mer 167-02, 16-12-1812, Wilnis 1812, aktenummer 47
+0 @N2324@ NOTE 
+1 CONT Verkoop van eigendom
+1 CONT 
+1 CONT Inhoud "Openbare verkoop in het Rechthuis te Wilnis van de nieuwgebouwd
+1 CONC e boerderij Kerkzicht met opstallen en land in het dorp Wilnis en zes pe
+1 CONC rcelen land te Oudhuizen onder Wilnis, op verzoek van Simon van der Heed
+1 CONC en, landbouwer te Wilnis. De verkoop van de boerderij wordt opgehouden
+1 CONC ; twee percelen land worden gekocht door Hendrik Goes, landbouwer te Mij
+1 CONC drecht, voor 4250 gulden en door Joris Kuijlenburg, landbouwer te Wilnis
+1 CONC , voor 5250 gulden."
+1 CONT Retroacta 20 oktober 1875
+1 CONT 
+0 @N2325@ NOTE Het Utrechts Archief te Utrecht, BS Huwelijk Vinkeveen en Wavervee
+1 CONC n 1841, Vinkeveen en Waverveen, archief 481, inventaris­num­mer 974-13
+1 CONC , 27-04-1841, aktenummer 5
+0 @N2326@ NOTE Het Utrechts Archief te Utrecht, BS Huwelijk Wilnis 1836, Wilnis, a
+1 CONC rchief 481, inventaris­num­mer 995-04, 17-04-1836, aktenummer 3
+0 @N2327@ NOTE Regionaal Historisch Centrum Vecht en Venen te Breukelen, BS Huweli
+1 CONC jk Burgerlijke stand Mijdrecht, deel 4, akten van huwelijk en echtscheid
+1 CONC ing, 1853-1862, Mijdrecht, archief 1201, inventaris­num­mer 2313, 1860
+0 @N2328@ NOTE Het Utrechts Archief te Utrecht, BS Overlijden Wilnis 1890, Wilnis
+1 CONC , archief 481, inventaris­num­mer 1231-12, 31-03-1890, aktenummer 10
+0 @N2329@ NOTE Het Utrechts Archief te Utrecht, BS Huwelijk Wilnis 1837, Wilnis, a
+1 CONC rchief 481, inventaris­num­mer 995-05, 12-04-1837, aktenummer 3
+0 @N2330@ NOTE Het Utrechts Archief te Utrecht, BS Geboorte Burgerlijke Stand va
+1 CONC n de gemeenten in de provincie Utrecht 1811-1902, Wilnis, archief 481, i
+1 CONC nventaris­num­mer 167-05, 22-10-1815, Wilnis 1815, aktenummer 39
+0 @N2331@ NOTE Noord-Hollands Archief, BS Huwelijk Diemen, 6 november 1858, aktenu
+1 CONC mmer 9
+0 @N2332@ NOTE Gelders Archief te Arnhem, BS Geboorte Burgerlijke stand Gelderland
+1 CONC , dubbelen, Angerlo (Zevenaar), archief 207, inventaris­num­mer 6656, 08
+1 CONC -12-1813, Angerlo, aktenummer 42
+0 @N2333@ NOTE Het Utrechts Archief te Utrecht, BS Huwelijk Burgerlijke Stand va
+1 CONC n de gemeenten in de provincie Utrecht 1811-1902, Wilnis, archief 481, i
+1 CONC nventaris­num­mer 995-10, 09-09-1842, Wilnis 1842, aktenummer 12
+0 @N2334@ NOTE Vader bruidegom (overleden) heet ook Cornelis, maar voogd heet Jan 
+0 @N2335@ NOTE Mijdrecht en Wilnis, archief 1200, inventaris­num­mer 1402, 19-03-1
+1 CONC 782, DTB Rooms-Katholieke kerk Mijdrecht-Wilnis, deel 3, contra-doopregi
+1 CONC ster, 1703-1792, folio 209
+0 @N2336@ NOTE Het Utrechts Archief te Utrecht, BS Overlijden Wilnis 1834, Wilnis
+1 CONC , archief 481, inventaris­num­mer 1228-24, 31-12-1834, aktenummer 35
+0 @N2337@ NOTE Regionaal Historisch Centrum Vecht en Venen te Breukelen, DTB Trouw
+1 CONC en DTB R-K kerk Mijdrecht-Wilnis, deel 3, trouwregister, 1703-1810, Mijd
+1 CONC recht, Oudhuizen en Wilnis, archief 1200, inventaris­num­mer 1802, 03-05
+1 CONC -1802, folio 53
+0 @N2338@ NOTE Het Utrechts Archief te Utrecht, BS Geboorte Burgerlijke Stand va
+1 CONC n de gemeenten in de provincie Utrecht 1811-1902, Wilnis, archief 481, i
+1 CONC nventaris­num­mer 167-07, 15-01-1817, Wilnis 1817, aktenummer 2
+0 @N2339@ NOTE Het Utrechts Archief te Utrecht, BS Overlijden Wilnis 1890, Wilnis
+1 CONC , archief 481, inventaris­num­mer 1231-12, 06-12-1890, aktenummer 38
+0 @N2340@ NOTE Het Utrechts Archief te Utrecht, BS Huwelijk Wilnis 1845, Wilnis, a
+1 CONC rchief 481, inventaris­num­mer 995-13, 11-04-1845, aktenummer 3
+0 @N2341@ NOTE Het Utrechts Archief te Utrecht, BS Geboorte Burgerlijke Stand va
+1 CONC n de gemeenten in de provincie Utrecht 1811-1902, Wilnis, archief 481, i
+1 CONC nventaris­num­mer 167-12, 07-01-1822, Wilnis 1822, aktenummer 1
+0 @N2342@ NOTE Het Utrechts Archief te Utrecht, BS Huwelijk Burgerlijke Stand va
+1 CONC n de gemeenten in de provincie Utrecht 1811-1902, Wilnis, archief 481, i
+1 CONC nventaris­num­mer 996-07, 11-02-1863, Wilnis 1863, aktenummer 3
+0 @N2343@ NOTE Blijkens een extract van overl. van de gem. Weespercarspel
+0 @N2344@ NOTE Het Utrechts Archief te Utrecht, BS Overlijden Wilnis 1843, Wilnis
+1 CONC , archief 481, inventaris­num­mer 1229-07, 08-09-1843, aktenummer 22
+0 @N2345@ NOTE Heritage Leiden and environs in Leiden (Netherlands),
+1 CONT Ambtenaar van de Burgerlijke Stand van Nieuwveen, Part: 1, Period: 1812-
+1 CONC 1822, Nieuwveen, archive 131.1.09, inventory number 1, Geboorteregiste
+1 CONC r van Nieuwveen, 1812 - 1822;, record number 23
+0 @N2346@ NOTE Abraham Oppelaar van Eijk, 35 years old, residing in Nieuwveen, deu
+1 CONC rwaarder.
+0 @N2347@ NOTE Cornelis Broos, 45 years old, residing in Nieuwveen, arbeider.
+0 @N2348@ NOTE Heritage Leiden and environs in Leiden (Netherlands),
+1 CONT Ambtenaar van de Burgerlijke Stand van Nieuwveen, Part: 12, Period: 1812
+1 CONC -1822, Nieuwveen, archive 131.1.09, inventory number 12, October 29, 182
+1 CONC 1, Huwelijksregister en echtscheidingsregister van Nieuwveen, 1812 - 182
+1 CONC 2;, record number 4
+0 @N2349@ NOTE Leendert Rekelhof, 51 years old, residing in Nieuwveen, schoenmaker
+1 CONC .
+0 @N2350@ NOTE Jacobus van Lent, 43 years old, residing in Nieuwveen, kleermaker.
+0 @N2351@ NOTE Cornelis Zaal, 33 years old, residing in Nieuwveen, schoenmaker.
+0 @N2352@ NOTE Daniel Vergeer, 31 years old, residing in Nieuwveen, verversknecht.
+0 @N2353@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 167-14, 24-09-1824, Wilnis 1824, rec
+1 CONC ord number 44
+0 @N2354@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 167-18, 06-03-1828, Wilnis 1828, rec
+1 CONC ord number 14
+0 @N2355@ NOTE Wilnis BS Akte 49
+0 @N2356@ NOTE Wilnis BS Akte 15
+0 @N2357@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 1231-12, 14-04-1890, Wilnis 1890, re
+1 CONC cord number 13
+0 @N2358@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 1232-01, 17-04-1899, Wilnis 1899, re
+1 CONC cord number 13
+0 @N2359@ NOTE Wilnis BS Akte 25
+0 @N2360@ NOTE Ondertrouwregister Amsterdam.
+0 @N2361@ NOTE 1895
+0 @N2362@ NOTE tot 27-03-1902.
+0 @N2363@ NOTE 1862
+0 @N2364@ NOTE 1843, Velsen [Noord Holland]
+0 @N2365@ NOTE 1843
+0 @N2366@ NOTE Akte 3.
+0 @N2367@ NOTE Akte 373.
+0 @N2368@ NOTE 1842.
+0 @N2369@ NOTE 1843.
+0 @N2370@ NOTE Akte 40.
+0 @N2371@ NOTE Overleden op de werken van het in aanmaak zijnde Noordzeekanaal vla
+1 CONC kbi j de Noordzee. 
+0 @N2372@ NOTE Gehucht De Heide
+1 CONT 
+1 CONT De kanaalgravers bleken minder bevoorrecht. Deze arbeiders zochten een o
+1 CONC nderkomen in de duinen ten zuiden van het kanaal, tussen Oud-IJmuiden e
+1 CONC n het dorp Velsen. Dit gehucht werd de Heide genoemd. Hun ‘woningen’ bes
+1 CONC tonden grotendeels uit hutten. Deze nederzetting, ter hoogte van het hui
+1 CONC dige gemeentehuis, groeide langzaam uit tot het dorp Velseroord, het lat
+1 CONC ere IJmuiden-Oost.
+0 @N2373@ NOTE 25-09-1865 Proces-verbaal i/z Jagtovertreding .
+0 @N2374@ NOTE wijk E op de Heide
+0 @N2375@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration m
+1 CONC arriages
+1 CONT Wilnis 1850, Wilnis, archive 481, inventory number 995-18, 05-04-1850, r
+1 CONC ecord number 5
+0 @N2376@ NOTE Het Utrechts Archief te Utrecht, BS Huwelijk Wilnis 1845, Wilnis, a
+1 CONC rchief 481, inventaris­num­mer 995-13, 11-04-1845, aktenummer 3
+0 @N2377@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 757-04, 28-01-1846, Wilnis 1846, rec
+1 CONC ord number 7
+0 @N2378@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 757-05, 21-04-1847, Wilnis 1847, rec
+1 CONC ord number 19
+0 @N2379@ NOTE The Utrecht Archives, Civil registration births
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 757-06, 16-09-1848, Wilnis 1848, rec
+1 CONC ord number 44
+0 @N2380@ NOTE The Utrecht Archives, Civil registration deaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 1229-13, 04-01-1849, Wilnis 1849, re
+1 CONC cord number 1
+0 @N2381@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 757-07, 21-12-1849, Wilnis 1849, rec
+1 CONC ord number 72
+0 @N2382@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 757-09, 09-01-1851, Wilnis 1851, rec
+1 CONC ord number 2
+0 @N2383@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 757-10, 16-07-1852, Wilnis 1852, rec
+1 CONC ord number 40
+0 @N2384@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 757-12, 25-04-1854, Wilnis 1854, rec
+1 CONC ord number 23
+0 @N2385@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 757-13, 18-05-1855, Wilnis 1855, rec
+1 CONC ord number 23
+0 @N2386@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 1229-19, 13-10-1855, Wilnis 1855, re
+1 CONC cord number 43
+0 @N2387@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 1230-01, 07-08-1856, Wilnis 1856, re
+1 CONC cord number 30
+0 @N2388@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 757-14, 14-08-1856, Wilnis 1856, rec
+1 CONC ord number 36
+0 @N2389@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 757-16, 04-10-1858, Wilnis 1858, rec
+1 CONC ord number 54
+0 @N2390@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 1230-04, 29-08-1859, Wilnis 1859, re
+1 CONC cord number 75
+0 @N2391@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 757-18, 30-01-1860, Wilnis 1860, rec
+1 CONC ord number 3
+0 @N2392@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 757-19, 18-04-1861, Wilnis 1861, rec
+1 CONC ord number 43
+0 @N2393@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 1230-06, 23-09-1861, Wilnis 1861, re
+1 CONC cord number 61
+0 @N2394@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 1230-08, 23-04-1863, Wilnis 1863, re
+1 CONC cord number 23
+0 @N2395@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 758-01, 10-08-1863, Wilnis 1863, rec
+1 CONC ord number 44
+0 @N2396@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 758-01, 10-08-1863, Wilnis 1863, rec
+1 CONC ord number 44
+0 @N2397@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 758-03, 24-07-1865, Wilnis 1865, rec
+1 CONC ord number 49
+0 @N2398@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 1230-13, 22-06-1868, Wilnis 1868, re
+1 CONC cord number 42
+0 @N2399@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration b
+1 CONC irths
+1 CONT Wilnis 1869, Wilnis, archive 481, inventory number 758-07, 30-01-1869, r
+1 CONC ecord number 11
+0 @N2400@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 1230-20, 15-02-1874, Wilnis 1874, re
+1 CONC cord number 7
+0 @N2401@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration m
+1 CONC arriages
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Wi
+1 CONC lnis, archive 481, inventory number 997-07, 16-09-1887, Wilnis 1887, rec
+1 CONC ord number 16
+0 @N2402@ NOTE Regional Archives Northwest Utrecht in Breukelen (Netherlands), Civ
+1 CONC il registration marriages
+1 CONT Burgerlijke stand in het werkgebied van het Regionaal Historisch Centru
+1 CONC m Vecht en Venen, vanaf 01..., Mijdrecht, archive 1201, inventory numbe
+1 CONC r 2316, 1890, Burgerlijke stand Mijdrecht, deel 7, akten van huwelijk e
+1 CONC n echtscheiding, 1883-1892
+0 @N2403@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Mi
+1 CONC jdrecht, archive 481, inventory number 1138-13, 08-02-1890, Mijdrecht 18
+1 CONC 90, record number 12
+0 @N2404@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration m
+1 CONC arriages
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Mi
+1 CONC jdrecht, archive 481, inventory number 904-02, 15-08-1890, Mijdrecht 189
+1 CONC 0, record number 17
+0 @N2405@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration m
+1 CONC arriages
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1811-1902, Ut
+1 CONC recht, archive 481, inventory number 310-02, 13-06-1900, Utrecht 1900, r
+1 CONC ecord number 308
+0 @N2406@ NOTE Huwelijk ontbinding ingeschreven te Utrecht 1910, acte 866
+0 @N2407@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1903-1942, Mi
+1 CONC jdrecht, archive 463, inventory number 64-07, 21-01-1909, Mijdrecht 1909
+1 CONC , record number 3
+0 @N2408@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration m
+1 CONC arriages
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1903-1942, Ut
+1 CONC recht, archive 463, inventory number 527-01, 01-02-1911, Utrecht 1911, r
+1 CONC ecord number 56
+0 @N2409@ NOTE Bruidegom gescheiden van Wilhelmina Johanna Clasina Streumer. Name
+1 CONC n Kuilenburg en Kuijlenburg en Jansen en Janssen komen voor in de bijlag
+1 CONC en.
+0 @N2410@ NOTE RHC Rijnstreek en Lopikerwaard in Woerden (Netherlands), Civil regi
+1 CONC stration deaths
+1 CONT Overlijdensakte, Bodegraven, inventory number 817, September 15, 1932, r
+1 CONC ecord number 38
+0 @N2411@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1903-1942, Mi
+1 CONC jdrecht, archive 463, inventory number 646-11, 09-05-1933, Mijdrecht 193
+1 CONC 3, record number 20
+0 @N2412@ NOTE The Utrecht Archives in Utrecht (Netherlands), Civil registration d
+1 CONC eaths
+1 CONT Burgerlijke Stand van de gemeenten in de provincie Utrecht 1943-1950, Ut
+1 CONC recht, archive 1221, inventory number 1847, 15-02-1949, -, record numbe
+1 CONC r 455
+0 @N2413@ NOTE Den Haag
+0 @N2414@ NOTE Akte 1047
+0 @N2415@ NOTE Spaanse griep
+0 @N2416@ NOTE ORA Dongen inv. nr. 98, blz. 15 en eerste gedeelte van blz. 16, d
+1 CONC d 06-12-1625: Bewerkt door B.J.Koolstra te Ede:
+1 CONT Jan Jansen Locht is overleden. Er worden twee voogden genoemd voor de mi
+1 CONC nderjarige kinderen van Jan Jansen Locht uit zijn eerste huwelijk met Ma
+1 CONC eijke Jan Laureijs Conincx, te weten Roelant (= Roeloff) Peeter Laureij
+1 CONC s Conincx uit 's Gravenmoer, en Willem Willem Cuijper. De vier onmondig
+1 CONC e kinderen worden helaas niet met name genoemd. Zij krijgen voor hun vad
+1 CONC ers- en moedersdeel samen een perceel land gelegen in 's Gravenmoer. Geg
+1 CONC evens hierover zijn te vinden bij REHM, perceel 155 op blz. 470, en in O
+1 CONC RA 's Gravenmoer R36 folio 42 en R17 folio 506-509. Mogelijk dat daari
+1 CONC n wel namen worden genoemd. In 1652 heeft dit perceel 4 eigenaren: Jan J
+1 CONC ansen Venus, was getrouwd met Janneke Jan Jansen Locht, Laureijs Dries L
+1 CONC aureijs Oomen, was getrouwd met Huibertje Jan Jansen Locht. Rehm noemt o
+1 CONC ok Adriaen Jan Jansen Locht, en nog iemand uit Waspik.
+0 @N2417@ NOTE [ORA Dongen, inv. nr. 97, Bewerkt door B.J.Koolstra te Ede, folio 1
+1 CONC 2v-nr B dd 04-02-1610:,
+1 CONT Jan Evert Joris, Jacob Jansen Locht en Willem Dircx Cuijper bekennen da
+1 CONC t Jan Jansen Locht hen ten volle betaald heeft wegens de koop van een st
+1 CONC ede met huijsinge etc. op Cleijn Dongen],
+1 CONT ..,
+1 CONT [Dongen, Rechterlijk Archief, Protocol register 1664 t/m 1668, inventari
+1 CONC snummer 107,
+1 CONT © Jan van den Bergh, Oldenzaal, 2008,
+1 CONT Fol. 29r, 1664,
+1 CONT Tussen Laureijs Dries Oomen x Huijbertjen Janss Locht mede namens Adriae
+1 CONC n Janss Locht, Jan Janss
+1 CONT Venus x Jenneken Janss Locht, Adriaen Michielss x Maeijken Janss Locht e
+1 CONC n mede voor de kinderen van Jan Janss Locht (bij Maeijken Haensbergh) e
+1 CONC n Adriaen Adriaenss Molenschot x Lijntjen Jan Adriaenss Block wordt ee
+1 CONC n akkoord gesloten],
+1 CONT 
+1 CONT [ORA Dongen inv. nr. 98, blz. 15 en eerste gedeelte van blz. 16, dd 06-1
+1 CONC 2-1625:,
+1 CONT Bewerkt door B.J.Koolstra te Ede:,
+1 CONT Jan Jansen Locht is overleden. Er worden twee voogden genoemd voor de mi
+1 CONC nderjarige kinderen van Jan Jansen Locht uit zijn eerste huwelijk met Ma
+1 CONC eijke Jan Laureijs Conincx, te weten Roelant (= Roeloff) Peeter Laureij
+1 CONC s Conincx uit 's Gravenmoer, en Willem Willem Cuijper. De vier onmondig
+1 CONC e kinderen worden helaas niet met name genoemd. Zij krijgen voor hun vad
+1 CONC ers- en moedersdeel samen een perceel land gelegen in 's Gravenmoer. Geg
+1 CONC evens hierover zijn te vinden bij REHM, perceel 155 op blz. 470, en in O
+1 CONC RA 's Gravenmoer R36 folio 42 en R17 folio 506-509. Mogelijk dat daari
+1 CONC n wel namen worden genoemd. In 1652 heeft dit perceel 4 eigenaren: Jan J
+1 CONC ansen Venus, was getrouwd met
+1 CONT Janneke Jan Jansen Locht, Laureijs Dries Laureijs Oomen, was getrouwd me
+1 CONC t Huibertje Jan Jansen Locht. Rehm noemt ook Adriaen Jan Jansen Locht, e
+1 CONC n nog iemand uit Waspik.],
+1 CONT 
+1 CONT ORA Dongen inv. nr. 97, bewerkt door B.J.Koolstra te Ede, folio 32r dd 1
+1 CONC 0-01-1611:
+1 CONT Jacob Jansen Locht is overleden, nalatend zijn vrouw Elisabeth (Leske) A
+1 CONC driaen Peters (Rutten) uit 's Gravenmoer en hun onmondige kinderen. Voog
+1 CONC den zijn Jan Jansen Locht en Adriaen Adriaen Rutten. Leske wordt bij d
+1 CONC e alimentatieregeling geassisteerd door Cornelis Jan Cornelis. Wanneer w
+1 CONC e de gegevens uit dit stuk leggen naast de gegevens uit 's Gravenmoer, d
+1 CONC an zijn er tussen 1611 en 1628 van de zes kinderen er drie overleden. El
+1 CONC isabeth overleed zelf vóór 1628 blijkens de verkoop die we vinden bij RE
+1 CONC HM op blz. 568. Het gezin woonde op Cleijn Dongen. Zowel dit gezin, al
+1 CONC s dat van Jan Jansen Locht is moeilijk te volgen. Mogelijk vertrokken na
+1 CONC ar ekders. Zie ook 's-Gravenmoer R36, folio 84. Daar vinden we de verkoo
+1 CONC p van 2 percelen door de twee gehuwde dochters en hun broer. Aangezien d
+1 CONC eze dochters getrouwd zijn, zal daar ook te vinden zijn met wie.
+1 CONT 
+1 CONT ORA Dongen, inv. nr. 97, Bewerkt door B.J.Koolstra te Ede, folio 12v-n
+1 CONC r B dd 04-02-1610:
+1 CONT Jan Evert Joris, Jacob Jansen Locht en Willem Dircx Cuijper bekennen da
+1 CONC t Jan Jansen Locht hen ten volle betaald heeft wegens de koop van een st
+1 CONC ede met huijsinge etc. op Cleijn Dongen.
+1 CONT 
+1 CONT Idem, folio 17r-nr A gevest dd 24-02-1610:
+1 CONT Matheus Bouwen Denijs bekent dat Jacob Jansen Locht hem volledig heeft b
+1 CONC etaald voor de stede, huisinge, erf, etc op Cleijn Dongen, Lambrecht va
+1 CONC n Oirschot suijt, en Peeter Peeter Jacobs (Jan Vrancken) noort.
+1 CONT 
+1 CONT Idem, folio 31v - nr B dd 10-01-1611:
+1 CONT Quam Jan Adriaen Cornelis Pharo ende lijde op hem en alle sijne goedere
+1 CONC n wettelijck schuldich te sijn aan de weeskijnderen van Jacob Jansen Loc
+1 CONC ht de somme van f. 326,- ter saecke van moer, gelegen in de cavel van he
+1 CONC t Gasthuijs, door hem gecocht. Betaling in 5 paijen, wat ook is gebeurd.
+1 CONT 
+0 @N2418@ NOTE Alternatief overlijden op 08-04-1657.
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
