@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 28 FEB 2026
-2 TIME 23:21:22
+1 DATE 1 MAR 2026
+2 TIME 23:08:24
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2026 .
@@ -109741,16 +109741,18 @@
 1 SEX M
 1 BIRT
 2 DATE 5 SEP 1683
-2 PLAC Lage Zwaluwe (Drimmelen) [Noord Brabant]
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
 3 MAP
-4 LATI N51.710861
-4 LONG E4.701141
+4 LATI N51.69895
+4 LONG E4.724464
 1 DEAT
 2 DATE AFT 1734
+1 FAMC @F2411@
+2 PEDI birth
 1 FAMS @F2263@
 1 CHAN
-2 DATE 20 FEB 2026
-3 TIME 22:52:20
+2 DATE 1 MAR 2026
+3 TIME 23:01:26
 0 @I5851@ INDI
 1 NAME Teuntje Cornelisdr /den Engelse/
 2 TYPE birth
@@ -111360,9 +111362,10 @@
 4 LONG E4.724464
 1 FAMC @F2293@
 2 PEDI birth
+1 FAMS @F2414@
 1 CHAN
-2 DATE 18 FEB 2026
-3 TIME 09:34:49
+2 DATE 1 MAR 2026
+3 TIME 22:49:29
 0 @I5934@ INDI
 1 NAME Bastiaentken Jansdr /van Lieshout/
 2 TYPE birth
@@ -113480,8 +113483,8 @@
 1 FAMC @F2262@
 2 PEDI birth
 1 CHAN
-2 DATE 26 FEB 2026
-3 TIME 20:55:24
+2 DATE 1 MAR 2026
+3 TIME 22:51:04
 0 @I6060@ INDI
 1 NAME Theuntje /Broere/
 2 TYPE birth
@@ -113610,10 +113613,12 @@
 3 MAP
 4 LATI N51.69895
 4 LONG E4.724464
+1 FAMC @F2392@
+2 PEDI birth
 1 FAMS @F2354@
 1 CHAN
-2 DATE 26 FEB 2026
-3 TIME 21:40:58
+2 DATE 1 MAR 2026
+3 TIME 16:41:39
 0 @I6066@ INDI
 1 NAME Pieternella /Weelant/
 2 TYPE birth
@@ -113950,6 +113955,25 @@
 1 CHAN
 2 DATE 27 FEB 2026
 3 TIME 08:03:16
+0 @I6084@ INDI
+1 NAME Johanna Pietersdr /Welandt/
+2 TYPE birth
+2 GIVN Johanna Pietersdr
+2 SURN Welandt
+1 NAME Jannetje /Welandt/
+2 TYPE aka
+2 GIVN Jannetje
+2 SURN Welandt
+1 SEX F
+1 BIRT
+2 DATE 27 MAR 1712
+2 PLAC Hoge Zwaluwe [Noord Brabant]
+1 FAMC @F2392@
+2 PEDI birth
+1 FAMS @F2360@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 16:56:08
 0 @I6085@ INDI
 1 NAME Nuijt Dircken /van Eversdonck/
 2 TYPE birth
@@ -114367,6 +114391,16 @@
 1 CHAN
 2 DATE 28 FEB 2026
 3 TIME 16:37:19
+0 @I6106@ INDI
+1 NAME Johannes Stoffelse /Blanken/
+2 TYPE birth
+2 GIVN Johannes Stoffelse
+2 SURN Blanken
+1 SEX M
+1 FAMS @F2360@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 16:56:08
 0 @I6107@ INDI
 1 NAME Maijcke Jansdr /van Bavel/
 2 TYPE birth
@@ -114592,6 +114626,15 @@
 1 CHAN
 2 DATE 28 FEB 2026
 3 TIME 17:20:07
+0 @I6117@ INDI
+1 NAME Janneke Abramsdr //
+2 TYPE birth
+2 GIVN Janneke Abramsdr
+1 SEX F
+1 FAMS @F2395@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 17:01:18
 0 @I6118@ INDI
 1 NAME Jan Dingemans /van Bavel/
 2 TYPE birth
@@ -114757,8 +114800,8 @@
 1 FAMS @F2385@
 1 NOTE @N2595@
 1 CHAN
-2 DATE 28 FEB 2026
-3 TIME 23:17:40
+2 DATE 1 MAR 2026
+3 TIME 13:20:59
 0 @I6131@ INDI
 1 NAME Willemke /van Gulik/
 2 TYPE birth
@@ -114813,6 +114856,38 @@
 1 CHAN
 2 DATE 28 FEB 2026
 3 TIME 22:59:54
+0 @I6134@ INDI
+1 NAME Willem Cornelisz /van der Lip/
+2 TYPE birth
+2 GIVN Willem Cornelisz
+2 SPFX van der
+2 SURN Lip
+1 NAME Willem Cornelisz /van der Lith/
+2 TYPE aka
+2 GIVN Willem Cornelisz
+2 SPFX van der
+2 SURN Lith
+1 SEX M
+1 BIRT
+2 DATE 1660
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 DEAT
+2 DATE 1 NOV 1713
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FACT Slager
+2 TYPE Occupation
+1 FACT Vleeshouwer
+2 TYPE Occupation
+1 FAMS @F2395@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 17:01:17
 0 @I6135@ INDI
 1 NAME Lijsbeth /van Gulik/
 2 TYPE birth
@@ -114991,6 +115066,1076 @@
 1 CHAN
 2 DATE 28 FEB 2026
 3 TIME 23:18:29
+0 @I6146@ INDI
+1 NAME Adriaen Jansz /van Gulik/
+2 TYPE birth
+2 GIVN Adriaen Jansz
+2 SPFX van
+2 SURN Gulik
+1 SEX M
+1 BIRT
+2 DATE 30 DEC 1629
+1 FAMC @F2388@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 13:20:59
+0 @I6147@ INDI
+1 NAME Maria Jansdr /van Gulik/
+2 TYPE birth
+2 GIVN Maria Jansdr
+2 SPFX van
+2 SURN Gulik
+1 NAME Mayken /van Gulik/
+2 TYPE aka
+2 GIVN Mayken
+2 SPFX van
+2 SURN Gulik
+1 SEX F
+1 BIRT
+2 DATE 1638
+1 FAMC @F2388@
+2 PEDI birth
+1 FAMS @F2389@
+1 FAMS @F2390@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 13:20:59
+0 @I6148@ INDI
+1 NAME Cornelis Corstiaensen //
+2 TYPE birth
+2 GIVN Cornelis Corstiaensen
+1 SEX M
+1 FAMS @F2389@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 13:18:45
+0 @I6149@ INDI
+1 NAME Jan Janszn /van Leent/
+2 TYPE birth
+2 GIVN Jan Janszn
+2 SPFX van
+2 SURN Leent
+1 SEX M
+1 BIRT
+2 DATE 1635
+1 FAMS @F2390@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 13:20:20
+0 @I6150@ INDI
+1 NAME Jan Janszn (de Jonge) /van Gulik/
+2 TYPE birth
+2 GIVN Jan Janszn (de Jonge)
+2 SPFX van
+2 SURN Gulik
+1 SEX M
+1 BIRT
+2 DATE 1640
+1 FAMC @F2388@
+2 PEDI birth
+1 FAMS @F2391@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 13:23:35
+0 @I6151@ INDI
+1 NAME Eeltien Chielen /van Dorsten/
+2 TYPE birth
+2 GIVN Eeltien Chielen
+2 SPFX van
+2 SURN Dorsten
+1 NAME Elisabeth Chielij /van Dorsten/
+2 TYPE aka
+2 GIVN Elisabeth Chielij
+2 SPFX van
+2 SURN Dorsten
+1 NAME Eijltie /van Dorsten/
+2 TYPE aka
+2 GIVN Eijltie
+2 SPFX van
+2 SURN Dorsten
+1 SEX F
+1 FAMS @F2391@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 13:23:35
+0 @I6152@ INDI
+1 NAME Cornelia Willems /van der Lip/
+2 TYPE birth
+2 GIVN Cornelia Willems
+2 SPFX van der
+2 SURN Lip
+1 NAME Cornelia /van der Lith/
+2 TYPE aka
+2 GIVN Cornelia
+2 SPFX van der
+2 SURN Lith
+1 SEX F
+1 BIRT
+2 DATE 1685
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F2395@
+2 PEDI birth
+1 FAMS @F2392@
+1 FAMS @F2394@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 17:04:48
+0 @I6153@ INDI
+1 NAME Pieter /Weeland/
+2 TYPE birth
+2 GIVN Pieter
+2 SURN Weeland
+1 SEX M
+1 BIRT
+2 DATE 23 APR 1685
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 DEAT
+2 DATE 4 SEP 1715
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F2396@
+2 PEDI birth
+1 FAMS @F2392@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:38:22
+0 @I6154@ INDI
+1 NAME Jannetje /Weelant/
+2 TYPE birth
+2 GIVN Jannetje
+2 SURN Weelant
+1 SEX F
+1 BIRT
+2 DATE 18 NOV 1708
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F2392@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 16:41:39
+0 @I6155@ INDI
+1 NAME Antonij Pieterszn /Weeland/
+2 TYPE birth
+2 GIVN Antonij Pieterszn
+2 SURN Weeland
+1 SEX M
+1 BIRT
+2 DATE 6 OCT 1709
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 DEAT
+2 DATE 9 MAY 1771
+1 FAMC @F2392@
+2 PEDI birth
+1 FAMS @F2393@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 16:41:39
+0 @I6156@ INDI
+1 NAME Petronella Pieterze /Dubbelman/
+2 TYPE birth
+2 GIVN Petronella Pieterze
+2 SURN Dubbelman
+1 SEX F
+1 BIRT
+2 DATE 12 OCT 1704
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMS @F2393@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 14:53:13
+0 @I6157@ INDI
+1 NAME Adriaan Corneliszn /Kooijmans/
+2 TYPE birth
+2 GIVN Adriaan Corneliszn
+2 SURN Kooijmans
+1 SEX M
+1 BIRT
+2 DATE 30 OCT 1695
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMS @F2394@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 14:55:02
+0 @I6158@ INDI
+1 NAME Cornelis /van der Lip/
+2 TYPE birth
+2 GIVN Cornelis
+2 SPFX van der
+2 SURN Lip
+1 SEX M
+1 BIRT
+2 DATE 20 AUG 1690
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F2395@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 17:04:48
+0 @I6159@ INDI
+1 NAME Maria /van der Lip/
+2 TYPE birth
+2 GIVN Maria
+2 SPFX van der
+2 SURN Lip
+1 SEX F
+1 BIRT
+2 DATE 5 NOV 1692
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 FAMC @F2395@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 17:04:48
+0 @I6160@ INDI
+1 NAME Adriaantje Jans /Ribbens/
+2 TYPE birth
+2 GIVN Adriaantje Jans
+2 SURN Ribbens
+1 SEX F
+1 BIRT
+2 DATE 14 DEC 1653
+2 PLAC 's Grevelduin Capelle
+1 DEAT
+2 DATE 20 NOV 1718
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2400@
+2 PEDI birth
+1 FAMS @F2396@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 19:49:02
+0 @I6161@ INDI
+1 NAME Anthonie Pieterszn /Weelant/
+2 TYPE birth
+2 GIVN Anthonie Pieterszn
+2 SURN Weelant
+1 SEX M
+1 BIRT
+2 DATE 8 SEP 1648
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 DEAT
+2 DATE 1731
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FACT Schepen van Zwaluwe 1689 - 1704
+2 TYPE Occupation
+1 FACT Visser
+2 TYPE Occupation
+1 FAMC @F2402@
+2 PEDI birth
+1 FAMS @F2396@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:13:22
+0 @I6162@ INDI
+1 NAME Maria Peters /Welandt/
+2 TYPE birth
+2 GIVN Maria Peters
+2 SURN Welandt
+1 SEX F
+1 BIRT
+2 DATE 20 APR 1687
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2396@
+2 PEDI birth
+1 FAMS @F2397@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:38:22
+0 @I6163@ INDI
+1 NAME Harmen Corneliszn /van Raamsdonk/
+2 TYPE birth
+2 GIVN Harmen Corneliszn
+2 SPFX van
+2 SURN Raamsdonk
+1 SEX M
+1 BIRT
+2 DATE 11 JUN 1682
+2 PLAC Hoge Zwaluwe [Noord Brabant]
+1 FAMS @F2397@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:01:33
+0 @I6164@ INDI
+1 NAME Johannes Peters /Welandt/
+2 TYPE birth
+2 GIVN Johannes Peters
+2 SURN Welandt
+1 SEX M
+1 BIRT
+2 DATE 11 DEC 1698
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 DEAT
+2 DATE 3 JUN 1691
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2396@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:38:22
+0 @I6165@ INDI
+1 NAME Johannis /Weeland/
+2 TYPE birth
+2 GIVN Johannis
+2 SURN Weeland
+1 SEX M
+1 BIRT
+2 DATE 23 MAR 1698
+2 PLAC Hoge Zwaluwe [Noord Brabant]
+1 DEAT
+2 DATE 1695
+1 FAMC @F2396@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:38:22
+0 @I6166@ INDI
+1 NAME Jan /Weelant/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Weelant
+1 SEX M
+1 BIRT
+2 DATE 22 MAR 1695
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2396@
+2 PEDI birth
+1 FAMS @F2398@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:38:22
+0 @I6167@ INDI
+1 NAME Geertruijd /van de Burg/
+2 TYPE birth
+2 GIVN Geertruijd
+2 SPFX van de
+2 SURN Burg
+1 SEX F
+1 BIRT
+2 DATE 29 SEP 1699
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMS @F2398@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:27:02
+0 @I6168@ INDI
+1 NAME Catharina /Weland/
+2 TYPE birth
+2 GIVN Catharina
+2 SURN Weland
+1 SEX F
+1 BIRT
+2 DATE 8 APR 1696
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2396@
+2 PEDI birth
+1 FAMS @F2399@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:38:54
+0 @I6169@ INDI
+1 NAME Pieter /Kleijweg/
+2 TYPE birth
+2 GIVN Pieter
+2 SURN Kleijweg
+1 SEX M
+1 BIRT
+2 DATE 14 FEB 1687
+2 PLAC De Lier
+1 FAMS @F2399@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:41:58
+0 @I6170@ INDI
+1 NAME Mayken Stoffels //
+2 TYPE birth
+2 GIVN Mayken Stoffels
+1 SEX F
+1 BIRT
+2 DATE 4 JAN 1615
+2 PLAC 's Grevelduin Capelle
+1 FAMC @F2401@
+2 PEDI birth
+1 FAMS @F2400@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 19:50:54
+0 @I6171@ INDI
+1 NAME Jan Ariens /Ribbens/
+2 TYPE birth
+2 GIVN Jan Ariens
+2 SURN Ribbens
+1 SEX M
+1 BIRT
+2 DATE 1615
+2 PLAC 's-Gravenmoer [Noord Brabant]
+1 FAMS @F2400@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 19:49:02
+0 @I6172@ INDI
+1 NAME Lijnke Petersdr //
+2 TYPE birth
+2 GIVN Lijnke Petersdr
+1 SEX F
+1 FAMS @F2401@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 19:50:54
+0 @I6173@ INDI
+1 NAME Stoffel Crijns //
+2 TYPE birth
+2 GIVN Stoffel Crijns
+1 SEX M
+1 FAMS @F2401@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 19:50:54
+0 @I6174@ INDI
+1 NAME Catharina Robrechtsdr //
+2 TYPE birth
+2 GIVN Catharina Robrechtsdr
+1 NAME Catelijn Gijsbrechts //
+2 TYPE aka
+2 GIVN Catelijn Gijsbrechts
+1 SEX F
+1 BIRT
+2 DATE 8 OCT 1617
+2 PLAC Zevenbergen [Noord Brabant]
+3 MAP
+4 LATI N51.645284
+4 LONG E4.607037
+1 DEAT
+2 DATE 1708
+2 PLAC Hoge Zwaluwe [Noord Brabant]
+1 FAMC @F2407@
+2 PEDI birth
+1 FAMS @F2402@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:15:29
+0 @I6175@ INDI
+1 NAME Pieter Anthonieszn /Weland/
+2 TYPE birth
+2 GIVN Pieter Anthonieszn
+2 SURN Weland
+1 NAME Peter /Weland/
+2 TYPE aka
+2 GIVN Peter
+2 SURN Weland
+1 SEX M
+1 BIRT
+2 DATE 1610
+2 PLAC Wagenberg
+1 DEAT
+2 DATE 25 SEP 1700
+2 PLAC Hoge Zwaluwe [Noord Brabant]
+1 FACT Schepen
+2 TYPE Occupation
+1 FAMC @F2410@
+2 PEDI birth
+1 FAMS @F2402@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:25:29
+0 @I6176@ INDI
+1 NAME Ariaantje Peters /Weelant/
+2 TYPE birth
+2 GIVN Ariaantje Peters
+2 SURN Weelant
+1 SEX F
+1 BIRT
+2 DATE 1646
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2402@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:13:22
+0 @I6177@ INDI
+1 NAME Robrecht Pieterszn /Weelant/
+2 TYPE birth
+2 GIVN Robrecht Pieterszn
+2 SURN Weelant
+1 SEX M
+1 BIRT
+2 DATE 14 NOV 1649
+2 PLAC Hoge Zwaluwe [Noord Brabant]
+1 DEAT
+2 DATE 7 AUG 1727
+2 PLAC Zundert
+1 FACT Schepen
+2 TYPE Occupation
+1 FACT Bouwman
+2 TYPE Occupation
+1 FAMC @F2402@
+2 PEDI birth
+1 FAMS @F2403@
+1 FAMS @F2404@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:13:22
+0 @I6178@ INDI
+1 NAME Teuntje Jansdr /Coomans/
+2 TYPE birth
+2 GIVN Teuntje Jansdr
+2 SURN Coomans
+1 SEX F
+1 BIRT
+2 DATE 3 NOV 1641
+2 PLAC Heijningen
+1 FAMS @F2403@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 21:11:09
+0 @I6179@ INDI
+1 NAME Lijntje Pietersdr /Saarloos/
+2 TYPE birth
+2 GIVN Lijntje Pietersdr
+2 SURN Saarloos
+1 SEX F
+1 BIRT
+2 DATE 1656
+1 DEAT
+2 DATE 6 OCT 1727
+2 PLAC Klundert [Noord Brabant]
+3 MAP
+4 LATI N51.664076
+4 LONG E4.532367
+1 FAMS @F2404@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 21:13:16
+0 @I6180@ INDI
+1 NAME Pieternella /Weelant/
+2 TYPE birth
+2 GIVN Pieternella
+2 SURN Weelant
+1 SEX F
+1 BIRT
+2 DATE 16 APR 1651
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 DEAT
+2 DATE 8 JUL 1737
+2 PLAC Rotterdam [Zuid Holland]
+3 MAP
+4 LATI N51.924358
+4 LONG E4.474346
+1 FAMC @F2402@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:13:22
+0 @I6181@ INDI
+1 NAME Gijsbert /Weelant/
+2 TYPE birth
+2 GIVN Gijsbert
+2 SURN Weelant
+1 SEX M
+1 BIRT
+2 DATE 30 JUN 1652
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 DEAT
+2 DATE 10 SEP 1690
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2402@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:13:22
+0 @I6182@ INDI
+1 NAME Johannes /Weelant/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Weelant
+1 NAME Jan /Weelant/
+2 TYPE aka
+2 GIVN Jan
+2 SURN Weelant
+1 SEX M
+1 BIRT
+2 DATE 9 NOV 1653
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2402@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:13:22
+0 @I6183@ INDI
+1 NAME Pieternella /Weelant/
+2 TYPE birth
+2 GIVN Pieternella
+2 SURN Weelant
+1 SEX F
+1 BIRT
+2 DATE 14 FEB 1655
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2402@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:13:22
+0 @I6184@ INDI
+1 NAME Geertruijt /Weelant/
+2 TYPE birth
+2 GIVN Geertruijt
+2 SURN Weelant
+1 SEX F
+1 BIRT
+2 DATE 29 OCT 1656
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2402@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:13:22
+0 @I6185@ INDI
+1 NAME Dingeman Pieterszn /Weelant/
+2 TYPE birth
+2 GIVN Dingeman Pieterszn
+2 SURN Weelant
+1 SEX M
+1 BIRT
+2 DATE 3 NOV 1658
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 DEAT
+2 DATE 28 DEC 1720
+2 PLAC Rotterdam [Zuid Holland]
+3 MAP
+4 LATI N51.924358
+4 LONG E4.474346
+1 FAMC @F2402@
+2 PEDI birth
+1 FAMS @F2405@
+1 FAMS @F2406@
+1 NOTE @N2598@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:13:22
+0 @I6186@ INDI
+1 NAME Margrietta /van der Mast/
+2 TYPE birth
+2 GIVN Margrietta
+2 SPFX van der
+2 SURN Mast
+1 SEX F
+1 FAMS @F2405@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 21:54:15
+0 @I6187@ INDI
+1 NAME Janneke /van Swieten/
+2 TYPE birth
+2 GIVN Janneke
+2 SPFX van
+2 SURN Swieten
+1 SEX F
+1 FAMS @F2406@
+1 NOTE @N2599@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:09:30
+0 @I6188@ INDI
+1 NAME Lena /Weelant/
+2 TYPE birth
+2 GIVN Lena
+2 SURN Weelant
+1 SEX F
+1 BIRT
+2 DATE 1 AUG 1660
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2402@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:13:22
+0 @I6189@ INDI
+1 NAME Adriaantje Geertsdr //
+2 TYPE birth
+2 GIVN Adriaantje Geertsdr
+1 SEX F
+1 BIRT
+2 DATE 1591
+1 FAMS @F2407@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:15:29
+0 @I6190@ INDI
+1 NAME Robrecht Gijsbertszn //
+2 TYPE birth
+2 GIVN Robrecht Gijsbertszn
+1 SEX M
+1 BIRT
+2 DATE 1585
+1 FAMC @F2408@
+2 PEDI birth
+1 FAMS @F2407@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:17:32
+0 @I6191@ INDI
+1 NAME Gijsbrechts Robbrechts //
+2 TYPE birth
+2 GIVN Gijsbrechts Robbrechts
+1 SEX M
+1 BIRT
+2 DATE 1560
+1 FAMC @F2409@
+2 PEDI birth
+1 FAMS @F2408@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:19:25
+0 @I6192@ INDI
+1 NAME Robbrecht //
+2 TYPE birth
+2 GIVN Robbrecht
+1 SEX M
+1 BIRT
+2 DATE 1540
+1 FAMS @F2409@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:19:25
+0 @I6193@ INDI
+1 NAME Neelken /Robben/
+2 TYPE birth
+2 GIVN Neelken
+2 SURN Robben
+1 SEX F
+1 FAMS @F2409@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:19:25
+0 @I6194@ INDI
+1 NAME Anthonis Jansz /Weland/
+2 TYPE birth
+2 GIVN Anthonis Jansz
+2 SURN Weland
+1 SEX M
+1 BIRT
+2 DATE 1560
+1 FAMS @F2410@
+1 NOTE @N2600@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:25:29
+0 @I6195@ INDI
+1 NAME Neeltje Adamsdr //
+2 TYPE birth
+2 GIVN Neeltje Adamsdr
+1 SEX F
+1 FAMS @F2411@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:30:20
+0 @I6196@ INDI
+1 NAME Pieter Corneliszn /Broer/
+2 TYPE birth
+2 GIVN Pieter Corneliszn
+2 SURN Broer
+1 SEX M
+1 BIRT
+2 DATE 30 JAN 1650
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2419@
+2 PEDI birth
+1 FAMS @F2411@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 23:05:37
+0 @I6197@ INDI
+1 NAME Cornelis /Broer/
+2 TYPE birth
+2 GIVN Cornelis
+2 SURN Broer
+1 SEX M
+1 BIRT
+2 DATE 14 NOV 1677
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2411@
+2 PEDI birth
+1 FAMS @F2412@
+1 FAMS @F2413@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 23:01:26
+0 @I6198@ INDI
+1 NAME Martijntje Lauwrensdr /Broere/
+2 TYPE birth
+2 GIVN Martijntje Lauwrensdr
+2 SURN Broere
+1 SEX F
+1 BIRT
+2 DATE 23 OCT 1681
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMS @F2412@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:34:14
+0 @I6199@ INDI
+1 NAME Maeijken Bastiaansdr /Botbijl/
+2 TYPE birth
+2 GIVN Maeijken Bastiaansdr
+2 SURN Botbijl
+1 SEX F
+1 BIRT
+2 DATE 20 JAN 1689
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMS @F2413@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:37:10
+0 @I6200@ INDI
+1 NAME Adam /Broer/
+2 TYPE birth
+2 GIVN Adam
+2 SURN Broer
+1 SEX M
+1 BIRT
+2 DATE 19 MAY 1680
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2411@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 23:01:26
+0 @I6201@ INDI
+1 NAME Antonij /Broere/
+2 TYPE birth
+2 GIVN Antonij
+2 SURN Broere
+1 SEX M
+1 BIRT
+2 DATE 10 JAN 1686
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2411@
+2 PEDI birth
+1 FAMS @F2414@
+1 FAMS @F2415@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 23:01:26
+0 @I6202@ INDI
+1 NAME Anneke /Wagemans/
+2 TYPE birth
+2 GIVN Anneke
+2 SURN Wagemans
+1 SEX F
+1 FAMS @F2415@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:53:15
+0 @I6203@ INDI
+1 NAME Wouter /Broer/
+2 TYPE birth
+2 GIVN Wouter
+2 SURN Broer
+1 SEX M
+1 BIRT
+2 DATE 25 JUL 1688
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2411@
+2 PEDI birth
+1 FAMS @F2416@
+1 FAMS @F2417@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 23:01:26
+0 @I6204@ INDI
+1 NAME Adriaantie Willemsdr /van Dongen/
+2 TYPE birth
+2 GIVN Adriaantie Willemsdr
+2 SPFX van
+2 SURN Dongen
+1 SEX F
+1 FAMS @F2416@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:57:40
+0 @I6205@ INDI
+1 NAME Petronella /Ardonne/
+2 TYPE birth
+2 GIVN Petronella
+2 SURN Ardonne
+1 SEX F
+1 FAMS @F2417@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:59:18
+0 @I6206@ INDI
+1 NAME Catharina /Broer/
+2 TYPE birth
+2 GIVN Catharina
+2 SURN Broer
+1 NAME Cathalijn /Broer/
+2 TYPE aka
+2 GIVN Cathalijn
+2 SURN Broer
+1 SEX F
+1 BIRT
+2 DATE 1 MAR 1691
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 DEAT
+2 DATE 3 OCT 1768
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMC @F2411@
+2 PEDI birth
+1 FAMS @F2418@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 23:02:39
+0 @I6207@ INDI
+1 NAME Jan Janszn /Lucas/
+2 TYPE birth
+2 GIVN Jan Janszn
+2 SURN Lucas
+1 SEX M
+1 BIRT
+2 DATE 16 MAY 1694
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMS @F2418@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 23:02:39
+0 @I6208@ INDI
+1 NAME Cathelijn Cornelis //
+2 TYPE birth
+2 GIVN Cathelijn Cornelis
+1 NAME Lijntje //
+2 TYPE aka
+2 GIVN Lijntje
+1 SEX F
+1 FAMS @F2419@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 23:05:37
+0 @I6209@ INDI
+1 NAME Cornelis Pieters /Broer/
+2 TYPE birth
+2 GIVN Cornelis Pieters
+2 SURN Broer
+1 SEX M
+1 BIRT
+2 DATE 22 APR 1618
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 FAMS @F2419@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 23:05:37
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -140756,6 +141901,18 @@
 1 CHAN
 2 DATE 27 FEB 2026
 3 TIME 08:03:16
+0 @F2360@ FAM
+1 HUSB @I6106@
+1 WIFE @I6084@
+1 MARR
+2 DATE 20 MAY 1736
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 16:56:08
 0 @F2361@ FAM
 1 HUSB @I6085@
 1 WIFE @I5906@
@@ -141049,10 +142206,356 @@
 0 @F2388@ FAM
 1 HUSB @I6145@
 1 WIFE @I6144@
+1 CHIL @I6146@
 1 CHIL @I6130@
+1 CHIL @I6147@
+1 CHIL @I6150@
 1 CHAN
-2 DATE 28 FEB 2026
-3 TIME 23:17:40
+2 DATE 1 MAR 2026
+3 TIME 13:20:59
+0 @F2389@ FAM
+1 HUSB @I6148@
+1 WIFE @I6147@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 13:18:45
+0 @F2390@ FAM
+1 HUSB @I6149@
+1 WIFE @I6147@
+1 MARR
+2 DATE 16 JUN 1661
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 13:20:20
+0 @F2391@ FAM
+1 HUSB @I6150@
+1 WIFE @I6151@
+1 MARR
+2 DATE 21 JAN 1665
+2 PLAC Oosterhout [Noord Brabant]
+3 MAP
+4 LATI N51.640277
+4 LONG E4.860567
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 13:23:35
+0 @F2392@ FAM
+1 HUSB @I6153@
+1 WIFE @I6152@
+1 MARR
+2 DATE 18 NOV 1708
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 CHIL @I6154@
+1 CHIL @I6155@
+1 CHIL @I6084@
+1 CHIL @I6065@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 16:41:39
+0 @F2393@ FAM
+1 HUSB @I6155@
+1 WIFE @I6156@
+1 MARR
+2 DATE 17 APR 1733
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 14:53:13
+0 @F2394@ FAM
+1 HUSB @I6157@
+1 WIFE @I6152@
+1 MARR
+2 DATE 15 AUG 1721
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 14:55:02
+0 @F2395@ FAM
+1 HUSB @I6134@
+1 WIFE @I6117@
+1 MARR
+2 DATE 13 NOV 1689
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+1 CHIL @I6152@
+1 CHIL @I6158@
+1 CHIL @I6159@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 17:04:48
+0 @F2396@ FAM
+1 HUSB @I6161@
+1 WIFE @I6160@
+1 MARR
+2 DATE 1684
+1 CHIL @I6153@
+1 CHIL @I6162@
+1 CHIL @I6164@
+1 CHIL @I6165@
+1 CHIL @I6166@
+1 CHIL @I6168@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:38:22
+0 @F2397@ FAM
+1 HUSB @I6163@
+1 WIFE @I6162@
+1 MARR
+2 DATE 5 DEC 1721
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:01:33
+0 @F2398@ FAM
+1 HUSB @I6166@
+1 WIFE @I6167@
+1 MARR
+2 DATE 23 JAN 1722
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:27:02
+0 @F2399@ FAM
+1 HUSB @I6169@
+1 WIFE @I6168@
+1 MARR
+2 DATE 25 MAR 1718
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 18:41:58
+0 @F2400@ FAM
+1 HUSB @I6171@
+1 WIFE @I6170@
+1 MARR
+2 DATE 11 MAR 1646
+2 PLAC 's Grevelduin Capelle
+1 CHIL @I6160@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 19:49:02
+0 @F2401@ FAM
+1 HUSB @I6173@
+1 WIFE @I6172@
+1 CHIL @I6170@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 19:50:54
+0 @F2402@ FAM
+1 HUSB @I6175@
+1 WIFE @I6174@
+1 MARR
+2 DATE 26 FEB 1645
+2 PLAC Zevenbergen [Noord Brabant]
+3 MAP
+4 LATI N51.645284
+4 LONG E4.607037
+1 CHIL @I6176@
+1 CHIL @I6161@
+1 CHIL @I6177@
+1 CHIL @I6180@
+1 CHIL @I6181@
+1 CHIL @I6182@
+1 CHIL @I6183@
+1 CHIL @I6184@
+1 CHIL @I6185@
+1 CHIL @I6188@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:13:22
+0 @F2403@ FAM
+1 HUSB @I6177@
+1 WIFE @I6178@
+1 MARR
+2 DATE 30 DEC 1674
+2 PLAC Zevenbergen [Noord Brabant]
+3 MAP
+4 LATI N51.645284
+4 LONG E4.607037
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 21:11:09
+0 @F2404@ FAM
+1 HUSB @I6177@
+1 WIFE @I6179@
+1 MARR
+2 DATE 1677
+2 PLAC Klundert [Noord Brabant]
+3 MAP
+4 LATI N51.664076
+4 LONG E4.532367
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 21:13:16
+0 @F2405@ FAM
+1 HUSB @I6185@
+1 WIFE @I6186@
+1 MARR
+2 DATE 16 AUG 1681
+2 PLAC Rotterdam [Zuid Holland]
+3 MAP
+4 LATI N51.924358
+4 LONG E4.474346
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 21:54:15
+0 @F2406@ FAM
+1 HUSB @I6185@
+1 WIFE @I6187@
+1 MARR
+2 DATE 19 MAY 1683
+2 PLAC Rotterdam [Zuid Holland]
+3 MAP
+4 LATI N51.924358
+4 LONG E4.474346
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:09:30
+0 @F2407@ FAM
+1 HUSB @I6190@
+1 WIFE @I6189@
+1 MARR
+2 DATE 1612
+1 CHIL @I6174@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:15:29
+0 @F2408@ FAM
+1 HUSB @I6191@
+1 CHIL @I6190@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:17:32
+0 @F2409@ FAM
+1 HUSB @I6192@
+1 WIFE @I6193@
+1 CHIL @I6191@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:19:25
+0 @F2410@ FAM
+1 HUSB @I6194@
+1 CHIL @I6175@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:25:29
+0 @F2411@ FAM
+1 HUSB @I6196@
+1 WIFE @I6195@
+1 CHIL @I6197@
+1 CHIL @I6200@
+1 CHIL @I5850@
+1 CHIL @I6201@
+1 CHIL @I6203@
+1 CHIL @I6206@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 23:01:26
+0 @F2412@ FAM
+1 HUSB @I6197@
+1 WIFE @I6198@
+1 MARR
+2 DATE 13 FEB 1704
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:34:14
+0 @F2413@ FAM
+1 HUSB @I6197@
+1 WIFE @I6199@
+1 MARR
+2 DATE 30 OCT 1722
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:37:10
+0 @F2414@ FAM
+1 HUSB @I6201@
+1 WIFE @I5933@
+1 MARR
+2 DATE 9 MAR 1714
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:51:04
+0 @F2415@ FAM
+1 HUSB @I6201@
+1 WIFE @I6202@
+1 MARR
+2 DATE 29 DEC 1724
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:53:15
+0 @F2416@ FAM
+1 HUSB @I6203@
+1 WIFE @I6204@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:57:40
+0 @F2417@ FAM
+1 HUSB @I6203@
+1 WIFE @I6205@
+1 MARR
+2 DATE 6 FEB 1722
+2 PLAC Hooge en Lage Zwaluwe [Noord Brabant]
+3 MAP
+4 LATI N51.69895
+4 LONG E4.724464
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 22:59:18
+0 @F2418@ FAM
+1 HUSB @I6207@
+1 WIFE @I6206@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 23:02:39
+0 @F2419@ FAM
+1 HUSB @I6209@
+1 WIFE @I6208@
+1 MARR
+2 DATE 1648
+1 CHIL @I6196@
+1 CHAN
+2 DATE 1 MAR 2026
+3 TIME 23:05:37
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -157663,6 +159166,19 @@
 1 CONC renstraat, Z. Keijsersdijck, W. dezelve, N. wed. van Hendrick Jansen Smi
 1 CONC t. En dat met den halven oven staende opt latente huis van het Nieuwlant
 1 CONC , ten gebruiken van Cornelis Ariens Neelman.
+0 @N2598@ NOTE bij huwelijk; jongeman , van Hooge Swaluw , wonend: Op De Huybrugge
+1 CONT 
+1 CONT Grote kerk eijge kelder; Bootersloot b.d. hal
+0 @N2599@ NOTE Janneke van Swieten , jongedochter , van Leyden , wonend: Leuvehave
+1 CONC n
+0 @N2600@ NOTE GAB Vestbrieven Terheijden R639 , f73v, 11-04-1581 (reeds mondig) w
+1 CONC ordt een Anthonis Jan Wielantsz genoemd, zoon van Jan Wielants en Josijn
+1 CONC e Antonis Jan Willem Zangers, dit is waarschijnlijk de grootvader van An
+1 CONC thonie !
+1 CONT 
+1 CONT Zevenbergen R166, f.85v,
+1 CONT Josyna Anthonisse wordt als weduwe genoemd van Jan Weylantsz (ook Wyelan
+1 CONC ts) op 14-5-1571
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
