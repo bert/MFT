@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 7 MAR 2026
-2 TIME 22:44:43
+1 DATE 23 MAY 2026
+2 TIME 12:00:27
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2026 .
@@ -5442,7 +5442,7 @@
 1 SEX F
 1 BIRT
 2 DATE 17 MAY 1789
-2 PLAC Woudrigem [Noord Brabant]
+2 PLAC Woudrichem [Noord Brabant]
 3 MAP
 4 LATI N51.817007
 4 LONG E5.003702
@@ -13236,6 +13236,7 @@
 4 LATI N51.635733
 4 LONG E4.371288
 2 NOTE @N1295@
+2 NOTE @N2750@
 1 BAPM
 2 DATE 10 APR 1765
 2 PLAC Gorinchem [Zuid Holland]
@@ -13243,6 +13244,7 @@
 4 LATI N51.837129
 4 LONG E4.972874
 2 NOTE @N1296@
+2 NOTE @N2749@
 1 FAMC @F1240@
 2 PEDI birth
 1 FAMS @F0283@
@@ -30534,13 +30536,14 @@
 3 MAP
 4 LATI N51.907222
 4 LONG E4.448333
+2 NOTE @N2873@
 1 FAMC @F0580@
 2 PEDI birth
-1 FAMS @F0578@
 1 FAMS @F0579@
+1 FAMS @F0578@
 1 CHAN
-2 DATE 11 JUN 2025
-3 TIME 21:09:46
+2 DATE 23 MAY 2026
+3 TIME 01:11:38
 0 @I1537@ INDI
 1 NAME Lena /Ouwendijk/
 2 TYPE birth
@@ -30548,13 +30551,23 @@
 2 SURN Ouwendijk
 1 SEX F
 1 BIRT
-2 DATE 1797
+2 DATE ABT 1792
 1 DEAT
-2 DATE 1834
+2 DATE 29 AUG 1834
+2 NOTE @N2875@
+1 BAPM
+2 DATE 29 FEB 1792
+2 PLAC Delfshaven (Rotterdam) [Zuid Holland]
+3 MAP
+4 LATI N51.907222
+4 LONG E4.448333
+2 NOTE @N2876@
+1 FAMC @F2485@
+2 PEDI birth
 1 FAMS @F0579@
 1 CHAN
-2 DATE 11 JUN 2025
-3 TIME 21:08:24
+2 DATE 23 MAY 2026
+3 TIME 01:26:38
 0 @I1538@ INDI
 1 NAME Cornelis /de Jel/
 2 TYPE birth
@@ -30595,6 +30608,7 @@
 3 MAP
 4 LATI N51.837129
 4 LONG E4.972874
+2 NOTE @N2880@
 1 FAMC @F0283@
 2 PEDI birth
 1 FAMS @F0581@
@@ -30897,7 +30911,7 @@
 2 SURN Lugten
 1 SEX F
 1 BIRT
-2 DATE 3 FEB 1802
+2 DATE 26 JAN 1802
 2 PLAC Gorinchem [Zuid Holland]
 3 MAP
 4 LATI N51.837129
@@ -30908,12 +30922,13 @@
 3 MAP
 4 LATI N51.924358
 4 LONG E4.474346
+2 NOTE @N2870@
 1 FAMC @F0283@
 2 PEDI birth
 1 FAMS @F0589@
 1 CHAN
-2 DATE 7 AUG 2025
-3 TIME 22:44:12
+2 DATE 23 MAY 2026
+3 TIME 01:05:22
 0 @I1557@ INDI
 1 NAME Cornelis /Boef/
 2 TYPE birth
@@ -30932,10 +30947,20 @@
 3 MAP
 4 LATI N51.924358
 4 LONG E4.474346
+1 BAPM
+2 DATE 29 MAY 1803
+2 PLAC Lopik [Utrecht]
+3 MAP
+4 LATI N51.974766
+4 LONG E4.946145
+2 NOTE @N2868@
+1 FAMC @F2482@
+2 PEDI birth
 1 FAMS @F0589@
+1 NOTE @N2869@
 1 CHAN
-2 DATE 21 JUN 2025
-3 TIME 12:01:18
+2 DATE 23 MAY 2026
+3 TIME 00:36:57
 0 @I1558@ INDI
 1 NAME Adam /van Thoorn/
 2 TYPE birth
@@ -60313,6 +60338,11 @@
 2 TYPE birth
 2 GIVN Jacobus
 2 SURN Bollee
+1 NAME Jacobus Cortsz /van Bollee/
+2 TYPE aka
+2 GIVN Jacobus Cortsz
+2 SPFX van
+2 SURN Bollee
 1 SEX M
 1 BIRT
 2 DATE 20 APR 1732
@@ -60335,8 +60365,8 @@
 1 FAMS @F1240@
 1 NOTE @N1292@
 1 CHAN
-2 DATE 2 NOV 2025
-3 TIME 19:05:05
+2 DATE 20 MAY 2026
+3 TIME 22:30:21
 0 @I3229@ INDI
 1 NAME Metje /den Decker/
 2 TYPE birth
@@ -60346,6 +60376,11 @@
 1 NAME  /Metje den Dekker/
 2 TYPE aka
 2 SPFX Metje den Dekker
+1 NAME Metta /den Dekker/
+2 TYPE aka
+2 GIVN Metta
+2 SPFX den
+2 SURN Dekker
 1 SEX F
 1 BIRT
 2 DATE 2 MAR 1738
@@ -60372,10 +60407,12 @@
 3 MAP
 4 LATI N51.837129
 4 LONG E4.972874
+1 FAMC @F2462@
+2 PEDI birth
 1 FAMS @F1240@
 1 CHAN
-2 DATE 2 NOV 2025
-3 TIME 19:06:49
+2 DATE 20 MAY 2026
+3 TIME 20:17:55
 0 @I3230@ INDI
 1 NAME Jacob /Bollee/
 2 TYPE birth
@@ -60383,13 +60420,19 @@
 2 SURN Bollee
 1 SEX M
 1 BIRT
-2 DATE 18 OCT 1767
+2 DATE OCT 1767
 2 PLAC Gorinchem [Zuid Holland]
 3 MAP
 4 LATI N51.837129
 4 LONG E4.972874
 1 DEAT
 2 DATE 23 SEP 1834
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 BAPM
+2 DATE 18 OCT 1767
 2 PLAC Gorinchem [Zuid Holland]
 3 MAP
 4 LATI N51.837129
@@ -60403,8 +60446,8 @@
 1 FAMS @F1241@
 1 NOTE @N1297@
 1 CHAN
-2 DATE 8 AUG 2025
-3 TIME 00:13:14
+2 DATE 21 MAY 2026
+3 TIME 22:45:58
 0 @I3231@ INDI
 1 NAME Elisabeth Johanna Geertruij /de Groot/
 2 TYPE birth
@@ -60414,6 +60457,10 @@
 1 SEX F
 1 BIRT
 2 DATE 22 JUL 1778
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
 1 DEAT
 2 DATE 2 FEB 1855
 2 PLAC Gorinchem [Zuid Holland]
@@ -60426,22 +60473,31 @@
 3 MAP
 4 LATI N51.837129
 4 LONG E4.972874
+1 FAMC @F2458@
+2 PEDI birth
 1 FAMS @F1241@
 1 CHAN
-2 DATE 7 AUG 2025
-3 TIME 22:42:32
+2 DATE 19 MAY 2026
+3 TIME 22:40:08
 0 @I3232@ INDI
 1 NAME Corstiaan /Bollee/
 2 TYPE birth
 2 GIVN Corstiaan
 2 SURN Bollee
 1 SEX M
+1 BIRT
+2 DATE 29 APR 1770
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
 1 DEAT
 2 DATE 6 SEP 1822
 2 PLAC Gorinchem [Zuid Holland]
 3 MAP
 4 LATI N51.837129
 4 LONG E4.972874
+2 NOTE @N2752@
 1 BAPM
 2 DATE 29 APR 1770
 2 PLAC Gorinchem [Zuid Holland]
@@ -60451,26 +60507,48 @@
 1 FAMC @F1240@
 2 PEDI birth
 1 FAMS @F1242@
+1 NOTE @N2867@
 1 NOTE @N1299@
 1 CHAN
-2 DATE 8 AUG 2025
-3 TIME 00:13:14
+2 DATE 23 MAY 2026
+3 TIME 00:25:21
 0 @I3233@ INDI
-1 NAME Geertruij /Vermoten/
+1 NAME Geertruij /Vermooten/
 2 TYPE birth
 2 GIVN Geertruij
-2 SURN Vermoten
+2 SURN Vermooten
 1 SEX F
+1 BIRT
+2 DATE 1772
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 4 JUN 1841
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2753@
+1 FAMC @F2459@
+2 PEDI birth
 1 FAMS @F1242@
 1 CHAN
-2 DATE 7 AUG 2025
-3 TIME 23:09:58
+2 DATE 19 MAY 2026
+3 TIME 22:57:13
 0 @I3234@ INDI
 1 NAME Huibertje /Bollee/
 2 TYPE birth
 2 GIVN Huibertje
 2 SURN Bollee
 1 SEX F
+1 BIRT
+2 DATE JUN 1773
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
 1 DEAT
 2 DATE 9 OCT 1822
 2 PLAC Gorinchem [Zuid Holland]
@@ -60489,8 +60567,8 @@
 1 FAMS @F1243@
 1 NOTE @N1300@
 1 CHAN
-2 DATE 8 AUG 2025
-3 TIME 00:13:14
+2 DATE 20 MAY 2026
+3 TIME 20:12:31
 0 @I3235@ INDI
 1 NAME Jan /van der Mast/
 2 TYPE birth
@@ -60508,6 +60586,12 @@
 2 GIVN Boudewijn Dirk
 2 SURN Bollee
 1 SEX M
+1 BIRT
+2 DATE OCT 1755
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
 1 DEAT
 2 PLAC Gorinchem [Zuid Holland]
 3 MAP
@@ -60523,14 +60607,20 @@
 2 PEDI birth
 1 NOTE @N1302@
 1 CHAN
-2 DATE 8 AUG 2025
-3 TIME 00:13:14
+2 DATE 20 MAY 2026
+3 TIME 20:18:53
 0 @I3237@ INDI
 1 NAME Bastiaan /Bollee/
 2 TYPE birth
 2 GIVN Bastiaan
 2 SURN Bollee
 1 SEX M
+1 BIRT
+2 DATE DEC 1777
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
 1 DEAT
 2 DATE 12 AUG 1833
 2 PLAC Gorinchem [Zuid Holland]
@@ -60539,7 +60629,7 @@
 4 LONG E4.972874
 2 NOTE @N1304@
 1 BAPM
-2 DATE 24 APR 1777
+2 DATE 24 DEC 1777
 2 PLAC Gorinchem [Zuid Holland]
 3 MAP
 4 LATI N51.837129
@@ -60551,8 +60641,8 @@
 1 FAMS @F1244@
 1 NOTE @N1303@
 1 CHAN
-2 DATE 8 AUG 2025
-3 TIME 00:18:35
+2 DATE 20 MAY 2026
+3 TIME 20:19:40
 0 @I3238@ INDI
 1 NAME Sara /Polvliet/
 2 TYPE birth
@@ -60601,8 +60691,8 @@
 2 PEDI birth
 1 FAMS @F1245@
 1 CHAN
-2 DATE 8 AUG 2025
-3 TIME 00:29:18
+2 DATE 21 MAY 2026
+3 TIME 21:21:49
 0 @I3240@ INDI
 1 NAME Martinus Cornelis /Poldermans/
 2 TYPE birth
@@ -66034,9 +66124,10 @@
 4 LONG E4.474346
 1 FAMC @F1347@
 2 PEDI birth
+1 NOTE @N2824@
 1 CHAN
-2 DATE 19 AUG 2025
-3 TIME 00:15:54
+2 DATE 22 MAY 2026
+3 TIME 07:28:54
 0 @I3524@ INDI
 1 NAME Sophia /Fabers/
 2 TYPE birth
@@ -103455,7 +103546,7 @@
 2 SURN Haer
 1 SEX F
 1 BIRT
-2 PLAC Capelle
+2 PLAC Capelle [Noord Brabant]
 1 DEAT
 2 DATE 17 APR 1742
 1 FAMS @F2128@
@@ -112266,12 +112357,18 @@
 3 MAP
 4 LATI N51.69895
 4 LONG E4.724464
+1 BAPM
+2 DATE 19 NOV 1645
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
 1 FAMC @F2319@
 2 PEDI birth
 1 FAMS @F2311@
 1 CHAN
-2 DATE 7 MAR 2026
-3 TIME 22:25:25
+2 DATE 19 MAY 2026
+3 TIME 07:28:34
 0 @I5978@ INDI
 1 NAME Wouter Janszn /Kleijn/
 2 TYPE birth
@@ -112286,12 +112383,19 @@
 4 LONG E5.049395
 1 DEAT
 2 DATE 16 FEB 1718
+1 BAPM
+2 DATE 29 APR 1669
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2718@
 1 FAMC @F2311@
 2 PEDI birth
 1 FAMS @F2312@
 1 CHAN
-2 DATE 21 FEB 2026
-3 TIME 22:21:18
+2 DATE 8 APR 2026
+3 TIME 00:20:30
 0 @I5979@ INDI
 1 NAME Sijke Leenaertsdr /Dingemans/
 2 TYPE birth
@@ -112547,12 +112651,14 @@
 3 MAP
 4 LATI N51.669749
 4 LONG E5.049395
+2 NOTE @N2711@
 1 FAMC @F2435@
 2 PEDI birth
 1 FAMS @F2319@
+1 NOTE @N2709@
 1 CHAN
-2 DATE 7 MAR 2026
-3 TIME 22:41:16
+2 DATE 18 MAR 2026
+3 TIME 22:05:46
 0 @I5993@ INDI
 1 NAME Ariaenken Willemsdr /van Ammelrooij/
 2 TYPE birth
@@ -112570,13 +112676,19 @@
 3 MAP
 4 LATI N51.669749
 4 LONG E5.049395
+1 DEAT
+2 DATE ABT 1689
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
 1 FAMC @F2323@
 2 PEDI birth
 1 FAMS @F2319@
 1 NOTE @N2654@
 1 CHAN
-2 DATE 7 MAR 2026
-3 TIME 22:24:42
+2 DATE 19 MAY 2026
+3 TIME 08:01:11
 0 @I5994@ INDI
 1 NAME Leijsbet /Kleijn/
 2 TYPE birth
@@ -112589,6 +112701,10 @@
 3 MAP
 4 LATI N51.669749
 4 LONG E5.049395
+1 DEAT
+2 DATE BEF 18 OCT 1690
+2 NOTE @N2720@
+2 NOTE @N2719@
 1 BAPM
 2 DATE 28 JUN 1648
 2 PLAC Sprang [Noord Brabant]
@@ -112599,14 +112715,23 @@
 2 NOTE @N2603@
 1 FAMC @F2319@
 2 PEDI birth
+1 FAMS @F2450@
 1 CHAN
-2 DATE 7 MAR 2026
-3 TIME 22:25:25
+2 DATE 19 MAY 2026
+3 TIME 07:28:34
 0 @I5995@ INDI
-1 NAME Maria /Kleijn/
+1 NAME Maria Wouters /Kleijn/
 2 TYPE birth
-2 GIVN Maria
+2 GIVN Maria Wouters
 2 SURN Kleijn
+1 NAME Maria Wouters /Cleijn/
+2 TYPE aka
+2 GIVN Maria Wouters
+2 SURN Cleijn
+1 NAME Maria Wouters /Klijn/
+2 TYPE aka
+2 GIVN Maria Wouters
+2 SURN Klijn
 1 SEX F
 1 BIRT
 2 DATE 1650
@@ -112614,12 +112739,15 @@
 3 MAP
 4 LATI N51.669749
 4 LONG E5.049395
+1 DEAT
+2 DATE 8 FEB 1730
+2 PLAC Capelle [Noord Brabant]
 1 FAMC @F2319@
 2 PEDI birth
 1 FAMS @F2320@
 1 CHAN
-2 DATE 7 MAR 2026
-3 TIME 22:25:25
+2 DATE 19 MAY 2026
+3 TIME 07:55:52
 0 @I5996@ INDI
 1 NAME Adriaen Arisse /van Campen/
 2 TYPE birth
@@ -112629,7 +112757,7 @@
 1 SEX M
 1 BIRT
 2 DATE 23 APR 1645
-2 PLAC Capelle
+2 PLAC Capelle [Noord Brabant]
 1 DEAT
 2 DATE 14 OCT 1698
 1 FAMS @F2320@
@@ -112648,15 +112776,22 @@
 3 MAP
 4 LATI N51.669749
 4 LONG E5.049395
+1 BAPM
+2 DATE 8 SEP 1658
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2715@
 1 FAMC @F2319@
 2 PEDI birth
 1 CHAN
-2 DATE 7 MAR 2026
-3 TIME 22:25:25
+2 DATE 19 MAY 2026
+3 TIME 07:28:34
 0 @I5998@ INDI
-1 NAME Corstiaen /Kleijn/
+1 NAME Corstiaen Wouterz /Kleijn/
 2 TYPE birth
-2 GIVN Corstiaen
+2 GIVN Corstiaen Wouterz
 2 SURN Kleijn
 1 SEX M
 1 BIRT
@@ -112665,30 +112800,69 @@
 3 MAP
 4 LATI N51.669749
 4 LONG E5.049395
+1 DEAT
+2 DATE 13 APR 1734
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 BAPM
+2 DATE 6 MAY 1661
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2716@
+1 FACT Coster
+2 TYPE Occupation
+2 NOTE @N2746@
+1 FACT Schoolmeester
+2 TYPE Occupation
+2 NOTE @N2747@
 1 FAMC @F2319@
 2 PEDI birth
 1 FAMS @F2321@
+1 FAMS @F2453@
 1 CHAN
-2 DATE 7 MAR 2026
-3 TIME 22:25:25
+2 DATE 19 MAY 2026
+3 TIME 07:38:02
 0 @I5999@ INDI
-1 NAME Maria /de Gester/
+1 NAME Maria Jacobs /de Gester/
 2 TYPE birth
-2 GIVN Maria
+2 GIVN Maria Jacobs
 2 SPFX de
 2 SURN Gester
 1 SEX F
 1 BIRT
-2 DATE 1665
+2 DATE ABT 1661
+1 DEAT
+2 DATE ABT 1699
+1 BAPM
+2 DATE 25 SEP 1661
+2 PLAC Veen
+1 BURI
+2 DATE 6 NOV 1699
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
 1 FAMS @F2321@
 1 CHAN
-2 DATE 23 FEB 2026
-3 TIME 22:56:17
+2 DATE 11 APR 2026
+3 TIME 22:00:03
 0 @I6000@ INDI
-1 NAME Joost /Kleijn/
+1 NAME Joost Woutersz /Kleijn/
 2 TYPE birth
-2 GIVN Joost
+2 GIVN Joost Woutersz
 2 SURN Kleijn
+1 NAME Joost Woutersz /Cleijn/
+2 TYPE aka
+2 GIVN Joost Woutersz
+2 SURN Cleijn
+1 NAME Joost Woutersz /Klijn/
+2 TYPE aka
+2 GIVN Joost Woutersz
+2 SURN Klijn
 1 SEX M
 1 BIRT
 2 DATE 22 MAY 1664
@@ -112696,16 +112870,31 @@
 3 MAP
 4 LATI N51.669749
 4 LONG E5.049395
+1 BAPM
+2 DATE 22 MAY 1664
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2742@
 1 FAMC @F2319@
 2 PEDI birth
 1 CHAN
-2 DATE 7 MAR 2026
-3 TIME 22:25:25
+2 DATE 19 MAY 2026
+3 TIME 07:28:34
 0 @I6001@ INDI
-1 NAME Willemken /Kleijn/
+1 NAME Willemken Wouters /Kleijn/
 2 TYPE birth
-2 GIVN Willemken
+2 GIVN Willemken Wouters
 2 SURN Kleijn
+1 NAME Willemken Wouters /Cleijn/
+2 TYPE aka
+2 GIVN Willemken Wouters
+2 SURN Cleijn
+1 NAME Willemken Wouters /Klijn/
+2 TYPE aka
+2 GIVN Willemken Wouters
+2 SURN Klijn
 1 SEX F
 1 BIRT
 2 DATE 21 JUL 1667
@@ -112713,12 +112902,20 @@
 3 MAP
 4 LATI N51.669749
 4 LONG E5.049395
+1 BAPM
+2 DATE 21 JUL 1667
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2717@
+2 NOTE @N2743@
 1 FAMC @F2319@
 2 PEDI birth
 1 FAMS @F2322@
 1 CHAN
-2 DATE 7 MAR 2026
-3 TIME 22:25:25
+2 DATE 19 MAY 2026
+3 TIME 07:28:34
 0 @I6002@ INDI
 1 NAME Jan /Leempoel/
 2 TYPE birth
@@ -112739,16 +112936,24 @@
 1 NAME Lijsbeth Corstensdr //
 2 TYPE birth
 2 GIVN Lijsbeth Corstensdr
-1 NAME Lijsken //
+1 NAME Lijsken Corsten //
 2 TYPE aka
-2 GIVN Lijsken
+2 GIVN Lijsken Corsten
 1 SEX F
+1 DEAT
+2 DATE 30 OCT 1643
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
 1 FAMC @F2324@
+2 PEDI birth
+1 FAMC @F2455@
 2 PEDI birth
 1 FAMS @F2323@
 1 CHAN
-2 DATE 25 FEB 2026
-3 TIME 23:31:24
+2 DATE 19 MAY 2026
+3 TIME 08:11:52
 0 @I6004@ INDI
 1 NAME Willem Willemsz /van Ammelrooij/
 2 TYPE birth
@@ -112760,15 +112965,29 @@
 2 GIVN Willem Willemsz
 2 SPFX van
 2 SURN Aemerode
+1 NAME WillemWillemsz /van Ammeroy/
+2 TYPE aka
+2 GIVN WillemWillemsz
+2 SPFX van
+2 SURN Ammeroy
 1 SEX M
 1 BIRT
-2 DATE 1590
+2 DATE ABT 1570
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 DEAT
+2 DATE ABT 1645
 1 FAMC @F2326@
 2 PEDI birth
+1 FAMS @F2456@
+1 FAMS @F2457@
 1 FAMS @F2323@
+1 NOTE @N2748@
 1 CHAN
-2 DATE 25 FEB 2026
-3 TIME 23:28:41
+2 DATE 19 MAY 2026
+3 TIME 08:34:52
 0 @I6005@ INDI
 1 NAME Peeterken /van Ammelrooij/
 2 TYPE birth
@@ -112779,8 +112998,8 @@
 1 FAMC @F2323@
 2 PEDI birth
 1 CHAN
-2 DATE 24 FEB 2026
-3 TIME 20:40:05
+2 DATE 19 MAY 2026
+3 TIME 08:01:11
 0 @I6006@ INDI
 1 NAME Corstiaen Jan Simons //
 2 TYPE birth
@@ -117019,10 +117238,24 @@
 4 LONG E5.049395
 1 DEAT
 2 DATE BEF 3 AUG 1644
+1 FAMC @F2442@
+2 PEDI birth
+1 FAMS @F2441@
 1 FAMS @F2435@
+1 NOTE @N2705@
+1 NOTE @N2693@
+1 NOTE @N2694@
+1 NOTE @N2695@
+1 NOTE @N2696@
+1 NOTE @N2697@
+1 NOTE @N2698@
+1 NOTE @N2701@
+1 NOTE @N2702@
+1 NOTE @N2703@
+1 NOTE @N2704@
 1 CHAN
-2 DATE 7 MAR 2026
-3 TIME 10:03:02
+2 DATE 18 MAR 2026
+3 TIME 21:50:01
 0 @I6257@ INDI
 1 NAME Dielis Jansz /Kleijn/
 2 TYPE birth
@@ -117315,9 +117548,2690 @@
 4 LONG E5.049395
 1 FAMC @F2435@
 2 PEDI birth
+1 FAMS @F2448@
+1 NOTE @N2712@
 1 CHAN
-2 DATE 7 MAR 2026
-3 TIME 22:41:16
+2 DATE 18 MAR 2026
+3 TIME 22:08:25
+0 @I6269@ INDI
+1 NAME Dielis Aertsz /Coeckman/
+2 TYPE birth
+2 GIVN Dielis Aertsz
+2 SURN Coeckman
+1 SEX M
+1 BIRT
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 DEAT
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMS @F2441@
+1 NOTE @N2655@
+1 NOTE @N2656@
+1 NOTE @N2657@
+1 NOTE @N2658@
+1 NOTE @N2659@
+1 NOTE @N2660@
+1 NOTE @N2661@
+1 NOTE @N2662@
+1 NOTE @N2663@
+1 NOTE @N2664@
+1 CHAN
+2 DATE 8 MAR 2026
+3 TIME 14:10:28
+0 @I6270@ INDI
+1 NAME Aert Dielen /Leempoel/
+2 TYPE birth
+2 GIVN Aert Dielen
+2 SURN Leempoel
+1 SEX M
+1 BIRT
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 DEAT
+2 DATE ABT 1633
+1 FAMC @F2444@
+2 PEDI birth
+1 FAMS @F2442@
+1 NOTE @N2665@
+1 NOTE @N2666@
+1 CHAN
+2 DATE 8 MAR 2026
+3 TIME 15:36:09
+0 @I6271@ INDI
+1 NAME Juetken Janse //
+2 TYPE birth
+2 GIVN Juetken Janse
+1 SEX F
+1 FAMS @F2442@
+1 NOTE @N2667@
+1 NOTE @N2668@
+1 CHAN
+2 DATE 8 MAR 2026
+3 TIME 14:18:20
+0 @I6272@ INDI
+1 NAME Aert Dielissen /Coeckman/
+2 TYPE birth
+2 GIVN Aert Dielissen
+2 SURN Coeckman
+1 SEX M
+1 BIRT
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMC @F2441@
+2 PEDI birth
+1 FAMS @F2443@
+1 NOTE @N2669@
+1 NOTE @N2707@
+1 NOTE @N2670@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 21:54:37
+0 @I6273@ INDI
+1 NAME Maeijcken Simons /Gester/
+2 TYPE birth
+2 GIVN Maeijcken Simons
+2 SURN Gester
+1 SEX F
+1 BIRT
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMS @F2443@
+1 CHAN
+2 DATE 8 MAR 2026
+3 TIME 14:58:17
+0 @I6274@ INDI
+1 NAME Corstiaen Dielissen /Coeckman/
+2 TYPE birth
+2 GIVN Corstiaen Dielissen
+2 SURN Coeckman
+1 SEX M
+1 BIRT
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMC @F2441@
+2 PEDI birth
+1 FAMS @F2447@
+1 NOTE @N2671@
+1 NOTE @N2672@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 21:56:48
+0 @I6275@ INDI
+1 NAME Dielen /Leempoel/
+2 TYPE birth
+2 GIVN Dielen
+2 SURN Leempoel
+1 SEX M
+1 BIRT
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMS @F2444@
+1 CHAN
+2 DATE 8 MAR 2026
+3 TIME 15:36:09
+0 @I6276@ INDI
+1 NAME Wouter Dielen /Leempoel/
+2 TYPE birth
+2 GIVN Wouter Dielen
+2 SURN Leempoel
+1 SEX M
+1 BIRT
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMC @F2444@
+2 PEDI birth
+1 FAMS @F2445@
+1 NOTE @N2673@
+1 NOTE @N2674@
+1 NOTE @N2675@
+1 CHAN
+2 DATE 8 MAR 2026
+3 TIME 15:39:09
+0 @I6277@ INDI
+1 NAME Geerke Jans //
+2 TYPE birth
+2 GIVN Geerke Jans
+1 SEX F
+1 BIRT
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 DEAT
+2 DATE BEF 11 JUL 1608
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMS @F2445@
+1 CHAN
+2 DATE 8 MAR 2026
+3 TIME 15:39:09
+0 @I6278@ INDI
+1 NAME Maeijcken Aerts Dielen /Leempoel/
+2 TYPE birth
+2 GIVN Maeijcken Aerts Dielen
+2 SURN Leempoel
+1 SEX F
+1 FAMC @F2442@
+2 PEDI birth
+1 NOTE @N2676@
+1 NOTE @N2677@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 00:14:28
+0 @I6279@ INDI
+1 NAME Lijsbeth Aertse Dielen /Leempoel/
+2 TYPE birth
+2 GIVN Lijsbeth Aertse Dielen
+2 SURN Leempoel
+1 SEX F
+1 FAMC @F2442@
+2 PEDI birth
+1 NOTE @N2678@
+1 NOTE @N2679@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 00:14:28
+0 @I6280@ INDI
+1 NAME Gerrit Aertsz Dielen /Leempoel/
+2 TYPE birth
+2 GIVN Gerrit Aertsz Dielen
+2 SURN Leempoel
+1 SEX M
+1 FAMC @F2442@
+2 PEDI birth
+1 NOTE @N2680@
+1 NOTE @N2681@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 00:14:28
+0 @I6281@ INDI
+1 NAME Jan Aertsz Dielen /Leempoel/
+2 TYPE birth
+2 GIVN Jan Aertsz Dielen
+2 SURN Leempoel
+1 SEX M
+1 BIRT
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 DEAT
+2 DATE BEF 22 OCT 1609
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMC @F2442@
+2 PEDI birth
+1 FAMS @F2446@
+1 NOTE @N2682@
+1 NOTE @N2683@
+1 NOTE @N2684@
+1 NOTE @N2685@
+1 NOTE @N2686@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 00:14:28
+0 @I6282@ INDI
+1 NAME Anneke Claes /de Wit/
+2 TYPE birth
+2 GIVN Anneke Claes
+2 SPFX de
+2 SURN Wit
+1 SEX F
+1 FAMS @F2446@
+1 CHAN
+2 DATE 17 MAR 2026
+3 TIME 22:38:02
+0 @I6283@ INDI
+1 NAME Heiltje Aertse Dielen /Leempoel/
+2 TYPE birth
+2 GIVN Heiltje Aertse Dielen
+2 SURN Leempoel
+1 SEX F
+1 FAMC @F2442@
+2 PEDI birth
+1 NOTE @N2688@
+1 NOTE @N2689@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 00:14:28
+0 @I6284@ INDI
+1 NAME Pieter Aertsz Dielen /Leempoel/
+2 TYPE birth
+2 GIVN Pieter Aertsz Dielen
+2 SURN Leempoel
+1 SEX M
+1 DEAT
+2 DATE 1637
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2692@
+1 FAMC @F2442@
+2 PEDI birth
+1 NOTE @N2690@
+1 NOTE @N2691@
+1 NOTE @N2706@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 21:53:05
+0 @I6285@ INDI
+1 NAME Erken Peters Wouters //
+2 TYPE birth
+2 GIVN Erken Peters Wouters
+1 SEX F
+1 FAMS @F2447@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 21:56:48
+0 @I6286@ INDI
+1 NAME Judith /Coeckman/
+2 TYPE birth
+2 GIVN Judith
+2 SURN Coeckman
+1 SEX F
+1 BAPM
+2 DATE 1659
+1 FAMC @F2447@
+2 PEDI birth
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 21:57:46
+0 @I6287@ INDI
+1 NAME Peterken /Coeckman/
+2 TYPE birth
+2 GIVN Peterken
+2 SURN Coeckman
+1 SEX F
+1 BIRT
+2 DATE 1661
+1 FAMC @F2447@
+2 PEDI birth
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 21:57:46
+0 @I6288@ INDI
+1 NAME Dielis /Coeckman/
+2 TYPE birth
+2 GIVN Dielis
+2 SURN Coeckman
+1 SEX M
+1 BIRT
+2 DATE 1665
+1 FAMC @F2447@
+2 PEDI birth
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 21:57:46
+0 @I6289@ INDI
+1 NAME Ghijsbrecht Jan Ghijsbrechts //
+2 TYPE birth
+2 GIVN Ghijsbrecht Jan Ghijsbrechts
+1 SEX M
+1 FAMS @F2448@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 22:08:25
+0 @I6290@ INDI
+1 NAME Jenneke Wouters /Kleijn/
+2 TYPE birth
+2 GIVN Jenneke Wouters
+2 SURN Kleijn
+1 NAME Jenneke Wouters /Cleijn/
+2 TYPE aka
+2 GIVN Jenneke Wouters
+2 SURN Cleijn
+1 NAME Jenneke Wouters /Klijn/
+2 TYPE aka
+2 GIVN Jenneke Wouters
+2 SURN Klijn
+1 SEX F
+1 FAMC @F2319@
+2 PEDI birth
+1 FAMS @F2449@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 07:28:34
+0 @I6291@ INDI
+1 NAME Anthonij Jansz /Rombouts/
+2 TYPE birth
+2 GIVN Anthonij Jansz
+2 SURN Rombouts
+1 SEX M
+1 BAPM
+2 DATE 7 JUL 1658
+2 PLAC 's Grevelduin Capelle
+1 FAMS @F2449@
+1 CHAN
+2 DATE 9 APR 2026
+3 TIME 23:23:45
+0 @I6292@ INDI
+1 NAME Adriaan /Rombouts/
+2 TYPE birth
+2 GIVN Adriaan
+2 SURN Rombouts
+1 SEX M
+1 BAPM
+2 DATE 15 DEC 1680
+2 PLAC 's Grevelduin Capelle
+1 FAMC @F2449@
+2 PEDI birth
+1 CHAN
+2 DATE 9 APR 2026
+3 TIME 23:23:45
+0 @I6293@ INDI
+1 NAME Wouter /Rombouts/
+2 TYPE birth
+2 GIVN Wouter
+2 SURN Rombouts
+1 SEX M
+1 BAPM
+2 DATE 21 NOV 1683
+2 PLAC 's Grevelduin Capelle
+1 FAMC @F2449@
+2 PEDI birth
+1 CHAN
+2 DATE 9 APR 2026
+3 TIME 23:23:45
+0 @I6294@ INDI
+1 NAME Jacobus /Rombouts/
+2 TYPE birth
+2 GIVN Jacobus
+2 SURN Rombouts
+1 SEX M
+1 BAPM
+2 DATE 17 NOV 1686
+2 PLAC 's Grevelduin Capelle
+1 FAMC @F2449@
+2 PEDI birth
+1 CHAN
+2 DATE 9 APR 2026
+3 TIME 23:23:45
+0 @I6295@ INDI
+1 NAME Adriaantje /Rombouts/
+2 TYPE birth
+2 GIVN Adriaantje
+2 SURN Rombouts
+1 SEX F
+1 BAPM
+2 DATE 4 JAN 1688
+2 PLAC 's Grevelduin Capelle
+1 FAMC @F2449@
+2 PEDI birth
+1 CHAN
+2 DATE 9 APR 2026
+3 TIME 23:23:45
+0 @I6296@ INDI
+1 NAME Sacharias Laurisz /de Ron/
+2 TYPE birth
+2 GIVN Sacharias Laurisz
+2 SPFX de
+2 SURN Ron
+1 SEX M
+1 FAMS @F2450@
+1 NOTE @N2722@
+1 CHAN
+2 DATE 9 APR 2026
+3 TIME 23:52:17
+0 @I6297@ INDI
+1 NAME Jacobus Corstiaens /Kleijn/
+2 TYPE birth
+2 GIVN Jacobus Corstiaens
+2 SURN Kleijn
+1 NAME Jacobus Corstiaens /Cleijn/
+2 TYPE aka
+2 GIVN Jacobus Corstiaens
+2 SURN Cleijn
+1 NAME Jacobus Corstiaens /Klijn/
+2 TYPE aka
+2 GIVN Jacobus Corstiaens
+2 SURN Klijn
+1 SEX M
+1 BAPM
+2 DATE 24 JUL 1685
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMC @F2321@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2026
+3 TIME 23:38:13
+0 @I6298@ INDI
+1 NAME Wouter Corstiaensz /Kleijn/
+2 TYPE birth
+2 GIVN Wouter Corstiaensz
+2 SURN Kleijn
+1 NAME Wouter Corstiaensz /Cleijn/
+2 TYPE aka
+2 GIVN Wouter Corstiaensz
+2 SURN Cleijn
+1 NAME Wouter Corstiaensz /Klijn/
+2 TYPE aka
+2 GIVN Wouter Corstiaensz
+2 SURN Klijn
+1 SEX M
+1 DEAT
+2 DATE BEF 1691
+1 BAPM
+2 DATE 26 JUN 1689
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMC @F2321@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2026
+3 TIME 23:38:13
+0 @I6299@ INDI
+1 NAME Wouter Corstiaensz /Kleijn/
+2 TYPE birth
+2 GIVN Wouter Corstiaensz
+2 SURN Kleijn
+1 NAME Wouter Corstiaensz /Cleijn/
+2 TYPE aka
+2 GIVN Wouter Corstiaensz
+2 SURN Cleijn
+1 NAME Wouter Corstiaensz /Klijn/
+2 TYPE aka
+2 GIVN Wouter Corstiaensz
+2 SURN Klijn
+1 SEX M
+1 DEAT
+2 DATE BEF 1698
+1 BAPM
+2 DATE 20 APR 1691
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMC @F2321@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2026
+3 TIME 23:38:13
+0 @I6300@ INDI
+1 NAME Adriana Maria Corstiaens /Kleijn/
+2 TYPE birth
+2 GIVN Adriana Maria Corstiaens
+2 SURN Kleijn
+1 NAME Adriana Maria Corstiaens /Cleijn/
+2 TYPE aka
+2 GIVN Adriana Maria Corstiaens
+2 SURN Cleijn
+1 NAME Adriana Maria Corstiaens /Klijn/
+2 TYPE aka
+2 GIVN Adriana Maria Corstiaens
+2 SURN Klijn
+1 SEX F
+1 DEAT
+2 DATE BEF 1695
+1 BAPM
+2 DATE 20 MAR 1693
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMC @F2321@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2026
+3 TIME 23:38:13
+0 @I6301@ INDI
+1 NAME Adriana Maria Corstiaens /Kleijn/
+2 TYPE birth
+2 GIVN Adriana Maria Corstiaens
+2 SURN Kleijn
+1 NAME Adriana Maria Corstiaens /Cleijn/
+2 TYPE aka
+2 GIVN Adriana Maria Corstiaens
+2 SURN Cleijn
+1 NAME Adriana Maria Corstiaens /Klijn/
+2 TYPE aka
+2 GIVN Adriana Maria Corstiaens
+2 SURN Klijn
+1 SEX F
+1 BAPM
+2 DATE 4 APR 1695
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMC @F2321@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2026
+3 TIME 23:38:13
+0 @I6302@ INDI
+1 NAME Maria Corstiaens /Kleijn/
+2 TYPE birth
+2 GIVN Maria Corstiaens
+2 SURN Kleijn
+1 NAME Maria Corstiaens /Cleijn/
+2 TYPE aka
+2 GIVN Maria Corstiaens
+2 SURN Cleijn
+1 NAME Maria Corstiaens /Klijn/
+2 TYPE aka
+2 GIVN Maria Corstiaens
+2 SURN Klijn
+1 SEX F
+1 BIRT
+2 DATE 1696
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 DEAT
+2 DATE 10 JUN 1750
+2 PLAC Hoogvliet
+1 BAPM
+2 DATE 29 AUG 1696
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 BURI
+2 DATE JUN 1750
+2 PLAC Hoogvliet
+1 FAMC @F2321@
+2 PEDI birth
+1 FAMS @F2451@
+1 FAMS @F2452@
+1 CHAN
+2 DATE 17 APR 2026
+3 TIME 23:38:13
+0 @I6303@ INDI
+1 NAME Willem Rochusz /Knegt/
+2 TYPE birth
+2 GIVN Willem Rochusz
+2 SURN Knegt
+1 SEX M
+1 BIRT
+2 DATE 1696
+2 PLAC Hoogvliet
+2 NOTE @N2723@
+1 DEAT
+2 DATE 1728
+2 PLAC Rotterdam [Zuid Holland]
+3 MAP
+4 LATI N51.924358
+4 LONG E4.474346
+2 NOTE @N2725@
+1 BAPM
+2 DATE 14 OCT 1696
+2 PLAC Hoogvliet
+2 NOTE @N2724@
+1 BURI
+2 DATE 16 FEB 1728
+2 PLAC Hoogvliet
+1 FAMS @F2451@
+1 NOTE @N2726@
+1 CHAN
+2 DATE 16 APR 2026
+3 TIME 23:14:10
+0 @I6304@ INDI
+1 NAME Jacob Cornelisz /Groen/
+2 TYPE birth
+2 GIVN Jacob Cornelisz
+2 SURN Groen
+1 SEX M
+1 DEAT
+2 PLAC Hoogvliet
+1 BAPM
+2 DATE 25 FEB 1702
+2 PLAC Hoogvliet
+2 NOTE @N2727@
+1 FAMS @F2452@
+1 CHAN
+2 DATE 17 APR 2026
+3 TIME 13:00:08
+0 @I6305@ INDI
+1 NAME Johanna Corstiaens /Kleijn/
+2 TYPE birth
+2 GIVN Johanna Corstiaens
+2 SURN Kleijn
+1 NAME Johanna Corstiaens /Cleijn/
+2 TYPE aka
+2 GIVN Johanna Corstiaens
+2 SURN Cleijn
+1 NAME Johanna Corstiaens /Klijn/
+2 TYPE aka
+2 GIVN Johanna Corstiaens
+2 SURN Klijn
+1 SEX F
+1 DEAT
+2 DATE BEF 14 APR 1734
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2730@
+1 BAPM
+2 DATE 1 SEP 1697
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2731@
+1 FAMC @F2321@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2026
+3 TIME 23:38:13
+0 @I6306@ INDI
+1 NAME Wouter Corstiaensz /Kleijn/
+2 TYPE birth
+2 GIVN Wouter Corstiaensz
+2 SURN Kleijn
+1 NAME Wouter Corstiaensz /Cleijn/
+2 TYPE aka
+2 GIVN Wouter Corstiaensz
+2 SURN Cleijn
+1 NAME Wouter Corstiaensz /Klijn/
+2 TYPE aka
+2 GIVN Wouter Corstiaensz
+2 SURN Klijn
+1 SEX M
+1 BAPM
+2 DATE 29 SEP 1698
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2732@
+1 FAMC @F2321@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2026
+3 TIME 23:38:13
+0 @I6307@ INDI
+1 NAME Magdalena Elisabeth /Verhorst/
+2 TYPE birth
+2 GIVN Magdalena Elisabeth
+2 SURN Verhorst
+1 SEX F
+1 FAMS @F2453@
+1 CHAN
+2 DATE 18 MAY 2026
+3 TIME 21:55:51
+0 @I6308@ INDI
+1 NAME Gozewijn Corstiaens /Kleijn/
+2 TYPE birth
+2 GIVN Gozewijn Corstiaens
+2 SURN Kleijn
+1 NAME Gozewijn Corstiaens /Cleijn/
+2 TYPE aka
+2 GIVN Gozewijn Corstiaens
+2 SURN Cleijn
+1 NAME Gozewijn Corstiaens /Klijn/
+2 TYPE aka
+2 GIVN Gozewijn Corstiaens
+2 SURN Klijn
+1 SEX M
+1 BAPM
+2 DATE 18 DEC 1701
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2734@
+1 FAMC @F2453@
+2 PEDI birth
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 00:07:01
+0 @I6309@ INDI
+1 NAME Anna Corstiaens /Kleijn/
+2 TYPE birth
+2 GIVN Anna Corstiaens
+2 SURN Kleijn
+1 NAME Anna Corstiaens /Cleijn/
+2 TYPE aka
+2 GIVN Anna Corstiaens
+2 SURN Cleijn
+1 NAME Anna Corstiaens /Klijn/
+2 TYPE aka
+2 GIVN Anna Corstiaens
+2 SURN Klijn
+1 SEX F
+1 BAPM
+2 DATE 28 MAY 1703
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMC @F2453@
+2 PEDI birth
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 00:07:01
+0 @I6310@ INDI
+1 NAME Arnoldus Corstiaen /Kleijn/
+2 TYPE birth
+2 GIVN Arnoldus Corstiaen
+2 SURN Kleijn
+1 NAME Arnoldus Corstiaen /Cleijn/
+2 TYPE aka
+2 GIVN Arnoldus Corstiaen
+2 SURN Cleijn
+1 NAME Arnoldus Corstiaen /Klijn/
+2 TYPE aka
+2 GIVN Arnoldus Corstiaen
+2 SURN Klijn
+1 SEX M
+1 BAPM
+2 DATE 11 JAN 1705
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2735@
+1 FAMC @F2453@
+2 PEDI birth
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 00:07:01
+0 @I6311@ INDI
+1 NAME Wouter Corstiaensz /Kleijn/
+2 TYPE birth
+2 GIVN Wouter Corstiaensz
+2 SURN Kleijn
+1 NAME Wouter Corstiaensz /Cleijn/
+2 TYPE aka
+2 GIVN Wouter Corstiaensz
+2 SURN Cleijn
+1 NAME Wouter Corstiaensz /Klijn/
+2 TYPE aka
+2 GIVN Wouter Corstiaensz
+2 SURN Klijn
+1 SEX M
+1 BAPM
+2 DATE 11 JAN 1705
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2736@
+1 FAMC @F2453@
+2 PEDI birth
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 00:07:01
+0 @I6312@ INDI
+1 NAME Wouter Corstiaensz /Kleijn/
+2 TYPE birth
+2 GIVN Wouter Corstiaensz
+2 SURN Kleijn
+1 NAME Wouter Corstiaensz /Cleijn/
+2 TYPE aka
+2 GIVN Wouter Corstiaensz
+2 SURN Cleijn
+1 NAME Wouter Corstiaensz /Klijn/
+2 TYPE aka
+2 GIVN Wouter Corstiaensz
+2 SURN Klijn
+1 SEX M
+1 BAPM
+2 DATE 4 APR 1706
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2737@
+1 FAMC @F2453@
+2 PEDI birth
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 00:07:01
+0 @I6313@ INDI
+1 NAME Dirck Corstiaen /Kleijn/
+2 TYPE birth
+2 GIVN Dirck Corstiaen
+2 SURN Kleijn
+1 NAME Dirck Corstiaen /Cleijn/
+2 TYPE aka
+2 GIVN Dirck Corstiaen
+2 SURN Cleijn
+1 NAME Dirck Corstiaen /Klijn/
+2 TYPE aka
+2 GIVN Dirck Corstiaen
+2 SURN Klijn
+1 SEX M
+1 BAPM
+2 DATE 6 MAR 1707
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2738@
+1 FAMC @F2453@
+2 PEDI birth
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 00:07:01
+0 @I6314@ INDI
+1 NAME Elisabeth Corstiaen /Kleijn/
+2 TYPE birth
+2 GIVN Elisabeth Corstiaen
+2 SURN Kleijn
+1 NAME Elisabeth Corstiaen /Cleijn/
+2 TYPE aka
+2 GIVN Elisabeth Corstiaen
+2 SURN Cleijn
+1 NAME Elisabeth Corstiaen /Klijn/
+2 TYPE aka
+2 GIVN Elisabeth Corstiaen
+2 SURN Klijn
+1 SEX F
+1 BAPM
+2 DATE 5 FEB 1708
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2739@
+1 FAMC @F2453@
+2 PEDI birth
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 00:07:01
+0 @I6315@ INDI
+1 NAME Christina Corstiaens /Kleijn/
+2 TYPE birth
+2 GIVN Christina Corstiaens
+2 SURN Kleijn
+1 NAME Christina Corstiaens /Cleijn/
+2 TYPE aka
+2 GIVN Christina Corstiaens
+2 SURN Cleijn
+1 NAME Christina Corstiaens /Klijn/
+2 TYPE aka
+2 GIVN Christina Corstiaens
+2 SURN Klijn
+1 SEX F
+1 BAPM
+2 DATE 26 JAN 1710
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2740@
+1 FAMC @F2453@
+2 PEDI birth
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 00:07:01
+0 @I6316@ INDI
+1 NAME Willem Corstiaensz /Kleijn/
+2 TYPE birth
+2 GIVN Willem Corstiaensz
+2 SURN Kleijn
+1 NAME Willem Corstiaensz /Cleijn/
+2 TYPE aka
+2 GIVN Willem Corstiaensz
+2 SURN Cleijn
+1 NAME Willem Corstiaensz /Klijn/
+2 TYPE aka
+2 GIVN Willem Corstiaensz
+2 SURN Klijn
+1 SEX M
+1 BAPM
+2 DATE 24 APR 1712
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2741@
+1 FAMC @F2453@
+2 PEDI birth
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 00:07:01
+0 @I6317@ INDI
+1 NAME Willem Woutersz /Kleijn/
+2 TYPE birth
+2 GIVN Willem Woutersz
+2 SURN Kleijn
+1 NAME Willem Woutersz /Cleijn/
+2 TYPE aka
+2 GIVN Willem Woutersz
+2 SURN Cleijn
+1 NAME Willem Woutersz /Klijn/
+2 TYPE aka
+2 GIVN Willem Woutersz
+2 SURN Klijn
+1 SEX M
+1 BAPM
+2 DATE 9 NOV 1670
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2744@
+1 FAMC @F2319@
+2 PEDI birth
+1 FAMS @F2454@
+1 NOTE @N2745@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 07:33:04
+0 @I6318@ INDI
+1 NAME Johanna /Piggen/
+2 TYPE birth
+2 GIVN Johanna
+2 SURN Piggen
+1 SEX F
+1 BAPM
+2 DATE 13 MAY 1707
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMS @F2454@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 07:33:04
+0 @I6319@ INDI
+1 NAME Corstiaen Jan Simonsz //
+2 TYPE birth
+2 GIVN Corstiaen Jan Simonsz
+1 SEX M
+1 DEAT
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 FAMS @F2455@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 08:04:58
+0 @I6320@ INDI
+1 NAME Digna Wouters /Verwer/
+2 TYPE birth
+2 GIVN Digna Wouters
+2 SURN Verwer
+1 SEX F
+1 FAMS @F2455@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 08:04:58
+0 @I6321@ INDI
+1 NAME Lysken Adriaensdr /Elants/
+2 TYPE birth
+2 GIVN Lysken Adriaensdr
+2 SURN Elants
+1 SEX F
+1 BIRT
+2 PLAC Loon op Zand [Noord Brabant]
+3 MAP
+4 LATI N51.62681
+4 LONG E5.071035
+1 DEAT
+2 DATE BEF 19 MAR 1620
+1 FAMS @F2457@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 08:29:02
+0 @I6322@ INDI
+1 NAME Jasper Johannes /de Groot/
+2 TYPE birth
+2 GIVN Jasper Johannes
+2 SPFX de
+2 SURN Groot
+1 SEX M
+1 FAMS @F2458@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 22:40:08
+0 @I6323@ INDI
+1 NAME Maria /Wiggers/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Wiggers
+1 SEX F
+1 FAMS @F2458@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 22:40:08
+0 @I6324@ INDI
+1 NAME Willem /Vermooten/
+2 TYPE birth
+2 GIVN Willem
+2 SURN Vermooten
+1 SEX M
+1 FAMS @F2459@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 22:56:06
+0 @I6325@ INDI
+1 NAME Antje /Dral/
+2 TYPE birth
+2 GIVN Antje
+2 SURN Dral
+1 SEX F
+1 FAMS @F2459@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 22:56:06
+0 @I6326@ INDI
+1 NAME Willem /Bollee/
+2 TYPE birth
+2 GIVN Willem
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE DEC 1796
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 DEAT
+2 DATE 4 AUG 1871
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2754@
+1 BAPM
+2 DATE 25 DEC 1796
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 FACT IJker
+2 TYPE Occupation
+1 FAMC @F1242@
+2 PEDI birth
+1 FAMS @F2461@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 23:15:10
+0 @I6327@ INDI
+1 NAME Jacobus /Bollee/
+2 TYPE birth
+2 GIVN Jacobus
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE ABT 1799
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 4 FEB 1853
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2755@
+1 FAMC @F1242@
+2 PEDI birth
+1 FAMS @F2460@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 23:06:04
+0 @I6328@ INDI
+1 NAME Lucretia Thomasina /Smits/
+2 TYPE birth
+2 GIVN Lucretia Thomasina
+2 SURN Smits
+1 SEX F
+1 BIRT
+2 DATE ABT 1794
+1 DEAT
+2 DATE 4 MAR 1876
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2757@
+1 FAMS @F2460@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 23:06:04
+0 @I6329@ INDI
+1 NAME Cornelia /Roomer/
+2 TYPE birth
+2 GIVN Cornelia
+2 SURN Roomer
+1 SEX F
+1 BIRT
+2 DATE FEB 1801
+2 PLAC Woudrichem [Noord Brabant]
+3 MAP
+4 LATI N51.817007
+4 LONG E5.003702
+1 DEAT
+2 DATE 10 OCT 1875
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2758@
+1 BAPM
+2 DATE 22 FEB 1801
+2 PLAC Woudrichem [Noord Brabant]
+3 MAP
+4 LATI N51.817007
+4 LONG E5.003702
+1 FAMS @F2461@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 23:13:26
+0 @I6330@ INDI
+1 NAME Corstiaan Cornelis /Bollee/
+2 TYPE birth
+2 GIVN Corstiaan Cornelis
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 6 OCT 1825
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2763@
+1 DEAT
+2 DATE 10 JUN 1886
+2 PLAC Laag-Soeren [Gelderland]
+2 NOTE @N2760@
+2 NOTE @N2762@
+1 FAMC @F2461@
+2 PEDI birth
+1 NOTE @N2761@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 23:24:10
+0 @I6331@ INDI
+1 NAME Geertruida Maria /Bollee/
+2 TYPE birth
+2 GIVN Geertruida Maria
+2 SURN Bollee
+1 SEX F
+1 BIRT
+2 DATE 15 JUN 1830
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2764@
+1 DEAT
+2 DATE 28 OCT 1908
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2765@
+2 NOTE @N2766@
+1 FAMC @F2461@
+2 PEDI birth
+1 NOTE @N2767@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 23:24:10
+0 @I6332@ INDI
+1 NAME Jacob /den Dekker/
+2 TYPE birth
+2 GIVN Jacob
+2 SPFX den
+2 SURN Dekker
+1 SEX M
+1 BIRT
+2 DATE OCT 1703
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 BAPM
+2 DATE 28 OCT 1703
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMS @F2462@
+1 CHAN
+2 DATE 20 MAY 2026
+3 TIME 20:17:55
+0 @I6333@ INDI
+1 NAME Huibertje /van Aken/
+2 TYPE birth
+2 GIVN Huibertje
+2 SPFX van
+2 SURN Aken
+1 SEX F
+1 BIRT
+2 DATE OCT 1701
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 BAPM
+2 DATE 9 OCT 1701
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMS @F2462@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 07:17:09
+0 @I6334@ INDI
+1 NAME Metje Elizabeth Johanna Geertrui /Bollee/
+2 TYPE birth
+2 GIVN Metje Elizabeth Johanna Geertrui
+2 SURN Bollee
+1 SEX F
+1 BIRT
+2 DATE MAY 1803
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 30 MAY 1871
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 BAPM
+2 DATE 28 MAY 1803
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMC @F1244@
+2 PEDI birth
+1 FAMS @F2463@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:21:49
+0 @I6335@ INDI
+1 NAME Pieter /Monshouwer/
+2 TYPE birth
+2 GIVN Pieter
+2 SURN Monshouwer
+1 SEX M
+1 BIRT
+2 DATE MAY 1803
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 12 MAR 1889
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2770@
+1 BAPM
+2 DATE 17 MAY 1803
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMS @F2463@
+1 CHAN
+2 DATE 20 MAY 2026
+3 TIME 22:27:19
+0 @I6336@ INDI
+1 NAME Sabina Jacoba /Bollee/
+2 TYPE birth
+2 GIVN Sabina Jacoba
+2 SURN Bollee
+1 SEX F
+1 BIRT
+2 DATE MAR 1807
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 14 JAN 1896
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N2771@
+1 BAPM
+2 DATE 29 MAR 1807
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMC @F1244@
+2 PEDI birth
+1 FAMS @F2464@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:21:49
+0 @I6337@ INDI
+1 NAME Arnoldus /Kouwenberg/
+2 TYPE birth
+2 GIVN Arnoldus
+2 SURN Kouwenberg
+1 SEX M
+1 BIRT
+2 DATE JUN 1802
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 9 MAY 1875
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N2773@
+1 BAPM
+2 DATE 13 JUN 1802
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMS @F2464@
+1 CHAN
+2 DATE 20 MAY 2026
+3 TIME 22:36:40
+0 @I6338@ INDI
+1 NAME Pieternella Cartiena /Bollee/
+2 TYPE birth
+2 GIVN Pieternella Cartiena
+2 SURN Bollee
+1 SEX F
+1 BIRT
+2 DATE MAY 1811
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 BAPM
+2 DATE 31 MAY 1811
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMC @F1244@
+2 PEDI birth
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:21:49
+0 @I6339@ INDI
+1 NAME Abraham Johannes /Bollee/
+2 TYPE birth
+2 GIVN Abraham Johannes
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 16 MAY 1815
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 23 SEP 1886
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2774@
+2 NOTE @N2775@
+1 FAMC @F1244@
+2 PEDI birth
+1 FAMS @F2465@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:21:49
+0 @I6340@ INDI
+1 NAME Maria Josina Catharina /van Eck/
+2 TYPE birth
+2 GIVN Maria Josina Catharina
+2 SPFX van
+2 SURN Eck
+1 SEX F
+1 BIRT
+2 DATE 14 SEP 1818
+2 PLAC Charlois (Rotterdam) [Zuid Holland]
+3 MAP
+4 LATI N51.885741
+4 LONG E4.471599
+1 DEAT
+2 DATE 10 FEB 1875
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2777@
+2 NOTE @N2778@
+1 FAMS @F2465@
+1 CHAN
+2 DATE 20 MAY 2026
+3 TIME 23:18:03
+0 @I6341@ INDI
+1 NAME Bastiaan /Bollee/
+2 TYPE birth
+2 GIVN Bastiaan
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 10 MAR 1847
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2779@
+1 DEAT
+2 DATE 18 SEP 1893
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+2 NOTE @N2780@
+1 FAMC @F2465@
+2 PEDI birth
+1 FAMS @F2466@
+1 FAMS @F2467@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:59:48
+0 @I6342@ INDI
+1 NAME Neeltje Margeretha /Vervoorn/
+2 TYPE birth
+2 GIVN Neeltje Margeretha
+2 SURN Vervoorn
+1 SEX F
+1 BIRT
+2 DATE 12 JUN 1845
+2 PLAC Melissant [Zuid Holland]
+2 NOTE @N2782@
+1 DEAT
+2 DATE 13 JAN 1889
+2 PLAC Rotterdam [Zuid Holland]
+3 MAP
+4 LATI N51.924358
+4 LONG E4.474346
+2 NOTE @N2783@
+1 FAMS @F2466@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 18:12:36
+0 @I6343@ INDI
+1 NAME Adriana /Haksteen/
+2 TYPE birth
+2 GIVN Adriana
+2 SURN Haksteen
+1 SEX F
+1 BIRT
+2 DATE 22 AUG 1866
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+2 NOTE @N2786@
+1 DEAT
+2 DATE 17 SEP 1930
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+2 NOTE @N2787@
+1 FAMS @F2467@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 18:21:18
+0 @I6344@ INDI
+1 NAME Jacobus Marinus /Bollee/
+2 TYPE birth
+2 GIVN Jacobus Marinus
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 27 NOV 1857
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2789@
+1 DEAT
+2 DATE 21 JAN 1889
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2791@
+2 NOTE @N2790@
+1 FACT Mr. verver
+2 TYPE Occupation
+1 FAMC @F2465@
+2 PEDI birth
+1 FAMS @F2468@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:59:48
+0 @I6345@ INDI
+1 NAME Jansje /Kuijl/
+2 TYPE birth
+2 GIVN Jansje
+2 SURN Kuijl
+1 SEX F
+1 BIRT
+2 DATE 26 NOV 1866
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 8 MAY 1906
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 FAMS @F2468@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 18:51:25
+0 @I6346@ INDI
+1 NAME Abraham Johannes /Bollee/
+2 TYPE birth
+2 GIVN Abraham Johannes
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 5 MAY 1885
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2794@
+1 FACT Tabaks-, sigaren en sigarettenverkoper
+2 TYPE Occupation
+1 FAMC @F2468@
+2 PEDI birth
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:38:55
+0 @I6347@ INDI
+1 NAME Frans /Bollee/
+2 TYPE birth
+2 GIVN Frans
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 30 AUG 1886
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2795@
+1 DEAT
+2 DATE 10 APR 1977
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 BURI
+2 DATE 15 APR 1977
+2 PLAC Rotterdam [Zuid Holland]
+3 MAP
+4 LATI N51.924358
+4 LONG E4.474346
+1 FACT Sigarenmagazijnhouder; bodehuishouder
+2 TYPE Occupation
+1 FAMC @F2468@
+2 PEDI birth
+1 FAMS @F2469@
+1 NOTE @N2796@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:44:23
+0 @I6348@ INDI
+1 NAME Cornelis Corstiaan /Bollee/
+2 TYPE birth
+2 GIVN Cornelis Corstiaan
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 28 AUG 1887
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2797@
+1 DEAT
+2 DATE 17 FEB 1888
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2798@
+1 FAMC @F2468@
+2 PEDI birth
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:38:55
+0 @I6349@ INDI
+1 NAME Johanna Diewertje /van Vriesland/
+2 TYPE birth
+2 GIVN Johanna Diewertje
+2 SPFX van
+2 SURN Vriesland
+1 SEX F
+1 BIRT
+2 DATE ABT 1889
+2 PLAC Naarden [Noord Holland]
+3 MAP
+4 LATI N52.29526
+4 LONG E5.160364
+1 FAMS @F2469@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:44:23
+0 @I6350@ INDI
+1 NAME Jacobus Marinus Alexander /Bollee/
+2 TYPE birth
+2 GIVN Jacobus Marinus Alexander
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 13 MAY 1914
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMC @F2469@
+2 PEDI birth
+1 FAMS @F2470@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:48:25
+0 @I6351@ INDI
+1 NAME Alexander /Bollee/
+2 TYPE birth
+2 GIVN Alexander
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 21 JUL 1919
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2800@
+1 FAMC @F2469@
+2 PEDI birth
+1 NOTE @N2801@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:44:23
+0 @I6352@ INDI
+1 NAME Amalia Maria /Klein/
+2 TYPE birth
+2 GIVN Amalia Maria
+2 SURN Klein
+1 SEX F
+1 BIRT
+2 DATE ABT 1917
+1 FAMS @F2470@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:48:25
+0 @I6353@ INDI
+1 NAME Boudewijn /Bollee/
+2 TYPE birth
+2 GIVN Boudewijn
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 29 MAR 1861
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2804@
+1 DEAT
+2 DATE 27 SEP 1901
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2805@
+2 NOTE @N2806@
+1 FAMC @F2465@
+2 PEDI birth
+1 FAMS @F2471@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:03:55
+0 @I6354@ INDI
+1 NAME Barta Johanna Jacoba /de Pater/
+2 TYPE birth
+2 GIVN Barta Johanna Jacoba
+2 SPFX de
+2 SURN Pater
+1 SEX F
+1 BIRT
+2 DATE 10 MAR 1872
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2808@
+1 DEAT
+2 DATE 30 OCT 1944
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2809@
+1 BURI
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMS @F2471@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:07:35
+0 @I6355@ INDI
+1 NAME Abraham Johannes /Bollee/
+2 TYPE birth
+2 GIVN Abraham Johannes
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 29 MAR 1900
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2810@
+1 DEAT
+2 DATE 9 JUN 1952
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2811@
+1 FACT Administratief beambte bij De Vries Robbˇ& Co.N.V.
+2 TYPE Occupation
+1 FAMC @F2471@
+2 PEDI birth
+1 FAMS @F2472@
+1 NOTE @N2812@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:11:09
+0 @I6356@ INDI
+1 NAME Pieternella Gijsberta /Sterk/
+2 TYPE birth
+2 GIVN Pieternella Gijsberta
+2 SURN Sterk
+1 SEX F
+1 BIRT
+2 DATE 8 DEC 1907
+2 PLAC Vuren [Gelderland]
+2 NOTE @N2813@
+1 DEAT
+2 DATE 30 JUL 1997
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 BURI
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMS @F2472@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:11:09
+0 @I6357@ INDI
+1 NAME Boudewijn /Bollee/
+2 TYPE birth
+2 GIVN Boudewijn
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 17 APR 1817
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2814@
+1 DEAT
+2 DATE 22 JAN 1900
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N2815@
+1 FACT Timmerman
+2 TYPE Occupation
+1 FAMC @F1244@
+2 PEDI birth
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:21:49
+0 @I6359@ INDI
+1 NAME Alida Cornelia /Poldermans/
+2 TYPE birth
+2 GIVN Alida Cornelia
+2 SURN Poldermans
+1 SEX F
+1 BIRT
+2 DATE 2 NOV 1847
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2820@
+1 DEAT
+2 DATE 5 MAY 1848
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMC @F1245@
+2 PEDI birth
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:26:59
+0 @I6360@ INDI
+1 NAME Alida Cornelia /Poldermans/
+2 TYPE birth
+2 GIVN Alida Cornelia
+2 SURN Poldermans
+1 SEX F
+1 BIRT
+2 DATE 19 FEB 1849
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2821@
+1 DEAT
+2 DATE 21 APR 1931
+2 PLAC Haarlem [Noord Holland]
+3 MAP
+4 LATI N52.386928
+4 LONG E4.643908
+2 NOTE @N2822@
+1 FAMC @F1245@
+2 PEDI birth
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:26:59
+0 @I6361@ INDI
+1 NAME Jacobus /Bollee/
+2 TYPE birth
+2 GIVN Jacobus
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 5 JUN 1798
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 5 MAR 1824
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2823@
+1 BAPM
+2 DATE 7 JUN 1798
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMC @F1241@
+2 PEDI birth
+1 FAMS @F2473@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 00:23:48
+0 @I6362@ INDI
+1 NAME Adriana /Loeven/
+2 TYPE birth
+2 GIVN Adriana
+2 SURN Loeven
+1 SEX F
+1 BIRT
+2 DATE 10 SEP 1797
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 7 DEC 1882
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2826@
+2 NOTE @N2827@
+1 BAPM
+2 DATE 13 SEP 1797
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMS @F2473@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 07:47:16
+0 @I6363@ INDI
+1 NAME Elisabeth Johanna Geertruij /Bollee/
+2 TYPE birth
+2 GIVN Elisabeth Johanna Geertruij
+2 SURN Bollee
+1 SEX F
+1 BIRT
+2 DATE 17 AUG 1817
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2828@
+1 DEAT
+2 DATE 30 APR 1884
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2829@
+2 NOTE @N2830@
+1 FAMC @F2473@
+2 PEDI birth
+1 FAMS @F2474@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 08:05:06
+0 @I6364@ INDI
+1 NAME Pieter /Verweij/
+2 TYPE birth
+2 GIVN Pieter
+2 SURN Verweij
+1 SEX M
+1 BIRT
+2 DATE 17 NOV 1813
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 29 JUN 1846
+2 PLAC Ouddorp [Zuid Holland]
+1 FACT Genees-, Heel- en Vroedmeester
+2 TYPE Occupation
+1 FAMS @F2474@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 08:00:47
+0 @I6365@ INDI
+1 NAME Christoffel Johannes /Bollee/
+2 TYPE birth
+2 GIVN Christoffel Johannes
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 26 APR 1820
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2832@
+1 DEAT
+2 DATE 10 JUN 1884
+2 PLAC Zijpe [Noord Holland]
+3 MAP
+4 LATI N52.822778
+4 LONG E4.720556
+1 FACT Opzichter(1846)
+2 TYPE Occupation
+1 FACT Burgemeester(1862)
+2 TYPE Occupation
+1 FAMC @F2473@
+2 PEDI birth
+1 FAMS @F2475@
+1 FAMS @F2476@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 08:17:51
+0 @I6366@ INDI
+1 NAME Geertruij Johanna Jacoba /van Rijkom/
+2 TYPE birth
+2 GIVN Geertruij Johanna Jacoba
+2 SPFX van
+2 SURN Rijkom
+1 SEX F
+1 BIRT
+2 DATE 17 JUN 1825
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 DEAT
+2 DATE 22 MAR 1861
+2 PLAC Petten [Noord Holland]
+2 NOTE @N2834@
+1 FAMS @F2475@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 08:14:28
+0 @I6367@ INDI
+1 NAME Wilhelmina Jakoba Katharina /van Rijkom/
+2 TYPE birth
+2 GIVN Wilhelmina Jakoba Katharina
+2 SPFX van
+2 SURN Rijkom
+1 SEX F
+1 BIRT
+2 DATE 9 FEB 1823
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 DEAT
+2 DATE 16 MAR 1909
+2 PLAC Alkmaar [Noord Holland]
+3 MAP
+4 LATI N52.632329
+4 LONG E4.75351
+1 FAMS @F2476@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 08:17:51
+0 @I6368@ INDI
+1 NAME Jasper Johannes /Bollee/
+2 TYPE birth
+2 GIVN Jasper Johannes
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE APR 1799
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 15 NOV 1863
+2 PLAC Vries [Drenthe]
+2 NOTE @N2836@
+1 BAPM
+2 DATE 8 APR 1799
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FACT Opzichter
+2 TYPE Occupation
+1 FAMC @F1241@
+2 PEDI birth
+1 FAMS @F2477@
+1 FAMS @F2478@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 00:23:48
+0 @I6369@ INDI
+1 NAME Maria Johanna /van der Kaa/
+2 TYPE birth
+2 GIVN Maria Johanna
+2 SPFX van der
+2 SURN Kaa
+1 SEX F
+1 BIRT
+2 DATE ABT 1798
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 1 SEP 1832
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2838@
+1 FAMS @F2477@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 18:19:08
+0 @I6370@ INDI
+1 NAME Elisabeth Johanna /Bollee/
+2 TYPE birth
+2 GIVN Elisabeth Johanna
+2 SURN Bollee
+1 SEX F
+1 BIRT
+2 DATE 18 FEB 1831
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2839@
+1 DEAT
+2 DATE 3 MAR 1834
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2840@
+1 FAMC @F2477@
+2 PEDI birth
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 18:19:08
+0 @I6371@ INDI
+1 NAME Adriana Seike /Ceelen/
+2 TYPE birth
+2 GIVN Adriana Seike
+2 SURN Ceelen
+1 SEX F
+1 BIRT
+2 DATE 17 DEC 1815
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2842@
+1 FAMS @F2478@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 18:34:17
+0 @I6372@ INDI
+1 NAME Elizabeth Johanna Geertrui /Bollee/
+2 TYPE birth
+2 GIVN Elizabeth Johanna Geertrui
+2 SURN Bollee
+1 SEX F
+1 BIRT
+2 DATE 21 NOV 1831
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2843@
+1 FAMC @F2478@
+2 PEDI birth
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 23:17:39
+0 @I6373@ INDI
+1 NAME Jasper Johannes /Bollee/
+2 TYPE birth
+2 GIVN Jasper Johannes
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 30 MAR 1841
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2844@
+1 FACT Opzichter
+2 TYPE Occupation
+1 FAMC @F2478@
+2 PEDI birth
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 23:17:39
+0 @I6374@ INDI
+1 NAME Hendrikus /Bollee/
+2 TYPE birth
+2 GIVN Hendrikus
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 17 JAN 1843
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2845@
+1 FACT Schoenmaker
+2 TYPE Occupation
+1 FAMC @F2478@
+2 PEDI birth
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 23:17:39
+0 @I6375@ INDI
+1 NAME Metje Sara /Bollee/
+2 TYPE birth
+2 GIVN Metje Sara
+2 SURN Bollee
+1 SEX F
+1 BIRT
+2 DATE 11 AUG 1845
+2 PLAC Vianen [Utrecht]
+3 MAP
+4 LATI N51.990299
+4 LONG E5.10298
+2 NOTE @N2846@
+1 FAMC @F2478@
+2 PEDI birth
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 23:17:39
+0 @I6376@ INDI
+1 NAME Jakob /Bollee/
+2 TYPE birth
+2 GIVN Jakob
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 17 FEB 1801
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 4 MAR 1873
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2847@
+1 BAPM
+2 DATE 8 MAR 1801
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FACT Timmerman
+2 TYPE Occupation
+1 FAMC @F1241@
+2 PEDI birth
+1 FAMS @F2479@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 00:23:48
+0 @I6377@ INDI
+1 NAME Emma Pieternella /Bazendijk/
+2 TYPE birth
+2 GIVN Emma Pieternella
+2 SURN Bazendijk
+1 SEX F
+1 BIRT
+2 DATE ABT 1799
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 22 JUN 1889
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2850@
+2 NOTE @N2849@
+1 FAMS @F2479@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 23:37:30
+0 @I6378@ INDI
+1 NAME Jacob /Bollee/
+2 TYPE birth
+2 GIVN Jacob
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 29 MAR 1824
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2852@
+1 FACT Timmerman
+2 TYPE Occupation
+1 FAMC @F2479@
+2 PEDI birth
+1 FAMS @F2480@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 23:48:38
+0 @I6379@ INDI
+1 NAME Dorentje /Vendeville/
+2 TYPE birth
+2 GIVN Dorentje
+2 SURN Vendeville
+1 SEX F
+1 BIRT
+2 DATE ABT 1825
+2 PLAC Wissenkerke [Zeeland]
+1 FAMS @F2480@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 23:41:56
+0 @I6380@ INDI
+1 NAME Geertrui /Bollee/
+2 TYPE birth
+2 GIVN Geertrui
+2 SURN Bollee
+1 SEX F
+1 BIRT
+2 DATE 19 MAY 1826
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMC @F2479@
+2 PEDI birth
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 23:48:38
+0 @I6381@ INDI
+1 NAME Elisabeth Johanna Geertrui /Bollée/
+2 TYPE birth
+2 GIVN Elisabeth Johanna Geertrui
+2 SURN Bollée
+1 SEX F
+1 BIRT
+2 DATE 4 AUG 1830
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2854@
+1 DEAT
+2 DATE 10 OCT 1904
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2855@
+2 NOTE @N2856@
+1 FAMC @F2479@
+2 PEDI birth
+1 NOTE @N2857@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 23:48:38
+0 @I6382@ INDI
+1 NAME Gerret jan /Bollee/
+2 TYPE birth
+2 GIVN Gerret jan
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE SEP 1803
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 DEAT
+2 DATE 16 JUN 1850
+2 PLAC Utrecht [Utrecht]
+3 MAP
+4 LATI N52.090402
+4 LONG E5.120298
+2 NOTE @N2858@
+1 BAPM
+2 DATE 9 SEP 1803
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMC @F1241@
+2 PEDI birth
+1 FAMS @F2481@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 00:23:48
+0 @I6383@ INDI
+1 NAME Maartje /Koperdraat/
+2 TYPE birth
+2 GIVN Maartje
+2 SURN Koperdraat
+1 SEX F
+1 BIRT
+2 DATE 12 JUL 1806
+2 PLAC Alphen aan de Rijn [Zuid Holland]
+3 MAP
+4 LATI N52.128231
+4 LONG E4.659764
+1 DEAT
+2 DATE 17 APR 1849
+2 PLAC Rotterdam [Zuid Holland]
+3 MAP
+4 LATI N51.924358
+4 LONG E4.474346
+2 NOTE @N2860@
+1 BAPM
+2 DATE 13 JUL 1806
+2 PLAC Alphen aan de Rijn [Zuid Holland]
+3 MAP
+4 LATI N52.128231
+4 LONG E4.659764
+1 FAMS @F2481@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 00:17:09
+0 @I6384@ INDI
+1 NAME Jacobus /Bollee/
+2 TYPE birth
+2 GIVN Jacobus
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE 15 JUL 1826
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2861@
+1 DEAT
+2 DATE 8 MAR 1911
+2 PLAC Leiden [Zuid Holland]
+3 MAP
+4 LATI N52.163452
+4 LONG E4.4802
+2 NOTE @N2862@
+1 FAMC @F2481@
+2 PEDI birth
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 00:17:09
+0 @I6385@ INDI
+1 NAME Metje Sara /Bollee/
+2 TYPE birth
+2 GIVN Metje Sara
+2 SURN Bollee
+1 SEX F
+1 BIRT
+2 DATE ABT 1805
+1 DEAT
+2 DATE 5 JAN 1877
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2863@
+2 NOTE @N2864@
+1 FAMC @F1241@
+2 PEDI birth
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 00:23:48
+0 @I6386@ INDI
+1 NAME Corstiaan /Bollee/
+2 TYPE birth
+2 GIVN Corstiaan
+2 SURN Bollee
+1 SEX M
+1 BIRT
+2 DATE ABT 1812
+1 DEAT
+2 DATE 30 AUG 1884
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2865@
+1 FACT Organist in de Lutherse kerk
+2 TYPE Occupation
+1 FAMC @F1241@
+2 PEDI birth
+1 NOTE @N2866@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 00:23:48
+0 @I6387@ INDI
+1 NAME Peter /Boef/
+2 TYPE birth
+2 GIVN Peter
+2 SURN Boef
+1 SEX M
+1 FAMS @F2482@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 00:36:07
+0 @I6388@ INDI
+1 NAME Marrigje /Alblas/
+2 TYPE birth
+2 GIVN Marrigje
+2 SURN Alblas
+1 SEX F
+1 FAMS @F2482@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 00:36:07
+0 @I6389@ INDI
+1 NAME Maria /Lugten/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Lugten
+1 SEX F
+1 BIRT
+2 DATE ABT 1813
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+1 FAMC @F0577@
+2 PEDI birth
+1 FAMS @F2483@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 01:17:01
+0 @I6390@ INDI
+1 NAME Willem Hendriks /van Aken/
+2 TYPE birth
+2 GIVN Willem Hendriks
+2 SPFX van
+2 SURN Aken
+1 SEX M
+1 BIRT
+2 DATE ABT 1815
+2 PLAC Rotterdam [Zuid Holland]
+3 MAP
+4 LATI N51.924358
+4 LONG E4.474346
+1 FAMC @F2484@
+2 PEDI birth
+1 FAMS @F2483@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 01:18:18
+0 @I6391@ INDI
+1 NAME Antonie /van Aken/
+2 TYPE birth
+2 GIVN Antonie
+2 SPFX van
+2 SURN Aken
+1 SEX M
+1 FAMS @F2484@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 01:18:18
+0 @I6392@ INDI
+1 NAME Johanna Hendriks //
+2 TYPE birth
+2 GIVN Johanna Hendriks
+1 SEX F
+1 FAMS @F2484@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 01:18:18
+0 @I6393@ INDI
+1 NAME Pieter /Ouwendijk/
+2 TYPE birth
+2 GIVN Pieter
+2 SURN Ouwendijk
+1 SEX M
+1 FAMS @F2485@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 01:23:01
+0 @I6394@ INDI
+1 NAME Grietje /de Boef/
+2 TYPE birth
+2 GIVN Grietje
+2 SPFX de
+2 SURN Boef
+1 SEX F
+1 FAMS @F2485@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 01:23:01
+0 @I6395@ INDI
+1 NAME Maria /de Jel/
+2 TYPE birth
+2 GIVN Maria
+2 SPFX de
+2 SURN Jel
+1 SEX F
+1 BIRT
+2 DATE 8 JUL 1819
+2 PLAC Delfshaven (Rotterdam) [Zuid Holland]
+3 MAP
+4 LATI N51.907222
+4 LONG E4.448333
+2 NOTE @N2878@
+1 DEAT
+2 DATE 7 SEP 1834
+2 PLAC Delfshaven (Rotterdam) [Zuid Holland]
+3 MAP
+4 LATI N51.907222
+4 LONG E4.448333
+2 NOTE @N2879@
+1 FAMC @F0579@
+2 PEDI birth
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 01:30:12
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -120577,6 +123491,7 @@
 3 MAP
 4 LATI N51.837129
 4 LONG E4.972874
+2 NOTE @N2751@
 1 CHIL @I1534@
 1 CHIL @I1540@
 1 CHIL @I0280@
@@ -124195,9 +127110,10 @@
 0 @F0577@ FAM
 1 HUSB @I1535@
 1 WIFE @I1534@
+1 CHIL @I6389@
 1 CHAN
-2 DATE 11 JUN 2025
-3 TIME 21:03:51
+2 DATE 23 MAY 2026
+3 TIME 01:14:22
 0 @F0578@ FAM
 1 HUSB @I1536@
 1 WIFE @I1534@
@@ -124207,6 +127123,7 @@
 3 MAP
 4 LATI N51.907222
 4 LONG E4.448333
+2 NOTE @N2872@
 1 CHAN
 2 DATE 11 JUN 2025
 3 TIME 21:06:42
@@ -124215,9 +127132,11 @@
 1 WIFE @I1537@
 1 MARR
 2 DATE 17 MAY 1818
+2 NOTE @N2877@
+1 CHIL @I6395@
 1 CHAN
-2 DATE 11 JUN 2025
-3 TIME 21:08:24
+2 DATE 23 MAY 2026
+3 TIME 01:28:48
 0 @F0580@ FAM
 1 HUSB @I1538@
 1 WIFE @I1539@
@@ -124317,9 +127236,15 @@
 3 MAP
 4 LATI N51.837129
 4 LONG E4.972874
+1 MARR
+2 DATE 7 JAN 1826
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
 1 CHAN
-2 DATE 22 JUN 2025
-3 TIME 23:17:43
+2 DATE 23 MAY 2026
+3 TIME 00:28:15
 0 @F0590@ FAM
 1 HUSB @I1558@
 1 WIFE @I0694@
@@ -131320,15 +134245,25 @@
 3 MAP
 4 LATI N51.837129
 4 LONG E4.972874
+1 CHIL @I6361@
+1 CHIL @I6368@
+1 CHIL @I6376@
+1 CHIL @I6382@
+1 CHIL @I6385@
+1 CHIL @I6386@
 1 CHAN
-2 DATE 7 AUG 2025
-3 TIME 22:42:32
+2 DATE 23 MAY 2026
+3 TIME 00:23:48
 0 @F1242@ FAM
 1 HUSB @I3232@
 1 WIFE @I3233@
+1 MARR
+2 DATE BEF 1796
+1 CHIL @I6326@
+1 CHIL @I6327@
 1 CHAN
-2 DATE 7 AUG 2025
-3 TIME 23:09:58
+2 DATE 19 MAY 2026
+3 TIME 23:02:13
 0 @F1243@ FAM
 1 HUSB @I3235@
 1 WIFE @I3234@
@@ -131344,10 +134279,15 @@
 3 MAP
 4 LATI N51.837129
 4 LONG E4.972874
+1 CHIL @I6334@
+1 CHIL @I6336@
+1 CHIL @I6338@
+1 CHIL @I6339@
 1 CHIL @I3239@
+1 CHIL @I6357@
 1 CHAN
-2 DATE 8 AUG 2025
-3 TIME 00:18:35
+2 DATE 21 MAY 2026
+3 TIME 21:21:49
 0 @F1245@ FAM
 1 HUSB @I3240@
 1 WIFE @I3239@
@@ -131358,9 +134298,13 @@
 4 LATI N51.837129
 4 LONG E4.972874
 2 NOTE @N1310@
+2 NOTE @N2819@
+1 CHIL @I6359@
+1 CHIL @I6360@
+1 NOTE @N2818@
 1 CHAN
-2 DATE 8 AUG 2025
-3 TIME 00:29:18
+2 DATE 21 MAY 2026
+3 TIME 21:26:59
 0 @F1246@ FAM
 1 HUSB @I3241@
 1 WIFE @I3242@
@@ -142739,15 +145683,18 @@
 4 LATI N51.669749
 4 LONG E5.049395
 1 CHIL @I5976@
+1 CHIL @I6290@
 1 CHIL @I5994@
 1 CHIL @I5995@
 1 CHIL @I5997@
 1 CHIL @I5998@
 1 CHIL @I6000@
 1 CHIL @I6001@
+1 CHIL @I6317@
+1 NOTE @N2710@
 1 CHAN
-2 DATE 7 MAR 2026
-3 TIME 22:25:25
+2 DATE 19 MAY 2026
+3 TIME 07:28:34
 0 @F2320@ FAM
 1 HUSB @I5996@
 1 WIFE @I5995@
@@ -142763,11 +145710,23 @@
 0 @F2321@ FAM
 1 HUSB @I5998@
 1 WIFE @I5999@
+1 MARL
+2 DATE 27 DEC 1684
+2 PLAC Veen
 1 MARR
-2 DATE 1695
+2 DATE 21 JAN 1685
+2 PLAC Veen
+1 CHIL @I6297@
+1 CHIL @I6298@
+1 CHIL @I6299@
+1 CHIL @I6300@
+1 CHIL @I6301@
+1 CHIL @I6302@
+1 CHIL @I6305@
+1 CHIL @I6306@
 1 CHAN
-2 DATE 23 FEB 2026
-3 TIME 22:56:17
+2 DATE 17 APR 2026
+3 TIME 23:38:13
 0 @F2322@ FAM
 1 HUSB @I6002@
 1 WIFE @I6001@
@@ -142784,6 +145743,12 @@
 1 HUSB @I6004@
 1 WIFE @I6003@
 1 MARR
+2 DATE 1 NOV 1620
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 MARR
 2 DATE 16 NOV 1620
 2 PLAC Sprang [Noord Brabant]
 3 MAP
@@ -142792,8 +145757,8 @@
 1 CHIL @I5993@
 1 CHIL @I6005@
 1 CHAN
-2 DATE 24 FEB 2026
-3 TIME 20:40:05
+2 DATE 19 MAY 2026
+3 TIME 08:01:11
 0 @F2324@ FAM
 1 HUSB @I6006@
 1 WIFE @I6007@
@@ -143942,6 +146907,537 @@
 1 CHAN
 2 DATE 7 MAR 2026
 3 TIME 21:55:31
+0 @F2441@ FAM
+1 HUSB @I6269@
+1 WIFE @I6256@
+1 MARR
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2699@
+1 CHIL @I6272@
+1 CHIL @I6274@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 21:46:21
+0 @F2442@ FAM
+1 HUSB @I6270@
+1 WIFE @I6271@
+1 CHIL @I6256@
+1 CHIL @I6278@
+1 CHIL @I6279@
+1 CHIL @I6280@
+1 CHIL @I6281@
+1 CHIL @I6283@
+1 CHIL @I6284@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 00:14:28
+0 @F2443@ FAM
+1 HUSB @I6272@
+1 WIFE @I6273@
+1 MARR
+2 DATE ABT 1655
+1 CHAN
+2 DATE 8 MAR 2026
+3 TIME 14:58:17
+0 @F2444@ FAM
+1 HUSB @I6275@
+1 CHIL @I6270@
+1 CHIL @I6276@
+1 CHAN
+2 DATE 8 MAR 2026
+3 TIME 15:36:09
+0 @F2445@ FAM
+1 HUSB @I6276@
+1 WIFE @I6277@
+1 CHAN
+2 DATE 8 MAR 2026
+3 TIME 15:39:09
+0 @F2446@ FAM
+1 HUSB @I6281@
+1 WIFE @I6282@
+1 NOTE @N2687@
+1 CHAN
+2 DATE 17 MAR 2026
+3 TIME 22:38:02
+0 @F2447@ FAM
+1 HUSB @I6274@
+1 WIFE @I6285@
+1 CHIL @I6286@
+1 CHIL @I6287@
+1 CHIL @I6288@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 21:57:46
+0 @F2448@ FAM
+1 HUSB @I6289@
+1 WIFE @I6268@
+1 MARR
+2 PLAC Dongen [Noord Brabant]
+2 NOTE @N2714@
+1 CHAN
+2 DATE 18 MAR 2026
+3 TIME 22:08:25
+0 @F2449@ FAM
+1 HUSB @I6291@
+1 WIFE @I6290@
+1 MARR
+2 DATE ABT 1679
+1 CHIL @I6292@
+1 CHIL @I6293@
+1 CHIL @I6294@
+1 CHIL @I6295@
+1 CHAN
+2 DATE 9 APR 2026
+3 TIME 23:23:45
+0 @F2450@ FAM
+1 HUSB @I6296@
+1 WIFE @I5994@
+1 MARR
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2721@
+1 CHAN
+2 DATE 9 APR 2026
+3 TIME 23:52:17
+0 @F2451@ FAM
+1 HUSB @I6303@
+1 WIFE @I6302@
+1 MARR
+2 DATE 1721
+2 PLAC Hoogvliet
+1 CHAN
+2 DATE 15 APR 2026
+3 TIME 23:43:16
+0 @F2452@ FAM
+1 HUSB @I6304@
+1 WIFE @I6302@
+1 MARL
+2 DATE 7 JUL 1730
+2 PLAC Hoogvliet
+2 NOTE @N2728@
+1 MARR
+2 NOTE @N2729@
+1 CHAN
+2 DATE 17 APR 2026
+3 TIME 13:00:08
+0 @F2453@ FAM
+1 HUSB @I5998@
+1 WIFE @I6307@
+1 MARL
+2 DATE 8 JUL 1700
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+2 NOTE @N2733@
+1 CHIL @I6308@
+1 CHIL @I6309@
+1 CHIL @I6310@
+1 CHIL @I6311@
+1 CHIL @I6312@
+1 CHIL @I6313@
+1 CHIL @I6314@
+1 CHIL @I6315@
+1 CHIL @I6316@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 00:07:01
+0 @F2454@ FAM
+1 HUSB @I6317@
+1 WIFE @I6318@
+1 MARL
+2 DATE 14 JUN 1737
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 MARR
+2 DATE 7 JUL 1737
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 07:33:04
+0 @F2455@ FAM
+1 HUSB @I6319@
+1 WIFE @I6320@
+1 CHIL @I6003@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 08:04:58
+0 @F2456@ FAM
+1 HUSB @I6004@
+1 MARR
+2 DATE ABT 1597
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 08:26:36
+0 @F2457@ FAM
+1 HUSB @I6004@
+1 WIFE @I6321@
+1 MARR
+2 DATE 1 FEB 1615
+2 PLAC Sprang [Noord Brabant]
+3 MAP
+4 LATI N51.669749
+4 LONG E5.049395
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 08:29:02
+0 @F2458@ FAM
+1 HUSB @I6322@
+1 WIFE @I6323@
+1 CHIL @I3231@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 22:40:08
+0 @F2459@ FAM
+1 HUSB @I6324@
+1 WIFE @I6325@
+1 CHIL @I3233@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 22:56:06
+0 @F2460@ FAM
+1 HUSB @I6327@
+1 WIFE @I6328@
+1 MARR
+2 DATE 31 DEC 1823
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2756@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 23:06:04
+0 @F2461@ FAM
+1 HUSB @I6326@
+1 WIFE @I6329@
+1 MARR
+2 DATE 1 OCT 1823
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2759@
+1 CHIL @I6330@
+1 CHIL @I6331@
+1 CHAN
+2 DATE 19 MAY 2026
+3 TIME 23:24:10
+0 @F2462@ FAM
+1 HUSB @I6332@
+1 WIFE @I6333@
+1 MARR
+2 DATE 23 OCT 1723
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2768@
+1 CHIL @I3229@
+1 CHAN
+2 DATE 20 MAY 2026
+3 TIME 20:17:55
+0 @F2463@ FAM
+1 HUSB @I6335@
+1 WIFE @I6334@
+1 MARR
+2 DATE 12 MAY 1858
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2769@
+1 CHAN
+2 DATE 20 MAY 2026
+3 TIME 22:27:19
+0 @F2464@ FAM
+1 HUSB @I6337@
+1 WIFE @I6336@
+1 MARR
+2 DATE 31 OCT 1849
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2772@
+1 CHAN
+2 DATE 20 MAY 2026
+3 TIME 22:36:40
+0 @F2465@ FAM
+1 HUSB @I6339@
+1 WIFE @I6340@
+1 MARR
+2 DATE 2 MAY 1846
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2776@
+1 CHIL @I6341@
+1 CHIL @I6344@
+1 CHIL @I6353@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:59:48
+0 @F2466@ FAM
+1 HUSB @I6341@
+1 WIFE @I6342@
+1 MARR
+2 DATE 12 JUN 1879
+2 PLAC Dirksland [Zuid Holland]
+2 NOTE @N2781@
+2 NOTE @N2788@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 18:12:36
+0 @F2467@ FAM
+1 HUSB @I6341@
+1 WIFE @I6343@
+1 MARR
+2 DATE 4 SEP 1890
+2 PLAC Dordrecht [Zuid Holland]
+3 MAP
+4 LATI N51.814504
+4 LONG E4.667087
+2 NOTE @N2784@
+2 NOTE @N2785@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 18:21:18
+0 @F2468@ FAM
+1 HUSB @I6344@
+1 WIFE @I6345@
+1 MARR
+2 DATE 10 JUL 1884
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2792@
+2 NOTE @N2793@
+1 CHIL @I6346@
+1 CHIL @I6347@
+1 CHIL @I6348@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:38:55
+0 @F2469@ FAM
+1 HUSB @I6347@
+1 WIFE @I6349@
+1 MARR
+2 DATE 10 APR 1912
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2799@
+1 CHIL @I6350@
+1 CHIL @I6351@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:44:23
+0 @F2470@ FAM
+1 HUSB @I6350@
+1 WIFE @I6352@
+1 MARR
+2 DATE MAR 1939
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2802@
+1 NOTE @N2803@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 20:48:25
+0 @F2471@ FAM
+1 HUSB @I6353@
+1 WIFE @I6354@
+1 MARR
+2 DATE 28 JUL 1898
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2807@
+1 CHIL @I6355@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:06:55
+0 @F2472@ FAM
+1 HUSB @I6355@
+1 WIFE @I6356@
+1 MARR
+2 DATE AFT 1927
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 21:11:09
+0 @F2473@ FAM
+1 HUSB @I6361@
+1 WIFE @I6362@
+1 MARR
+2 DATE 26 APR 1817
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2825@
+1 CHIL @I6363@
+1 CHIL @I6365@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 08:05:06
+0 @F2474@ FAM
+1 HUSB @I6364@
+1 WIFE @I6363@
+1 MARR
+2 DATE 12 MAY 1842
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2831@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 08:00:47
+0 @F2475@ FAM
+1 HUSB @I6365@
+1 WIFE @I6366@
+1 MARR
+2 DATE 16 APR 1846
+2 PLAC Petten [Noord Holland]
+2 NOTE @N2833@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 08:14:28
+0 @F2476@ FAM
+1 HUSB @I6365@
+1 WIFE @I6367@
+1 MARR
+2 DATE 31 JUL 1862
+2 PLAC Bloemendaal [Noord Holland]
+3 MAP
+4 LATI N52.404733
+4 LONG E4.620407
+2 NOTE @N2835@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 08:17:51
+0 @F2477@ FAM
+1 HUSB @I6368@
+1 WIFE @I6369@
+1 MARR
+2 DATE 7 OCT 1830
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2837@
+1 CHIL @I6370@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 18:19:08
+0 @F2478@ FAM
+1 HUSB @I6368@
+1 WIFE @I6371@
+1 MARR
+2 DATE 11 OCT 1837
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2841@
+1 CHIL @I6372@
+1 CHIL @I6373@
+1 CHIL @I6374@
+1 CHIL @I6375@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 23:17:39
+0 @F2479@ FAM
+1 HUSB @I6376@
+1 WIFE @I6377@
+1 MARR
+2 DATE 6 AUG 1823
+2 PLAC Gorinchem [Zuid Holland]
+3 MAP
+4 LATI N51.837129
+4 LONG E4.972874
+2 NOTE @N2848@
+1 CHIL @I6378@
+1 CHIL @I6380@
+1 CHIL @I6381@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 23:48:38
+0 @F2480@ FAM
+1 HUSB @I6378@
+1 WIFE @I6379@
+1 MARR
+2 DATE 7 JAN 1847
+2 PLAC Wissenkerke [Zeeland]
+2 NOTE @N2853@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 23:41:56
+0 @F2481@ FAM
+1 HUSB @I6382@
+1 WIFE @I6383@
+1 MARR
+2 DATE 27 APR 1826
+2 PLAC Alphen aan de Rijn [Zuid Holland]
+3 MAP
+4 LATI N52.128231
+4 LONG E4.659764
+2 NOTE @N2859@
+1 CHIL @I6384@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 00:17:09
+0 @F2482@ FAM
+1 HUSB @I6387@
+1 WIFE @I6388@
+1 CHIL @I1557@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 00:36:07
+0 @F2483@ FAM
+1 HUSB @I6390@
+1 WIFE @I6389@
+1 MARR
+2 DATE 20 JUN 1838
+2 PLAC Rotterdam [Zuid Holland]
+3 MAP
+4 LATI N51.924358
+4 LONG E4.474346
+2 NOTE @N2874@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 01:17:01
+0 @F2484@ FAM
+1 HUSB @I6391@
+1 WIFE @I6392@
+1 CHIL @I6390@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 01:18:18
+0 @F2485@ FAM
+1 HUSB @I6393@
+1 WIFE @I6394@
+1 CHIL @I1537@
+1 CHAN
+2 DATE 23 MAY 2026
+3 TIME 01:23:01
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -161430,6 +164926,1395 @@
 1 CONT 
 1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
 1 CONC 9-14-13-53-39/sprang-ra-58
+0 @N2655@ NOTE na 29 september 1628 : 	Vermelding
+1 CONT 
+1 CONT Fol. 46v
+1 CONT Copie
+1 CONT Poulus Janss x Maijken Aert Corst Midden, Geriken Aert Corst Midden, Lui
+1 CONC jcas Adriaenss x Adriaentken Gijsbertss als voocht van de kijnderen, Aer
+1 CONC tken, Jenneken, van Gijsbert Jan Gijben, Jan Janss Textor x Aertken Lena
+1 CONC ertss, allen erfgenamen van Jenneken Aert Corst Midden sijn voldaen doo
+1 CONC r Dielis Aert Coeckman van de coop van een huijs dat Joost Adriaenss Vo
+1 CONC s van Dielis Aertss gekocht heeft, 29-9-1628.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56/12-sprang/124-sprang-ra-55
+0 @N2656@ NOTE na 30 januari 1629 : 	Vermelding
+1 CONT 
+1 CONT Fol. 45v
+1 CONT Dat voor ons gecomen ende gecompareert is Dielis Aertss Coeckman ende he
+1 CONC eft van wegen Gijsbert Aert Goossenss als vocht van de kijnderen van Gij
+1 CONC sbert Janss bij Barbara Aertss ende Michiel Lenaert Gielen, procuratie S
+1 CONC prang 6-12-1627, ende van wegen Paulus Janssen x Martijntken Aert Midden
+1 CONC , procuratie Sprang 12-2-1627, met een quitantie van volle betalingen va
+1 CONC n 29-9-1628 ende heeft overgegeven aen Joost Adriaenss Vos een stuk acke
+1 CONC r soo groot ende cleijn als de voorss comparanten van wegen het kijnt va
+1 CONC n Peter Gerit Dirckss za bij Maeijken Aert Corst Midden in gerechticht s
+1 CONC ijn, 30-1-1629. Er wordt betaald via een wilkeur.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56/12-sprang/124-sprang-ra-55
+0 @N2657@ NOTE tussen 20 maart 1629 en 17 februari 1635 : 	Vermelding
+1 CONT 
+1 CONT Fol. 67v
+1 CONT Dat voor ons gecomen ende gecompareert is Dielis Aertss Coeckmans ende h
+1 CONC eeft overgegeven aen Adriaen Thoniss ende Aert Thoniss, gebroedrs, een g
+1 CONC eseet mette timmeringen, 20-3-1629. Er wordt betaald via een wilkeur.
+1 CONT Toegevoegd: betaelt wordt aen Peter Deniss, 17-2-+1635.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56/12-sprang/124-sprang-ra-55
+0 @N2658@ NOTE na 20 maart 1629 : 	Vermelding
+1 CONT 
+1 CONT Fol. 68r
+1 CONT 
+1 CONT Dat voor ons gecomen ende gecompareert is Dielis Aerets Coeckman mede na
+1 CONC mens Paulus Janss wednr van Maeijken Aert Corst Midden ende Geriken Aer
+1 CONC t Corst Midden, Corstiaen Aerts mede als voocht van de kijnderen van Pet
+1 CONC er Aeretss, broeder, ende namens Ja??? Cappelet x Lijsken Aertss, swager
+1 CONC , procuratie Antwerpen 12-2-1626, Joost Adriaenss Vosch wednr Jenneken A
+1 CONC ert Corst Midden ende Catharina Goossens namens haer man Gijsbert Frans
+1 CONC s van Gool, ruijter onder de compagnie van ritmr Bassen, Heusden, procur
+1 CONC atie Heusden 17-3-1629, allen erffgenamen van Willemeken Rommen??? end
+1 CONC e hebben overgegeven aen Dirck Handrick Colster de helft van een gesee
+1 CONC t mette timmeringen, 20-3-1629
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56/12-sprang/124-sprang-ra-55
+0 @N2659@ NOTE na 28 maart 1630 : 	Vermelding
+1 CONT 
+1 CONT Fol. 166r
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT Fol. 167r
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender
+1 CONT geassisteerrt met Judich Janss, de kijnderen grootmoeder.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-61
+0 @N2660@ NOTE na 1632 : 	Vermelding
+1 CONT 
+1 CONT Fol. 166r
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT Fol. 167r
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender
+1 CONT geassisteerrt met Judich Janss, de kijnderen grootmoeder.
+1 CONT 
+1 CONT Bronnen: Doekefkes. nl
+0 @N2661@ NOTE na 7 maart 1652 : 	Vermelding
+1 CONT 
+1 CONT Fol. 36v
+1 CONT Scheijdinge ende deelinge aengebrocht bij Joost Geeritss Cool x Lijske
+1 CONC n Aertsdr ende dat van wegen Juetken Jans ende Geerit Cornelis Tuijmelae
+1 CONC r ende Lenaert Handricks van Milbrecht ende mede namens [Jan?] Corneli
+1 CONC s Tuijmelaer ende Joost Dierckxse van Campen als voocht vande kijndere
+1 CONC n van Goijert Jansen Gijben haeren voocht in desen vanwege haer grootvad
+1 CONC er, Cornelis Loeff, den schout, als oppervoocht van de kijnderen van Die
+1 CONC lis Aertss Coeckman ende Corstaien Dielissen ende Aert Dielisse Coeckman
+1 CONC , present sijnde, als grootmoeder vande voors kijnderen, 7-3-1652.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-60
+0 @N2662@ NOTE na 14 mei 1658 : 	Vermelding
+1 CONT 
+1 CONT Fol. 3r
+1 CONT Dat voor ons gecomen ende gecompareert is Peeter Denissen ende heeft ove
+1 CONC rgegeven aen Aert Dilissen Coeckman ende Corstiaen Dielissen Coeckman ee
+1 CONC n ackerke, 14-5-1658.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-61
+0 @N2663@ NOTE na 20 oktober 1663 : 	Vermelding
+1 CONT 
+1 CONT zonen van Aert Dielissen Coeckman
+1 CONT Fol. 130dr
+1 CONT Dat voor ons gecomen ende gecompareert is Corstiaen Dielissen Ceockman
+1 CONC s ende heeft overgegeven aen Aert Dielissen Coeckmans, broeder, een eijn
+1 CONC dt lants, 20-10-1663.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-61
+0 @N2664@ NOTE Op 9 mei 1619 doopt een Dielis Aerts een zoon Jan, als vrouw late
+1 CONC r genoteerd Heijlke Jans ?
+1 CONT 
+1 CONT op 27-10-1619 doopt een Dielis Aerts een dochter Jenneke, vrouw Jennek
+1 CONC e Gillis, later genoteerd.
+1 CONT 
+0 @N2665@ NOTE na 28 maart 1630 : 	Vermelding
+1 CONT 
+1 CONT Fol. 166r
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT Fol. 167r
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender
+1 CONT geassisteerrt met Judich Janss, de kijnderen grootmoeder.
+1 CONT 
+1 CONT Bronnen: Doekefkes. nl
+0 @N2666@ NOTE na 1633 : 	Vermelding
+1 CONT 
+1 CONT Fol. 214r
+1 CONT Staet ende inventaris voor Juetken Janss weduwe Aert Dieliss van de goed
+1 CONC eren die sij tesamen beseten hebben.
+1 CONT Maeijken Aertss, Dielis Aertss, Lijsbet Aertss ende Gerit Aertss hebbe
+1 CONC n elk een deel gekregen, zij zijn getrout. De vier niet getroude kijnder
+1 CONC en, Jan, sterfft cortelings naede vader, Heijltken ende Jenneken hebbe
+1 CONC n noch naer haer vader geleeft, ontrent 2 ofte 3 maenden soo het in de s
+1 CONC iekte was van mansvolders ende Pieter Aertss heeft noch 4 jaer naer de v
+1 CONC ader geleefd.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2667@ NOTE na 1633 : 	Vermelding
+1 CONT 
+1 CONT Fol. 214r
+1 CONT Staet ende inventaris voor Juetken Janss weduwe Aert Dieliss van de goed
+1 CONC eren die sij tesamen beseten hebben.
+1 CONT Maeijken Aertss, Dielis Aertss, Lijsbet Aertss ende Gerit Aertss hebbe
+1 CONC n elk een deel gekregen, zij zijn getrout. De vier niet getroude kijnder
+1 CONC en, Jan, sterfft cortelings naede vader, Heijltken ende Jenneken hebbe
+1 CONC n noch naer haer vader geleeft, ontrent 2 ofte 3 maenden soo het in de s
+1 CONC iekte was van mansvolders ende Pieter Aertss heeft noch 4 jaer naer de v
+1 CONC ader geleefd.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2668@ NOTE  --- : 	Vermelding
+1 CONT 
+1 CONT Fol. 166r
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT 
+1 CONT Fol. 167r
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender geassisteerrt met Judich Janss, de kijn
+1 CONC deren grootmoeder.
+1 CONT 
+0 @N2669@ NOTE na 20 maart 1632 : 	Vermelding
+1 CONT 
+1 CONT Fol. 107v
+1 CONT Dat voor ons gecomen ende gecompareert sijn Joost Janss Cleijn mede al
+1 CONC s voocht ende Handrick Willemss x Maeijken Cornelis Baeijens mede als to
+1 CONC esiender van het kijnt van Dielis Janss Cleijn bij Maeijken voorss end
+1 CONC e mede als voocht ende Dirck Dirckss
+1 CONT van Campen den Jongen als toesiender van het kijnt van Dirck Janss Cleij
+1 CONC n bij Jenneken Toniss Oerlman, , Ghijsbrecht Jan Ghijsbrechtss x Toniske
+1 CONC n Jans Cleijn, Neeltken Jans Cleijn ende Dirck Jan Handrickss als vooch
+1 CONC t van het kijnt, Wouter, van Jan
+1 CONT Handrickss Cleijn bij Jenneken Dielis ende Willem Hanz Dirck Franss name
+1 CONC ns Jacob Janss Cleijn, procuratie notaris te Dongen 5-2-1632, ende hebbe
+1 CONC n overgegeven aen Jan Adriaenss Spranger, 20-3-1632. Er wordt betaald vi
+1 CONC a een wilkeur.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2670@ NOTE na 14 september 1687 : 	Vermelding
+1 CONT 
+1 CONT Akte 12
+1 CONT Op 14-9-1687 compareerde Aert Dilis Coeckman x Maijken Sijmons de Gester
+1 CONC . Zij maken hun testament.
+1 CONT Genoemd: Cornelia, de jongste dogter.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-79
+0 @N2671@ NOTE na 20 maart 1632 : 	Vermelding
+1 CONT 
+1 CONT Fol. 107v
+1 CONT Dat voor ons gecomen ende gecompareert sijn Joost Janss Cleijn mede al
+1 CONC s voocht ende Handrick Willemss x Maeijken Cornelis Baeijens mede als to
+1 CONC esiender van het kijnt van Dielis Janss Cleijn bij Maeijken voorss end
+1 CONC e mede als voocht ende Dirck Dirckss
+1 CONT van Campen den Jongen als toesiender van het kijnt van Dirck Janss Cleij
+1 CONC n bij Jenneken Toniss Oerlman, , Ghijsbrecht Jan Ghijsbrechtss x Toniske
+1 CONC n Jans Cleijn, Neeltken Jans Cleijn ende Dirck Jan Handrickss als vooch
+1 CONC t van het kijnt, Wouter, van Jan
+1 CONT Handrickss Cleijn bij Jenneken Dielis ende Willem Hanz Dirck Franss name
+1 CONC ns Jacob Janss Cleijn, procuratie notaris te Dongen 5-2-1632, ende hebbe
+1 CONC n overgegeven aen Jan Adriaenss Spranger, 20-3-1632. Er wordt betaald vi
+1 CONC a een wilkeur.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2672@ NOTE huwde Erken Peters Wouters, doop dochter Judith 1659
+1 CONT 
+1 CONT dochter Peterken in 1661,
+1 CONT 
+1 CONT zoon Dielis in 1665.
+0 @N2673@ NOTE na 11 juli 1608 : 	Vermelding
+1 CONT 
+1 CONT inventaris na overlijden echtgenote tbv erfenis
+1 CONT Folio 189r
+1 CONT Inventaris gemackt ende overgegeven bij Wouter Dieliss vande erff ende h
+1 CONC aeffelijcke goederen die achtergebleven zijn bij doode Geeriken Jans doc
+1 CONC hter za. zijne overleden huijsvrouwe.
+1 CONT Item inden ijersten het geseedt daer Wouter Gieliss nu tegenwoordich o
+1 CONC p woonende is.
+1 CONT Noch twee acker lants gelegen inden ambacht van Sprange inde oudestraet.
+1 CONT Noch een halff stuck hoijlants met Jan Hendrickss Cleijn sijnen swager
+1 CONC , onbedeelt geleghen inden Suijdewijn tot Cappel.
+1 CONT Noch een lootken moers, onbedeelt met Jan Hendrickss Cleijn zijnen swage
+1 CONC r, gelegen onder Loon inden cattenderm.
+1 CONT Noch twee melck koeij
+1 CONT Twee hockelinge besten
+1 CONT Met een calff
+1 CONT Een vercken
+1 CONT Dit is het gheene datter in huijs bevonden is.
+1 CONT Inden ijersten een tresorken
+1 CONT Een fitten, met een schermken
+1 CONT Een taffelken
+1 CONT Een kist
+1 CONT Een karn met haer toebehoorten
+1 CONT Folio 189v
+1 CONT Noch twee melckstoppen
+1 CONT Een vleestoon
+1 CONT Noch ses stoelkens, soe clijn en groot
+1 CONT Eenen wastop
+1 CONT Eenen schootelkuerff, met die schootelen en leepels
+1 CONT Een scherffbuert met een houtten seijtvet
+1 CONT Noch een clemleer
+1 CONT Twee seenen, met eenen temft, ende een sijschootel
+1 CONT Een guetbanck
+1 CONT Noch een vellegerloon met een asijn tonneken
+1 CONT Eensen creegen wagen
+1 CONT Twee bedts steekens
+1 CONT Noch vier eijndenketels, soo groot en cleijn
+1 CONT Twee kueperen potten, met eenen kueperen braijpoot………
+1 CONT Noch vier eijnde tinne schootelen, met een tinne com
+1 CONT Noch een ijseren braeijpan
+1 CONT Twee schuijmspaenkens
+1 CONT Eenen ruestel met een hangijser
+1 CONT Eenen feijthenggel
+1 CONT Noch een ijseren scip met een spaeij
+1 CONT Eenen virck met een sicht
+1 CONT Noch twee bedden met haer toebehooren
+1 CONT Twee slapelakens, met twee oersilwijnnen
+1 CONT Noch ontrent veerthien ellen sacklakens
+1 CONT Noch ontrent vijftien pont vlessen garens
+1 CONT Twee vrouwen hemden
+1 CONT Folio 190r
+1 CONT Noch eenen swarten rock met een swart lijfken
+1 CONT Noch een swart siltken, met een laffender siltken
+1 CONT Een quat roijsiltken, met twee roij lijfkens
+1 CONT Noch een paer niu muijlen met een paer schoen
+1 CONT Twee halsdoecken met twee muetssen, met eenen scheeven hoet
+1 CONT Noch twee maelsacken, met een halff desijn tilgeeren
+1 CONT Een stuijckan met eenen beeker
+1 CONT Drie roompotten, met een deel rommelmercx van eerdewercx
+1 CONT Noch eenen water emmer, met een melck emmerken
+1 CONT Een henggel cuerff
+1 CONT Noch ontrent vier vaet roggen met ontrent anderhalff vaet terwen
+1 CONT Noch twee sijen specx, met een stuck van een sij
+1 CONT Noch ses schouweren ende hammen met een ruessel
+1 CONT Twee kilmanden, een lockmand met allende schietcuerff
+1 CONT Dit sijn de vuijtgaende schulden
+1 CONT Inden ijersten is noch tebetaelen vande acker beneffen Jan Huijben aen
+1 CONT Noch van het geseedt staet noch tebetaelen aen Jan Aertss van Roij de so
+1 CONC mme van ----------- IIc gl
+1 CONT Noch vande moerstaet noch tebetaelen aen
+1 CONT 
+1 CONT Noch aen Hendrick Arienss Oerman van het geseedt -----------------------
+1 CONC ----------------------- XL gl
+1 CONT 
+1 CONT Noch van huerlant schuldich aen
+1 CONT Noch van twee betkens te weijden schuldich aen
+1 CONT Folio 190v
+1 CONT Dit zijn die incomende schulden.
+1 CONT Inden ijersten van verhuert hoijlant dat verhuert is aen
+1 CONT Noch van een eijnneken driessen dat verhuert is aen
+1 CONT 
+1 CONT Op huijden den elfften Julijus anno XVIc ende acht zoe is voor ons Schou
+1 CONC t ende Heemraders van Sprange gecompareert ende gecomen, Wouter Dielis
+1 CONC s Leempoel, ende heeft aengenomen zijne drie onmundighe weeskijnderen, d
+1 CONC ie hij verweckt heeft bij Geeriken
+1 CONT Jans dochter, zijne overleden huijsvrouwe, van Adriaen Janss van Roij al
+1 CONC s bloetvoicht, Jan Aertss van Roij als bestevader, ende Jan Hendrickss C
+1 CONC leijn als toesinders. Ende dat bij wil ende consent vanden Officier al
+1 CONC s opper voicht van alle weesen binnen Sprange, om die kijnderen op te br
+1 CONC enghen ende te voeijden, in aet, dranck, lijnden, willen, schoen ende di
+1 CONC ergelijcken reparatie, die selve kijnderen noodich ende behoeftich sulle
+1 CONC n hebben, aen die schoele te houden leeren lesen, ende schrijven,
+1 CONT ende dat eerlijcken ende tamelijcken, naer zijnen staet, gelijck eenen g
+1 CONC oeden vader, zijne kijnderen behoort ende schuldich is te doen, so lang
+1 CONC e ende ter tijt toe. Dat die kijnderen tot haeren mundighen daegen, oft
+1 CONC e houwelijcken staet sullen sijn gecomen, ofte haer broot connen
+1 CONT 
+1 CONT Folio 191r
+1 CONT 
+1 CONT Gewinnen, ende alsdan sal Wouter Dieliss vader voorss, die drije kijnder
+1 CONC en eens vuijt reijcken ende geven ter somme van vijff hondert vijff end
+1 CONC e tseventich ca gl, elcken gl gereeckent tot veertich grooten vlams, end
+1 CONC e dat voor het versterfte van haersmoeders goet, welcke penningen geloof
+1 CONC t Wouter Dieliss vader voorss, tebetaelen een hondert krolis gl, als ee
+1 CONC n vande kijnderen tot haeren houwelijcken staet gecomen sullen zijn, oft
+1 CONC e als een vande kijnderen over de twijntich jaeren out sullen wesen,end
+1 CONC e hondert gl tsiaers daer nae, dat eenige vande kijnderen gehout sulle
+1 CONC n wesen, ofte boven haeren ouderdom gecomen sullen zijn als voorss staet
+1 CONC , ende de reste op twee termijnen tsiaers daer nae aen maelcanderen volg
+1 CONC ende, waer voore Wouter Dielissvader voorss, zal hebben ende behouden al
+1 CONC len die goederen die hij ende Geeriken zijne overleden huijsvrou bij de
+1 CONC n anderen gehadt hebben, ende Geeriken metten doot ontruijmt heeft. He
+1 CONC t sij haeff ende erffve, meubelen, ende immuebelen, schult ende onschul
+1 CONC t soe waer die gelegen sijn, ofte bevonden sullen moegen worden, in Holl
+1 CONC ant ofte in Brabant, gheen vuijt gsondert, volgens den inventaris hier b
+1 CONC oven geschreven, omme daer mede zijnen vrijen eijghen wille te doen, voo
+1 CONC r die voorss vijff hondert vijff ende tseventich karolis gl, ende op bre
+1 CONC ngen der voorss kijnderen. Wouter Dieliss vader voorss, heeft gestelt to
+1 CONC t eenen onderpande allen zijnen ruerende ende onruerende goederen, hebbe
+1 CONC nde ende vercrijgende, ende oft gebuerden dat eenige van desekijnderen q
+1 CONC uamen te sterven, dan sal dat kijnt goet erffen ende besterven, op langs
+1 CONC t levenden vande voorss kijnderen, ende oft quamen dat alle die kijndere
+1 CONC n quamen te
+1 CONT 
+1 CONT Folio 191v
+1 CONT 
+1 CONT Sterven binnen den tijt van drie jaeren aengaende. Ende datum deses, zo
+1 CONC e sullen de kijnderen gerechte erffgenamen hebben ende genieten, eens d
+1 CONC e somme tot vier hondert vijftich karolis gl sonder meer, ende oft gebue
+1 CONC rden daer eenige vande kijnderen langer leeffden dan dese drie jaeren vo
+1 CONC orss, ende daer nae quamen te sterven, dan en sullen de erffgenamen va
+1 CONC m dese kijnderen voorss niet meer hebben, dan twee hondert seven ende ta
+1 CONC chtentich karolis gl thien stuijvers, ende die sal Wouter Dieliss vade
+1 CONC r voorss, alsdan betaelen op drie termijnen. Waer aff den ijersten termi
+1 CONC jn verschijnen sal, alsoe drije als die kijnderen overleden zijn, ende d
+1 CONC ie ander twee daer aenvolgenden, elcken termijn even veel, aen maelcande
+1 CONC r volgende, ende Adriaen Janss
+1 CONT van Roij als bloet voicht, Jan Aertss van Roij als bestevader, ende Ja
+1 CONC n Hendrickss Cleijn als toesinders, hebben op alle die kijnderen goedere
+1 CONC n haeff, ende erve …schulden ende onschulden volgens den inventaris hie
+1 CONC r voeren geschreven opgedraghen, ende overgegeven tot behoeff van Woute
+1 CONC r Dieliss weschulden ende onschulden volgens den inventaris hier voere
+1 CONC n geschreven opgedraghen, ende overgegeven tot behoeff van Wouter Dielis
+1 CONC s vader voorss. Ende Adriaen Janss voorss als bloet voicht, Jan Aertss v
+1 CONC anRoeij, ende Jan Hendrickss Cleijn als toesinders voorss, hebben op des
+1 CONC e goederen verteggen tot behoefte van Wouter Dieliss vader voorss, end
+1 CONC e Wouter Dieliss voorss heeft gewilvoert het selffde voorss staet te vol
+1 CONC doen naden recht vande lande, ende bij faute neen, dat Wouter Dieliss va
+1 CONC der voorss, dese zijne kijnderen niet op en brocht ende onderhieff als v
+1 CONC oorss staet, soe sullen de voechden voorss, de kijnderen nae haer moege
+1 CONC n nemen, ende op een ander bestellen tot zijnen cost, present HendrickAn
+1 CONC thoniss Schout, Jan Janss, Hendrick Arienss Oerman, ende Jan Jan Meeuss
+1 CONC , heemraders, datum als boven.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-49
+0 @N2674@ NOTE  --- : 	Huwelijk (met Geerke Jans ?
+1 CONT 
+0 @N2675@ NOTE Kreeg met Geriken Jans 3 kinderen, hun namen worden niet genoemd i
+1 CONC n de lange akte na overlijden Geriken in of voor 1608
+0 @N2676@ NOTE na 1633 : 	Vermelding
+1 CONT 
+1 CONT Fol. 214r
+1 CONT 
+1 CONT Staet ende inventaris voor Juetken Janss weduwe Aert Dieliss van de goed
+1 CONC eren die sij tesamen beseten hebben.
+1 CONT 
+1 CONT Maeijken Aertss, Dielis Aertss, Lijsbet Aertss ende Gerit Aertss hebbe
+1 CONC n elk een deel gekregen, zij zijn getrout. De vier niet getroude kijnder
+1 CONC en, Jan, sterfft cortelings naede vader, Heijltken ende Jenneken hebbe
+1 CONC n noch naer haer vader geleeft, ontrent 2 ofte 3 maenden soo het in de s
+1 CONC iekte was van mansvolders ende Pieter Aertss heeft noch 4 jaer naer de v
+1 CONC ader geleefd.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2677@ NOTE  --- : 	Vermelding
+1 CONT 
+1 CONT Fol. 166r
+1 CONT 
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT 
+1 CONT Fol. 167r
+1 CONT 
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender
+1 CONT geassisteerrt met Judich Janss, de kijnderen grootmoeder.
+1 CONT 
+0 @N2678@ NOTE na 1633 : 	Vermelding
+1 CONT 
+1 CONT Fol. 214r
+1 CONT 
+1 CONT Staet ende inventaris voor Juetken Janss weduwe Aert Dieliss van de goed
+1 CONC eren die sij tesamen beseten hebben.
+1 CONT 
+1 CONT Maeijken Aertss, Dielis Aertss, Lijsbet Aertss ende Gerit Aertss hebbe
+1 CONC n elk een deel gekregen, zij zijn getrout. De vier niet getroude kijnder
+1 CONC en, Jan, sterfft cortelings naede vader, Heijltken ende Jenneken hebbe
+1 CONC n noch naer haer vader geleeft, ontrent 2 ofte 3 maenden soo het in de s
+1 CONC iekte was van mansvolders ende Pieter Aertss heeft noch 4 jaer naer de v
+1 CONC ader geleefd.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2679@ NOTE  --- : 	Vermelding
+1 CONT 
+1 CONT Fol. 166r
+1 CONT 
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT 
+1 CONT Fol. 167r
+1 CONT 
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender
+1 CONT geassisteerrt met Judich Janss, de kijnderen grootmoeder.
+1 CONT 
+0 @N2680@ NOTE na 1633 : 	Vermelding
+1 CONT 
+1 CONT Fol. 214r
+1 CONT 
+1 CONT Staet ende inventaris voor Juetken Janss weduwe Aert Dieliss van de goed
+1 CONC eren die sij tesamen beseten hebben.
+1 CONT 
+1 CONT Maeijken Aertss, Dielis Aertss, Lijsbet Aertss ende Gerit Aertss hebbe
+1 CONC n elk een deel gekregen, zij zijn getrout. De vier niet getroude kijnder
+1 CONC en, Jan, sterfft cortelings naede vader, Heijltken ende Jenneken hebbe
+1 CONC n noch naer haer vader geleeft, ontrent 2 ofte 3 maenden soo het in de s
+1 CONC iekte was van mansvolders ende Pieter Aertss heeft noch 4 jaer naer de v
+1 CONC ader geleefd.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2681@ NOTE --- : 	Vermelding
+1 CONT 
+1 CONT Fol. 166r
+1 CONT 
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT 
+1 CONT Fol. 167r
+1 CONT 
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender
+1 CONT geassisteerrt met Judich Janss, de kijnderen grootmoeder.
+1 CONT 
+0 @N2682@ NOTE voor 22 oktober 1609 : 	
+1 CONT Overlijden - Sprang of omgeving
+1 CONT Bronnen: 22-10-1609 is de datum van een akte waarin hij als saliger besc
+1 CONC hreven wordt
+0 @N2683@ NOTE na 22 oktober 1609 : 	Vermelding
+1 CONT 
+1 CONT Vermeld waar hij land heeft, hij zaliger genoemd kort daarna, andere akt
+1 CONC e
+1 CONT Folio 238v
+1 CONT Dat voor ons comen is
+1 CONT Geerit Peeter Schouten, ende heeft overgegeven met een vrij gifte soe al
+1 CONC s recht is, Adriaen Arienss sijnen swager die helft van een geseedt, t
+1 CONC e weeten de oosten sijde, met die vuijtcamer, ende de schuer die op de w
+1 CONC esten sijde staet ende sal blijven
+1 CONT staen met alle die geboomte die op die oosten sijde staen, behalven de
+1 CONC n breen aeijcken boom die voor het huijs staet, die sal sijn halff end
+1 CONC e halff, gelegen inden ambacht van Sprange in die nieustraet, waer ten o
+1 CONC osten naest geerft sijn de kijnden van Jan Aertss Leempoel salr, weest d
+1 CONC en voorss Geerit Peeterss, ...etc
+1 CONT 
+1 CONT Folio 240v
+1 CONT Beijde testeuren sal hebben, behouden, besitten, ende gebruijcken hen le
+1 CONC ven lanck, het huijs metten weestenssen acker met halff den hooff ende h
+1 CONC alff den boomgaert, vuijtgescheijden de groete vuijtcamer, dar sij testa
+1 CONC tueren nu tegenwoordich op woonende sijn, waer ten oosten naesten geerf
+1 CONC t sijn de kijnderen van Jan Aertss Leempoel zae, weest Anthonis Hendrick
+1 CONC ss Vennincx...etc zelfde datum
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-49
+0 @N2684@ NOTE tussen 1611 en 27 juni 1621 : 	Vermelding
+1 CONT 
+1 CONT Jan Aerts was secretaris van Sprang, kinderen in akte genoemd, Peter Jan
+1 CONC s wordt opvolger als secretaris
+1 CONT Dat voor ons gecomen ende gecompareet
+1 CONT is Adriaen Janss van Grevenbroeck als man ende voicht van Lisabeth Peete
+1 CONC r Millings dochter, die hij verweckt heeft bij Anneken Claes de Wits doc
+1 CONC hter, weduwe wijlen lestmael van van Jan Aertss Leempoel za: in sijnen l
+1 CONC even Secretaris inden dorpe van Sprangh, ende heeft overgegeven in plaet
+1 CONC s van deelinge Adriaen Janss Leempoel, Pieter Janss Leempoel, Maria Jan
+1 CONC s Leempoels dgr, ende Merten Adriaenss Glaveman als man ende voicht va
+1 CONC n Niclaesken Jans Leempoels dochter, alle sijn gerechte aenpaert ende ge
+1 CONC deelten in allen die goederen met allen incomende ende vuijtgaende schul
+1 CONC den hoedaenich die selffde souden moegen weesen, die hen aengecomen end
+1 CONC e aenbestorven sijn van weeghen Lisabeth Pieters dgr voorss, vande voors
+1 CONC s Anneken Claes de Wits dochter weduwe voorss, moeder vande voorss ……. h
+1 CONC alve susters, ende broeders, ende oock in geenderhande manieren geen act
+1 CONC ie meer te pretenderen vande voorss Lisabet vaders goederen, sonder da
+1 CONC t Adriaen Janss van Grevenbroeck inde voorss aenbestorven goederen nu no
+1 CONC ch te euwigen dagen meer naer sal moegen vertaelen ofte ghenen actie i
+1 CONC n en sal moegen houden, hij noch aengeven sijnen nacomelinge, oft te qua
+1 CONC me dor versterffve
+1 CONT Folio 327r
+1 CONT van susters ende broeders. Ende Adriaen Janss van Grevenbroeck als man e
+1 CONC nde voicht van Lisabet Peeters dochter voorss, heeft op allen dese sijn
+1 CONC e aenbestorven goederen verteeghen tot behoefte vande voorss Adriaen Jan
+1 CONC ss Leempoel, Pieter Janss Leempoel, Maria Jans Leempoel dochter, ende Me
+1 CONC rten Adriaenss Glavimans als man ende voicht van Niclaesken Jans Leempoe
+1 CONC ls dochter voorss naeden recht vanden lande, actum desen VIIen Decembri
+1 CONC s anno XVIc ende elff, present Henrick Anthoniss Schoutent in Sprangh, J
+1 CONC an Janss Moelegraeff, Henrick Adriaenss Oerleman, Jan Dirckss, Adriaen W
+1 CONC illemss, Frans Corstiaenss, Jan Jan Meeuss Moelegraeff, ende Adriaen Mar
+1 CONC tenss Glaveman heemraders inden dorpe voornoemt.
+1 CONT 
+1 CONT Adriaen Janss van Grevenbroeck bekent dat hij van Adriaen Janss Leempoel
+1 CONC , Pieter Janss Leempoel, Mariken Jans dgr ofte Henrick Corstiaenss haere
+1 CONC n man, ende Merten Adriaenss Glaviman als man ende voicht van Claesken J
+1 CONC ans dgr,van dese voorss vuijtcoop ofte overgifte, geheel ende al te voll
+1 CONC en betaelt ende voldaen is, present Adriaen Mertenss Glaviman ende Henri
+1 CONC ck Adriaenss Oerlman heemraders, actum desen XXVIIen Junij anno 1621.
+1 CONT 
+1 CONT Scheijdinge ende deelinghe aengebrocht voor Schout ende Heemraders des a
+1 CONC mbachts van Sprange, bij de kijnderen ende erffgenamen..deze akte gaat v
+1 CONC erder maar is tre lang om hier opgenomen te worden, zie bron
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-49
+0 @N2685@ NOTE  na 28 maart 1630 : 	Vermelding
+1 CONT 
+1 CONT Fol. 166r
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT Fol. 167r
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender
+1 CONT geassisteerrt met Judich Janss, de kijnderen grootmoeder.
+1 CONT 
+1 CONT Bronnen: Doekefkes. nl
+0 @N2686@ NOTE  na 1633 : 	Vermelding
+1 CONT 
+1 CONT Fol. 214r
+1 CONT Staet ende inventaris voor Juetken Janss weduwe Aert Dieliss van de goed
+1 CONC eren die sij tesamen beseten hebben.
+1 CONT Maeijken Aertss, Dielis Aertss, Lijsbet Aertss ende Gerit Aertss hebbe
+1 CONC n elk een deel gekregen, zij zijn getrout. De vier niet getroude kijnder
+1 CONC en, Jan, sterfft cortelings naede vader, Heijltken ende Jenneken hebbe
+1 CONC n noch naer haer vader geleeft, ontrent 2 ofte 3 maenden soo het in de s
+1 CONC iekte was van mansvolders ende Pieter Aertss heeft noch 4 jaer naer de v
+1 CONC ader geleefd.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2687@ NOTE Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2
+1 CONC 015-09-14-13-53-39/sprang-ra-49
+0 @N2688@ NOTE na 1633 : 	Vermelding
+1 CONT 
+1 CONT Fol. 214r
+1 CONT 
+1 CONT Staet ende inventaris voor Juetken Janss weduwe Aert Dieliss van de goed
+1 CONC eren die sij tesamen beseten hebben.
+1 CONT 
+1 CONT Maeijken Aertss, Dielis Aertss, Lijsbet Aertss ende Gerit Aertss hebbe
+1 CONC n elk een deel gekregen, zij zijn getrout. De vier niet getroude kijnder
+1 CONC en, Jan, sterfft cortelings naede vader, Heijltken ende Jenneken hebbe
+1 CONC n noch naer haer vader geleeft, ontrent 2 ofte 3 maenden soo het in de s
+1 CONC iekte was van mansvolders ende Pieter Aertss heeft noch 4 jaer naer de v
+1 CONC ader geleefd.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2689@ NOTE  --- : 	Vermelding
+1 CONT 
+1 CONT Fol. 166r
+1 CONT 
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT 
+1 CONT Fol. 167r
+1 CONT 
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender
+1 CONT geassisteerrt met Judich Janss, de kijnderen grootmoeder.
+1 CONT 
+0 @N2690@ NOTE na 28 maart 1630 : 	Vermelding
+1 CONT 
+1 CONT Fol. 166r
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT Fol. 167r
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender
+1 CONT geassisteerrt met Judich Janss, de kijnderen grootmoeder.
+1 CONT 
+1 CONT Bronnen: Doekefkes. nl
+0 @N2691@ NOTE na 1633 : 	Vermelding
+1 CONT 
+1 CONT Fol. 214r
+1 CONT Staet ende inventaris voor Juetken Janss weduwe Aert Dieliss van de goed
+1 CONC eren die sij tesamen beseten hebben.
+1 CONT Maeijken Aertss, Dielis Aertss, Lijsbet Aertss ende Gerit Aertss hebbe
+1 CONC n elk een deel gekregen, zij zijn getrout. De vier niet getroude kijnder
+1 CONC en, Jan, sterfft cortelings naede vader, Heijltken ende Jenneken hebbe
+1 CONC n noch naer haer vader geleeft, ontrent 2 ofte 3 maenden soo het in de s
+1 CONC iekte was van mansvolders ende Pieter Aertss heeft noch 4 jaer naer de v
+1 CONC ader geleefd.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2692@ NOTE 1637 : 	
+1 CONT Overlijden - Sprang of omgeving
+1 CONT 
+1 CONT Bronnen: zie notariele akte , daarin vermeld dat hij drie jaar na zijn v
+1 CONC ader overleden is
+1 CONT 
+0 @N2693@ NOTE na 28 maart 1630 : 	Vermelding
+1 CONT 
+1 CONT Fol. 166r
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT Fol. 167r
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender
+1 CONT geassisteerrt met Judich Janss, de kijnderen grootmoeder.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-61
+0 @N2694@ NOTE na 9 juni 1631 : 	Vermelding
+1 CONT 
+1 CONT Los vel bij folio 221
+1 CONT Handrick Willemss nu x de weduwe van Dielis Handrickssen Cleijn bekent w
+1 CONC el ende deugdelijck schuldich te wesen Jenneken Dielissen weduwe van Ja
+1 CONC n Handrickssen Cleijn, 9-6-1631?
+1 CONT Toegevoegd: Jenneken heeft de penningen betaelt aan Jan Adriaenss Roos a
+1 CONC ls voochrt van de kijnderen van Wouter Bocxssen?
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-58
+0 @N2695@ NOTE na 1631 : 	Vermelding
+1 CONT 
+1 CONT Fol. 103r
+1 CONT Scheijdinge ende deelinge aengebrocht bij Jenneken Dielen weduwe Jan Han
+1 CONC drickss Cleijn ter eenre ende Jacob Janss Cleijn mede als voocht van he
+1 CONC t kijnt, Jan, van Dielen Janss Cleijn bij Maeijken Cornelis Baeijenss en
+1 CONC de als voocht van het kijnt, Tonis, van Dirck Janss Cleijn bij Jenneke
+1 CONC n Tonis, Joost Janss Cleijn, Ghijsbrecht Jan Ghijsbrechtss x Thonisken J
+1 CONC ans Cleijn, Neeltken Jans Cleijn ende Dirck Jan Handrickss als voocht va
+1 CONC n het kijnt, Wouter, van Jan Handrickss Cleijn ter andere zijde, erffgen
+1 CONC amen van Jan Handrickss Cleijn, vader.
+1 CONT niet gedateerd; is tussen aktes 10-6-1631 en 2-3-1632
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2696@ NOTE na 1632 : 	Vermelding
+1 CONT 
+1 CONT Fol. 166r
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT Fol. 167r
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender
+1 CONT geassisteerrt met Judich Janss, de kijnderen grootmoeder.
+1 CONT 
+1 CONT Bronnen: Doekefkes. nl
+0 @N2697@ NOTE  na 1633 : 	Vermelding
+1 CONT 
+1 CONT Fol. 214r
+1 CONT Staet ende inventaris voor Juetken Janss weduwe Aert Dieliss van de goed
+1 CONC eren die sij tesamen beseten hebben.
+1 CONT Maeijken Aertss, Dielis Aertss, Lijsbet Aertss ende Gerit Aertss hebbe
+1 CONC n elk een deel gekregen, zij zijn getrout. De vier niet getroude kijnder
+1 CONC en, Jan, sterfft cortelings naede vader, Heijltken ende Jenneken hebbe
+1 CONC n noch naer haer vader geleeft, ontrent 2 ofte 3 maenden soo het in de s
+1 CONC iekte was van mansvolders ende Pieter Aertss heeft noch 4 jaer naer de v
+1 CONC ader geleefd.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2698@ NOTE na 5 mei 1642 : 	Vermelding
+1 CONT 
+1 CONT Fol. 151r
+1 CONT Dat voor ons gecomen ende gecompareert sijn Jenneken Dielen weduwe van J
+1 CONC an Handrickss Cleijn geassisteert met lambert Janss Rommen ende Ghijsber
+1 CONC t Jan Gijssen, swagers, ende hebben overgegeven aen Gieljan Janss Schali
+1 CONC edecker een geseet mette huijsinge, 5-5-1642. Er wordt betaald via een w
+1 CONC ilkeur.
+1 CONT Toegevoegd: Wouter Janss Cleijn is voldaen. Thomas Dirckss is voldaen. L
+1 CONC auris Willemss x Jenneken Toniss en Lambert Janss Rommen als voocht va
+1 CONC n de kijnderen van Jacob Janss Cleijn sijn voldaen, 12-9-1648. Jan Diele
+1 CONC n is voldaen.
+1 CONT Los vel als quitantie aanwezig van Lambert Janss Rommen x Neeltken Jan
+1 CONC s Cleijn.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-58
+0 @N2699@ NOTE Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2
+1 CONC 015-09-14-13-53-39/sprang-ra-56
+0 @N2700@ NOTE 
+1 CONT 
+1 CONT Regional archive Langstraat Heusden Altena in Heusden en Altena (Netherl
+1 CONC ands), Church records baptisms
+1 CONT Bron: doop-, trouw- en begraafboek, Part: Sprang_Capelle01, Period: 1611
+1 CONC -1669, Sprang, archive 1024, inventory number Sprang_Capelle01, June 28
+1 CONC , 1648, Dopen en trouwen (Nederduits gereformeerde gemeente), folio 89v
+0 @N2701@ NOTE voor 3 augustus 1644 : 	Overlijden
+1 CONT Bronnen: Wordt in akte van die datum Zaliger genoemd.
+0 @N2702@ NOTE na 3 augustus 1644 : 	Vermelding
+1 CONT 
+1 CONT Fol. 237r
+1 CONT Scheijdinge ende deelinge aengebrocht bij Joost ende Wouter Janss Cleijn
+1 CONC , Lambert Jans Rommen x Neeltken Janss mede als voocht van de kijndere
+1 CONC n van Jacob janss Cleijn, Ghijsbert Jan Ghijssen x Tonisken Janss, Lauri
+1 CONC s Willemss als schoonvader van Thonis Dirckss, soon van Dirck Janss Clei
+1 CONC jn ende Handrick Willemss als schoonvader van Jan Dieliss soon van Dieli
+1 CONC s Janss Cleijn, kinderen van Jenneken Dielen weduwe Jan Handrickss Cleij
+1 CONC n, 3-8-1644.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-58
+0 @N2703@ NOTE  na 1644 : 	Vermelding
+1 CONT 
+1 CONT Fol. 233v
+1 CONT Op alle conditien ende voorwaerde hier naer beschreven soo willen de gel
+1 CONC ijcke kijnderen, van Jenneken Dielen za weduwe van Jan Handrickss Cleijn
+1 CONC : Joost, Wouter, Lambert Jans Rommen x Neeltken, de kijnderen van Jacob
+1 CONC , Ghijsbert Jan Ghijssen x Tonisken, Lauris Willem Floriss als schoonvad
+1 CONC er van Thonis Dirckss Cleijn ende Handrick Willemss als schoonvader va
+1 CONC n Jan Dieliss Cleijn vercoopende goederen van Jenneken.
+1 CONT Niet gedateerd, tussen 30-4-1644 en 3-8-1644
+1 CONT Fol. 234
+1 CONT Reeckeninge voor Ghijsbert Jan Gijssen die hij is doende aende gelijck
+1 CONC e kijnderen van Jenneken Dielen weduwe van Jan Handrickss Cleijn van d
+1 CONC e penningen die hij van Jenneken, sijn vrouws moeder, ontfangen ende ver
+1 CONC schoten had, 3-8-1644
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-58
+0 @N2704@ NOTE na 7 maart 1652 : 	Vermelding
+1 CONT 
+1 CONT Fol. 36v
+1 CONT Scheijdinge ende deelinge aengebrocht bij Joost Geeritss Cool x Lijske
+1 CONC n Aertsdr ende dat van wegen Juetken Jans ende Geerit Cornelis Tuijmelae
+1 CONC r ende Lenaert Handricks van Milbrecht ende mede namens [Jan?] Corneli
+1 CONC s Tuijmelaer ende Joost Dierckxse van Campen als voocht vande kijndere
+1 CONC n van Goijert Jansen Gijben haeren voocht in desen vanwege haer grootvad
+1 CONC er, Cornelis Loeff, den schout, als oppervoocht van de kijnderen van Die
+1 CONC lis Aertss Coeckman ende Corstaien Dielissen ende Aert Dielisse Coeckman
+1 CONC , present sijnde, als grootmoeder vande voors kijnderen, 7-3-1652.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-60
+0 @N2705@ NOTE Zij huwt 1 Dielis Aertsz en 2 Jan Hendricksz Kleijn (genealogie gee
+1 CONC ft het andersom weer, in Aldfaer staat het correct)
+1 CONT 
+1 CONT In en akte van Wouter Dielen duikt opeens de naam Leempoel als achternaa
+1 CONC m op:
+1 CONT Op huijden den elfften Julijus anno XVIc ende acht zoe is voor ons Schou
+1 CONC t ende Heemraders van Sprange gecompareert ende gecomen, Wouter Dielis
+1 CONC s Leempoel, ende heeft aengenomen zijne drie onmundighe weeskijnderen, d
+1 CONC ie hij verweckt heeft bij Geeriken
+1 CONT Jans dochter, zijne overleden huijsvrouwe.
+1 CONT Zie bij Wouter Dielen voor zijn complete inventaris na overlijden van zi
+1 CONC jn vrouw.
+1 CONT 
+1 CONT Jenneke wordt ook Jenneke Dielis Aerts genoemd, naar haar eerste echtgen
+1 CONC oot. Bovengenoemde Wouters is mogelijk haar zoon bij Dielis Aertsz? 
+0 @N2706@ NOTE 1637 : 	Overlijden - Sprang of omgeving
+1 CONT Bronnen: zie notariele akte , daarin vermeld dat hij drie jaar na zijn v
+1 CONC ader overleden is
+0 @N2707@ NOTE circa 1655 : 	Huwelijk (met Maeijcken Simons Gester)
+1 CONT Bronnen: zie bijgevoegde not. aktes bij Aert, zijn gehuwd voor de eerst
+1 CONC e doop van hun kinderen
+0 @N2708@ NOTE 8 augustus 1621 : 	Doop - Sprang
+1 CONT 
+1 CONT vader Jan Hendrickszoon, geen moeder, geen getuigen vermeld
+1 CONT 
+1 CONT In de gezinsreconstructie van Sprang wordt hij een kind van Jan Hendric
+1 CONC k en Maaijke Pieters genoemd. In de originele doopnotering staat geen na
+1 CONC am van de moeder dus de vraag is; klopt deze doopdatum niet of klopt d
+1 CONC e gezinsreconstructie niet? Hij is volgens de aktes echt een zoon van Je
+1 CONC nneke Leempoel en geboren ca 1621 op basis van zijn huwelijk.
+1 CONT Gevonden een huwelijk van bovengenoemde Maaijke Pieters met Jan Hendrick
+1 CONC s in 1616, Jan Hendrick is een jongman dus het betreft hier zeker een an
+1 CONC dere Jan Hendrikcksz.
+1 CONT Wouter Jansz kan ook ook ouder zijn.
+0 @N2709@ NOTE na 28 maart 1630 : 	Vermelding
+1 CONT 
+1 CONT Jenneke Aerts Leempoel en haar kinderen genoemd
+1 CONT 28-3-1630 Fol. 166r
+1 CONT Inventaris overgebrocht [Jan ipv bij] Jenneken Dielis weduwe van Dieli
+1 CONC s Aertss Coeckman ende dat van de goederen die sij tesamen beseten hebbe
+1 CONC n.
+1 CONT Fol. 167r
+1 CONT Op heden datum desen 28-3-1630 compareerden Jenneken Dielis weduwe van D
+1 CONC ielis Aertss Coeckman ende heeft aengnomen haer twee kijnderen, Corstiae
+1 CONC n ende Aert, bij Dielis ende dat van Goijert Janss Gijben als voocht end
+1 CONC e Adrjaen Crijnen als toesiender
+1 CONT geassisteerrt met Judich Janss, de kijnderen grootmoeder.
+1 CONT 
+1 CONT Ca 1632 Fol. 103r
+1 CONT Scheijdinge ende deelinge aengebrocht bij Jenneken Dielen weduwe Jan Han
+1 CONC drickss Cleijn ter eenre ende Jacob Janss Cleijn mede als voocht van he
+1 CONC t kijnt, Jan, van Dielen Janss Cleijn bij Maeijken Cornelis Baeijenss en
+1 CONC de als voocht van het kijnt, Tonis, van Dirck Janss Cleijn bij Jenneke
+1 CONC n Tonis, Joost Janss Cleijn, Ghijsbrecht Jan Ghijsbrechtss x Thonisken J
+1 CONC ans Cleijn, Neeltken Jans Cleijn ende Dirck Jan Handrickss als voocht va
+1 CONC n het kijnt, Wouter, van Jan Handrickss Cleijn ter andere zijde, erffgen
+1 CONC amen van Jan Handrickss Cleijn, vader.
+1 CONT 
+1 CONT 5-2-1632 Fol. 107v
+1 CONT Dat voor ons gecomen ende gecompareert sijn Joost Janss Cleijn mede al
+1 CONC s voocht ende Handrick Willemss x Maeijken Cornelis Baeijens mede als to
+1 CONC esiender van het kijnt van Dielis Janss Cleijn bij Maeijken voorss end
+1 CONC e mede als voocht ende Dirck Dirckss
+1 CONT van Campen den Jongen als toesiender van het kijnt van Dirck Janss Cleij
+1 CONC n bij Jenneken Toniss Oerlman, , Ghijsbrecht Jan Ghijsbrechtss x Toniske
+1 CONC n Jans Cleijn, Neeltken Jans Cleijn ende Dirck Jan Handrickss als vooch
+1 CONC t van het kijnt, Wouter, van Jan
+1 CONT Handrickss Cleijn bij Jenneken Dielis ende Willem Hanz Dirck Franss name
+1 CONC ns Jacob Janss Cleijn, procuratie notaris te Dongen 5-2-1632, ende hebbe
+1 CONC n overgegeven aen Jan Adriaenss Spranger, 20-3-1632. Er wordt betaald vi
+1 CONC a een wilkeur.
+1 CONT 
+1 CONT 5-5-1642 Fol. 151r
+1 CONT Dat voor ons gecomen ende gecompareert sijn Jenneken Dielen weduwe van J
+1 CONC an Handrickss Cleijn geassisteert met lambert Janss Rommen ende Ghijsber
+1 CONC t Jan Gijssen, swagers, ende hebben overgegeven aen Gieljan Janss Schali
+1 CONC edecker een geseet mette huijsinge. Er wordt betaald via een wilkeur.
+1 CONT Toegevoegd: Wouter Janss Cleijn is voldaen. Thomas Dirckss is voldaen. L
+1 CONC auris Willemss x Jenneken Toniss en Lambert Janss Rommen als voocht va
+1 CONC n de kijnderen van Jacob Janss Cleijn sijn voldaen, 12-9-1648. Jan Diele
+1 CONC n is voldaen.
+1 CONT Los vel als quitantie aanwezig van Lambert Janss Rommen x Neeltken Jan
+1 CONC s Cleijn.
+1 CONT 
+1 CONT 3-8-1644 Fol. 237r
+1 CONT Scheijdinge ende deelinge aengebrocht bij Joost ende Wouter Janss Cleijn
+1 CONC , Lambert Jans Rommen x Neeltken Janss mede als voocht van de kijndere
+1 CONC n van Jacob janss Cleijn, Ghijsbert Jan Ghijssen x Tonisken Janss, Lauri
+1 CONC s Willemss als schoonvader van Thonis Dirckss, soon van Dirck Janss Clei
+1 CONC jn ende Handrick Willemss als schoonvader van Jan Dieliss soon van Dieli
+1 CONC s Janss Cleijn, kinderen van Jenneken Dielen weduwe Jan Handrickss Cleij
+1 CONC n.
+1 CONT 
+1 CONT 6-10-1647 Fol. 103v
+1 CONT Scheijdinge ende deelinge aengebrocht bij Wouter Janss Cleijn x Ariaentk
+1 CONC en Willemss van Ammeroiijen ter eenre ende Frans Willemss van Ammeroije
+1 CONC n als voocht ende Michiel Aertss van Diessen als toesiender van Peterke
+1 CONC n Willems van Ammeroijen ter andere sijde ende dat van de goederen die v
+1 CONC an Willem Willemss van Ammeroijen ende Lijsken Corsten, de ouders van Ar
+1 CONC iaentken ende Peterken.
+1 CONT 
+1 CONT 4-2-1648 Fol. 120r
+1 CONT Dat voor ons gecomen ende gecompareert is Ghijsbert Janss van Dijck end
+1 CONC e Jan Adriaenss van Dijck ende hebben overgegeven aen Wouter Janss Cleij
+1 CONC n een geseeth mette huijsinge.
+1 CONT 
+1 CONT 30-5-1648 Fol. 133r
+1 CONT Op 30-5-1648 maakt Anthonis Dirckss Cleijn ten huijse van Lauris Wille
+1 CONC m Floris sijn testament.
+1 CONT Genoemd: Janneken Toniss Oerlmans, sijn moeder
+1 CONT Toegevoegd: op 31-8-1648 krijgen Wouter Jans Cleijn, Gijsbert Jan Gijsse
+1 CONC n ende Lambert Janss geld.
+1 CONT Janneken Tonis x Lauris Willemss.
+1 CONT Los vel aanwezig mbt deze akte. Folio 135
+1 CONT 
+1 CONT 21-9-1648 Fol. 140v
+1 CONT Dat voor ons gecomen ende gecompareert is Adriaen Jacobss ende heeft ove
+1 CONC rgegeven aen Wouter Janss Cleijn, raeijmaecker.
+1 CONT 
+1 CONT 11-1-1649 Fol. 154v
+1 CONT Dat voor ons gecomen ende gecompareert is Jan Claes Raeijmaecker ende he
+1 CONC eft overgegeven aen Wouter Janss Cleijn, raeijmaecker, een geseet mett
+1 CONC e huijsinge.
+1 CONT 
+1 CONT 23-1-1649 Fol. 160V
+1 CONT Dat voor ons gecomen ende gecompareert is Wouter Janss Cleijn ende heef
+1 CONC t overgegeven aen Corst Ghijsbertss een geseet mette huijsinge etc.
+1 CONT 
+1 CONT 28-12-1650 Fol. 15r
+1 CONT Dat voor ons gecomen ende gecompareert is Wouter Janse Clijn ende heef
+1 CONC t overgegeven aen Cornelis Peeterss Bruijgelmans een geseet mette huijsi
+1 CONC nge, 28-12-1650. Er wordt betaald via een wilkeur
+1 CONT 
+1 CONT 7-3-1651 Fol. 27r
+1 CONT Dat voor ons gecomen ende gecompareert is Wouter Janse Clijn ende heef
+1 CONC t overgegeven aen Jan Pauluss eenen acker,
+1 CONT 
+1 CONT 05-10-1657
+1 CONT Dat voor ons gecomen ende gecompareert is Wouter Janse Clijn ende heef
+1 CONC t overgegeven aen Bernt Anton Tonissen, diaken, 5-10-1657.
+1 CONT 
+1 CONT 12-12-1698
+1 CONT Fol. 132
+1 CONT Erfdeelinge aengebracht bij ende tusschen Corstiaen Cleijn, Anthonij Rom
+1 CONC bouts mede namens sijn kinderen bij Jenneke Cleijn, Wouter Cleijn ende C
+1 CONC ornelis den Engelsen x Adriaentje Cleijn mede namens Johannes Cleijn, br
+1 CONC oeder, Swaluwe, kinderen van Jan
+1 CONT Cleijn, Sacharias de Roon als vader ende vooght van twee kinderen bij Li
+1 CONC jsbeth Cleijn, Marie Cleijn weduwe Adriaen van Campen met Anthonij van C
+1 CONC ampen als vooght, en Willemke Cleijn, kinderen van Hendrick Jansen Cleij
+1 CONC n en Adriaentje Willems van Ameroijen, alhier overleden, van de goedere
+1 CONC n van hun ouders,12-12-1698.
+1 CONT http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-09-14-13-5
+1 CONC 3-39/sprang-ra-64
+1 CONT 
+1 CONT 13-12-1698
+1 CONT Fol. 134r
+1 CONT Reeckeninge bewijs en reliqua die doende is de secretaris van de vercoo
+1 CONC p van de goederen van Wouter Janse Cleijn, alhier overleden, 13-12-1698.
+1 CONT 
+1 CONT http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-09-14-13-5
+1 CONC 3-39/sprang-ra-64
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-60
+0 @N2710@ NOTE 19 januari 1645 : 	Huwelijkstoestemming (met Adriaentje Willems (Ar
+1 CONC iaenke) van Ammelrooij alias Buijrknegt) - Sprang
+1 CONT Bronnen: http://salha.nl/archieven-en-collecties/voorouders/bladeren-doo
+1 CONC r-genealogische-bronnen/trefwoord/register_type/Doop%2C%20Trouw%20en%20B
+1 CONC egraaf%20Registers
+0 @N2711@ NOTE 8 augustus 1621 : 	Doop - Sprang
+1 CONT 
+1 CONT vader Jan Hendrickszoon, geen moeder, geen getuigen vermeld
+1 CONT 
+1 CONT In de gezinsreconstructie van Sprang wordt hij een kind van Jan Hendric
+1 CONC k en Maaijke Pieters genoemd. In de originele doopnotering staat geen na
+1 CONC am van de moeder dus de vraag is; klopt deze doopdatum niet of klopt d
+1 CONC e gezinsreconstructie niet? Hij is volgens de aktes echt een zoon van Je
+1 CONC nneke Leempoel en geboren ca 1621 op basis van zijn huwelijk.
+1 CONT Gevonden een huwelijk van bovengenoemde Maaijke Pieters met Jan Hendrick
+1 CONC s in 1616, Jan Hendrick is een jongman dus het betreft hier zeker een an
+1 CONC dere Jan Hendrikcksz.
+1 CONT Wouter Jansz kan ook ook ouder zijn.
+0 @N2712@ NOTE na 20 maart 1632 : 	Vermelding
+1 CONT 
+1 CONT Toniske wordt als dochter genoemd met echtgenoot
+1 CONT Fol. 107v
+1 CONT Dat voor ons gecomen ende gecompareert sijn Joost Janss Cleijn mede al
+1 CONC s voocht ende Handrick Willemss x Maeijken Cornelis Baeijens mede als to
+1 CONC esiender van het kijnt van Dielis Janss Cleijn bij Maeijken voorss end
+1 CONC e mede als voocht ende Dirck Dirckss
+1 CONT van Campen den Jongen als toesiender van het kijnt van Dirck Janss Cleij
+1 CONC n bij Jenneken Toniss Oerlman, , Ghijsbrecht Jan Ghijsbrechtss x Toniske
+1 CONC n Jans Cleijn, Neeltken Jans Cleijn ende Dirck Jan Handrickss als vooch
+1 CONC t van het kijnt, Wouter, van Jan
+1 CONT Handrickss Cleijn bij Jenneken Dielis ende Willem Hanz Dirck Franss name
+1 CONC ns Jacob Janss Cleijn, procuratie notaris te Dongen 5-2-1632, ende hebbe
+1 CONC n overgegeven aen Jan Adriaenss Spranger, 20-3-1632. Er wordt betaald vi
+1 CONC a een wilkeur.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2713@ NOTE --- : 	Huwelijk (met Ghijsbrecht Jan Ghijsbrechts ?) - Dongen?
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2714@ NOTE --- : 	Huwelijk (met Ghijsbrecht Jan Ghijsbrechts ?) - Dongen?
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-56
+0 @N2715@ NOTE Regional archive Langstraat Heusden Altena in Heusden en Altena (Ne
+1 CONC therlands), Church records baptisms
+1 CONT Bron: doop-, trouw- en begraafboek, Part: Sprang_Capelle01, Period: 1611
+1 CONC -1669, Sprang, archive 1024, inventory number Sprang_Capelle01, Septembe
+1 CONC r 8, 1658, Dopen en trouwen (Nederduits gereformeerde gemeente), folio 9
+1 CONC 3v
+0 @N2716@ NOTE Regional archive Langstraat Heusden Altena in Heusden en Altena (Ne
+1 CONC therlands), Church records baptisms
+1 CONT Bron: doop-, trouw- en begraafboek, Part: Sprang_Capelle07, Period: 1611
+1 CONC -1669, Sprang, archive 1024, inventory number Sprang_Capelle07, May 6, 1
+1 CONC 661, Dopen en trouwen (Nederduits gereformeerde gemeente), folio 41r
+0 @N2717@ NOTE Regional archive Langstraat Heusden Altena in Heusden en Altena (Ne
+1 CONC therlands), Church records baptisms
+1 CONT Bron: doop-, trouw- en begraafboek, Part: Sprang_Capelle01, Period: 1611
+1 CONC -1669, Sprang, archive 1024, inventory number Sprang_Capelle01, July 21
+1 CONC , 1667, Dopen en trouwen (Nederduits gereformeerde gemeente), folio 100v
+0 @N2718@ NOTE 
+1 CONT 
+1 CONT Regional archive Langstraat Heusden Altena in Heusden en Altena (Netherl
+1 CONC ands), Church records baptisms
+1 CONT Bron: doop-, trouw- en begraafboek, Part: Sprang_Capelle01, Period: 1611
+1 CONC -1669, Sprang, archive 1024, inventory number Sprang_Capelle01, April 29
+1 CONC , 1669, Dopen en trouwen (Nederduits gereformeerde gemeente), folio 102v
+0 @N2719@ NOTE na 28 oktober 1690 : 	Vermelding
+1 CONT 
+1 CONT Fol. 262v
+1 CONT 
+1 CONT Inventaris van alle goederen bij Sacharias Lauris ende Lijsbeth Cleijn i
+1 CONC n gemeenschap beseten. De vader van Lijsbeth is Wouter Jans Cleijn.
+1 CONT 
+1 CONT Fol. 262v
+1 CONT 
+1 CONT Op huijden desen 28e october 1690 compareerden Sacharias Lauris de Ron w
+1 CONC eduwenaer van Lijsbeth Wouters Cleijn ter eenre ende Corstiaen Cleijn, s
+1 CONC choolmeester alhier, als vooght ende Adriaen lauris de Ron als toesiende
+1 CONC r over de twee kinderen, Laurens
+1 CONT ende Adriaentje, van Sacharias ende Lijsbeth ter andere sijde ende sluij
+1 CONC ten een accoort.
+1 CONT 
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-63
+0 @N2720@ NOTE voor 18 oktober 1690 : 	Overlijden
+1 CONT Bronnen: zie akte bij feiten, zij is dan overleden
+0 @N2721@ NOTE --- : 	Huwelijk (met Sacharias Laurisz de Ron) - Sprang of omgeving
+1 CONT 
+1 CONT Bronnen: zie notariele akte bij feiten, daarin vermeld dat hij de weduwn
+1 CONC aar is van Lijsbeth Wouters Cleijn in 1690
+0 @N2722@ NOTE --- : 	
+1 CONT Vermelding
+1 CONT 
+1 CONT Fol. 262v
+1 CONT 
+1 CONT Inventaris van alle goederen bij Sacharias Lauris ende Lijsbeth Cleijn i
+1 CONC n gemeenschap beseten. De vader van Lijsbeth is Wouter Jans Cleijn.
+1 CONT 
+1 CONT Fol. 262v
+1 CONT 
+1 CONT Op huijden desen 28e october 1690 compareerden Sacharias Lauris de Ron w
+1 CONC eduwenaer van Lijsbeth Wouters Cleijn ter eenre ende Corstiaen Cleijn, s
+1 CONC choolmeester alhier, als vooght ende Adriaen lauris de Ron als toesiende
+1 CONC r over de twee kinderen, Laurens
+1 CONT ende Adriaentje, van Sacharias ende Lijsbeth ter andere sijde ende sluij
+1 CONC ten een accoort.
+1 CONT Bronnen: http://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-0
+1 CONC 9-14-13-53-39/sprang-ra-63
+1 CONT --- : 	
+1 CONT Huwelijk (met Lijsbeth Wouters (Elisabeth) Kleijn (Cleijn, Klijn)) - Spr
+1 CONC ang of omgeving
+1 CONT Bronnen: zie notariele akte bij feiten, daarin vermeld dat hij de weduwn
+1 CONC aar is van Lijsbeth Wouters Cleijn in 1690
+0 @N2723@ NOTE 1696 : 	Geboorte - Hoogvliet
+1 CONT 
+1 CONT Dopeling Willem
+1 CONT Vader Rochus Ariense Visser
+1 CONT Moeder Maartien Hendriks Besemer
+1 CONT Getuige Pietertie Pieters
+1 CONT Plaats Hoogvliet
+1 CONT Datum doop 14-10-1696 
+0 @N2724@ NOTE 14 oktober 1696 : 	Doop - Hoogvliet
+1 CONT Bronnen: DTB Hoogvliet Doop gereformeerd, 33/334
+0 @N2725@ NOTE 1728 : 	Overlijden - Rotterdam
+1 CONT 
+1 CONT Aangifte te Hoogvliet door vader Rochus Ariens Knegt: "is verongelukt i
+1 CONC n sijn schuijtje te Rotterdam"
+1 CONT 
+1 CONT Bron of gezindte:Begraven gaarder
+1 CONT Inschrijvingsjaar:1728
+1 CONT Vader/moeder:Rocus Ariensz Knegt
+1 CONT Overledene:Willem Rocusse Knegt
+1 CONT Plaats begrafenis Hoogvliet
+1 CONT Begraafdatum:16-02-1728
+1 CONT Toegangsnummer:464 Archieven van Ambacht en Gemeente Poortugaal (incl. n
+1 CONC otarissen)
+1 CONT Inventarisnummer: 118 Folionummer: 063v 
+0 @N2726@ NOTE Religion: Nederduits-gereformeerd
+1 CONT Ledematen der gemeinte J. K. te Hoogvliet opgenomen door D. Jacobus Du M
+1 CONC archie in zijn huisbezoeking voor het H. Avondmaal gedaan den 28e juni 1
+1 CONC 734
+1 CONT Rocus Ariensz. Knegt Arij Rocusz. Knegt en zijn vrouw Jaapje Kornelisz
+1 CONC . Voogd, Pieter Rocus Knegt
+1 CONT (Source: HOOGVLIET door J.H. Brakke , Hogenda)
+0 @N2727@ NOTE  25 februari 1702 : 	Doop - Hoogvliet
+1 CONT 
+1 CONT Dopeling Jacob
+1 CONT Vader Cornelis Arendse Groen
+1 CONT Moeder Leigje Jans Spruijt
+1 CONT Getuige Neeltje Jans Spruijt
+1 CONT Plaats Hoogvliet
+1 CONT Datum doop 25-02-1702
+1 CONT Bron DTB Hoogvliet Doop gereformeerd
+1 CONT Bronnen: DTB Hoogvliet Doop gereformeerd, dooplijst Hoogvliet
+0 @N2728@ NOTE 7 juli 1730 : 	 Huwelijkstoestemming (met Maria Corstiaens Kleijn (
+1 CONC Cleijn, Klijn)) - Hoogvliet
+1 CONT Bronnen: DTB Hoogvliet Trouw gaarder
+0 @N2729@ NOTE --- : 	Huwelijk (met Maria Corstiaens Kleijn (Cleijn, Klijn)) - Hoo
+1 CONC gvliet
+1 CONT 
+1 CONT Bruidegom Jacob Cornelisz. Groen , jongeman , wonend: Hoogvliet
+1 CONT Bruid Maritje Christiaensz. Kleijn weduwe van Willem Rocusse Knegt , va
+1 CONC n Sprangh , wonend: Hoogvliet
+1 CONT Plaats Hoogvliet
+1 CONT Datum ondertrouw 07-07-1730
+1 CONT Opmerkingen Beiden 3 gulden
+1 CONT Bron DTB Hoogvliet Trouw gaarder
+1 CONT 
+0 @N2730@ NOTE Overlijden: mogelijk vroeg overleden, wordt niet genoemd in akte 14
+1 CONC -4-1734, waarin vader Christaen overleden is en boedel verdeelt wordt
+0 @N2731@ NOTE Doop: FS 154/770
+0 @N2732@ NOTE Doop: FS 155/770
+0 @N2733@ NOTE 8 juli 1700 : 	
+1 CONT Huwelijkstoestemming (met Magdalena Elisabeth Verhorst) - Sprang
+1 CONT Bronnen: https://salha.nl/bronnen/genealogy/personen/persons?f=%7B%22sea
+1 CONC rch_i_datum%22:%7B%22v%22:%5B%2217000000%22,%2217009999%22%5D,%22d%22:%2
+1 CONC 21700%20-%201700%22%7D%7D&ss=%7B%22q%22:%22eli*t*%22%7D&sort=%7B%22order
+1 CONC _i_datum%22:%22asc%22%7D&page=2
+0 @N2734@ NOTE Doop: https://salha.nl/bronnen/genealogy/personen/persons?ss=%7B"q"
+1 CONC :"verhorst"%7D&sort=%7B"order_i_datum":"asc"%7D
+0 @N2735@ NOTE Doop: https://salha.nl/bronnen/genealogy/personen/persons?ss=%7B"q"
+1 CONC :"verhorst"%7D&sort=%7B"order_i_datum":"asc"%7D
+0 @N2736@ NOTE Doop: https://salha.nl/bronnen/genealogy/personen/persons?ss=%7B"q"
+1 CONC :"verhorst"%7D&sort=%7B"order_i_datum":"asc"%7D
+0 @N2737@ NOTE Doop: https://salha.nl/bronnen/genealogy/personen/persons?ss=%7B"q"
+1 CONC :"verhorst"%7D&sort=%7B"order_i_datum":"asc"%7D
+0 @N2738@ NOTE Doop: https://salha.nl/bronnen/genealogy/personen/persons?ss=%7B"q"
+1 CONC :"verhorst"%7D&sort=%7B"order_i_datum":"asc"%7D
+0 @N2739@ NOTE Doop: https://salha.nl/bronnen/genealogy/personen/persons?ss=%7B"q"
+1 CONC :"verhorst"%7D&sort=%7B"order_i_datum":"asc"%7D
+0 @N2740@ NOTE Doop: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9QJ-3VQ?i=1
+1 CONC 67&wc=SM48-3TY%3A346028901%2C346054101%2C954369201%3Fcc%3D2037960&cc=203
+1 CONC 7960
+0 @N2741@ NOTE Doop: https://salha.nl/bronnen/genealogy/personen/persons?ss=%7B"q"
+1 CONC :"verhorst"%7D&sort=%7B"order_i_datum":"asc"%7D
+0 @N2742@ NOTE Doop: http://sprang-capelle.family/getperson.php?personID=I46997&tr
+1 CONC ee=SPC1
+0 @N2743@ NOTE Doop: http://sprang-capelle.family/getperson.php?personID=I24833&tr
+1 CONC ee=SPC1
+0 @N2744@ NOTE Doop: http://sprang-capelle.family/getperson.php?personID=I46998&tr
+1 CONC ee=SPC1
+0 @N2745@ NOTE Mogelijk deze Willem: @@N18030@@ [FROM 23 april 1743] (Source: http
+1 CONC ://www.doekefkes.nl/index.php/rechterlijke-archieven/2015-09-14-13-53-39
+1 CONC /sprang-ra-66)
+0 @N2746@ NOTE From 14 april 1734] (Source: http://www.doekefkes.nl/index.php/rech
+1 CONC terlijke-archieven/2015-09-14-13-53-39/sprang-ra-66)
+0 @N2747@ NOTE From 14 april 1734] (Source: http://www.doekefkes.nl/index.php/rech
+1 CONC terlijke-archieven/2015-09-14-13-53-39/sprang-ra-66)
+0 @N2748@ NOTE Op 25-04-1631 komt hij voor op de "Extra-ordinaire omslag over de h
+1 CONC uisgezinnen" die door de schout van Sprang Hendrick Jansz. Persijn en d
+1 CONC e heemraders is opgesteld. Erfdeling 06-10-1647.
+0 @N2749@ NOTE Doop: Archief (alg.) - Nederlands Hervormde Kerk. Gorinchem (Zuid-H
+1 CONC olland) (Main Author)-Rijksarchief in Zuid-Holland (Repository) - Kerkel
+1 CONC ijke registers, 1590-1814 - Dopen 1714-1812 - Blz 369 van 727 - 10/4/176
+1 CONC 5
+0 @N2750@ NOTE Overlijden: Archief (alg.) - Dinteloord en Prinsenland (Noord-Braba
+1 CONC nt). Burgerlijke Stand (Main Author)-Rijksarchief in Noord-Brabant (Repo
+1 CONC sitory) - Registers van de Burgerlijke Stand, 1811-1942 - Geboorten, huw
+1 CONC elijken, overlijden, 1839-1840 huwelijksafkondigingen, huwelijksbijlagen
+1 CONC , huwelijksaangiften - Blz 392 van 401 / Akte nr 56 - 13/10/1840
+0 @N2751@ NOTE Huwelijk: Archief (alg.) - Nederlands Hervormde Kerk. Gorinchem (Zu
+1 CONC id-Holland) (Main Author)-Rijksarchief in Zuid-Holland (Repository) - Ke
+1 CONC rkelijke registers, 1590-1814 - Trouwen 1761-1795, 1800 Begraven 1653-16
+1 CONC 66; 1681-1814 - Blz 193 van 724 - 27/05/1787
+0 @N2752@ NOTE Overlijden: akte nr. 118
+0 @N2753@ NOTE Overlijden: akte nr. 99
+0 @N2754@ NOTE Overlijden: akte nr. 201
+0 @N2755@ NOTE Overlijden: akte nr. 24
+0 @N2756@ NOTE Huwelijk: akte nr. 52
+0 @N2757@ NOTE Overlijden: akte nr. 63
+0 @N2758@ NOTE Overlijden: akte nr. 181
+0 @N2759@ NOTE Huwelijk: akte nr. 37
+0 @N2760@ NOTE Ovl.adv. Advertentieblad 11-06-1886 p.2
+0 @N2761@ NOTE Zijne Majesteit heeft den ijker der maten, gewichten en weegwerktui
+1 CONC gen,C.C. Bollee, met ingang van 1 januari 1875, op zijn verzoek, eervo
+1 CONC l ontslag uit zijne betrekking als zodanig verleend (Nwe Gor. Courant 28
+1 CONC -11-1874 p.1). Hij liet 1/3 gedeeltje van zijn nalatenschap aan de diaco
+1 CONC nievan de Ned. herv. gemeente te Gorcum, te aanvaarden na het overlijden
+1 CONC van zijn zuster, die tijdens haar leven het volle vruchtgebruik van zijn
+1 CONC nalatenschap heeft (Nwe Gor. Courant 17-06-1886 p.1). Na het overlijde
+1 CONC n van zijn zuster in 1908 werd gelegateerd (echter in de krant staat;F.B
+1 CONC ollee) aan het Diaconie Armhuis fl. 45.000,=, aan de Diaconie te Woudric
+1 CONC hem fl. 22.500,= en aan de weesinrichting te Neerbosch fl. 22.500,=,vri
+1 CONC j van successierechten (Nwe G.C. 01-11-1908 p.2) 
+0 @N2762@ NOTE Overlijden: akte nr. 117
+0 @N2763@ NOTE Geboorte: akte nr. 200
+0 @N2764@ NOTE Geboorte: akte nr. 131
+0 @N2765@ NOTE Ovl.adv. Nwe Gor. Courant 29-10-1908 p.3
+0 @N2766@ NOTE Overlijden: akte nr. 172
+0 @N2767@ NOTE Na haar overlijden kwam de nalatenschap van haar broer (in de kran
+1 CONC t staat; F. Bollee) waar zij het vruchtgebruik van heeft gehad, vrij: e
+1 CONC r werd gelegateerd aan het Diaconie Armhuis fl. 45.000,=, aan de Diaconi
+1 CONC e te Woudrichem fl. 22.500,= en aan de weesinrichting te Neerbosch fl. 2
+1 CONC 2.500,=, vrij van successierechten (Nwe G.C. 01-11-1908 p.2) 
+0 @N2768@ NOTE Huwelijk 1: Arkel Trouwen 1710-1809
+0 @N2769@ NOTE Huwelijk: akte nr. 19
+0 @N2770@ NOTE Overlijden: akte nr. 52
+0 @N2771@ NOTE Overlijden: akte nr. 3
+0 @N2772@ NOTE Huwelijk: akte nr. 53
+0 @N2773@ NOTE Overlijden: akte nr. 66
+0 @N2774@ NOTE Ovl.adv. Nwe Gor. Courant 26-09-1886 p.2
+0 @N2775@ NOTE Overlijden: akte nr. 263
+0 @N2776@ NOTE Huwelijk: akte nr. 10
+0 @N2777@ NOTE ovl.adv. Nwe Gor. Courant 13-02-1875 p.3
+0 @N2778@ NOTE Overlijden: akte nr. 21
+0 @N2779@ NOTE Geboorte: akte nr. 58
+0 @N2780@ NOTE Ovl.adv. Nwe Gor. Courant 21-09-1893 p.3
+0 @N2781@ NOTE Huw.adv. Nwe Gor. Courant 14-06-1879 p.3
+0 @N2782@ NOTE Geboorte: akte nr. 14
+0 @N2783@ NOTE Huwelijk: akte nr. 8
+0 @N2784@ NOTE Huw.adv. Nwe Gor. Courant 07-09-1890 p.3
+0 @N2785@ NOTE Huwelijk 2: akte nr. 175
+0 @N2786@ NOTE Geboorte: akte nr. 492
+0 @N2787@ NOTE Overlijden: akte nr. 421
+0 @N2788@ NOTE Huwelijk 1: akte nr. 8
+0 @N2789@ NOTE Geboorte: akte nr. 258
+0 @N2790@ NOTE Overlijden: akte nr. 16
+0 @N2791@ NOTE Ovl.adv. Nwe Gor. Courant 24-01-1889 p.3
+0 @N2792@ NOTE Huw.adv. Nwe Gor. Courant 13-07-1884 p.3
+0 @N2793@ NOTE Huwelijk: akte nr. 43
+0 @N2794@ NOTE Geboorte: akte nr. 132
+0 @N2795@ NOTE Geboorte: akte nr. 333
+0 @N2796@ NOTE Hij opende een auto-vrachtdienst Gorinchem-Rotterdam v.v. (adv. d
+1 CONC e 5 Rivieren 20-11-1936 p.8). Per advertentie maakte hij bekend dat hi
+1 CONC j na 44 jaar stopte met zijn sigarenmagazijn (NvGor. 22-02-1957 p.6)
+0 @N2797@ NOTE Geboorte: akte nr. 291
+0 @N2798@ NOTE Overlijden: akte nr. 41
+0 @N2799@ NOTE Huwelijk: akte nr. 17
+0 @N2800@ NOTE Geb.adv. NGC 24-07-1919 p.3
+0 @N2801@ NOTE Hij kreeg het verzetsherdenkingskruis toegekend door de burgemeeste
+1 CONC r van Delft. Hij verspreidde in de oorlog de illegale bladen van het ond
+1 CONC ergrondse Nieuwsbulletin en was lid van de landelijke organisatie voor h
+1 CONC ulp aan onderduikers Vrij Nederland. Hij was ook werkzaam bij de politie
+1 CONC ke inlichtingendienst van de Binnenlandse Strijdkrachten (NvGor. 17-12-1
+1 CONC 982 p.1) 
+0 @N2802@ NOTE Huw.adv. NvGor. 10-03-1939 p.2
+0 @N2803@ NOTE wonende in 1962 te Dordrecht en in 1977 te Den Haag
+0 @N2804@ NOTE Geboorte: akte nr. 83
+0 @N2805@ NOTE Ovl.adv. Nwe Gor. Courant 29-09-1901 p.2
+0 @N2806@ NOTE Overlijden: akte nr. 142
+0 @N2807@ NOTE Huwelijk: akte nr. 39
+0 @N2808@ NOTE Geboorte: akte nr. 61
+0 @N2809@ NOTE Overlijden: akte nr. 239
+0 @N2810@ NOTE Geboorte: akte nr. 107
+0 @N2811@ NOTE Overleden aan een hartverlamming. Een In Memoriam in Nieuwsbl.v.Gor
+1 CONC . 11-06-1952 p.1 en verslag van de uitvaart in NvGor. 16-06-1952 p.1
+0 @N2812@ NOTE Ruim 25 jaar secretaris van de Oranjever. Gorcum; voorzitter vand
+1 CONC e afd.Gor. vande Alg. Bond van handels- en kantoorbedienden en Handelsre
+1 CONC izigers Mercurius; voorzitter van het Comitˇdat gelden bijeenbracht voo
+1 CONC r derestauratie van de Ned. Herv. Kerk.
+0 @N2813@ NOTE Geboorte: akte nr. 42
+0 @N2814@ NOTE Geboorte: akte nr. 72
+0 @N2815@ NOTE Overlijden: akte nr. 9
+0 @N2816@ NOTE Geboorte: akte nr. 110
+0 @N2817@ NOTE Overlijden: akte nr. 114
+0 @N2818@ NOTE Dankbet. 25-jr huwelijk in Nwe Gor. Courant 11-05-1872 p.3
+0 @N2819@ NOTE Dankbet. 25-jr huwelijk in Nwe Gor. Courant 11-05-1872 p.3
+0 @N2820@ NOTE Geboorte: akte nr. 233
+0 @N2821@ NOTE Geboorte: akte nr. 35
+0 @N2822@ NOTE Overlijden: akte nr. 552
+0 @N2823@ NOTE Overlijden: akte nr. 24
+0 @N2824@ NOTE Godparents:Hugo Brasser Emmittje van Meteren Lijsbet Hoop Woonplaat
+1 CONC s: In de Schrijnwerckersteegh
+0 @N2825@ NOTE Huwelijk: akte nr. 8
+0 @N2826@ NOTE Ovl.adv. Advertentieblad 08-12-1882 p.2
+0 @N2827@ NOTE Overlijden: akte nr. 293
+0 @N2828@ NOTE Geboorte: akte nr. 126
+0 @N2829@ NOTE Ovl.adv. Nwe Gor. Courant 04-05-1884 p.3
+0 @N2830@ NOTE Overlijden: akte nr. 101
+0 @N2831@ NOTE Huwelijk: akte nr. 20
+0 @N2832@ NOTE Geboorte: akte nr. 78
+0 @N2833@ NOTE Huwelijk: akte nr. 1
+0 @N2834@ NOTE Overlijden: akte nr. 2
+0 @N2835@ NOTE Huwelijk: akte nr. 15
+0 @N2836@ NOTE Overlijden: akte nr. 43
+0 @N2837@ NOTE Huwelijk: akte nr. 58
+0 @N2838@ NOTE Overlijden: akte nr. 250
+0 @N2839@ NOTE Geboorte: akte nr. 43
+0 @N2840@ NOTE Overlijden: akte nr. 49
+0 @N2841@ NOTE Huwelijk: akte nr. 63
+0 @N2842@ NOTE Geboorte: akte nr. 245
+0 @N2843@ NOTE Geboorte: akte nr. 285
+0 @N2844@ NOTE Geboorte: akte nr. 90
+0 @N2845@ NOTE Geboorte: akte nr. 16
+0 @N2846@ NOTE Geboorte: akte nr. 59
+0 @N2847@ NOTE Overlijden: akte nr. 51
+0 @N2848@ NOTE Huwelijk: akte nr. 29
+0 @N2849@ NOTE Overlijden: akte nr. 117
+0 @N2850@ NOTE Ovl.adv. Nwe Gor. Courant 27-06-1889 p.3
+0 @N2851@ NOTE Geboorte: akte nr. 64
+0 @N2852@ NOTE Geboorte: akte nr. 64
+0 @N2853@ NOTE Huwelijk: akte nr. 1
+0 @N2854@ NOTE Geboorte: akte nr. 175
+0 @N2855@ NOTE Ovl.adv. Nwe Gor. Courant 13-10-1904 p.3
+0 @N2856@ NOTE Overlijden: akte nr. 207
+0 @N2857@ NOTE Ongehuwd
+0 @N2858@ NOTE Overlijden: akte nr. 560
+0 @N2859@ NOTE Huwelijk: akte nr. 5
+0 @N2860@ NOTE Overlijden: akte nr. 1175
+0 @N2861@ NOTE Geboorte: akte nr. 145
+0 @N2862@ NOTE Overlijden: akte nr. 195
+0 @N2863@ NOTE Ovl.adv. Nwe Gor. Courant 10-01-1877 p.3
+0 @N2864@ NOTE Overlijden: akte nr. 5
+0 @N2865@ NOTE Overlijden: akte nr. 209
+0 @N2866@ NOTE Hij verbleef 14 jaar in het Mannengesticht en werd daar ook verplee
+1 CONC gd (dankbet.in Nwe Gor. Courant 11-09-1884 p.3)
+0 @N2867@ NOTE Hij werd op 23 mei 1799 benoemd tot Fabrijck der Stadt. In oktobe
+1 CONC r daarop diende hij een verzoek in bij de Raad voor salarisverhoging. Ui
+1 CONC teindelijk werd zijn tractement op fl. 525.= jaarlijks vastgesteld (Nw
+1 CONC e Gor.Courant 01-01-1896 p.2)
+0 @N2868@ NOTE The Utrecht Archives in Utrecht (Netherlands), Church records bapti
+1 CONC sms
+1 CONT Lopik NH dopen, Lopik, archive L158, inventory number 189, 29-05-1803, L
+1 CONC opik NH dopen, folio 196
+0 @N2869@ NOTE Geloof: Nederlands-hervormd
+0 @N2870@ NOTE Rotterdam City Archives in Rotterdam (Netherlands), Civil registrat
+1 CONC ion deaths
+1 CONT Burgerlijke Stand Rotterdam, overlijdensakten, Rotterdam, archive 999-09
+1 CONC , inventory number 1873A, 1873, Nadere toegang op het overlijdensregiste
+1 CONC r van de gemeente Rotterdam, record number 1873.625, folio a164v
+0 @N2871@ NOTE Vermoedelijk doopdatum
+0 @N2872@ NOTE Rotterdam City Archives in Rotterdam (Netherlands), Civil registrat
+1 CONC ion marriages
+1 CONT Archieven van de Plaatselijke Besturen van Delfshaven en Schoonderloo, D
+1 CONC elfshaven, archive 3, inventory number 1179, 16-08-1835, Nadere toegan
+1 CONC g op het huwelijksregister van de gemeente Delfshaven, record number 183
+1 CONC 5.22, folio 12
+0 @N2873@ NOTE Rotterdam City Archives in Rotterdam (Netherlands), Civil registrat
+1 CONC ion deaths
+1 CONT Archieven van de Plaatselijke Besturen van Delfshaven en Schoonderloo, D
+1 CONC elfshaven, archive 3, inventory number 1198, 1840, Nadere toegang op he
+1 CONC t overlijdensregister van de gemeente Delfshaven, record number 1840.49
+0 @N2874@ NOTE Rotterdam City Archives in Rotterdam (Netherlands), Civil registrat
+1 CONC ion marriages
+1 CONT Burgerlijke Stand Rotterdam, huwelijksakten, Rotterdam, archive 999-06
+1 CONC , inventory number 1838B, 20-06-1838, Nadere toegang op het huwelijks- e
+1 CONC n echtscheidingsregister van de gemeente Rotterdam, folio b18
+0 @N2875@ NOTE Rotterdam City Archives in Rotterdam (Netherlands), Civil registrat
+1 CONC ion deaths
+1 CONT Archieven van de Plaatselijke Besturen van Delfshaven en Schoonderloo, D
+1 CONC elfshaven, archive 3, inventory number 1198, 1834, Nadere toegang op he
+1 CONC t overlijdensregister van de gemeente Delfshaven, record number 1834.45
+0 @N2876@ NOTE Rotterdam City Archives, Church records baptisms
+1 CONT Archieven van de Plaatselijke Besturen van Delfshaven en Schoonderloo, D
+1 CONC elfshaven, archive 3, inventory number 1144, 29-02-1792, Doop gereformee
+1 CONC rd
+0 @N2877@ NOTE Rotterdam City Archives in Rotterdam (Netherlands), Civil registrat
+1 CONC ion marriages
+1 CONT Archieven van de Plaatselijke Besturen van Delfshaven en Schoonderloo, D
+1 CONC elfshaven, archive 3, inventory number 1178, 17-05-1818, Nadere toegan
+1 CONC g op het huwelijksregister van de gemeente Delfshaven, record number 181
+1 CONC 8.8, folio 7
+0 @N2878@ NOTE National Archives / Archives South Holland in Den Haag (Netherlands
+1 CONC ), Civil registration births
+1 CONT Delfshaven, 09-07-1819, record number 57
+0 @N2879@ NOTE Rotterdam City Archives in Rotterdam (Netherlands), Civil registrat
+1 CONC ion deaths
+1 CONT Archieven van de Plaatselijke Besturen van Delfshaven en Schoonderloo, D
+1 CONC elfshaven, archive 3, inventory number 1198, 1834, Nadere toegang op he
+1 CONC t overlijdensregister van de gemeente Delfshaven, record number 1834.54
+0 @N2880@ NOTE Overlijden: akte nr. 72
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
