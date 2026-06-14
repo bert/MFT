@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 13 JUN 2026
-2 TIME 12:41:27
+1 DATE 14 JUN 2026
+2 TIME 23:45:54
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2026 .
@@ -246,7 +246,7 @@
 1 FAMC @F0002@
 2 PEDI birth
 1 RESI
-2 DATE 2001
+2 DATE FROM 28 OCT 2001 TO 2025
 2 ADDR Bilderdijklaan 23
 3 CONT Zijdelwaard
 3 CONT Uithoorn
@@ -259,9 +259,17 @@
 3 STAE Noord-Holland
 3 POST 1422 BK
 3 CTRY Nederland
+1 RESI
+2 DATE 2025
+2 ADDR Leopoldlaan
+3 CONT Uithoorn
+3 CONT Noord Holland
+3 ADR1 Leopoldlaan
+3 CITY Uithoorn
+3 STAE Noord Holland
 1 CHAN
-2 DATE 14 DEC 2025
-3 TIME 21:09:37
+2 DATE 14 JUN 2026
+3 TIME 21:08:58
 0 @I0010@ INDI
 1 NAME Bertina Alexandra /van Vliet/
 2 TYPE birth
@@ -6712,8 +6720,8 @@
 2 PEDI birth
 1 FAMS @F0156@
 1 CHAN
-2 DATE 29 JAN 2026
-3 TIME 21:15:09
+2 DATE 14 JUN 2026
+3 TIME 20:46:50
 0 @I0348@ INDI
 1 NAME Hendrik /Klaassen/
 2 TYPE birth
@@ -7021,8 +7029,8 @@
 2 DATE 1 FEB 1713
 1 FAMS @F0163@
 1 CHAN
-2 DATE 31 MAY 2025
-3 TIME 12:21:59
+2 DATE 13 JUN 2026
+3 TIME 14:53:45
 0 @I0362@ INDI
 1 NAME Jannetje /Claes/
 2 TYPE birth
@@ -15067,9 +15075,9 @@
 2 DATE 30 JAN 2026
 3 TIME 14:48:37
 0 @I0782@ INDI
-1 NAME Johan Heinrich Carl /Gerlach/
+1 NAME Johann Heinrich Carl /Gerlach/
 2 TYPE birth
-2 GIVN Johan Heinrich Carl
+2 GIVN Johann Heinrich Carl
 2 SURN Gerlach
 1 SEX M
 1 BIRT
@@ -15082,8 +15090,8 @@
 2 TYPE Occupation
 1 FAMS @F0302@
 1 CHAN
-2 DATE 12 NOV 2025
-3 TIME 00:03:21
+2 DATE 13 JUN 2026
+3 TIME 16:13:41
 0 @I0783@ INDI
 1 NAME Regina Sabina /Geistin/
 2 TYPE birth
@@ -84002,7 +84010,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1691
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
@@ -84025,13 +84033,13 @@
 1 SEX M
 1 BIRT
 2 DATE ABT SEP 1644
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
 1 DEAT
 2 DATE 8 JAN 1713
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
@@ -84049,13 +84057,13 @@
 1 SEX F
 1 BIRT
 2 DATE 20 SEP 1654
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
 1 DEAT
 2 DATE 14 APR 1733
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
@@ -84089,7 +84097,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1635
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
@@ -84109,10 +84117,10 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1595
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 DEAT
 2 DATE ABT 19 APR 1670
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 FACT Rechter
 2 TYPE Occupation
 1 FACT Kastemeister
@@ -84135,7 +84143,7 @@
 2 DATE ABT 1602
 1 DEAT
 2 DATE 18 JUN 1662
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
@@ -84151,7 +84159,7 @@
 1 SEX M
 1 BIRT
 2 DATE 21 AUG 1570
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 DEAT
 2 DATE 18 JUL 1640
 1 FAMC @F1714@
@@ -84171,10 +84179,10 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1565
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 DEAT
 2 DATE 17 NOV 1625
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 FAMC @F1711@
 2 PEDI birth
 1 FAMS @F1710@
@@ -84204,10 +84212,10 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1540
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 DEAT
 2 DATE 12 AUG 1638
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 FACT Kirchensenior
 2 TYPE Occupation
 1 FAMC @F1712@
@@ -84227,10 +84235,10 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1520
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 DEAT
 2 DATE ABT 1569
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 FAMS @F1712@
 1 CHAN
 2 DATE 17 NOV 2025
@@ -84243,10 +84251,10 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1519
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 DEAT
 2 DATE 1569
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 FAMC @F1713@
 2 PEDI birth
 1 FAMS @F1712@
@@ -84273,7 +84281,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1493
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 DEAT
 2 DATE ABT 1555
 1 FAMS @F1713@
@@ -84288,12 +84296,12 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1547
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 DEAT
 2 DATE 12 AUG 1638
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 BURI
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 FAMC @F1712@
 2 PEDI birth
 1 FAMS @F1714@
@@ -84311,10 +84319,10 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1543
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 DEAT
 2 DATE ABT 1596
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 FAMC @F1715@
 2 PEDI birth
 1 FAMS @F1714@
@@ -84414,7 +84422,7 @@
 2 DATE ABT 1565
 1 DEAT
 2 DATE 18 APR 1628
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 FAMC @F1712@
 2 PEDI birth
 1 FAMS @F1720@
@@ -84507,10 +84515,10 @@
 1 SEX M
 1 BIRT
 2 DATE 1569
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 DEAT
 2 DATE 19 MAY 1642
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 BURI
 2 DATE MAY 1642
 1 FAMC @F1714@
@@ -84543,10 +84551,10 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1574
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 DEAT
 2 DATE 7 FEB 1625
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 FAMC @F1714@
 2 PEDI birth
 1 FAMS @F1722@
@@ -84561,10 +84569,10 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1569
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 DEAT
 2 DATE AFT 1611
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 FAMS @F1722@
 1 CHAN
 2 DATE 18 NOV 2025
@@ -84577,13 +84585,13 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1614
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
 1 DEAT
 2 DATE 14 FEB 1675
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
@@ -84602,13 +84610,13 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1604
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
 1 DEAT
 2 DATE 13 MAY 1689
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
@@ -84666,7 +84674,7 @@
 1 NOTE @N3139@
 1 CHAN
 2 DATE 13 JUN 2026
-3 TIME 00:10:29
+3 TIME 12:51:50
 0 @I4498@ INDI
 1 NAME Maria Elisabetha /Göbel/
 2 TYPE birth
@@ -84768,8 +84776,8 @@
 1 FAMS @F1725@
 1 NOTE @N3138@
 1 CHAN
-2 DATE 12 JUN 2026
-3 TIME 23:59:23
+2 DATE 13 JUN 2026
+3 TIME 14:38:47
 0 @I4503@ INDI
 1 NAME Elsa //
 2 TYPE birth
@@ -84807,12 +84815,19 @@
 3 MAP
 4 LATI N50.587826
 4 LONG E8.797792
+1 BURI
+2 DATE 14 DEC 1697
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
 1 FACT Kirchensenior
 2 TYPE Occupation
 1 FAMS @F1726@
+1 NOTE @N3156@
 1 CHAN
-2 DATE 18 NOV 2025
-3 TIME 21:38:28
+2 DATE 13 JUN 2026
+3 TIME 14:38:44
 0 @I4505@ INDI
 1 NAME Catharina //
 2 TYPE birth
@@ -84826,16 +84841,23 @@
 3 MAP
 4 LATI N50.587826
 4 LONG E8.797792
+1 BURI
+2 DATE 19 JAN 1693
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
 1 FACT Kirchensenior
 2 TYPE Occupation
 1 FAMS @F1726@
+1 NOTE @N3157@
 1 CHAN
-2 DATE 18 NOV 2025
-3 TIME 21:38:28
+2 DATE 13 JUN 2026
+3 TIME 14:39:28
 0 @I4506@ INDI
-1 NAME Jacob d'Alte /Wagner/
+1 NAME Johann Jacob (der Alte) /Wagner/
 2 TYPE birth
-2 GIVN Jacob d'Alte
+2 GIVN Johann Jacob (der Alte)
 2 SURN Wagner
 1 SEX M
 1 BIRT
@@ -84846,8 +84868,8 @@
 2 PEDI birth
 1 FAMS @F1727@
 1 CHAN
-2 DATE 18 NOV 2025
-3 TIME 22:42:10
+2 DATE 14 JUN 2026
+3 TIME 12:10:58
 0 @I4507@ INDI
 1 NAME Anna /Bechtold/
 2 TYPE birth
@@ -84857,13 +84879,25 @@
 1 BIRT
 2 DATE 1662
 1 DEAT
+2 DATE BEF 30 NOV 1739
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 BURI
 2 DATE 30 NOV 1739
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
 1 FAMC @F1728@
 2 PEDI birth
 1 FAMS @F1727@
+1 NOTE @N3165@
+1 NOTE @N3186@
 1 CHAN
-2 DATE 18 NOV 2025
-3 TIME 22:38:06
+2 DATE 14 JUN 2026
+3 TIME 12:24:47
 0 @I4508@ INDI
 1 NAME Philips /Bechtold/
 2 TYPE birth
@@ -84871,8 +84905,18 @@
 2 SURN Bechtold
 1 SEX M
 1 BIRT
-2 DATE 11 AUG 1605
+2 DATE 1600
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
 1 DEAT
+2 DATE BEF 6 APR 1684
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 BURI
 2 DATE 6 APR 1684
 2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
@@ -84880,19 +84924,42 @@
 4 LONG E8.797792
 1 FACT Kirchensenior
 2 TYPE Occupation
+1 FAMS @F2632@
 1 FAMS @F1728@
+1 NOTE @N3188@
 1 CHAN
-2 DATE 18 NOV 2025
-3 TIME 22:38:06
+2 DATE 14 JUN 2026
+3 TIME 13:25:24
 0 @I4509@ INDI
 1 NAME Barbara //
 2 TYPE birth
 2 GIVN Barbara
 1 SEX F
+1 BIRT
+2 DATE 1634
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 DEAT
+2 DATE 1702
+1 BURI
+2 DATE 1702
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
 1 FAMS @F1728@
+1 OBJE
+2 FORM URL
+2 TITL Hexenprozesse im Busecker Tal
+2 FILE https://buseckertal.de/hexen/
+1 NOTE @N3166@
+1 NOTE @N3190@
+1 NOTE @N3191@
 1 CHAN
-2 DATE 18 NOV 2025
-3 TIME 22:38:06
+2 DATE 14 JUN 2026
+3 TIME 13:38:49
 0 @I4510@ INDI
 1 NAME Urban /Göbel/
 2 TYPE birth
@@ -84900,7 +84967,7 @@
 2 SURN Göbel
 1 SEX M
 1 DEAT
-2 DATE ABT 1725
+2 DATE BEF 28 FEB 1725
 2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.605498
@@ -84928,17 +84995,24 @@
 1 BIRT
 2 DATE ABT 1664
 1 DEAT
-2 DATE 1690
+2 DATE 18 APR 1690
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
 1 BURI
 2 DATE 18 APR 1690
 2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.587826
 4 LONG E8.797792
+1 FAMC @F2623@
+2 PEDI birth
 1 FAMS @F1729@
+1 NOTE @N3155@
 1 CHAN
-2 DATE 10 JUN 2026
-3 TIME 23:50:40
+2 DATE 13 JUN 2026
+3 TIME 23:45:16
 0 @I4512@ INDI
 1 NAME Merten /Göbel/
 2 TYPE birth
@@ -90276,6 +90350,7 @@
 2 DATE 1305
 2 PLAC Uckoborg, Jemgum, East‑Frisia, Germany
 3 NOTE @N1946@
+3 NOTE @N3164@
 1 DEAT
 2 PLAC Oostwold (Midwolda) [Groningen]
 3 MAP
@@ -90326,16 +90401,17 @@
 1 SEX M
 1 BIRT
 2 DATE 1270
-2 PLAC Jemgum {Niedersachsen] Deutschland
+2 PLAC Jemgum [Niedersachsen] Deutschland
 3 MAP
 4 LATI N53.267261
 4 LONG E7.384853
 1 DEAT
 2 DATE 1294
 1 FAMS @F1860@
+1 NOTE @N3162@
 1 CHAN
-2 DATE 9 JAN 2026
-3 TIME 19:42:01
+2 DATE 13 JUN 2026
+3 TIME 15:17:39
 0 @I4792@ INDI
 1 NAME nn /Uckoborg/
 2 TYPE birth
@@ -102174,6 +102250,10 @@
 2 TYPE aka
 2 GIVN Hendrik
 2 SURN Dependehner
+1 NAME Hendrik /Diependienar/
+2 TYPE aka
+2 GIVN Hendrik
+2 SURN Diependienar
 1 SEX M
 1 BIRT
 2 DATE 1806
@@ -102191,13 +102271,17 @@
 2 PEDI birth
 1 FAMS @F2096@
 1 CHAN
-2 DATE 28 JAN 2026
-3 TIME 07:23:03
+2 DATE 14 JUN 2026
+3 TIME 17:55:39
 0 @I5396@ INDI
 1 NAME Saartje /Brussee/
 2 TYPE birth
 2 GIVN Saartje
 2 SURN Brussee
+1 NAME Saartje /Brusse/
+2 TYPE aka
+2 GIVN Saartje
+2 SURN Brusse
 1 SEX F
 1 BIRT
 2 DATE 28 OCT 1809
@@ -102206,11 +102290,15 @@
 4 LATI N52.632329
 4 LONG E4.75351
 1 DEAT
-2 DATE 1889
+2 DATE 15 JAN 1889
+2 PLAC Velsen [Noord Holland]
+3 MAP
+4 LATI N52.463608
+4 LONG E4.638006
 1 FAMS @F2096@
 1 CHAN
-2 DATE 29 JAN 2026
-3 TIME 20:41:25
+2 DATE 14 JUN 2026
+3 TIME 17:32:38
 0 @I5397@ INDI
 1 NAME Johann Bernard /Dependehner/
 2 TYPE birth
@@ -102997,10 +103085,14 @@
 3 MAP
 4 LATI N52.342347
 4 LONG E5.635813
+1 FACT zonder beroep
+2 TYPE Occupation
+1 FAMC @F2636@
+2 PEDI birth
 1 FAMS @F2111@
 1 CHAN
-2 DATE 29 JAN 2026
-3 TIME 21:15:09
+2 DATE 14 JUN 2026
+3 TIME 21:25:56
 0 @I5436@ INDI
 1 NAME Hendrik Sjoerd Hannes /Hendriksen/
 2 TYPE birth
@@ -127149,14 +127241,6 @@
 1 CHAN
 2 DATE 9 JUN 2026
 3 TIME 23:11:25
-0 @I6705@ INDI
-1 NAME  /Spruijtenburg/
-2 TYPE birth
-2 SURN Spruijtenburg
-1 SEX F
-1 CHAN
-2 DATE 9 JUN 2026
-3 TIME 23:08:49
 0 @I6706@ INDI
 1 NAME Aldist Pietersz /Bontebaard/
 2 TYPE birth
@@ -127686,7 +127770,7 @@
 2 PEDI birth
 1 CHAN
 2 DATE 13 JUN 2026
-3 TIME 00:10:29
+3 TIME 12:51:50
 0 @I6733@ INDI
 1 NAME Johann Philippus /Finck/
 2 TYPE birth
@@ -127818,43 +127902,7 @@
 1 FAMS @F2597@
 1 CHAN
 2 DATE 13 JUN 2026
-3 TIME 00:10:29
-0 @I6738@ INDI
-1 NAME Elsa //
-2 TYPE birth
-2 GIVN Elsa
-1 SEX F
-1 BIRT
-2 DATE 1643
-1 DEAT
-2 DATE 1730
-1 BURI
-2 DATE 23 APR 1730
-2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
-3 MAP
-4 LATI N50.587826
-4 LONG E8.797792
-1 CHAN
-2 DATE 12 JUN 2026
-3 TIME 23:57:13
-0 @I6739@ INDI
-1 NAME Hans Ludwig /Wagner/
-2 TYPE birth
-2 GIVN Hans Ludwig
-2 SURN Wagner
-1 SEX M
-1 BURI
-2 DATE 20 FEB 1707
-2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
-3 MAP
-4 LATI N50.587826
-4 LONG E8.797792
-1 FACT Bürgermeistergesell (Setzer)
-2 TYPE Occupation
-1 NOTE @N3070@
-1 CHAN
-2 DATE 12 JUN 2026
-3 TIME 23:57:13
+3 TIME 12:51:50
 0 @I6740@ INDI
 1 NAME Johann Jacob /Göbel/
 2 TYPE birth
@@ -127914,7 +127962,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 15 NOV 1685
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
@@ -127926,15 +127974,17 @@
 4 LONG E8.797792
 1 BAPM
 2 DATE 15 NOV 1685
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
+1 FAMC @F2621@
+2 PEDI birth
 1 FAMS @F2599@
 1 NOTE @N3072@
 1 CHAN
-2 DATE 10 JUN 2026
-3 TIME 20:54:41
+2 DATE 13 JUN 2026
+3 TIME 13:45:35
 0 @I6743@ INDI
 1 NAME Anna Clara /Göbel/
 2 TYPE birth
@@ -128050,16 +128100,19 @@
 4 LONG E8.785125
 1 FAMC @F1730@
 2 PEDI birth
+1 FAMS @F2629@
 1 NOTE @N3078@
 1 CHAN
-2 DATE 10 JUN 2026
-3 TIME 22:57:34
+2 DATE 14 JUN 2026
+3 TIME 00:13:34
 0 @I6749@ INDI
 1 NAME Johann Philipus /Göbel/
 2 TYPE birth
 2 GIVN Johann Philipus
 2 SURN Göbel
 1 SEX M
+1 BIRT
+2 DATE 25 SEP 1687
 1 BAPM
 2 DATE 25 SEP 1687
 2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
@@ -128070,8 +128123,8 @@
 2 PEDI birth
 1 NOTE @N3081@
 1 CHAN
-2 DATE 10 JUN 2026
-3 TIME 23:00:08
+2 DATE 13 JUN 2026
+3 TIME 14:18:16
 0 @I6750@ INDI
 1 NAME Hans Caspar /Göbel/
 2 TYPE birth
@@ -128090,6 +128143,12 @@
 2 GIVN Anna Elisabetha
 2 SURN Göbel
 1 SEX F
+1 BIRT
+2 DATE 2 JAN 1690
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
 1 DEAT
 2 DATE 1690
 1 BAPM
@@ -128107,8 +128166,8 @@
 2 PEDI birth
 1 NOTE @N3083@
 1 CHAN
-2 DATE 10 JUN 2026
-3 TIME 23:50:53
+2 DATE 13 JUN 2026
+3 TIME 14:19:07
 0 @I6752@ INDI
 1 NAME Anna Ottilie /Faulstich/
 2 TYPE birth
@@ -128496,9 +128555,10 @@
 4 LONG E8.785125
 1 FAMC @F2608@
 2 PEDI birth
+1 FAMS @F2622@
 1 CHAN
-2 DATE 11 JUN 2026
-3 TIME 21:40:11
+2 DATE 13 JUN 2026
+3 TIME 13:52:10
 0 @I6771@ INDI
 1 NAME nn /Hof/
 2 TYPE birth
@@ -128536,7 +128596,7 @@
 2 SURN Hof
 1 SEX M
 1 DEAT
-2 DATE 1754
+2 DATE BEF 12 NOV 1754
 1 BAPM
 2 DATE 29 AUG 1680
 2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
@@ -128551,10 +128611,11 @@
 4 LONG E8.785125
 1 FAMC @F2608@
 2 PEDI birth
+1 FAMS @F2625@
 1 NOTE @N3100@
 1 CHAN
-2 DATE 11 JUN 2026
-3 TIME 21:40:11
+2 DATE 13 JUN 2026
+3 TIME 15:46:26
 0 @I6773@ INDI
 1 NAME Johann Baltzer /Hof/
 2 TYPE birth
@@ -129147,8 +129208,8 @@
 1 FAMS @F2617@
 1 NOTE @N3128@
 1 CHAN
-2 DATE 12 JUN 2026
-3 TIME 23:38:06
+2 DATE 13 JUN 2026
+3 TIME 14:09:14
 0 @I6805@ INDI
 1 NAME Anna Clara /Göbel/
 2 TYPE birth
@@ -129437,7 +129498,2098 @@
 2 PEDI birth
 1 CHAN
 2 DATE 13 JUN 2026
-3 TIME 00:10:29
+3 TIME 12:51:50
+0 @I6820@ INDI
+1 NAME Anna /Wagner/
+2 TYPE birth
+2 GIVN Anna
+2 SURN Wagner
+1 SEX F
+1 BAPM
+2 DATE 11 NOV 1686
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F1725@
+2 PEDI birth
+1 NOTE @N3140@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 12:51:50
+0 @I6821@ INDI
+1 NAME Johann Jacob (der Junge) /Wagner/
+2 TYPE birth
+2 GIVN Johann Jacob (der Junge)
+2 SURN Wagner
+1 SEX M
+1 BURI
+2 DATE 19 MAY 1757
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FACT Kirchensenior
+2 TYPE Occupation
+1 FAMC @F1725@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 12:53:12
+0 @I6822@ INDI
+1 NAME Johannes /Wagner/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Wagner
+1 SEX M
+1 BIRT
+2 DATE 1650
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F1726@
+2 PEDI birth
+1 NOTE @N3141@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 14:38:47
+0 @I6823@ INDI
+1 NAME Tilemann /Wagner/
+2 TYPE birth
+2 GIVN Tilemann
+2 SURN Wagner
+1 SEX M
+1 BIRT
+2 DATE 1660
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 DEAT
+2 DATE AUG 1702
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 BURI
+2 DATE AUG 1702
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F1726@
+2 PEDI birth
+1 NOTE @N3142@
+1 NOTE @N3158@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 14:40:03
+0 @I6824@ INDI
+1 NAME Johann Jacob /Wagner/
+2 TYPE birth
+2 GIVN Johann Jacob
+2 SURN Wagner
+1 SEX M
+1 BIRT
+2 DATE 1664
+1 DEAT
+2 DATE 13 JUL 1747
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 BAPM
+2 DATE 1667
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 BURI
+2 DATE 13 JUL 1747
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F1726@
+2 PEDI birth
+1 NOTE @N3159@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 14:41:42
+0 @I6825@ INDI
+1 NAME Philipus /Wagner/
+2 TYPE birth
+2 GIVN Philipus
+2 SURN Wagner
+1 SEX M
+1 BIRT
+2 DATE 1671
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 DEAT
+2 DATE 1722
+1 BURI
+2 DATE 18 MAY 1722
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F1726@
+2 PEDI birth
+1 NOTE @N3143@
+1 NOTE @N3160@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 14:42:34
+0 @I6826@ INDI
+1 NAME Elsbeth /Wagner/
+2 TYPE birth
+2 GIVN Elsbeth
+2 SURN Wagner
+1 SEX F
+1 FAMC @F1726@
+2 PEDI birth
+1 FAMS @F2620@
+1 NOTE @N3145@
+1 NOTE @N3161@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 14:43:05
+0 @I6827@ INDI
+1 NAME nn /Lotz/
+2 TYPE birth
+2 GIVN nn
+2 SURN Lotz
+1 SEX M
+1 FAMS @F2620@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 13:27:38
+0 @I6828@ INDI
+1 NAME Johann Henrich /Wagner/
+2 TYPE birth
+2 GIVN Johann Henrich
+2 SURN Wagner
+1 SEX M
+1 FAMC @F1726@
+2 PEDI birth
+1 NOTE @N3144@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 14:38:47
+0 @I6829@ INDI
+1 NAME Margaretha /Spaar/
+2 TYPE birth
+2 GIVN Margaretha
+2 SURN Spaar
+1 SEX F
+1 BIRT
+2 DATE BEF 31 MAR 1658
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 DEAT
+2 DATE BEF 16 FEB 1727
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 BAPM
+2 DATE 31 MAR 1658
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 BURI
+2 DATE 16 FEB 1727
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 FAMS @F2621@
+1 NOTE @N3146@
+1 NOTE @N3147@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 13:45:35
+0 @I6830@ INDI
+1 NAME George Philips /Becker/
+2 TYPE birth
+2 GIVN George Philips
+2 SURN Becker
+1 SEX M
+1 BIRT
+2 DATE BEF 5 DEC 1653
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 DEAT
+2 DATE BEF 13 JAN 1712
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 BAPM
+2 DATE 5 DEC 1653
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 BURI
+2 DATE 13 JAN 1712
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 FAMS @F2621@
+1 NOTE @N3148@
+1 NOTE @N3149@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 13:45:35
+0 @I6831@ INDI
+1 NAME Johan Conrad /Erckel/
+2 TYPE birth
+2 GIVN Johan Conrad
+2 SURN Erckel
+1 SEX M
+1 DEAT
+2 DATE 1714
+1 BAPM
+2 DATE 2 NOV 1673
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 BURI
+2 DATE 18 NOV 1714
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMS @F2622@
+1 NOTE @N3150@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 13:52:10
+0 @I6832@ INDI
+1 NAME Anna Margaretha /Erckel/
+2 TYPE birth
+2 GIVN Anna Margaretha
+2 SURN Erckel
+1 SEX F
+1 DEAT
+2 DATE 1707
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 BAPM
+2 DATE 24 OCT 1699
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2622@
+2 PEDI birth
+1 NOTE @N3151@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 14:09:04
+0 @I6833@ INDI
+1 NAME Cathrina /Erckel/
+2 TYPE birth
+2 GIVN Cathrina
+2 SURN Erckel
+1 SEX F
+1 BAPM
+2 DATE 1701
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2622@
+2 PEDI birth
+1 NOTE @N3152@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 14:09:04
+0 @I6834@ INDI
+1 NAME Anna Elisabetha /Erckel/
+2 TYPE birth
+2 GIVN Anna Elisabetha
+2 SURN Erckel
+1 SEX F
+1 BAPM
+2 DATE 12 AUG 1708
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 BURI
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2622@
+2 PEDI birth
+1 NOTE @N3153@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 14:09:04
+0 @I6835@ INDI
+1 NAME Anna Elisabetha /Erckel/
+2 TYPE birth
+2 GIVN Anna Elisabetha
+2 SURN Erckel
+1 SEX F
+1 BAPM
+2 DATE 27 DEC 1712
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2622@
+2 PEDI birth
+1 NOTE @N3154@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 14:09:04
+0 @I6836@ INDI
+1 NAME Hans Conrad /Pitz/
+2 TYPE birth
+2 GIVN Hans Conrad
+2 SURN Pitz
+1 NAME Hanß Conrad /Pitz/
+2 TYPE aka
+2 GIVN Hanß Conrad
+2 SURN Pitz
+1 SEX M
+1 BIRT
+2 DATE ABT 1635
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 DEAT
+2 DATE BEF 11 JAN 1702
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 FAMS @F2623@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:37:59
+0 @I6837@ INDI
+1 NAME Anna Dorothea /Ganz/
+2 TYPE birth
+2 GIVN Anna Dorothea
+2 SURN Ganz
+1 NAME Anna Dorothea /Gauß/
+2 TYPE aka
+2 GIVN Anna Dorothea
+2 SURN Gauß
+1 SEX F
+1 BIRT
+2 DATE 1638
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 DEAT
+2 DATE ABT 1709
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 FAMC @F2624@
+2 PEDI birth
+1 FAMS @F2623@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:44:29
+0 @I6838@ INDI
+1 NAME Hermann /Ganz/
+2 TYPE birth
+2 GIVN Hermann
+2 SURN Ganz
+1 NAME Hermann /Gauß/
+2 TYPE aka
+2 GIVN Hermann
+2 SURN Gauß
+1 SEX M
+1 BIRT
+2 DATE ABT 1609
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 DEAT
+2 DATE ABT 1638
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 FAMS @F2624@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:24:52
+0 @I6839@ INDI
+1 NAME Elisabetha /Bechtold/
+2 TYPE birth
+2 GIVN Elisabetha
+2 SURN Bechtold
+1 SEX F
+1 FAMC @F1728@
+2 PEDI birth
+1 NOTE @N3167@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 15:42:01
+0 @I6840@ INDI
+1 NAME Margaretha /Bechtold/
+2 TYPE birth
+2 GIVN Margaretha
+2 SURN Bechtold
+1 SEX F
+1 FAMC @F1728@
+2 PEDI birth
+1 NOTE @N3168@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 15:42:01
+0 @I6841@ INDI
+1 NAME Barbara /Hahn/
+2 TYPE birth
+2 GIVN Barbara
+2 SURN Hahn
+1 SEX F
+1 BIRT
+2 DATE 1 JUN 1682
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2626@
+2 PEDI birth
+1 FAMS @F2625@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:10:36
+0 @I6842@ INDI
+1 NAME Anna Margaretha /Hof/
+2 TYPE birth
+2 GIVN Anna Margaretha
+2 SURN Hof
+1 SEX F
+1 BAPM
+2 DATE 1707
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2625@
+2 PEDI birth
+1 NOTE @N3169@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 20:17:01
+0 @I6843@ INDI
+1 NAME Clara Catharina /Hof/
+2 TYPE birth
+2 GIVN Clara Catharina
+2 SURN Hof
+1 SEX F
+1 DEAT
+2 DATE BEF 5 FEB 1713
+1 BAPM
+2 DATE 21 MAR 1709
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 BURI
+2 DATE 5 FEB 1713
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2625@
+2 PEDI birth
+1 NOTE @N3170@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 20:17:01
+0 @I6844@ INDI
+1 NAME Anna Margretha /Hof/
+2 TYPE birth
+2 GIVN Anna Margretha
+2 SURN Hof
+1 SEX F
+1 DEAT
+2 DATE BEF 14 MAY 1747
+1 BAPM
+2 DATE 29 NOV 1711
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 BURI
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2625@
+2 PEDI birth
+1 NOTE @N3171@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 20:17:01
+0 @I6845@ INDI
+1 NAME Conrad /Hof/
+2 TYPE birth
+2 GIVN Conrad
+2 SURN Hof
+1 SEX M
+1 BAPM
+2 DATE 9 MAR 1714
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2625@
+2 PEDI birth
+1 NOTE @N3172@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 20:17:01
+0 @I6846@ INDI
+1 NAME Johann Baltzer /Hof/
+2 TYPE birth
+2 GIVN Johann Baltzer
+2 SURN Hof
+1 SEX M
+1 BAPM
+2 DATE 5 SEP 1717
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2625@
+2 PEDI birth
+1 NOTE @N3173@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 20:17:01
+0 @I6847@ INDI
+1 NAME Johann Caspar /Hof/
+2 TYPE birth
+2 GIVN Johann Caspar
+2 SURN Hof
+1 SEX M
+1 BAPM
+2 DATE 15 DEC 1720
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2625@
+2 PEDI birth
+1 NOTE @N3174@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 20:17:01
+0 @I6848@ INDI
+1 NAME Anna Maria /Hof/
+2 TYPE birth
+2 GIVN Anna Maria
+2 SURN Hof
+1 SEX F
+1 BAPM
+2 DATE 21 MAY 1724
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2625@
+2 PEDI birth
+1 NOTE @N3175@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 20:17:49
+0 @I6849@ INDI
+1 NAME Jacob /Hahn/
+2 TYPE birth
+2 GIVN Jacob
+2 SURN Hahn
+1 SEX M
+1 BURI
+2 DATE 30 MAR 1712
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FACT Schmied
+2 TYPE Occupation
+1 FAMS @F2626@
+1 NOTE @N3176@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 20:21:39
+0 @I6850@ INDI
+1 NAME Anna Dorothea /Cloß/
+2 TYPE birth
+2 GIVN Anna Dorothea
+2 SURN Cloß
+1 SEX F
+1 FAMC @F2627@
+2 PEDI birth
+1 FAMS @F2626@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:16:07
+0 @I6851@ INDI
+1 NAME Ann Margretha /Hahn/
+2 TYPE birth
+2 GIVN Ann Margretha
+2 SURN Hahn
+1 SEX F
+1 DEAT
+2 DATE 1747
+1 BAPM
+2 DATE 24 JUN 1686
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 BURI
+2 DATE 2 JUN 1747
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2626@
+2 PEDI birth
+1 NOTE @N3177@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:10:36
+0 @I6852@ INDI
+1 NAME Johannes /Hahn/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Hahn
+1 SEX M
+1 DEAT
+2 DATE 1747
+1 BAPM
+2 DATE 26 FEB 1688
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 BURI
+2 DATE 9 MAY 1747
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2626@
+2 PEDI birth
+1 NOTE @N3178@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:10:36
+0 @I6853@ INDI
+1 NAME Johann Conradt /Hahn/
+2 TYPE birth
+2 GIVN Johann Conradt
+2 SURN Hahn
+1 SEX M
+1 BAPM
+2 DATE 10 OCT 1690
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2626@
+2 PEDI birth
+1 NOTE @N3179@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:10:36
+0 @I6854@ INDI
+1 NAME Johann Wilhelm /Hahn/
+2 TYPE birth
+2 GIVN Johann Wilhelm
+2 SURN Hahn
+1 SEX M
+1 BAPM
+2 DATE 6 MAR 1692
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2626@
+2 PEDI birth
+1 NOTE @N3180@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:10:36
+0 @I6855@ INDI
+1 NAME Anna Margaretha /Hofmann/
+2 TYPE birth
+2 GIVN Anna Margaretha
+2 SURN Hofmann
+1 SEX F
+1 DEAT
+2 DATE 4 AUG 1676
+2 PLAC Groote Lindt (Zwijndrecht) [Zuid Holland]
+3 MAP
+4 LATI N51.808923
+4 LONG E4.613517
+1 FAMS @F2627@
+1 NOTE @N3181@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:16:07
+0 @I6856@ INDI
+1 NAME Wilhelm /Cloß/
+2 TYPE birth
+2 GIVN Wilhelm
+2 SURN Cloß
+1 SEX M
+1 BIRT
+2 DATE 1630
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 DEAT
+2 DATE 1692
+1 BURI
+2 DATE 2 DEC 1692
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMS @F2627@
+1 NOTE @N3182@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:16:07
+0 @I6857@ INDI
+1 NAME Anna Elisabetha /Pitz/
+2 TYPE birth
+2 GIVN Anna Elisabetha
+2 SURN Pitz
+1 SEX F
+1 BIRT
+2 DATE 1677
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 DEAT
+2 DATE 1716
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 FAMC @F2623@
+2 PEDI birth
+1 FAMS @F2628@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:54:30
+0 @I6858@ INDI
+1 NAME Johannes /Becker/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Becker
+1 SEX M
+1 BIRT
+2 DATE MAR 1676
+2 PLAC Lollar (Landkreis Gießen) [Hessen] Deutschland
+3 MAP
+4 LATI N50.647016
+4 LONG E8.703772
+1 DEAT
+2 DATE 1716
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 FAMS @F2628@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:54:30
+0 @I6859@ INDI
+1 NAME Anna Margaretha /Becker/
+2 TYPE birth
+2 GIVN Anna Margaretha
+2 SURN Becker
+1 SEX F
+1 BIRT
+2 DATE 10 NOV 1707
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 DEAT
+2 DATE 11 JUN 1778
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 FAMC @F2628@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:59:32
+0 @I6860@ INDI
+1 NAME Catharina Margaretha /Becker/
+2 TYPE birth
+2 GIVN Catharina Margaretha
+2 SURN Becker
+1 SEX F
+1 BIRT
+2 DATE 1713
+1 DEAT
+2 DATE 1786
+1 FAMC @F2628@
+2 PEDI birth
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:59:32
+0 @I6861@ INDI
+1 NAME Johannes /Pitz/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Pitz
+1 SEX M
+1 BURI
+2 DATE 5 JUL 1717
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMS @F2629@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 00:13:34
+0 @I6862@ INDI
+1 NAME Johannes /Pitz/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Pitz
+1 SEX M
+1 BIRT
+2 DATE 9 SEP 1687
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 DEAT
+2 DATE BEF 20 SEP 1740
+1 BAPM
+2 DATE 30 SEP 1697
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 BURI
+2 DATE 20 SEP 1740
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FACT Schulmeister in Oppenrod.
+2 TYPE Occupation
+2 NOTE @N3184@
+1 FAMC @F2629@
+2 PEDI birth
+1 FAMS @F2634@
+1 NOTE @N3183@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:40:34
+0 @I6863@ INDI
+1 NAME Anna Maria /Pitz/
+2 TYPE birth
+2 GIVN Anna Maria
+2 SURN Pitz
+1 SEX F
+1 DEAT
+2 DATE BEF 8 NOV 1750
+1 BAPM
+2 DATE 18 APR 1680
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 BURI
+2 DATE 8 NOV 1750
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2629@
+2 PEDI birth
+1 FAMS @F2630@
+1 NOTE @N3185@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:31:37
+0 @I6864@ INDI
+1 NAME Johann Ziliox /Schuster/
+2 TYPE birth
+2 GIVN Johann Ziliox
+2 SURN Schuster
+1 SEX M
+1 DEAT
+2 DATE BEF 14 JUN 1747
+1 BAPM
+2 DATE 17 NOV 1689
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 BURI
+2 DATE 14 JUN 1747
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMS @F2630@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 12:00:57
+0 @I6865@ INDI
+1 NAME Christina /Schuster/
+2 TYPE birth
+2 GIVN Christina
+2 SURN Schuster
+1 SEX F
+1 BIRT
+2 DATE 1743
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 DEAT
+2 DATE BEF 2 MAR 1760
+1 BURI
+2 DATE 2 MAR 1760
+2 PLAC Lollar (Landkreis Gießen) [Hessen] Deutschland
+3 MAP
+4 LATI N50.647016
+4 LONG E8.703772
+1 FAMC @F2630@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 12:00:57
+0 @I6867@ INDI
+1 NAME Barbara //
+2 TYPE birth
+2 GIVN Barbara
+1 SEX F
+1 BIRT
+2 DATE 1634
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 12:24:47
+0 @I6868@ INDI
+1 NAME Elisabeth //
+2 TYPE birth
+2 GIVN Elisabeth
+1 SEX F
+1 FAMS @F2632@
+1 NOTE @N3187@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 12:26:15
+0 @I6869@ INDI
+1 NAME Anna Elisabetha /Pitz/
+2 TYPE birth
+2 GIVN Anna Elisabetha
+2 SURN Pitz
+1 SEX F
+1 BAPM
+2 DATE 13 APR 1682
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2629@
+2 PEDI birth
+1 NOTE @N3189@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:31:37
+0 @I6870@ INDI
+1 NAME Johann Balthasar /Pitz/
+2 TYPE birth
+2 GIVN Johann Balthasar
+2 SURN Pitz
+1 SEX M
+1 DEAT
+2 DATE BEF 11 JAN 1722
+1 BAPM
+2 DATE 1690
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 BURI
+2 DATE 11 JAN 1722
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2629@
+2 PEDI birth
+1 NOTE @N3192@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:31:37
+0 @I6871@ INDI
+1 NAME Anna Sabina /Pitz/
+2 TYPE birth
+2 GIVN Anna Sabina
+2 SURN Pitz
+1 SEX F
+1 BAPM
+2 DATE 6 APR 1694
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2629@
+2 PEDI birth
+1 NOTE @N3193@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:31:37
+0 @I6872@ INDI
+1 NAME Johann Caspar /Pitz/
+2 TYPE birth
+2 GIVN Johann Caspar
+2 SURN Pitz
+1 SEX M
+1 BAPM
+2 DATE 11 JUN 1699
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2629@
+2 PEDI birth
+1 NOTE @N3194@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:31:37
+0 @I6873@ INDI
+1 NAME Phillipina /Pitz/
+2 TYPE birth
+2 GIVN Phillipina
+2 SURN Pitz
+1 SEX F
+1 FAMC @F2629@
+2 PEDI birth
+1 FAMS @F2633@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:34:55
+0 @I6874@ INDI
+1 NAME Jacob /Eitelburger ?/
+2 TYPE birth
+2 GIVN Jacob
+2 SURN Eitelburger ?
+1 SEX M
+1 FAMS @F2633@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:34:55
+0 @I6875@ INDI
+1 NAME Anna Margaretha /Pitz/
+2 TYPE birth
+2 GIVN Anna Margaretha
+2 SURN Pitz
+1 SEX F
+1 DEAT
+2 DATE BEF 18 JUL 1717
+1 BAPM
+2 DATE 8 APR 1717
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 BURI
+2 DATE 18 JUL 1717
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2633@
+2 PEDI birth
+1 NOTE @N3195@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:34:55
+0 @I6876@ INDI
+1 NAME Anna Elisabetha /Greyling/
+2 TYPE birth
+2 GIVN Anna Elisabetha
+2 SURN Greyling
+1 NAME Anna Elisabetha /Kreyling/
+2 TYPE aka
+2 GIVN Anna Elisabetha
+2 SURN Kreyling
+1 SEX F
+1 BAPM
+2 DATE 7 FEB 1686
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMS @F2634@
+1 NOTE @N3196@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:40:34
+0 @I6877@ INDI
+1 NAME Maria Barbara /Pitz/
+2 TYPE birth
+2 GIVN Maria Barbara
+2 SURN Pitz
+1 SEX F
+1 BIRT
+2 DATE 6 APR 1710
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 DEAT
+2 DATE 2 MAY 1725
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 FAMC @F2634@
+2 PEDI birth
+1 NOTE @N3197@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 17:01:32
+0 @I6878@ INDI
+1 NAME Anna Margaretha /Pitz/
+2 TYPE birth
+2 GIVN Anna Margaretha
+2 SURN Pitz
+1 SEX F
+1 BIRT
+2 DATE 14 MAR 1715
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F2634@
+2 PEDI birth
+1 NOTE @N3198@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 17:01:32
+0 @I6879@ INDI
+1 NAME Johannes Zilliox /Pitz/
+2 TYPE birth
+2 GIVN Johannes Zilliox
+2 SURN Pitz
+1 NAME Cyriacus /Pitz/
+2 TYPE aka
+2 GIVN Cyriacus
+2 SURN Pitz
+1 SEX M
+1 BIRT
+2 DATE 21 MAR 1718
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F2634@
+2 PEDI birth
+1 FAMS @F2635@
+1 NOTE @N3199@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 17:01:32
+0 @I6880@ INDI
+1 NAME Anna Elisabetha /Rock/
+2 TYPE birth
+2 GIVN Anna Elisabetha
+2 SURN Rock
+1 SEX F
+1 BIRT
+2 DATE 26 MAY 1716
+2 PLAC Lauter
+1 BAPM
+2 DATE 28 MAY 1716
+2 PLAC Lauter
+1 CONF
+2 DATE 1730
+2 PLAC Lauter
+1 BURI
+2 DATE 16 JAN 1806
+2 PLAC Lauter
+1 FAMS @F2635@
+1 NOTE @N3201@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 16:07:57
+0 @I6881@ INDI
+1 NAME Johann Georg /Pitz/
+2 TYPE birth
+2 GIVN Johann Georg
+2 SURN Pitz
+1 SEX M
+1 BIRT
+2 DATE 18 JUN 1721
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F2634@
+2 PEDI birth
+1 NOTE @N3202@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 17:01:32
+0 @I6882@ INDI
+1 NAME Johannes /Pitz/
+2 TYPE birth
+2 GIVN Johannes
+2 SURN Pitz
+1 SEX M
+1 BIRT
+2 DATE 1 NOV 1724
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F2634@
+2 PEDI birth
+1 NOTE @N3203@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 17:01:32
+0 @I6883@ INDI
+1 NAME Anna Elisabetha /Pitz/
+2 TYPE birth
+2 GIVN Anna Elisabetha
+2 SURN Pitz
+1 SEX F
+1 BAPM
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 FAMC @F2634@
+2 PEDI birth
+1 NOTE @N3204@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 17:01:32
+0 @I6884@ INDI
+1 NAME Lubbertje /Kraaijenhof/
+2 TYPE birth
+2 GIVN Lubbertje
+2 SURN Kraaijenhof
+1 SEX F
+1 BIRT
+2 DATE 21 NOV 1855
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 16 SEP 1917
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMS @F2636@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 19:29:41
+0 @I6885@ INDI
+1 NAME Gerrit /Reijers/
+2 TYPE birth
+2 GIVN Gerrit
+2 SURN Reijers
+1 SEX M
+1 BIRT
+2 DATE 2 DEC 1848
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 24 SEP 1925
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FACT Arbeider
+2 TYPE Occupation
+1 FAMC @F2642@
+2 PEDI birth
+1 FAMS @F2636@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:38:35
+0 @I6886@ INDI
+1 NAME Aaltje /Reijers/
+2 TYPE birth
+2 GIVN Aaltje
+2 SURN Reijers
+1 SEX F
+1 BIRT
+2 DATE 28 APR 1879
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 4 APR 1936
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 FACT Dienstbode
+2 TYPE Occupation
+1 FAMC @F2636@
+2 PEDI birth
+1 FAMS @F2637@
+1 FAMS @F2638@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:25:56
+0 @I6887@ INDI
+1 NAME Otto /van Ark/
+2 TYPE birth
+2 GIVN Otto
+2 SPFX van
+2 SURN Ark
+1 SEX M
+1 BIRT
+2 DATE 5 DEC 1874
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE AFT 1916
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMS @F2637@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 20:42:07
+0 @I6888@ INDI
+1 NAME Couzijn /van Heuvelen/
+2 TYPE birth
+2 GIVN Couzijn
+2 SPFX van
+2 SURN Heuvelen
+1 SEX M
+1 BIRT
+2 DATE 10 NOV 1884
+2 PLAC Putten [Gelderland]
+3 MAP
+4 LATI N52.258498
+4 LONG E5.605576
+1 FAMS @F2638@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 20:44:02
+0 @I6889@ INDI
+1 NAME Gerritje /Hendriksen/
+2 TYPE birth
+2 GIVN Gerritje
+2 SURN Hendriksen
+1 SEX F
+1 BIRT
+2 DATE 27 NOV 1902
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 FAMC @F2111@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 20:46:50
+0 @I6890@ INDI
+1 NAME Rijntje /Reijers/
+2 TYPE birth
+2 GIVN Rijntje
+2 SURN Reijers
+1 SEX F
+1 BIRT
+2 DATE 17 OCT 1882
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2636@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:25:56
+0 @I6891@ INDI
+1 NAME Aalt /Reijers/
+2 TYPE birth
+2 GIVN Aalt
+2 SURN Reijers
+1 SEX M
+1 BIRT
+2 DATE 16 APR 1884
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2636@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:25:56
+0 @I6892@ INDI
+1 NAME Gerrit /Reijers/
+2 TYPE birth
+2 GIVN Gerrit
+2 SURN Reijers
+1 SEX M
+1 BIRT
+2 DATE 23 MAY 1886
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2636@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:25:56
+0 @I6893@ INDI
+1 NAME Hendrikje /Reijers/
+2 TYPE birth
+2 GIVN Hendrikje
+2 SURN Reijers
+1 SEX F
+1 BIRT
+2 DATE 14 MAR 1888
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 5 MAY 1953
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT zonder beroep
+2 TYPE Occupation
+1 FAMC @F2636@
+2 PEDI birth
+1 FAMS @F2639@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:25:56
+0 @I6894@ INDI
+1 NAME Jan /Brouwer/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Brouwer
+1 SEX M
+1 BIRT
+2 DATE 26 MAY 1887
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 24 AUG 1962
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Arbeider
+2 TYPE Occupation
+1 FAMS @F2639@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:00:22
+0 @I6895@ INDI
+1 NAME Reind Hendrik /Reijers/
+2 TYPE birth
+2 GIVN Reind Hendrik
+2 SURN Reijers
+1 SEX M
+1 BIRT
+2 DATE 11 JAN 1891
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 6 MAR 1977
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 FACT Grondwerker
+2 TYPE Occupation
+1 FAMC @F2636@
+2 PEDI birth
+1 FAMS @F2640@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:25:56
+0 @I6896@ INDI
+1 NAME Aaltje /Foppen/
+2 TYPE birth
+2 GIVN Aaltje
+2 SURN Foppen
+1 SEX F
+1 BIRT
+2 DATE 12 OCT 1890
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 10 SEP 1963
+2 PLAC Amsterdam [Noord Holland]
+3 MAP
+4 LATI N52.368011
+4 LONG E4.895858
+1 FACT zonder beroep
+2 TYPE Occupation
+1 FAMS @F2640@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:14:15
+0 @I6897@ INDI
+1 NAME Gijsbert /Reijers/
+2 TYPE birth
+2 GIVN Gijsbert
+2 SURN Reijers
+1 SEX M
+1 BIRT
+2 DATE 11 JAN 1893
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Arbeider
+2 TYPE Occupation
+1 FAMC @F2636@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:25:56
+0 @I6898@ INDI
+1 NAME Hendrik /Reijers/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Reijers
+1 SEX M
+1 BIRT
+2 DATE 7 JUN 1895
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 1 FEB 1966
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Opperman
+2 TYPE Occupation
+1 FACT Arbeider
+2 TYPE Occupation
+1 FAMC @F2636@
+2 PEDI birth
+1 FAMS @F2641@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:25:56
+0 @I6899@ INDI
+1 NAME Jacoba /Zust/
+2 TYPE birth
+2 GIVN Jacoba
+2 SURN Zust
+1 SEX F
+1 BIRT
+2 DATE 23 JAN 1896
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 25 OCT 1975
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMS @F2641@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:25:02
+0 @I6900@ INDI
+1 NAME Maria /Reijers/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Reijers
+1 SEX F
+1 BIRT
+2 DATE 11 JUL 1897
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2636@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:25:56
+0 @I6901@ INDI
+1 NAME Aaltje Lubberts /Jager/
+2 TYPE birth
+2 GIVN Aaltje Lubberts
+2 SURN Jager
+1 SEX F
+1 BIRT
+2 DATE 22 SEP 1809
+2 PLAC Hierden [Gelderland]
+1 DEAT
+2 DATE 26 NOV 1880
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 BAPM
+2 DATE 29 SEP 1809
+2 PLAC Hierden [Gelderland]
+1 FAMS @F2642@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:38:09
+0 @I6902@ INDI
+1 NAME Reint Hendriks /Reijerse/
+2 TYPE birth
+2 GIVN Reint Hendriks
+2 SURN Reijerse
+1 NAME Reint Hendriks /Rijers en/
+2 TYPE aka
+2 GIVN Reint Hendriks
+2 SURN Rijers en
+1 SEX M
+1 BIRT
+2 DATE 7 JUN 1807
+2 PLAC Hierden [Gelderland]
+1 DEAT
+2 DATE 8 JUN 1874
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 BAPM
+2 DATE 14 JUN 1807
+2 PLAC Hierden [Gelderland]
+1 FACT Arbeider
+2 TYPE Occupation
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMS @F2642@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:10:44
+0 @I6903@ INDI
+1 NAME Hendrikje /Reijers/
+2 TYPE birth
+2 GIVN Hendrikje
+2 SURN Reijers
+1 SEX F
+1 BIRT
+2 DATE 6 OCT 1830
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2642@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:38:35
+0 @I6904@ INDI
+1 NAME Hendrik /Reijers/
+2 TYPE birth
+2 GIVN Hendrik
+2 SURN Reijers
+1 SEX M
+1 BIRT
+2 DATE 19 DEC 1831
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 11 MAR 1912
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Daghuurder
+2 TYPE Occupation
+1 FACT Arbeider
+2 TYPE Occupation
+1 FAMC @F2642@
+2 PEDI birth
+1 FAMS @F2643@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:38:35
+0 @I6905@ INDI
+1 NAME Jacoba /Engelgeer/
+2 TYPE birth
+2 GIVN Jacoba
+2 SURN Engelgeer
+1 SEX F
+1 BIRT
+2 DATE 24 MAR 1838
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 6 DEC 1920
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT zonder beroep
+2 TYPE Occupation
+1 FAMS @F2643@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 22:55:28
+0 @I6906@ INDI
+1 NAME Lubbert /Reijers/
+2 TYPE birth
+2 GIVN Lubbert
+2 SURN Reijers
+1 SEX M
+1 BIRT
+2 DATE 1 MAR 1834
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 6 SEP 1915
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2642@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:38:35
+0 @I6907@ INDI
+1 NAME Marij /Reijers/
+2 TYPE birth
+2 GIVN Marij
+2 SURN Reijers
+1 SEX F
+1 BIRT
+2 DATE 9 AUG 1836
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2642@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:38:35
+0 @I6908@ INDI
+1 NAME Eijbert /Reijers/
+2 TYPE birth
+2 GIVN Eijbert
+2 SURN Reijers
+1 SEX M
+1 BIRT
+2 DATE 12 MAY 1839
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 9 JUL 1910
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMC @F2642@
+2 PEDI birth
+1 FAMS @F2644@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:38:35
+0 @I6909@ INDI
+1 NAME Aartjen /Schuiteman/
+2 TYPE birth
+2 GIVN Aartjen
+2 SURN Schuiteman
+1 SEX F
+1 BIRT
+2 DATE 5 JUN 1849
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 3 NOV 1916
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Landbouwster
+2 TYPE Occupation
+1 FAMS @F2644@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:03:44
+0 @I6910@ INDI
+1 NAME Reijntjen /Reijers/
+2 TYPE birth
+2 GIVN Reijntjen
+2 SURN Reijers
+1 SEX F
+1 BIRT
+2 DATE 25 OCT 1842
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 28 MAY 1896
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT zonder beroep
+2 TYPE Occupation
+1 FAMC @F2642@
+2 PEDI birth
+1 FAMS @F2645@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:38:35
+0 @I6911@ INDI
+1 NAME Teunis /Besselsen/
+2 TYPE birth
+2 GIVN Teunis
+2 SURN Besselsen
+1 SEX M
+1 BIRT
+2 DATE 12 NOV 1838
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 21 AUG 1910
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Daghuurder
+2 TYPE Occupation
+1 FAMS @F2645@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:26:39
+0 @I6912@ INDI
+1 NAME Jan /Reijers/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Reijers
+1 SEX M
+1 BIRT
+2 DATE 21 APR 1845
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 30 OCT 1917
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FACT Daghuurder
+2 TYPE Occupation
+1 FAMC @F2642@
+2 PEDI birth
+1 FAMS @F2646@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:38:35
+0 @I6913@ INDI
+1 NAME Hendrikje /van Dijk/
+2 TYPE birth
+2 GIVN Hendrikje
+2 SPFX van
+2 SURN Dijk
+1 SEX F
+1 BIRT
+2 DATE 24 DEC 1841
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 DEAT
+2 DATE 10 JUL 1928
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT zonder beroep
+2 TYPE Occupation
+1 FAMS @F2646@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:31:43
+0 @I6914@ INDI
+1 NAME Lubbertjen /Reijersen/
+2 TYPE birth
+2 GIVN Lubbertjen
+2 SURN Reijersen
+1 SEX F
+1 BIRT
+2 DATE 23 DEC 1852
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 2 FEB 1915
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT zonder beroep
+2 TYPE Occupation
+1 FAMC @F2642@
+2 PEDI birth
+1 FAMS @F2647@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:38:35
+0 @I6915@ INDI
+1 NAME Barend /Renden/
+2 TYPE birth
+2 GIVN Barend
+2 SURN Renden
+1 SEX M
+1 BIRT
+2 DATE 31 AUG 1850
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 15 NOV 1923
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Arbeider
+2 TYPE Occupation
+1 FAMS @F2647@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:36:35
+0 @I6916@ INDI
+1 NAME Berendina Gerritje /Reijersen/
+2 TYPE birth
+2 GIVN Berendina Gerritje
+2 SURN Reijersen
+1 SEX F
+1 BIRT
+2 DATE 12 MAR 1857
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 5 FEB 1925
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT zonder beroep
+2 TYPE Occupation
+1 FAMC @F2642@
+2 PEDI birth
+1 FAMS @F2648@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:40:32
+0 @I6917@ INDI
+1 NAME Jacob /van de Velde/
+2 TYPE birth
+2 GIVN Jacob
+2 SPFX van de
+2 SURN Velde
+1 SEX M
+1 BIRT
+2 DATE 27 FEB 1855
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 22 AUG 1939
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Daghuurder
+2 TYPE Occupation
+1 FAMS @F2648@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:40:32
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -148732,7 +150884,7 @@
 1 WIFE @I4465@
 1 MARR
 2 DATE 21 OCT 1652
-2 PLAC Alten-Buseck (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
 3 MAP
 4 LATI N50.619706
 4 LONG E8.750951
@@ -148771,7 +150923,7 @@
 1 WIFE @I4472@
 1 MARR
 2 DATE 1547
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 CHIL @I4471@
 1 CHIL @I4476@
 1 CHIL @I4481@
@@ -148786,7 +150938,7 @@
 1 WIFE @I4474@
 1 MARR
 2 DATE 1515
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 CHIL @I4473@
 1 CHAN
 2 DATE 17 NOV 2025
@@ -148796,7 +150948,7 @@
 1 WIFE @I4476@
 1 MARR
 2 DATE 1565
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 CHIL @I4490@
 1 CHIL @I4468@
 1 CHIL @I4492@
@@ -148825,7 +150977,7 @@
 1 WIFE @I4481@
 1 MARR
 2 DATE ABT 1570
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 CHAN
 2 DATE 17 NOV 2025
 3 TIME 22:29:21
@@ -148853,7 +151005,7 @@
 1 WIFE @I4491@
 1 MARR
 2 DATE 1602
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 2 NOTE @N1845@
 1 CHAN
 2 DATE 18 NOV 2025
@@ -148863,7 +151015,7 @@
 1 WIFE @I4492@
 1 MARR
 2 DATE 1594
-2 PLAC Steinbach, Fernwald (Landkreis Giessen) [Hessen] Duitsland
+2 PLAC Steinbach, Fernwald (Landkreis Gießen) [Hessen] Duitsland
 1 CHAN
 2 DATE 18 NOV 2025
 3 TIME 20:35:59
@@ -148900,19 +151052,33 @@
 1 WIFE @I4503@
 1 CHIL @I6737@
 1 CHIL @I4497@
+1 CHIL @I6820@
 1 CHIL @I6732@
+1 CHIL @I6821@
 1 CHIL @I6819@
 1 CHAN
 2 DATE 13 JUN 2026
-3 TIME 00:10:29
+3 TIME 12:51:50
 0 @F1726@ FAM
 1 HUSB @I4504@
 1 WIFE @I4505@
+1 MARR
+2 DATE 1649
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
 1 CHIL @I4502@
+1 CHIL @I6822@
+1 CHIL @I6823@
 1 CHIL @I4506@
+1 CHIL @I6824@
+1 CHIL @I6825@
+1 CHIL @I6826@
+1 CHIL @I6828@
 1 CHAN
-2 DATE 18 NOV 2025
-3 TIME 22:42:10
+2 DATE 13 JUN 2026
+3 TIME 14:38:47
 0 @F1727@ FAM
 1 HUSB @I4506@
 1 WIFE @I4507@
@@ -148926,9 +151092,11 @@
 1 HUSB @I4508@
 1 WIFE @I4509@
 1 CHIL @I4507@
+1 CHIL @I6839@
+1 CHIL @I6840@
 1 CHAN
-2 DATE 18 NOV 2025
-3 TIME 22:38:06
+2 DATE 13 JUN 2026
+3 TIME 15:42:01
 0 @F1729@ FAM
 1 HUSB @I4510@
 1 WIFE @I4511@
@@ -152791,9 +154959,10 @@
 1 HUSB @I5436@
 1 WIFE @I5435@
 1 CHIL @I0347@
+1 CHIL @I6889@
 1 CHAN
-2 DATE 29 JAN 2026
-3 TIME 21:15:09
+2 DATE 14 JUN 2026
+3 TIME 20:46:50
 0 @F2112@ FAM
 1 HUSB @I5437@
 1 WIFE @I5438@
@@ -158344,8 +160513,374 @@
 1 WIFE @I6817@
 1 CHIL @I6804@
 1 CHAN
-2 DATE 12 JUN 2026
-3 TIME 23:38:06
+2 DATE 13 JUN 2026
+3 TIME 14:09:14
+0 @F2620@ FAM
+1 HUSB @I6827@
+1 WIFE @I6826@
+1 MARR
+2 DATE 8 NOV 1689
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 13:27:38
+0 @F2621@ FAM
+1 HUSB @I6830@
+1 WIFE @I6829@
+1 MARR
+2 DATE 19 JUL 1683
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 CHIL @I6742@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 13:45:35
+0 @F2622@ FAM
+1 HUSB @I6831@
+1 WIFE @I6770@
+1 MARR
+2 DATE 31 JAN 1699
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 CHIL @I6832@
+1 CHIL @I6833@
+1 CHIL @I6834@
+1 CHIL @I6835@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 14:09:04
+0 @F2623@ FAM
+1 HUSB @I6836@
+1 WIFE @I6837@
+1 MARR
+2 DATE 16 JUN 1664
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 CHIL @I4511@
+1 CHIL @I6857@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:45:16
+0 @F2624@ FAM
+1 HUSB @I6838@
+1 CHIL @I6837@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:44:29
+0 @F2625@ FAM
+1 HUSB @I6772@
+1 WIFE @I6841@
+1 MARR
+2 DATE 18 NOV 1706
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 CHIL @I6842@
+1 CHIL @I6843@
+1 CHIL @I6844@
+1 CHIL @I6845@
+1 CHIL @I6846@
+1 CHIL @I6847@
+1 CHIL @I6848@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 20:17:01
+0 @F2626@ FAM
+1 HUSB @I6849@
+1 WIFE @I6850@
+1 MARR
+2 DATE 30 NOV 1681
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 CHIL @I6841@
+1 CHIL @I6851@
+1 CHIL @I6852@
+1 CHIL @I6853@
+1 CHIL @I6854@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:10:36
+0 @F2627@ FAM
+1 HUSB @I6856@
+1 WIFE @I6855@
+1 CHIL @I6850@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:16:07
+0 @F2628@ FAM
+1 HUSB @I6858@
+1 WIFE @I6857@
+1 MARR
+2 DATE 27 JUN 1702
+2 PLAC Alten-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.619706
+4 LONG E8.750951
+1 CHIL @I6859@
+1 CHIL @I6860@
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:59:32
+0 @F2629@ FAM
+1 HUSB @I6861@
+1 WIFE @I6748@
+1 MARR
+2 DATE 25 SEP 1679
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 CHIL @I6863@
+1 CHIL @I6869@
+1 CHIL @I6862@
+1 CHIL @I6870@
+1 CHIL @I6871@
+1 CHIL @I6872@
+1 CHIL @I6873@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:31:37
+0 @F2630@ FAM
+1 HUSB @I6864@
+1 WIFE @I6863@
+1 MARR
+2 DATE FEB 1713
+2 PLAC Großen-Buseck (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.605498
+4 LONG E8.785125
+1 CHIL @I6865@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 12:00:57
+0 @F2632@ FAM
+1 HUSB @I4508@
+1 WIFE @I6868@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 12:26:15
+0 @F2633@ FAM
+1 HUSB @I6874@
+1 WIFE @I6873@
+1 CHIL @I6875@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:34:55
+0 @F2634@ FAM
+1 HUSB @I6862@
+1 WIFE @I6876@
+1 MARR
+2 DATE 19 APR 1709
+2 PLAC Oppenrod (Landkreis Gießen) [Hessen] Duitsland
+3 MAP
+4 LATI N50.587826
+4 LONG E8.797792
+1 CHIL @I6877@
+1 CHIL @I6878@
+1 CHIL @I6879@
+1 CHIL @I6881@
+1 CHIL @I6882@
+1 CHIL @I6883@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 17:01:32
+0 @F2635@ FAM
+1 HUSB @I6879@
+1 WIFE @I6880@
+1 MARR
+2 DATE 27 MAR 1751
+2 PLAC Lauter
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 15:48:22
+0 @F2636@ FAM
+1 HUSB @I6885@
+1 WIFE @I6884@
+1 MARR
+2 DATE 21 SEP 1904
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHIL @I6886@
+1 CHIL @I5435@
+1 CHIL @I6890@
+1 CHIL @I6891@
+1 CHIL @I6892@
+1 CHIL @I6893@
+1 CHIL @I6895@
+1 CHIL @I6897@
+1 CHIL @I6898@
+1 CHIL @I6900@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:25:56
+0 @F2637@ FAM
+1 HUSB @I6887@
+1 WIFE @I6886@
+1 MARR
+2 DATE 2 MAY 1900
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 20:42:07
+0 @F2638@ FAM
+1 HUSB @I6888@
+1 WIFE @I6886@
+1 MARR
+2 DATE 7 NOV 1930
+2 PLAC Putten [Gelderland]
+3 MAP
+4 LATI N52.258498
+4 LONG E5.605576
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 20:44:02
+0 @F2639@ FAM
+1 HUSB @I6894@
+1 WIFE @I6893@
+1 MARR
+2 DATE 2 JAN 1907
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:00:22
+0 @F2640@ FAM
+1 HUSB @I6895@
+1 WIFE @I6896@
+1 MARR
+2 DATE 31 MAR 1915
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:14:15
+0 @F2641@ FAM
+1 HUSB @I6898@
+1 WIFE @I6899@
+1 MARR
+2 DATE 11 JUN 1919
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 21:25:02
+0 @F2642@ FAM
+1 HUSB @I6902@
+1 WIFE @I6901@
+1 MARR
+2 DATE 14 APR 1830
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHIL @I6903@
+1 CHIL @I6904@
+1 CHIL @I6906@
+1 CHIL @I6907@
+1 CHIL @I6908@
+1 CHIL @I6910@
+1 CHIL @I6912@
+1 CHIL @I6885@
+1 CHIL @I6914@
+1 CHIL @I6916@
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:38:35
+0 @F2643@ FAM
+1 HUSB @I6904@
+1 WIFE @I6905@
+1 MARR
+2 DATE 25 SEP 1861
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 22:55:28
+0 @F2644@ FAM
+1 HUSB @I6908@
+1 WIFE @I6909@
+1 MARR
+2 DATE 16 FEB 1870
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:03:44
+0 @F2645@ FAM
+1 HUSB @I6911@
+1 WIFE @I6910@
+1 MARR
+2 DATE 24 AUG 1864
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:26:39
+0 @F2646@ FAM
+1 HUSB @I6912@
+1 WIFE @I6913@
+1 MARR
+2 DATE 24 AUG 1870
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:31:43
+0 @F2647@ FAM
+1 HUSB @I6915@
+1 WIFE @I6914@
+1 MARR
+2 DATE 22 JUL 1874
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:36:35
+0 @F2648@ FAM
+1 HUSB @I6917@
+1 WIFE @I6916@
+1 MARR
+2 DATE 26 JAN 1881
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 23:40:32
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -171787,7 +174322,7 @@
 0 @N2367@ NOTE Akte 373.
 0 @N2368@ NOTE 1842.
 0 @N2369@ NOTE 1843.
-0 @N2370@ NOTE Akte 40.
+0 @N2370@ NOTE Kennemerland Velsen Akte Jaar 1894 Nummer 40.
 0 @N2371@ NOTE Overleden op de werken van het in aanmaak zijnde Noordzeekanaal vla
 1 CONC kbi j de Noordzee. 
 0 @N2372@ NOTE Gehucht De Heide
@@ -178093,32 +180628,187 @@
 1 CONC r die Lästerung gethan (in der ) Hoffnung (das Pferd) loß zu sein hat e
 1 CONC r solches nach 4 Tagen wieder geschickt bekommen.".
 0 @N3139@ NOTE Y 1697 Taufpaten: Wagner, Philipp To. Elisabetha.
+0 @N3140@ NOTE Taufpaten: Bechtold Philips(+) Fr. Anna.
+0 @N3141@ NOTE L 1669
+0 @N3142@ NOTE L 1669.
+0 @N3143@ NOTE L 1686
+0 @N3144@ NOTE L 1669.
+0 @N3145@ NOTE L 1669.
+0 @N3146@ NOTE Taufpaten: Margaretha, Ehefrau des Hermann Krämer
+0 @N3147@ NOTE Public Member Trees - Ancestry.com - 2006 - Provo, UT, USA - 1,1030
+1 CONC ::0 - Family trees submitted by Ancestry members. - Ancestry Family Tre
+1 CONC e - 382310893512:1030:177781404
+0 @N3148@ NOTE Taufpaten: Georg Philips, Sohn des Magnus Damm; Agnes, Tochter de
+1 CONC s Philips Becker aus Reiskirchen.
+0 @N3149@ NOTE Public Member Trees - Ancestry.com - 2006 - Provo, UT, USA - 1,1030
+1 CONC ::0 - Family trees submitted by Ancestry members. - Ancestry Family Tre
+1 CONC e - 382310893504:1030:177781404
+0 @N3150@ NOTE Taufpaten: Johann Erckel aus Trohe; Matthes Heibertshausens To. Mar
+1 CONC garetha aus Daubringen
+0 @N3151@ NOTE Taufpaten: Möbus Kahls To. A. Margaretha Sie wurde am 13. So. n. Tr
+1 CONC initatis beerdigt;
+0 @N3152@ NOTE Taufpaten: Kraft Adam Hof; Catharina Hartmann.
+0 @N3153@ NOTE Taufpaten: Anna Elisabetha Münch; Balthasar Hof. Sie starb mit 83 J
+1 CONC ahren.
+0 @N3154@ NOTE Taufpaten: Balthasar Hofs Fr. A. Elisabetha; Hf. Conrad Walter.
+0 @N3155@ NOTE L 1669.
+0 @N3156@ NOTE Ancestry Family Trees - 1,1030::0 - Ancestry.com - Ancestry Famil
+1 CONC y Tree - 392081961282:1030:7365823 - 362215628808:1030:120620976 - 21203
+1 CONC 5121746:1030:153588143
+0 @N3157@ NOTE Ancestry Family Trees - 1,1030::0 - Ancestry.com - Ancestry Famil
+1 CONC y Tree - 392081961283:1030:7365823 - 362215628857:1030:120620976 - 21203
+1 CONC 5402836:1030:153588143
+0 @N3158@ NOTE Ancestry Family Trees - 1,1030::0 - Ancestry.com - Ancestry Famil
+1 CONC y Tree - 392081961287:1030:7365823
+0 @N3159@ NOTE Ancestry Family Trees - 1,1030::0 - Ancestry.com - Ancestry Famil
+1 CONC y Tree - 390154736496:1030:7365823 - 132020228272:1030:100112935 - 36221
+1 CONC 5403170:1030:120620976 - 212034941108:1030:153588143
+0 @N3160@ NOTE Ancestry Family Trees - 1,1030::0 - Ancestry.com - Ancestry Famil
+1 CONC y Tree - 392081961291:1030:7365823
+0 @N3161@ NOTE Ancestry Family Trees - 1,1030::0 - Ancestry.com - Ancestry Famil
+1 CONC y Tree - 392081961289:1030:7365823
+0 @N3162@ NOTE Uckoborg is een borg geweest ten zuiden van Jemgum (Jemmingen) en t
+1 CONC en noorden van Leer in Ost-Friesland, bij het plaatsje Ukeborg. Van de b
+1 CONC org zelf is niets meer over.
+0 @N3163@ NOTE Uckoborg is een borg geweest ten zuiden van Jemgum (Jemmingen) en t
+1 CONC en noorden van Leer in Ost-Friesland, bij het plaatsje Ukeborg. Van de b
+1 CONC org zelf is niets meer over.
+0 @N3164@ NOTE Uckoborg is een borg geweest ten zuiden van Jemgum (Jemmingen) en t
+1 CONC en noorden van Leer in Ost-Friesland, bij het plaatsje Ukeborg. Van de b
+1 CONC org zelf is niets meer over.
+0 @N3165@ NOTE L 1669.
+0 @N3166@ NOTE Sie wurde der Hexerei beschuldigt. Am 8. August 1656 , zwei Monat
+1 CONC e vor der Inhaftierung Dorothea Möllers, leistete Barbara, (Phil)Lipp Be
+1 CONC chtolds Frau, aus Oppenrod, die Urfehde. Das heißt, sie mußte auf Empfeh
+1 CONC lung der Juristen in Gießen freigelassen werden, da ihr nichts bewiese
+1 CONC n werden konnte und sie nichts gestand. 1669 wird sie mit drei Töchter
+1 CONC n in der Einwohnerzählung erfaßt (Seite 38 Sündenbock: Hexe). Barbara wa
+1 CONC r auf mehrfache Denunziation hin im Alter von 22 Jahren inhaftiert und m
+1 CONC it Gießener Genehmigung ordnungsgemäß gefoltert worden. Sie kommt gewiss
+1 CONC ermaßen "auf Bewährung" frei. Sie hat die Prozesskosten zu tragen, muß a
+1 CONC uf jederzeitigen Abruf bereitstehen. Außerdem schwört sie "einen lieblic
+1 CONC hen aydt", daß sie keinerlei Rache gegen die Justizbeamten, die Juncke
+1 CONC r und besonders ihren Nachbarn (!) ersinnen wird. Im Zusatz der Beamte
+1 CONC n ist auch von einer Kaution die Rede. Am 6. Juni erging die Genehmigun
+1 CONC g zur Folter. Bis zum 30. Juli ist sie vermutlich mehrfach gefoltert wor
+1 CONC den. Sie soll, laut Aussage von Eva Eyermann, Magnus Finck todkrank geza
+1 CONC ubert haben, indem sie ihm Kirschen zu essen gab und ihn beim späteren K
+1 CONC rankenbesuch berührte. Genannte Aussgae erfolgte nach ihrer Freilassung
+1 CONC . Sie stirbt aber erst 1702 im Alter von 68 Jahren eines natürlichen Tod
+1 CONC es. Nach Evas Aussage könnte sie nochmals verhört worden sein, bestätige
+1 CONC n könne wir das nicht (Seite 38 ff.).
+1 CONT 
+1 CONT Ze werd beschuldigd van hekserij. Op 8 augustus 1656, twee maanden voo
+1 CONC r de gevangenneming van Dorothea Möller, legde Barbara, de vrouw van (Ph
+1 CONC il)Lipp Bechtold uit Oppenrod, een eed van verzoening af. Dit betekend
+1 CONC e dat ze op aanbeveling van de advocaten in Giessen moest worden vrijgel
+1 CONC aten, aangezien er niets tegen haar kon worden bewezen en ze niets beken
+1 CONC de. In 1669 wordt ze samen met haar drie dochters in de volkstelling ver
+1 CONC meld (pagina 38, Zondebok: Heks). Barbara was op 22-jarige leeftijd geva
+1 CONC ngen gezet na meerdere aanklachten en was, met goedkeuring van Giessen
+1 CONC , op gepaste wijze gemarteld. Ze werd in zekere zin "onder voorwaarden
+1 CONC " vrijgelaten. Ze moest de proceskosten betalen en te allen tijde beschi
+1 CONC kbaar zijn. Bovendien zwoer ze "een zoete eed" dat ze geen wraak zou ber
+1 CONC amen op de gerechtelijke ambtenaren, de lokale heren en vooral haar buur
+1 CONC vrouw (!). In het addendum van de ambtenaren wordt ook een borgtocht ver
+1 CONC meld. Op 6 juni werd toestemming verleend voor marteling. Ze werd vermoe
+1 CONC delijk meerdere malen gemarteld tot 30 juli. Volgens de getuigenis van E
+1 CONC va Eyermann zou ze Magnus Finck hebben betoverd, waardoor hij doodziek w
+1 CONC erd, door hem kersen te geven en hem aan te raken tijdens een later bezo
+1 CONC ek. Deze verklaring werd afgelegd na haar vrijlating. Ze stierf echter p
+1 CONC as in 1702 een natuurlijke dood op 68-jarige leeftijd. Volgens Eva's get
+1 CONC uigenis is ze mogelijk opnieuw ondervraagd, maar dit kunnen we niet beve
+1 CONC stigen (pagina's 38 e.v.).
+0 @N3167@ NOTE L 1669.
+0 @N3168@ NOTE L 1669.
+0 @N3169@ NOTE Taufpaten: Baltzer Hof; A. Margaretha Hahn.
+0 @N3170@ NOTE Taufpaten: Clara Siegfried.
+0 @N3171@ NOTE Taufpaten: Nicolaus Kümmels To. A. Margretha.
+0 @N3172@ NOTE Taufpaten: Peter Hof.
+0 @N3173@ NOTE Taufpaten: Baltzar Harbach.
+0 @N3174@ NOTE Taufpaten: Diacon Caspar Selzam.
+0 @N3175@ NOTE Taufpaten: Anna Maria Hahn.
+0 @N3176@ NOTE Liste 1669. Aus dem Kirchenkasten erhielt er 1680 8 Albus für "Wind
+1 CONC eisen und Nägel zum Fenster".
+0 @N3177@ NOTE Taufpaten: Wilhelm ClosesFr. Catharina.
+0 @N3178@ NOTE Taufpaten: Reichard Hahns So. Johannes; Philips Hilfs To. A. Margre
+1 CONC tha.
+0 @N3179@ NOTE Taufpaten: Conrad Hofmann.
+0 @N3180@ NOTE Taufpaten: Hf. Wilhelm Clos.
+0 @N3181@ NOTE Vergleiche auch lokalgeschichtliche Notizen Kap. 2.1., Brand vom 4
+1 CONC . August 1676.
+0 @N3182@ NOTE "Hf." (1681); er übernahm 1651 einen Kastenkredit über 20 Gulden zu
+1 CONC sammen mit Andreas Dörr von Melchior Hofmann und tilgte ihn 1656; er sta
+1 CONC rb im Alter von 62/8/-- Jahren. Liste 1669.
+0 @N3183@ NOTE Taufpaten: Baltzer Closes Fr. Maria; Johannes Göbel geboren wurde e
+1 CONC r am 30.09.1687; das Geburtsdatum gibt er selbst im KB an.
+0 @N3184@ NOTE 1708-1735.
+0 @N3185@ NOTE Taufpaten: Urban Beckers To. A. Maria; Martin Göbels So. Urban; si
+1 CONC e war 1717 P. bei Henrich Dietz in Lollar.
+0 @N3186@ NOTE Familienseite: Hausner Web Site
+1 CONT Stammbaum: 481621851-1 - 481621851-1 - Discovery - Anna Wagner (geb. Bec
+1 CONC htold) - Anna Wagner (geb. Bechtold) - 30 AUG 2024 - Über eine Person Di
+1 CONC scovery hinzugefügt
+0 @N3187@ NOTE L 1640, 1657; Fritz, Lipps (Fambu Oppenrod 151a) Wwe.
+0 @N3188@ NOTE L 1629, 1640, 1657, 1660.
+0 @N3189@ NOTE Taufpaten: Jacon Hahns Fr. Elisabetha aus Oppenrod.
+0 @N3190@ NOTE https://buseckertal.de/hexen/
+0 @N3191@ NOTE Literatur: Auktionshaus Stargardt: Auktionskatalog Nr. 647; Marbur
+1 CONC g 1990, S  411.
+0 @N3192@ NOTE Taufpaten: Philips Hilfs So. Balthasar; Emanuel Harbachs To. Maria
+1 CONC ; er starb ledig.
+0 @N3193@ NOTE Taufpaten: Organist Hofmanns To. Anna Sabina; Philips Göbels So. Ja
+1 CONC cob aus Oppenrod; Kirchen-Buße: "den 21. Dbr. (1717) hat Anna Sabina Pit
+1 CONC zin , (so) zu Frankfurt imprägnirt, privatum poenit. abzustatten durch e
+1 CONC in Coinsistorialdecret erhalten, mit erlegung 5r fl. nacher Gießen in Ho
+1 CONC chfürstl. Superintend.; 2 1/2 fl. dem hiesigen Kasten".
+0 @N3194@ NOTE Taufpaten: Hans Wilhelm Wagners To. Margaretha.
+0 @N3195@ NOTE Taufpaten: Anna Margaretha Gräf; Baltzer Pitz.
+0 @N3196@ NOTE Taufpaten: Kreyling, Dönges(+) To. A. Elis. a. Annerod; Mohr, Jaco
+1 CONC b So. Philipus.
+0 @N3197@ NOTE Y 1723 Taufpaten: Clarin, Georg Bierbrauer u. Weinhändler in Frankf
+1 CONC urt To. A. Barb.; Mohr, Philipp To. A. Maria; Hahn, Joes To. Maria Elis.
+1 CONC ; Greyling, Joes So. Thilmann.
+0 @N3198@ NOTE Y 1729 Taufpaten: Pitz, Baltzer (V. Bruder); Göbel, Philipp(+) Schu
+1 CONC ldiener allhier To. A. Mar.
+0 @N3199@ NOTE Y 1732 Taufpaten: Müller, Caspar Schulmstr. u. Organist in Gr.Bsck.
+1 CONC ; Schuster, Zilliox in Gr.Bsck.; Gaup, Leonhard Schulmstr. in Steinb. Fr
+1 CONC . Maria; Pitz, A. Sabina "Baas" in Gr.Bsck.
+0 @N3200@ NOTE Lauter
+0 @N3201@ NOTE P: Faru des Johann Henrich Sann.
+0 @N3202@ NOTE Taufpaten: Hut, Georg Hptmann unter Hf. Darmstadt. Miliz; Weitersha
+1 CONC usen, Joes Pfarrer So. Joes stud. theol.; Selzman, Caspar Pfarrer To. Cl
+1 CONC ara Liberta.
+0 @N3203@ NOTE Taufpaten: Daubener, Michael Schulmstr. in Annerod; Meinhardt, Geor
+1 CONC g Philips Schulmstr. in Albach; Schäfer, Joes Fr. A. Elisabetha.
+0 @N3204@ NOTE  Y Taufpaten: Vater Vater u. Mutter Mutter.
+0 @N3205@ NOTE Kennemerland Velsen Akte Jaar 1894 Nummer 40.
 0 @O0001@ OBJE
-1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
+1 FILE /home/bert/workspace/git/MFT/persons/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
 2 TITL 00172570
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 10:28:28
+2 DATE 13 JUN 2026
+3 TIME 12:45:31
 0 @O0002@ OBJE
-1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/Medaille.jpeg
+1 FILE /home/bert/workspace/git/MFT/persons/1897-1972 Lambert Johan Hendrik Timmerman/Medaille.jpeg
 2 FORM jpeg
 2 TITL Medaille
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 10:29:10
+2 DATE 13 JUN 2026
+3 TIME 12:45:53
 0 @O0003@ OBJE
-1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/Bevolkingsregister Beverwijk.pdf
+1 FILE /home/bert/workspace/git/MFT/persons/1897-1972 Lambert Johan Hendrik Timmerman/Bevolkingsregister Beverwijk.pdf
 2 FORM pdf
 2 TITL Bevolkingsregister Beverwijk
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 10:29:20
+2 DATE 13 JUN 2026
+3 TIME 12:45:43
 0 @O0004@ OBJE
-1 FILE /home/bert/workspace/git/MFT/people/1897-1972 Lambert Johan Hendrik Timmerman/US Patent 2232150-A_I.pdf
+1 FILE /home/bert/workspace/git/MFT/persons/1897-1972 Lambert Johan Hendrik Timmerman/US Patent 2232150-A_I.pdf
 2 FORM pdf
 2 TITL US Patent 2232150-A_I
 1 CHAN
-2 DATE 28 JUN 2025
-3 TIME 10:29:28
+2 DATE 13 JUN 2026
+3 TIME 12:46:05
 0 TRLR
