@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 21 JUN 2026
-2 TIME 23:52:37
+1 DATE 23 JUN 2026
+2 TIME 23:31:08
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2026 .
@@ -131197,7 +131197,7 @@
 1 SEX F
 1 BIRT
 2 DATE 22 SEP 1809
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131209,14 +131209,16 @@
 4 LONG E5.635813
 1 BAPM
 2 DATE 29 SEP 1809
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
+1 FAMC @F2694@
+2 PEDI birth
 1 FAMS @F2642@
 1 CHAN
-2 DATE 14 JUN 2026
-3 TIME 21:38:09
+2 DATE 23 JUN 2026
+3 TIME 17:59:02
 0 @I6902@ INDI
 1 NAME Reint Hendriks /Reijerse/
 2 TYPE birth
@@ -131229,7 +131231,7 @@
 1 SEX M
 1 BIRT
 2 DATE 7 JUN 1807
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131241,7 +131243,7 @@
 4 LONG E5.635813
 1 BAPM
 2 DATE 14 JUN 1807
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131631,16 +131633,18 @@
 4 LONG E5.635813
 1 BAPM
 2 DATE 26 DEC 1776
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
 1 FACT Landbouwster
 2 TYPE Occupation
+1 FAMC @F2693@
+2 PEDI birth
 1 FAMS @F2649@
 1 CHAN
-2 DATE 16 JUN 2026
-3 TIME 23:20:48
+2 DATE 23 JUN 2026
+3 TIME 12:24:47
 0 @I6919@ INDI
 1 NAME Hendrik Gerritsen /Reijersen/
 2 TYPE birth
@@ -131675,7 +131679,7 @@
 1 SEX M
 1 BIRT
 2 DATE 30 JUN 1798
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131687,7 +131691,7 @@
 4 LONG E5.635813
 1 BAPM
 2 DATE 1 JUL 1798
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131707,7 +131711,7 @@
 1 SEX F
 1 BIRT
 2 DATE 24 SEP 1801
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131719,7 +131723,7 @@
 4 LONG E5.635813
 1 BAPM
 2 DATE 28 SEP 1801
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131737,7 +131741,7 @@
 1 SEX F
 1 BIRT
 2 DATE 24 JUL 1799
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131749,7 +131753,7 @@
 4 LONG E5.635813
 1 BAPM
 2 DATE 28 JUL 1799
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131765,7 +131769,7 @@
 1 SEX M
 1 BIRT
 2 DATE 26 DEC 1801
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131777,7 +131781,7 @@
 4 LONG E5.635813
 1 BAPM
 2 DATE 1 JAN 1802
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131871,7 +131875,7 @@
 1 SEX F
 1 BAPM
 2 DATE 16 JAN 1763
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131889,7 +131893,7 @@
 2 DATE 24 MAR 1776
 1 BAPM
 2 DATE 30 SEP 1764
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131913,7 +131917,7 @@
 2 DATE BEF 31 DEC 1766
 1 BAPM
 2 DATE 14 SEP 1766
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131935,7 +131939,7 @@
 1 SEX M
 1 BAPM
 2 DATE 25 OCT 1676
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -131985,7 +131989,7 @@
 2 DATE 29 JAN 1776
 1 BAPM
 2 DATE 17 SEP 1775
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132009,7 +132013,7 @@
 2 DATE JAN 1777
 1 BAPM
 2 DATE 26 DEC 1776
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132031,10 +132035,13 @@
 1 SEX F
 1 DEAT
 2 DATE 22 DEC 1815
-2 PLAC Harderwijk (Hierden) [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
 1 BAPM
 2 DATE 15 FEB 1778
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132056,7 +132063,7 @@
 4 LONG E5.635813
 1 BAPM
 2 DATE 2 APR 1780
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132078,7 +132085,7 @@
 4 LONG E5.635813
 1 BAPM
 2 DATE 22 APR 1781
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132100,7 +132107,7 @@
 4 LONG E5.635813
 1 BAPM
 2 DATE 18 JUL 1784
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132160,13 +132167,13 @@
 1 SEX M
 1 BIRT
 2 DATE 12 JAN 1809
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
 1 BAPM
 2 DATE 15 JAN 1809
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132199,7 +132206,10 @@
 1 SEX F
 1 BAPM
 2 DATE 17 MAY 1711
-2 PLAC Harderwijk (Hierden) [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
 1 FAMC @F2689@
 2 PEDI birth
 1 FAMS @F2655@
@@ -132213,7 +132223,7 @@
 1 SEX M
 1 DEAT
 2 DATE ABT 1793
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132510,7 +132520,7 @@
 2 GIVN Jochim Hermansz
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132532,7 +132542,7 @@
 2 GIVN Willemtje Cornelis
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132563,7 +132573,7 @@
 2 GIVN Lubbert Jansen
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132594,7 +132604,7 @@
 2 GIVN Jacob Janse
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132706,7 +132716,7 @@
 2 GIVN Hendrick Janse
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132721,7 +132731,7 @@
 1 SEX M
 1 BAPM
 2 DATE 30 SEP 1674
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132785,7 +132795,7 @@
 2 GIVN Herman Willemsen
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132812,7 +132822,7 @@
 2 GIVN Henrick Hermans
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132833,7 +132843,7 @@
 2 GIVN Petertje Harmens
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132855,7 +132865,7 @@
 2 GIVN Claas Harmensen
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132875,7 +132885,7 @@
 2 GIVN Gerritgen Hermans
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132909,7 +132919,7 @@
 2 GIVN Hartger Eijbertsen
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132936,7 +132946,7 @@
 2 GIVN Petertje Lubberts
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132950,7 +132960,7 @@
 2 GIVN Claes Joachimsen
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132966,7 +132976,7 @@
 2 GIVN Gerritje Wilhelms
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132980,7 +132990,7 @@
 2 GIVN Hendrik Claasz
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -132995,7 +133005,7 @@
 2 GIVN Willemtje Claes
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133010,7 +133020,7 @@
 2 GIVN Jochem Claessen
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133028,7 +133038,7 @@
 2 GIVN Lubbertje Lubbers
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133044,7 +133054,7 @@
 2 GIVN Gerritie Willems
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133058,7 +133068,7 @@
 2 GIVN Jannitie Barts
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133072,7 +133082,7 @@
 2 GIVN Metje Claessen
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133087,7 +133097,7 @@
 2 GIVN Petertje Claes
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133108,7 +133118,7 @@
 2 GIVN Aaltje Claes
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133172,7 +133182,7 @@
 2 GIVN Gerritgen Lubberts
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133186,7 +133196,7 @@
 2 GIVN Aaltge Hendricx
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133208,7 +133218,7 @@
 2 GIVN Reijert Rijcketsen
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133260,7 +133270,7 @@
 2 GIVN Peter Reijers
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133322,7 +133332,7 @@
 2 GIVN Henric Petersen
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133336,7 +133346,7 @@
 2 GIVN Toenisgen Peters
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133350,7 +133360,7 @@
 2 GIVN Jenneken Hendriks
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133419,7 +133429,7 @@
 2 GIVN Jan Hendriks
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133440,7 +133450,7 @@
 2 GIVN Jannetgen Hendriks
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133484,7 +133494,7 @@
 2 GIVN Roelof Petersen
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133595,7 +133605,7 @@
 2 GIVN Marretgen Jans
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133632,7 +133642,7 @@
 2 GIVN Peter Roelofs
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133646,7 +133656,7 @@
 2 GIVN Bartien Egbers
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133742,7 +133752,7 @@
 2 GIVN Jutte Harmens
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133758,7 +133768,7 @@
 2 GIVN Harmen Henricksen
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133814,7 +133824,7 @@
 2 GIVN Gerrit Peterssen
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133828,7 +133838,7 @@
 2 GIVN Petertje Gerrits
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133874,7 +133884,7 @@
 2 GIVN Peter Gerrits
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133895,7 +133905,7 @@
 2 GIVN Aart Gerrits
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133964,7 +133974,7 @@
 2 GIVN Brandt Geurtzen
 1 SEX M
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -133992,7 +134002,7 @@
 2 GIVN Hendrikje Willemz
 1 SEX F
 1 BIRT
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -134024,9 +134034,9 @@
 2 DATE 21 JUN 2026
 3 TIME 23:40:57
 0 @I7061@ INDI
-1 NAME Jan Willmsze //
+1 NAME Jan Willemsze //
 2 TYPE birth
-2 GIVN Jan Willmsze
+2 GIVN Jan Willemsze
 1 SEX M
 1 DEAT
 2 DATE 10 APR 1795
@@ -134042,8 +134052,8 @@
 4 LONG E5.630361
 1 FAMS @F2691@
 1 CHAN
-2 DATE 21 JUN 2026
-3 TIME 23:19:31
+2 DATE 23 JUN 2026
+3 TIME 13:50:46
 0 @I7062@ INDI
 1 NAME Lubbert Brants //
 2 TYPE birth
@@ -134164,6 +134174,777 @@
 1 CHAN
 2 DATE 21 JUN 2026
 3 TIME 23:40:57
+0 @I7068@ INDI
+1 NAME Dirk Jacobse //
+2 TYPE birth
+2 GIVN Dirk Jacobse
+1 SEX M
+1 DEAT
+2 DATE BEF 6 SEP 1792
+1 BAPM
+2 DATE 10 SEP 1746
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 BURI
+2 DATE 6 SEP 1792
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMS @F2693@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 12:22:00
+0 @I7069@ INDI
+1 NAME Rijntje Hartgers /Timmer/
+2 TYPE birth
+2 GIVN Rijntje Hartgers
+2 SURN Timmer
+1 SEX F
+1 DEAT
+2 DATE 21 NOV 1829
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 BAPM
+2 DATE 10 JUN 1743
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 FAMS @F2693@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 12:22:00
+0 @I7070@ INDI
+1 NAME Weimpje Dirks //
+2 TYPE birth
+2 GIVN Weimpje Dirks
+1 SEX F
+1 DEAT
+2 DATE 29 OCT 1783
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 BAPM
+2 DATE 9 SEP 1781
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 BURI
+2 DATE 31 OCT 1783
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2693@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 12:24:47
+0 @I7071@ INDI
+1 NAME Lubbert Jansen /Jager/
+2 TYPE birth
+2 GIVN Lubbert Jansen
+2 SURN Jager
+1 SEX M
+1 DEAT
+2 DATE 8 SEP 1827
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 BAPM
+2 DATE 25 JUN 1775
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Daghuurder
+2 TYPE Occupation
+1 FAMC @F2691@
+2 PEDI birth
+1 FAMS @F2694@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:57:41
+0 @I7072@ INDI
+1 NAME Hendrikje Eijberts /Bisschop/
+2 TYPE birth
+2 GIVN Hendrikje Eijberts
+2 SURN Bisschop
+1 SEX F
+1 DEAT
+2 DATE 1867
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 BAPM
+2 DATE 1 FEB 1779
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2698@
+2 PEDI birth
+1 FAMS @F2694@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 19:14:12
+0 @I7073@ INDI
+1 NAME Jan /Jager/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Jager
+1 SEX M
+1 BIRT
+2 DATE 9 OCT 1807
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 DEAT
+2 DATE BEF 26 OCT 1807
+1 BAPM
+2 DATE 18 OCT 1807
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 BURI
+2 DATE 26 OCT 1807
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2694@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 17:59:02
+0 @I7074@ INDI
+1 NAME Jan Lubberts /Jager/
+2 TYPE birth
+2 GIVN Jan Lubberts
+2 SURN Jager
+1 SEX M
+1 BIRT
+2 DATE 3 MAR 1812
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 3 FEB 1881
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2694@
+2 PEDI birth
+1 FAMS @F2695@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 17:59:02
+0 @I7075@ INDI
+1 NAME Aartje /Witteveen/
+2 TYPE birth
+2 GIVN Aartje
+2 SURN Witteveen
+1 SEX F
+1 BIRT
+2 DATE 30 SEP 1813
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 30 MAY 1880
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMS @F2695@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 13:59:58
+0 @I7076@ INDI
+1 NAME Eijbert /Jager/
+2 TYPE birth
+2 GIVN Eijbert
+2 SURN Jager
+1 SEX M
+1 BIRT
+2 DATE 16 MAY 1814
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2694@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 17:59:02
+0 @I7077@ INDI
+1 NAME Jannetje Lubberts /Jager/
+2 TYPE birth
+2 GIVN Jannetje Lubberts
+2 SURN Jager
+1 SEX F
+1 BIRT
+2 DATE 4 DEC 1816
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 DEAT
+2 DATE BEF 1872
+1 FACT zonder beroep
+2 TYPE Occupation
+1 FAMC @F2694@
+2 PEDI birth
+1 FAMS @F2696@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:01:19
+0 @I7078@ INDI
+1 NAME Willem /Beelen/
+2 TYPE birth
+2 GIVN Willem
+2 SURN Beelen
+1 SEX M
+1 BIRT
+2 DATE 28 SEP 1815
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMS @F2696@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:01:19
+0 @I7079@ INDI
+1 NAME Wouter Willems /Beelen/
+2 TYPE birth
+2 GIVN Wouter Willems
+2 SURN Beelen
+1 SEX M
+1 BIRT
+2 DATE 29 OCT 1842
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 DEAT
+2 DATE 18 MAY 1925
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMC @F2696@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:11:26
+0 @I7080@ INDI
+1 NAME Lubbert /Beelen/
+2 TYPE birth
+2 GIVN Lubbert
+2 SURN Beelen
+1 SEX M
+1 BIRT
+2 DATE 1845
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FACT Landbouwer
+2 TYPE Occupation
+1 FAMC @F2696@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:11:26
+0 @I7081@ INDI
+1 NAME Evertje /Beelen/
+2 TYPE birth
+2 GIVN Evertje
+2 SURN Beelen
+1 SEX F
+1 BIRT
+2 DATE 13 OCT 1849
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 DEAT
+2 DATE 5 AUG 1906
+2 PLAC Hulshorst [Gelderland]
+1 FAMC @F2696@
+2 PEDI birth
+1 FAMS @F2697@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:18:44
+0 @I7082@ INDI
+1 NAME Beert /Hop/
+2 TYPE birth
+2 GIVN Beert
+2 SURN Hop
+1 SEX M
+1 BIRT
+2 DATE 1 AUG 1847
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 DEAT
+2 DATE 17 JUL 1939
+2 PLAC Nunspeet [Gelderland]
+3 MAP
+4 LATI N52.373298
+4 LONG E5.770005
+1 FACT Jachtopziener
+2 TYPE Occupation
+1 FACT Rentmeester
+2 TYPE Occupation
+1 FAMS @F2697@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:18:44
+0 @I7083@ INDI
+1 NAME Eijbert Henriksen /Bisschop/
+2 TYPE birth
+2 GIVN Eijbert Henriksen
+2 SURN Bisschop
+1 SEX M
+1 DEAT
+2 DATE 29 DEC 1820
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 BAPM
+2 DATE 21 MAY 1741
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 FACT Daghuurder
+2 TYPE Occupation
+1 FAMS @F2698@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:29:43
+0 @I7084@ INDI
+1 NAME Aaltien Gerrits //
+2 TYPE birth
+2 GIVN Aaltien Gerrits
+1 SEX F
+1 DEAT
+2 DATE BEF 19 MAR 1784
+1 BAPM
+2 DATE 23 MAY 1748
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 BURI
+2 DATE 19 MAR 1784
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2700@
+2 PEDI birth
+1 FAMS @F2698@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 19:43:18
+0 @I7085@ INDI
+1 NAME Willemijn Eijberts //
+2 TYPE birth
+2 GIVN Willemijn Eijberts
+1 SEX F
+1 BAPM
+2 DATE 21 NOV 1773
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2698@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 19:14:12
+0 @I7086@ INDI
+1 NAME Gerrit Eijberts //
+2 TYPE birth
+2 GIVN Gerrit Eijberts
+1 SEX M
+1 BAPM
+2 DATE 9 JUL 1775
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2698@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 19:14:12
+0 @I7087@ INDI
+1 NAME Harmtje Eijberts //
+2 TYPE birth
+2 GIVN Harmtje Eijberts
+1 NAME Harmpje Eijberts //
+2 TYPE aka
+2 GIVN Harmpje Eijberts
+1 SEX F
+1 DEAT
+2 DATE 18 DEC 1812
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 BAPM
+2 DATE 20 APR 1777
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 FAMC @F2698@
+2 PEDI birth
+1 FAMS @F2699@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 19:14:12
+0 @I7088@ INDI
+1 NAME Lubbert Jacobs /Mulder/
+2 TYPE birth
+2 GIVN Lubbert Jacobs
+2 SURN Mulder
+1 SEX M
+1 BIRT
+2 DATE ABT 1765
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 FACT Molenaar
+2 TYPE Occupation
+1 FAMS @F2699@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:45:31
+0 @I7089@ INDI
+1 NAME Jannetje Eijberts //
+2 TYPE birth
+2 GIVN Jannetje Eijberts
+1 SEX F
+1 BAPM
+2 DATE 25 FEB 1781
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 FAMC @F2698@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 19:14:12
+0 @I7090@ INDI
+1 NAME Hendrik Eijberts //
+2 TYPE birth
+2 GIVN Hendrik Eijberts
+1 SEX M
+1 DEAT
+2 DATE 14 OCT 1783
+1 BAPM
+2 DATE 13 OCT 1782
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 BURI
+2 DATE 17 OCT 1783
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMC @F2698@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 19:14:12
+0 @I7091@ INDI
+1 NAME Harmtje Jansse //
+2 TYPE birth
+2 GIVN Harmtje Jansse
+1 SEX F
+1 DEAT
+2 DATE 10 MAR 1816
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 BAPM
+2 DATE 12 MAY 1726
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMS @F2700@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 19:43:18
+0 @I7092@ INDI
+1 NAME Gerrit Willem /den Grooten/
+2 TYPE birth
+2 GIVN Gerrit Willem
+2 SPFX den
+2 SURN Grooten
+1 SEX M
+1 DEAT
+2 DATE BEF 2 JAN 1802
+1 BAPM
+2 DATE 29 DEC 1725
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 BURI
+2 DATE 2 JAN 1802
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 FAMS @F2700@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 19:43:18
+0 @I7093@ INDI
+1 NAME Brand Jans //
+2 TYPE birth
+2 GIVN Brand Jans
+1 SEX M
+1 BAPM
+2 DATE 8 APR 1757
+2 PLAC Telgt (Ermelo) [Gelderland]
+1 FAMC @F2691@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:57:41
+0 @I7094@ INDI
+1 NAME Willem Jans //
+2 TYPE birth
+2 GIVN Willem Jans
+1 SEX M
+1 BAPM
+2 DATE 6 DEC 1758
+2 PLAC Telgt (Ermelo) [Gelderland]
+1 FAMC @F2691@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:57:41
+0 @I7095@ INDI
+1 NAME Hendrikje Jans //
+2 TYPE birth
+2 GIVN Hendrikje Jans
+1 SEX F
+1 BAPM
+2 DATE 23 NOV 1760
+2 PLAC Telgt (Ermelo) [Gelderland]
+1 FAMC @F2691@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:57:41
+0 @I7096@ INDI
+1 NAME Hendrik Jans //
+2 TYPE birth
+2 GIVN Hendrik Jans
+1 SEX M
+1 BAPM
+2 DATE 6 FEB 1763
+2 PLAC Telgt (Ermelo) [Gelderland]
+1 FAMC @F2691@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:57:41
+0 @I7097@ INDI
+1 NAME Maartje Jans //
+2 TYPE birth
+2 GIVN Maartje Jans
+1 SEX F
+1 BAPM
+2 DATE 6 SEP 1765
+2 PLAC Telgt (Ermelo) [Gelderland]
+1 FAMC @F2691@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:57:41
+0 @I7098@ INDI
+1 NAME Jacob Jansen /Jager/
+2 TYPE birth
+2 GIVN Jacob Jansen
+2 SURN Jager
+1 SEX M
+1 DEAT
+2 DATE 10 DEC 1847
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 BAPM
+2 DATE 11 OCT 1767
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 FACT Cultivateur (1847 Tonsel)
+2 TYPE Occupation
+1 FAMC @F2691@
+2 PEDI birth
+1 FAMS @F2701@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:57:41
+0 @I7099@ INDI
+1 NAME Cornelisjen Hartgers /Hamer/
+2 TYPE birth
+2 GIVN Cornelisjen Hartgers
+2 SURN Hamer
+1 SEX F
+1 BIRT
+2 DATE 12 OCT 1781
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 BAPM
+2 DATE 14 OCT 1781
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 FAMS @F2701@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:51:54
+0 @I7100@ INDI
+1 NAME Jacob Jans //
+2 TYPE birth
+2 GIVN Jacob Jans
+1 SEX M
+1 BAPM
+2 DATE 11 OCT 1767
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 FAMC @F2691@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:57:41
+0 @I7101@ INDI
+1 NAME Jacob Jans //
+2 TYPE birth
+2 GIVN Jacob Jans
+1 SEX M
+1 BAPM
+2 DATE 23 OCT 1768
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 FAMC @F2691@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:57:41
+0 @I7102@ INDI
+1 NAME Driesien Jansen /Jager/
+2 TYPE birth
+2 GIVN Driesien Jansen
+2 SURN Jager
+1 NAME Dreesje Jansen /Jager/
+2 TYPE aka
+2 GIVN Dreesje Jansen
+2 SURN Jager
+1 SEX F
+1 DEAT
+2 DATE 24 APR 1811
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 BAPM
+2 DATE 1 NOV 1772
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 FAMC @F2691@
+2 PEDI birth
+1 FAMS @F2702@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:59:29
+0 @I7103@ INDI
+1 NAME Lammert Jansen /de Groot/
+2 TYPE birth
+2 GIVN Lammert Jansen
+2 SPFX de
+2 SURN Groot
+1 SEX M
+1 DEAT
+2 DATE 10 NOV 1868
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 BAPM
+2 DATE 26 AUG 1764
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 FAMS @F2702@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 23:02:52
+0 @I7104@ INDI
+1 NAME Jannetje Lammerts //
+2 TYPE birth
+2 GIVN Jannetje Lammerts
+1 SEX F
+1 BIRT
+2 DATE 4 JAN 1796
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 FAMC @F2702@
+2 PEDI birth
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 23:02:52
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -163463,7 +164244,7 @@
 1 WIFE @I6918@
 1 MARR
 2 DATE 15 OCT 1797
-2 PLAC Hierden [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
 3 MAP
 4 LATI N52.355952
 4 LONG E5.676059
@@ -163878,7 +164659,10 @@
 4 LONG E5.635813
 1 MARR
 2 DATE 21 MAR 1684
-2 PLAC Harderwijk (Hierden) [Gelderland]
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
 1 CHAN
 2 DATE 20 JUN 2026
 3 TIME 23:11:19
@@ -164197,9 +164981,19 @@
 3 MAP
 4 LATI N52.342347
 4 LONG E5.635813
+1 CHIL @I7093@
+1 CHIL @I7094@
+1 CHIL @I7095@
+1 CHIL @I7096@
+1 CHIL @I7097@
+1 CHIL @I7098@
+1 CHIL @I7100@
+1 CHIL @I7101@
+1 CHIL @I7102@
+1 CHIL @I7071@
 1 CHAN
-2 DATE 21 JUN 2026
-3 TIME 23:19:31
+2 DATE 23 JUN 2026
+3 TIME 22:57:41
 0 @F2692@ FAM
 1 HUSB @I7065@
 1 WIFE @I7064@
@@ -164218,6 +165012,180 @@
 1 CHAN
 2 DATE 21 JUN 2026
 3 TIME 23:32:42
+0 @F2693@ FAM
+1 HUSB @I7068@
+1 WIFE @I7069@
+1 MARL
+2 DATE 28 SEP 1776
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 MARR
+2 DATE 13 OCT 1776
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 CHIL @I6918@
+1 CHIL @I7070@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 12:24:47
+0 @F2694@ FAM
+1 HUSB @I7071@
+1 WIFE @I7072@
+1 MARR
+2 DATE 23 MAR 1806
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 MARL
+2 DATE 7 MAR 1806
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHIL @I7073@
+1 CHIL @I6901@
+1 CHIL @I7074@
+1 CHIL @I7076@
+1 CHIL @I7077@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 17:59:02
+0 @F2695@ FAM
+1 HUSB @I7074@
+1 WIFE @I7075@
+1 MARR
+2 DATE 5 MAY 1836
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 13:59:58
+0 @F2696@ FAM
+1 HUSB @I7078@
+1 WIFE @I7077@
+1 MARR
+2 DATE 20 JUL 1847
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHIL @I7079@
+1 CHIL @I7080@
+1 CHIL @I7081@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:11:26
+0 @F2697@ FAM
+1 HUSB @I7082@
+1 WIFE @I7081@
+1 MARR
+2 DATE 4 NOV 1868
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:18:44
+0 @F2698@ FAM
+1 HUSB @I7083@
+1 WIFE @I7084@
+1 MARL
+2 DATE 31 JAN 1773
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 MARR
+2 DATE 21 FEB 1773
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHIL @I7085@
+1 CHIL @I7086@
+1 CHIL @I7087@
+1 CHIL @I7072@
+1 CHIL @I7089@
+1 CHIL @I7090@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 19:14:12
+0 @F2699@ FAM
+1 HUSB @I7088@
+1 WIFE @I7087@
+1 MARL
+2 DATE 27 APR 1804
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 MARR
+2 DATE 13 MAY 1804
+2 PLAC Hierden (Harderwijk)  [Gelderland]
+3 MAP
+4 LATI N52.355952
+4 LONG E5.676059
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:45:31
+0 @F2700@ FAM
+1 HUSB @I7092@
+1 WIFE @I7091@
+1 MARL
+2 DATE 13 NOV 1746
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 MARR
+2 DATE 27 NOV 1746
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHIL @I7084@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 19:43:18
+0 @F2701@ FAM
+1 HUSB @I7098@
+1 WIFE @I7099@
+1 MARR
+2 DATE 24 NOV 1805
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:51:54
+0 @F2702@ FAM
+1 HUSB @I7103@
+1 WIFE @I7102@
+1 MARL
+2 DATE 17 APR 1795
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 MARR
+2 DATE 3 MAY 1795
+2 PLAC Ermelo [Gelderland]
+3 MAP
+4 LATI N52.298009
+4 LONG E5.630361
+1 CHIL @I7104@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 23:02:52
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
