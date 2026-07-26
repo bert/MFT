@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.1
 2 NAME Gramps
-1 DATE 26 JUL 2026
-2 TIME 16:07:48
+1 DATE 27 JUL 2026
+2 TIME 00:31:00
 1 SUBM @SUBM@
 1 FILE /home/bert/data.ged
 1 COPR Copyright (c) 2026 .
@@ -139537,7 +139537,7 @@
 1 NOTE @N3325@
 1 CHAN
 2 DATE 26 JUL 2026
-3 TIME 15:54:50
+3 TIME 23:42:11
 0 @I7231@ INDI
 1 NAME Nale Dircksdr /Visch/
 2 TYPE birth
@@ -140406,6 +140406,8 @@
 2 DATE ABT 1520
 1 DEAT
 2 DATE ABT 1580
+1 FAMC @F2833@
+2 PEDI birth
 1 FAMS @F2818@
 1 FAMS @F2819@
 1 NOTE @N3447@
@@ -140416,8 +140418,8 @@
 1 NOTE @N3452@
 1 NOTE @N3453@
 1 CHAN
-2 DATE 26 JUL 2026
-3 TIME 15:50:39
+2 DATE 27 JUL 2026
+3 TIME 00:06:31
 0 @I7281@ INDI
 1 NAME Cornelisje Jansdr /Visch/
 2 TYPE birth
@@ -140590,14 +140592,15 @@
 2 DATE ABT 1600
 1 FAMC @F2782@
 2 PEDI birth
+1 FAMS @F2837@
 1 RESI
 2 ADDR Hierden
 3 CONT Gelderland
 3 CITY Hierden
 3 STAE Gelderland
 1 CHAN
-2 DATE 19 JUL 2026
-3 TIME 15:37:28
+2 DATE 27 JUL 2026
+3 TIME 00:20:22
 0 @I7292@ INDI
 1 NAME Patrick /Seignette/
 2 TYPE birth
@@ -141843,7 +141846,7 @@
 1 NOTE @N3614@
 1 CHAN
 2 DATE 26 JUL 2026
-3 TIME 15:54:50
+3 TIME 23:42:11
 0 @I7370@ INDI
 1 NAME Woutertje //
 2 TYPE birth
@@ -141878,10 +141881,11 @@
 2 DATE ABT 1631
 1 FAMC @F2817@
 2 PEDI birth
+1 FAMS @F2836@
 1 NOTE @N3624@
 1 CHAN
-2 DATE 26 JUL 2026
-3 TIME 15:40:12
+2 DATE 27 JUL 2026
+3 TIME 00:13:27
 0 @I7374@ INDI
 1 NAME Aerdt Leffertsz //
 2 TYPE birth
@@ -141936,12 +141940,13 @@
 1 FAMC @F2818@
 2 PEDI birth
 1 FAMS @F2820@
+1 FAMS @F2821@
 1 NOTE @N3631@
 1 NOTE @N3634@
 1 NOTE @N3632@
 1 CHAN
 2 DATE 26 JUL 2026
-3 TIME 16:05:45
+3 TIME 23:42:11
 0 @I7377@ INDI
 1 NAME Geertgen Rutgers //
 2 TYPE birth
@@ -141964,6 +141969,543 @@
 1 CHAN
 2 DATE 26 JUL 2026
 3 TIME 16:04:05
+0 @I7378@ INDI
+1 NAME Grietjen Willemerss //
+2 TYPE birth
+2 GIVN Grietjen Willemerss
+1 SEX F
+1 BIRT
+2 DATE ABT 1585
+1 DEAT
+2 DATE BEF 1653
+1 FAMC @F2826@
+2 PEDI birth
+1 FAMS @F2821@
+1 FAMS @F2822@
+1 NOTE @N3637@
+1 NOTE @N3638@
+1 NOTE @N3641@
+1 NOTE @N3635@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:59:20
+0 @I7379@ INDI
+1 NAME Geertje Petersdr /Lieffert/
+2 TYPE birth
+2 GIVN Geertje Petersdr
+2 SURN Lieffert
+1 SEX F
+1 BAPM
+2 DATE 4 APR 1619
+1 FAMC @F2821@
+2 PEDI birth
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:31:59
+0 @I7380@ INDI
+1 NAME Wilmer Petersz /Lieffert/
+2 TYPE birth
+2 GIVN Wilmer Petersz
+2 SURN Lieffert
+1 SEX M
+1 BAPM
+2 DATE 28 OCT 1621
+1 FAMC @F2821@
+2 PEDI birth
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:31:59
+0 @I7381@ INDI
+1 NAME Albert Lubbertsz //
+2 TYPE birth
+2 GIVN Albert Lubbertsz
+1 SEX M
+1 DEAT
+2 DATE BEF 1653
+1 FAMS @F2823@
+1 FAMS @F2822@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:55:19
+0 @I7382@ INDI
+1 NAME Aeltgen Albertss //
+2 TYPE birth
+2 GIVN Aeltgen Albertss
+1 SEX F
+1 BIRT
+2 DATE ABT 1620
+1 FAMC @F2823@
+2 PEDI birth
+1 FAMS @F2824@
+1 NOTE @N3640@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:50:49
+0 @I7383@ INDI
+1 NAME Franck Jansen //
+2 TYPE birth
+2 GIVN Franck Jansen
+1 SEX M
+1 BIRT
+2 DATE ABT 1625
+1 FAMS @F2824@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:49:29
+0 @I7384@ INDI
+1 NAME Fenneken Albertss //
+2 TYPE birth
+2 GIVN Fenneken Albertss
+1 SEX F
+1 BIRT
+2 DATE ABT 1625
+1 FAMC @F2823@
+2 PEDI birth
+1 FAMS @F2825@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:52:08
+0 @I7385@ INDI
+1 NAME Gerrit Wilhemsen /van Hovesteijn/
+2 TYPE birth
+2 GIVN Gerrit Wilhemsen
+2 SPFX van
+2 SURN Hovesteijn
+1 SEX M
+1 BIRT
+2 DATE ABT 1627
+1 FAMS @F2825@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:52:08
+0 @I7386@ INDI
+1 NAME Willemer ? //
+2 TYPE birth
+2 GIVN Willemer ?
+1 SEX M
+1 FAMS @F2826@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:57:00
+0 @I7387@ INDI
+1 NAME Anna Willemers //
+2 TYPE birth
+2 GIVN Anna Willemers
+1 SEX F
+1 DEAT
+2 DATE BEF 1619
+1 FAMC @F2826@
+2 PEDI birth
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:59:20
+0 @I7388@ INDI
+1 NAME Woutergen Willemers //
+2 TYPE birth
+2 GIVN Woutergen Willemers
+1 SEX F
+1 FAMC @F2826@
+2 PEDI birth
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:59:20
+0 @I7389@ INDI
+1 NAME Janneken Willemers //
+2 TYPE birth
+2 GIVN Janneken Willemers
+1 SEX F
+1 FAMC @F2826@
+2 PEDI birth
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:59:20
+0 @I7390@ INDI
+1 NAME Elbert Aertsz /Lieffert/
+2 TYPE birth
+2 GIVN Elbert Aertsz
+2 SURN Lieffert
+1 SEX M
+1 DEAT
+2 DATE BEF 1629
+1 BAPM
+2 DATE ABT 1570
+1 FAMC @F2818@
+2 PEDI birth
+1 FAMS @F2827@
+1 NOTE @N3642@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:42:11
+0 @I7391@ INDI
+1 NAME Trijnken Dappers //
+2 TYPE birth
+2 GIVN Trijnken Dappers
+1 SEX F
+1 BIRT
+2 DATE ABT 1580
+1 DEAT
+2 DATE AFT 1630
+1 FAMS @F2827@
+1 RESI
+2 ADDR Deventer
+3 CITY Deventer
+1 NOTE @N3644@
+1 NOTE @N3643@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:08:47
+0 @I7392@ INDI
+1 NAME Harbert Aerdtsz /Lieffert/
+2 TYPE birth
+2 GIVN Harbert Aerdtsz
+2 SURN Lieffert
+1 SEX M
+1 BIRT
+2 DATE ABT 1616
+1 FAMC @F2827@
+2 PEDI birth
+1 NOTE @N3647@
+1 NOTE @N3646@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:13:56
+0 @I7393@ INDI
+1 NAME Reintgen Aerdtdr /Lieffert/
+2 TYPE birth
+2 GIVN Reintgen Aerdtdr
+2 SURN Lieffert
+1 SEX F
+1 BIRT
+2 DATE ABT 1575
+1 DEAT
+2 DATE 1637
+1 FAMC @F2818@
+2 PEDI birth
+1 FAMS @F2828@
+1 NOTE @N3648@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:42:11
+0 @I7394@ INDI
+1 NAME Brandt Goossensz //
+2 TYPE birth
+2 GIVN Brandt Goossensz
+1 SEX M
+1 BIRT
+2 DATE ABT 1570
+1 DEAT
+2 DATE 1629
+1 FAMC @F2829@
+2 PEDI birth
+1 FAMS @F2828@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:29:43
+0 @I7395@ INDI
+1 NAME Aardt Brandtsz Goosen //
+2 TYPE birth
+2 GIVN Aardt Brandtsz Goosen
+1 SEX M
+1 BIRT
+2 DATE ABT 1600
+1 FAMC @F2828@
+2 PEDI birth
+1 NOTE @N3652@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:31:10
+0 @I7396@ INDI
+1 NAME Goossen ? //
+2 TYPE birth
+2 GIVN Goossen ?
+1 SEX M
+1 FAMS @F2829@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:29:59
+0 @I7397@ INDI
+1 NAME Evert Goossensz //
+2 TYPE birth
+2 GIVN Evert Goossensz
+1 SEX M
+1 FAMC @F2829@
+2 PEDI birth
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:29:34
+0 @I7398@ INDI
+1 NAME Hendrick Brandtsz Goossen //
+2 TYPE birth
+2 GIVN Hendrick Brandtsz Goossen
+1 SEX M
+1 BIRT
+2 DATE ABT 1600
+1 FAMC @F2828@
+2 PEDI birth
+1 FAMS @F2830@
+1 NOTE @N3653@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:32:57
+0 @I7399@ INDI
+1 NAME Wouterken Janss //
+2 TYPE birth
+2 GIVN Wouterken Janss
+1 SEX F
+1 FAMS @F2830@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:32:57
+0 @I7400@ INDI
+1 NAME Geertien Aerdtdr /Lieffert/
+2 TYPE birth
+2 GIVN Geertien Aerdtdr
+2 SURN Lieffert
+1 SEX F
+1 BIRT
+2 DATE ABT 1577
+1 FAMC @F2818@
+2 PEDI birth
+1 FAMS @F2831@
+1 RESI
+2 ADDR Hierden
+3 CONT Gelderland
+3 CITY Hierden
+3 STAE Gelderland
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:42:11
+0 @I7401@ INDI
+1 NAME Thoenis Cornelissen //
+2 TYPE birth
+2 GIVN Thoenis Cornelissen
+1 SEX M
+1 BIRT
+2 DATE ABT 1575
+1 FAMS @F2831@
+1 RESI
+2 ADDR Hierden
+3 CONT Gelderland
+3 CITY Hierden
+3 STAE Gelderland
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:39:20
+0 @I7402@ INDI
+1 NAME Gerretgen Aerdtdr /Lieffert/
+2 TYPE birth
+2 GIVN Gerretgen Aerdtdr
+2 SURN Lieffert
+1 SEX F
+1 BIRT
+2 DATE ABT 1580
+1 FAMC @F2818@
+2 PEDI birth
+1 FAMS @F2832@
+1 RESI
+2 ADDR Hierden
+3 CONT Gelderland
+3 CITY Hierden
+3 STAE Gelderland
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:46:26
+0 @I7403@ INDI
+1 NAME Brant Jansz //
+2 TYPE birth
+2 GIVN Brant Jansz
+1 SEX M
+1 BIRT
+2 DATE ABT 1580
+1 FAMS @F2832@
+1 RESI
+2 ADDR Hierden
+3 CONT Gelderland
+3 CITY Hierden
+3 STAE Gelderland
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:46:26
+0 @I7404@ INDI
+1 NAME Herman Brantss //
+2 TYPE birth
+2 GIVN Herman Brantss
+1 SEX M
+1 BAPM
+2 DATE 20 OCT 1619
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N3658@
+1 FAMC @F2832@
+2 PEDI birth
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:49:30
+0 @I7405@ INDI
+1 NAME Geertjen Brantss //
+2 TYPE birth
+2 GIVN Geertjen Brantss
+1 SEX F
+1 BAPM
+2 DATE 30 JUL 1623
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N3659@
+1 FAMC @F2832@
+2 PEDI birth
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:49:30
+0 @I7406@ INDI
+1 NAME Nale //
+2 TYPE birth
+2 GIVN Nale
+1 SEX F
+1 BIRT
+2 DATE ABT 1495
+1 FAMS @F2833@
+1 NOTE @N3660@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:54:40
+0 @I7407@ INDI
+1 NAME Lieffert Aerntsz //
+2 TYPE birth
+2 GIVN Lieffert Aerntsz
+1 SEX M
+1 BIRT
+2 DATE ABT 1495
+1 FAMC @F2835@
+2 PEDI birth
+1 FAMS @F2833@
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:01:58
+0 @I7408@ INDI
+1 NAME Rijcket Lieffertsz //
+2 TYPE birth
+2 GIVN Rijcket Lieffertsz
+1 SEX M
+1 BIRT
+2 DATE ABT 1530
+1 DEAT
+2 DATE BEF 1575
+1 FAMC @F2833@
+2 PEDI birth
+1 FAMS @F2834@
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:06:31
+0 @I7409@ INDI
+1 NAME Bate Henricks //
+2 TYPE birth
+2 GIVN Bate Henricks
+1 SEX F
+1 BIRT
+2 DATE ABT 1535
+1 DEAT
+2 DATE AFT 1575
+1 FAMS @F2834@
+1 NOTE @N3662@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:59:39
+0 @I7410@ INDI
+1 NAME Aerndt ? //
+2 TYPE birth
+2 GIVN Aerndt ?
+1 SEX M
+1 FAMS @F2835@
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:01:58
+0 @I7411@ INDI
+1 NAME Claesgen //
+2 TYPE birth
+2 GIVN Claesgen
+1 SEX F
+1 FAMC @F2833@
+2 PEDI birth
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:06:31
+0 @I7412@ INDI
+1 NAME Rijckgen Rijcketss //
+2 TYPE birth
+2 GIVN Rijckgen Rijcketss
+1 SEX F
+1 FAMS @F2836@
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:13:27
+0 @I7413@ INDI
+1 NAME Albert Aerts //
+2 TYPE birth
+2 GIVN Albert Aerts
+1 SEX M
+1 FAMC @F2836@
+2 PEDI birth
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:13:27
+0 @I7414@ INDI
+1 NAME Rende Egbertss /Scheen/
+2 TYPE birth
+2 GIVN Rende Egbertss
+2 SURN Scheen
+1 SEX M
+1 BIRT
+2 DATE ABT 1590
+1 DEAT
+2 DATE 1625
+1 FAMC @F2838@
+2 PEDI birth
+1 FAMS @F2837@
+1 RESI
+2 ADDR Hierden
+3 CONT Gelderland
+3 CITY Hierden
+3 STAE Gelderland
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:22:59
+0 @I7415@ INDI
+1 NAME Egbert /Scheen/
+2 TYPE birth
+2 GIVN Egbert
+2 SURN Scheen
+1 SEX M
+1 BIRT
+2 DATE ABT 1540
+1 DEAT
+2 DATE BEF 1621
+1 FAMS @F2838@
+1 NOTE @N3664@
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:22:59
+0 @I7416@ INDI
+1 NAME Egbert Renden //
+2 TYPE birth
+2 GIVN Egbert Renden
+1 SEX M
+1 BAPM
+2 DATE 5 APR 1622
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N3665@
+1 FAMC @F2837@
+2 PEDI birth
+1 NOTE @N3666@
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:26:26
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -173748,9 +174290,13 @@
 1 CHIL @I7369@
 1 CHIL @I7230@
 1 CHIL @I7376@
+1 CHIL @I7390@
+1 CHIL @I7393@
+1 CHIL @I7400@
+1 CHIL @I7402@
 1 CHAN
 2 DATE 26 JUL 2026
-3 TIME 15:54:50
+3 TIME 23:42:11
 0 @F2819@ FAM
 1 HUSB @I7280@
 1 WIFE @I7278@
@@ -173782,6 +174328,211 @@
 1 CHAN
 2 DATE 26 JUL 2026
 3 TIME 16:04:05
+0 @F2821@ FAM
+1 HUSB @I7376@
+1 WIFE @I7378@
+1 MARL
+2 DATE 14 JAN 1616
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N3636@
+1 MARR
+2 DATE 28 JAN 1616
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHIL @I7379@
+1 CHIL @I7380@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:31:59
+0 @F2822@ FAM
+1 HUSB @I7381@
+1 WIFE @I7378@
+1 MARL
+2 DATE 26 SEP 1630
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N3639@
+1 MARR
+2 DATE 13 OCT 1630
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:37:41
+0 @F2823@ FAM
+1 HUSB @I7381@
+1 MARR
+2 DATE ABT 1610
+1 CHIL @I7382@
+1 CHIL @I7384@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:50:49
+0 @F2824@ FAM
+1 HUSB @I7383@
+1 WIFE @I7382@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:49:29
+0 @F2825@ FAM
+1 HUSB @I7385@
+1 WIFE @I7384@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:52:08
+0 @F2826@ FAM
+1 HUSB @I7386@
+1 CHIL @I7387@
+1 CHIL @I7388@
+1 CHIL @I7389@
+1 CHIL @I7378@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 22:59:20
+0 @F2827@ FAM
+1 HUSB @I7390@
+1 WIFE @I7391@
+1 MARR
+2 DATE 7 JUL 1616
+1 CHIL @I7392@
+1 NOTE @N3645@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:13:56
+0 @F2828@ FAM
+1 HUSB @I7394@
+1 WIFE @I7393@
+1 MARL
+2 DATE 5 JAN 1595
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N3649@
+1 MARR
+2 DATE 19 JAN 1595
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N3650@
+1 CHIL @I7395@
+1 CHIL @I7398@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:31:10
+0 @F2829@ FAM
+1 HUSB @I7396@
+1 CHIL @I7394@
+1 CHIL @I7397@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:29:34
+0 @F2830@ FAM
+1 HUSB @I7398@
+1 WIFE @I7399@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:32:57
+0 @F2831@ FAM
+1 HUSB @I7401@
+1 WIFE @I7400@
+1 MARL
+2 DATE 2 DEC 1604
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N3654@
+1 MARR
+2 DATE 23 DEC 1604
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+1 NOTE @N3655@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:39:20
+0 @F2832@ FAM
+1 HUSB @I7403@
+1 WIFE @I7402@
+1 MARL
+2 DATE 10 MAY 1607
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N3656@
+1 MARR
+2 DATE 5 JUN 1607
+2 PLAC Harderwijk [Gelderland]
+3 MAP
+4 LATI N52.342347
+4 LONG E5.635813
+2 NOTE @N3657@
+1 CHIL @I7404@
+1 CHIL @I7405@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:49:30
+0 @F2833@ FAM
+1 HUSB @I7407@
+1 WIFE @I7406@
+1 MARR
+2 DATE ABT 1520
+1 CHIL @I7280@
+1 CHIL @I7408@
+1 CHIL @I7411@
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:06:31
+0 @F2834@ FAM
+1 HUSB @I7408@
+1 WIFE @I7409@
+1 MARR
+2 DATE ABT 1560
+1 NOTE @N3661@
+1 CHAN
+2 DATE 26 JUL 2026
+3 TIME 23:59:39
+0 @F2835@ FAM
+1 HUSB @I7410@
+1 CHIL @I7407@
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:01:58
+0 @F2836@ FAM
+1 HUSB @I7373@
+1 WIFE @I7412@
+1 CHIL @I7413@
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:13:27
+0 @F2837@ FAM
+1 HUSB @I7414@
+1 WIFE @I7291@
+1 MARR
+2 NOTE @N3663@
+1 CHIL @I7416@
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:26:26
+0 @F2838@ FAM
+1 HUSB @I7415@
+1 CHIL @I7414@
+1 CHAN
+2 DATE 27 JUL 2026
+3 TIME 00:22:59
 0 @N0000@ NOTE Collection Overijssel location Zwolle in Zwolle (Netherlands), Civi
 1 CONC l registration deaths
 1 CONT Burgerlijke Stand in Overijssel, Kampen, archive 0123, inventory numbe
@@ -197983,6 +198734,538 @@
 1 CONC ienthalve die eene op dandere geen actie mehr ...... Bedanckende malkand
 1 CONC eren daer van zonder erffuuijtinge vernoeginge ende betalinge des leste
 1 CONC n penninge metten eersten. Actum ut supra.
+0 @N3635@ NOTE 1648 october 28, rec. 147, folio 165 verso en 166. (ORAH, copie 16:
+1 CONC 149/150)
+1 CONT Voor Brinck ende Witte Schepenen compareerden henrikien Goerdtss, voort
+1 CONC s wijntien Goerdtss huisfrouw van peter Gerritss Cosik ende Dirckien Goe
+1 CONC rdtss huisfrouw van Albert Gerritss Coeck, alle drie gesusteren, de getr
+1 CONC ouwde in absensis van haere respectieve eheman, geassisteert met die Ede
+1 CONC le Johan Schrassert haeren gecoren momber: Ende verclaerden, alsoo sij d
+1 CONC en naeste ende apparente Erfgenaemen sullen sijn van haere moije Griet
+1 CONC e Willemerss huisfrouw van Albert Lubbertss ende Imme Willemerss, ende '
+1 CONC t gebeure conde dat ijmant van hun gesusteren voor de voorschreven moij
+1 CONC e mochte comen te overlijden kijndt ofte kijnderen naelatende, die dan v
+1 CONC an haere olde moijen naelaetenschap solde wesen gefrusteert: dat sij dae
+1 CONC r op uijt onderlinge genegentheidt ende liefde ijeder tot sijne kijndere
+1 CONC n, metten anderen overcomen ende versproocken sijn, dat in cas voorschre
+1 CONC ven de kijnderen bij eene van hun susteres naegelaeten sullen erven end
+1 CONC e staen in haer olders plaetse, ende soo diep ende verre in haer olde mo
+1 CONC ije naelaetenschap toetasten als der selver moeder noch in leven wesend
+1 CONC e solde hebben gedaen: Sonder dat sich hier en tegens ijmandt van hun dr
+1 CONC ien, off haere respective man, daer voor sij haer sterckmaeckten ende d
+1 CONC e rato caverenden, sullen opposeren: Bij poene ende vrijwillige condemna
+1 CONC ties, dat den opposant van dien van de geholde erfnisse der voorschreve
+1 CONC n moije sal versteecken wesen.
+1 CONT Actum den 28e october 1648.
+0 @N3636@ NOTE huwelijksafkondiging: civil 6158 [14 januari 1616] Harderwijk - - o
+1 CONC rdinance godsdienst: n.h.
+0 @N3637@ NOTE 1629 juni 1, rec.145, folio 276 verso. (ORAH, copie 10:4)
+1 CONT Voir Wenckum ende Albert Voeth Loofden ende worden burgen Aerdt Janss en
+1 CONC de Goerdt Dirrickss voor Grietgen Willemerss voor die Tuchte welcke oe
+1 CONC r zaliger Eheman Peter Aerdtss oer bemaeckt heeft, Dat sij die goedere
+1 CONC n nae Tuchten rechten sal besitten ende gebruicken. Des geloofde die voo
+1 CONC rschreven Grietgen met Oth Schrassert haren In deser saecken gecoren mom
+1 CONC ber die voorschreven  oere burgen hier van vri  uijt ende schadeloes t
+1 CONC e holden.
+1 CONT Actum den 1 Junij 1629.
+0 @N3638@ NOTE 1630 februari 21, rec.145, folio 305. (ORAH, copie 7:35)
+1 CONT Voir Wenckum ende Brinck Schepenen mechtichde Grietgen Willemerss Weduw
+1 CONC e van zaliger Peter Aerdtss Jan Verhoel in alle alsulcke saecken, als zi
+1 CONC j tegens die Erfgenamen van oer zaliger Eheman ofte ijmandt anders eenic
+1 CONC hsins te doen heeft ofte crijgen mach. In omnibus ad Lites, cum potestat
+1 CONC e substituendi et ratificatione actorum.
+1 CONT Actum den 21. Februarij 1630.
+0 @N3639@ NOTE huwelijksafkondiging: civil 6163 [26 september 1630] Harderwij
+1 CONC k - - ordinance godsdienst: n.h.
+0 @N3640@ NOTE 1653 juli 30, rec. 148, folio 110. (ORAH, copie 14:141/142/143)
+1 CONT Voor Witte ende Schrassert Schepenen hebben Aeltgen ende Fenneken Albert
+1 CONC s haer maechgescheijt te boeck doen brengen ende overgegeven luijdende v
+1 CONC an woorde tot woorde als volgt: Wij Aeltgen Alberts geassisteert met mij
+1 CONC nen man Franck Jansen ende in desen mijnen gecoren momber, ende wij Fenn
+1 CONC eken Alberts geassisteert met mijnen man Gerrit Wilhemsen van Hovesteij
+1 CONC n ende in dese mijnen gecoren momber, lijden en bekennen dat wij ten ove
+1 CONC rstaen van onderschreven maechgescheijt onder vruntschap een wettelick m
+1 CONC aechgescheijt hebben geholden, nae dat allevorens die meubilen ende gere
+1 CONC de penningen waren gedeijlt, gelijck ons zaliger vader Albert Lubbertse
+1 CONC n ons luijden in erffenisse heeft naegelaten; Alles in manieren hier na
+1 CONC e beschreven, Eerstelick is mij Aeltgen toe deijle gevallen vijftich bom
+1 CONC en in Gorteler bosch sijnde een achtste Lambertsen deel, een campe lant
+1 CONC s aen oosten gelegen groot ongeveer een mudde gesaijs ende noch een rent
+1 CONC he brieff van een half mudde rogge jaerlix; waer tegens mij Fenneken Alb
+1 CONC erts voornoemt is toe laten gevallen een halve deijlonge in Speulder bos
+1 CONC ch, noch twee greesen ende een derde part van een grese lants gelegen i
+1 CONC n oosterwolde, met dese conditie dat ick aen mijn suster Aeltgen sal heb
+1 CONC ben uijt te keeren ende te betalen de somme van een hondert gulden end
+1 CONC e beholden wij beijde noch gemeen vijff dachmaten hoijlants opte oosterm
+1 CONC een, als oock noch alle het gene noch mochte comen van alle de uijtstaen
+1 CONC de schulden soe wij beijde noch met die erfgenamen van za- liger Grietge
+1 CONC n Willemers onser zaliger vaders gewesene huijsvrouw int gemeen sijn bes
+1 CONC ittende, ende sullen wij beijde gesusters hier mede erffelick ende in vr
+1 CONC untschap gescheijden sijn ende blijven, sullende ijder sijn eigen onlosb
+1 CONC aer lasten op eenick parcheel vandien tsijnen laste nemen, alles sonde
+1 CONC r arch of list, ende in waerheijth verconde hebben wij dese met onse ech
+1 CONC te mannen benevens maechgescheijts vrunden onderteeckent opten 28 juli
+1 CONC j 1653. onderstont Aeltgen Alberts, Fennecken Alberts, Franck Jansen, Ge
+1 CONC rrit Wilhemsen van Hovesteijn, Jan Dircksen Afslager, Wilhem Rutg. Verbr
+1 CONC uggen.
+1 CONT Actum den 30 julij 1653.
+0 @N3641@ NOTE 1636 juni 1, rec. 146, folio 149 verso. (ORAH, copie 13:176)
+1 CONT Voor Hoeclum ende Wijnbergen Schepenen heeft Grietgen Willemers geassist
+1 CONC eert met haer Eheman Albert Lubbertsen hare momber bij forme van Testame
+1 CONC nte ofte wie sulx anders op het bundigste sal mogen bestaen gelegateer
+1 CONC t ende bemaeckt, legateert ende bemaeckt in crachte deses aen de Diaconi
+1 CONC e der armen alhier die somme van vijftich gulden hollants nae oeren doo
+1 CONC t bij hare Erffgenamen uuit haer goedt allene uuit te richten, dat end
+1 CONC e allene sij haer erffnisse sullen mogen aentasten, sonder argelist.
+1 CONT Actum den 1 Junij 1636.
+0 @N3642@ NOTE 1628 februari 18, rec.145, folio 212, 212 verso, 213.(ORAH, copie 5
+1 CONC :4/5/6)
+1 CONT Voir d'selve Richteren ter Instantie ende onder presentatie als boven Tu
+1 CONC ichde Elbert Aerdtss olt ongeveerlick 60 jaeren hoe waer is Dat hij Getu
+1 CONC ige toe hijerden gevoedt ende geboren is ende over sulcx van die tijdt d
+1 CONC at hij gedenck jaeren gehadt, gekent heeft het Amersfoorder Erff voor de
+1 CONC se Egmondt ende nu producente competerende, Ende dat hem bewust is Dat d
+1 CONC oor die stege achter 't huis, welcke gaet naer Enck Landt, Brandt Albert
+1 CONC ss ende meer anderen die daer bij gelandet sijn mede door wege, Ende da
+1 CONC t hij nijet weet Dat die heeren Weidemeesteren deser Stadt ofte ijmand
+1 CONC t anders Eenige gerechticheit daer op gepretendeert hebben ende datter a
+1 CONC ltijdt Een heck gehangen heeft voor aen die steech achter het huis, End
+1 CONC e dat die gemene man die daer bij gelandt sijn ende d'selve wech gebruic
+1 CONC ken het heck becostigen. Ende dat Elck Eene die daer bij gelandet is end
+1 CONC e t'naeste gelegen leijt, d'selve wech gebruickt ende dat hij Getuige so
+1 CONC e dick ende menichmael hij op die Steech plaggen conde becoemen, deselv
+1 CONC e gemaijt heeft, Soe ten tijde als hij het noch gebruickte van Egmondt s
+1 CONC elve ofte sijn volmachtigers als van producente. Sonder dat hem ijmand
+1 CONC t Eenich beletsel toende.
+1 CONT Actum den 18 feb.
+1 CONT 
+1 CONT N.B.:
+1 CONT weidemeester : opzichter van de stadsweiden.
+0 @N3643@ NOTE 1629 december 9, rec. 145, folio 293 verso. (ORAH, copie 15:372)
+1 CONT Voir Wijnbergen ende Brinck Loofden ende worden burgen als voorfancx rec
+1 CONC ht is Coot Casijnss ende Adriaen Janss voor Reintgen Aerdts Weduwe van B
+1 CONC randt Gosenss ende oeren kinderen ende Trijntgen Dappars als moeder oere
+1 CONC s kindts bij zaliger Elbert Aerdtss geprocreert, voor die Erffnisse end
+1 CONC e Versterff Welcke oer mits dode oeres zaliger broeders ende oems respec
+1 CONC tive Peter Aerdtss eenichsins aengeerft ende aenbestorven is. Des geloof
+1 CONC den sij moeders met Oth Schrassert oere in dese gecoren momber hare burg
+1 CONC en hier van vrij quit ende schadloes te holden. 
+1 CONT Actum den 9 Decembris 1629
+0 @N3644@ NOTE Attestatie naar Deventer.
+0 @N3645@ NOTE 1616 augustus 21, rec. 143, folio 428 verso en 429. (ORAH, copie 15
+1 CONC :430/431)
+1 CONT Voir Jacob Voeth ende Meurs heeft Elbert Aertss zijne huijsvrouwe Trijnt
+1 CONC gen Dappers Indien hij voor haer sonder gebeurte bij haer geworven naete
+1 CONC laeten, deser were quame te overlijden boven die morgengaeve, die hij ha
+1 CONC er in hijlicxvurwarden alrede versproecken ende gegeven heeft, ende onve
+1 CONC rmindert d'selve, noch gegeven ende geeft in crachte deses uuijt zijne g
+1 CONC erede ende ongerede goederen de somme van vijff hondert gulden hollant
+1 CONC s stuck ad twintich stuijvers Waertegens die vurschreven Trijntgen Dappe
+1 CONC rs die vurschreven oere eheman Elbert Aertss Indien sij voor hem sonde
+1 CONC r gebeurte bij hem geworven naetelaten quame te sterven, gegeven heeft e
+1 CONC nde geeft in crachte deses, uuijt oere gerede ende ongerede goederen d
+1 CONC e somme van Duijsent gulden hollants stuck ad 20 stuijvers ende daer th
+1 CONC o haer Bedde met zijn toebehoeren ende dit alles in crachte ende vermoeg
+1 CONC ens ter goeder tijdt opgerichte hijlicxcontracten die die vurschreven Sc
+1 CONC hepen gesien ende gelesen hebben Dat hadden die Clausulen van malcandere
+1 CONC n ten allen tijde vorders te moegen begiftigen ende betuchtigen van da
+1 CONC t ende ........
+1 CONT Actum den 21 Augusti 1616.
+0 @N3646@ NOTE 1630 juni 18, rec.145, folio 327. (ORAH, copie 7:36)
+1 CONT Voir Jacob Voeth ende Meurs Loofden ende Worden burgen als voorfancx rec
+1 CONC ht is, die Edele Anthonis van Wenckum voor Pilgrum Aerdts, Wouter hegema
+1 CONC n voor harbert Aerdtss ende pouwels Gerritss van Coeth voor Berndt Aerdt
+1 CONC ss ende Anna Janss weduwe van zaliger Jan Aerdtss voor de Erffnisse end
+1 CONC e Versterff Welcke hen mits dode oeren zaliger Suster Weime Aerdtss eeni
+1 CONC chsins aengeerft ende aenbestorven is. Des geloven die Voorschreven prin
+1 CONC cipalen oeren burgen hier van vrij, quijt ende schadeloes te holden.
+1 CONT Actum den 18. Junij 1630.
+0 @N3647@ NOTE Harbert zou eigenlijk bekend moeten staan als Harbert Elbertsz Lief
+1 CONC fert.
+0 @N3648@ NOTE  1629 december 9, rec.145, folio 293 verso. ( ORAH, copie 7:31 )
+1 CONT Voir Wijnbergen ende Brinck loofden ende worden burgen als voorfancx
+1 CONT recht is
+1 CONT Coot Casijns ende Adriaen Janss voor Reintgen Aerdtss weduwe van Brandt
+1 CONT Gosenss
+1 CONT ende oeren kinderen ende Trijntgen Dappars als moeder oeres kindts bij
+1 CONT zaliger
+1 CONT Elbert Aerdtss geprocreert, voor die erffnisse ende versterff welcke oer
+1 CONT mits
+1 CONT dode oeres zaliger broeders ende oemes respective, peter Aerdtss
+1 CONT eenichsins
+1 CONT aengeerft ende aenbestorven is. Des geloofden sij moeders met Oth
+1 CONT Schrassert
+1 CONT oeren in desen gecoren momber hare burgen hier van vrij quit ende
+1 CONT schadeloes
+1 CONT te holden. Actum den 9. Decemb. 1629.
+1 CONT 1629 december 17, rec.145, folio 295. ( ORAH, copie 7:32 )
+1 CONT Voir Wenckum ende Albert Voeth Schepenen Gichte Dirrick Gerritss van
+1 CONT Laer,
+1 CONT Roedrager, Dat hij, met consent van den Burgemeesteren in der tijdt,
+1 CONT Reintgen
+1 CONT Aerdtss ende Trijntgen Dappers als moeder oeres kindts bij zaliger Elber
+1 CONC t
+1 CONT Aerdtss geprocreert, nae vorgaende verburginge int erfhuis van zaliger
+1 CONT Peter
+1 CONT Aerdtss ingeleidet heeft. Ende dat die weduwe Grietgen Willemerss op den
+1 CONT selve
+1 CONT dach, sijnde den 9. Decemb. 1629 die voorschreven Erffgenamen door hem
+1 CONT Roe-
+1 CONT drager weder heeft doen uuijt leiden. Actum den 17. Decemb. 1629.
+1 CONT N.B.: roedrager : gerechtsbode, kerkwachter.
+1 CONT 1630 december 3, rec.145, folio 362, 362 verso, 363 en 363 verso. ( ORAH
+1 CONC ,
+1 CONT copie 15:377/378/379/380 )
+1 CONT Voir dieselve Schepenen ende Overwesenmeesteren Compareerden Reintgen
+1 CONT Aerdtss
+1 CONT Weduwe van zaliger Brandt Gosenss, geassisteert Aerdt Brandtss hare Soen
+1 CONT ende
+1 CONT in deser saecken gecoren momber ende hendrick Schilt als volmachtiger va
+1 CONC n
+1 CONT Trijntgen Dappers als moeder ende neffens Bitter Dapper ende Dirrick
+1 CONT Boelen,
+1 CONT mombersche van haer unmundige Soen harbert Aerdtss bij zaliger Elbert
+1 CONT Arndtss
+1 CONT geprocreert als Erfgenamen ab intestato van zaliger peter Aerdtss haren
+1 CONT respec-
+1 CONT tiven broeder ende oem ter eene. Ende Grietgen Willemerss gewesene Weduw
+1 CONC e
+1 CONT van
+1 CONT zaliger Aerdtss voorschreven, geassisteert met Albert Lubbertss haren
+1 CONT tegen-
+1 CONT woordigen Eheman ende momber ter andere sijden. Verhalende alsoo sij
+1 CONT onderlinge
+1 CONT eenige questie ende misverstandt een tijdt lanck gehadt hebben, Over die
+1 CONT Gifte
+1 CONT ende Tuchte tusschen die voorschreven peter Aerdtss ende Grietgen
+1 CONT Willemerss
+1 CONT opgericht ende vernaderen van inventaris. Waer omme sij bij den Edele
+1 CONT Gerichte
+1 CONT tot Accoordt gewesen waren. Soo ist dat sij daer over in vrundtlicke
+1 CONT onder-
+1 CONT handelinge gecomen sijnde door Tusschen spreken van goede vrunden ende
+1 CONT dach-
+1 CONT holderen in vrundtschap veraccordeert ende verdragen sijn, Dat die
+1 CONT voorschreven
+1 CONT Erfgenamen van zaliger Peter Aerdtss voorts daetlick sullen aenvatten
+1 CONT ende erf-
+1 CONT lick ende eewelick beholden die helfte van vijff Gresen ende een
+1 CONT vijerdell in
+1 CONT Oosterwolde gelegen, daer Aeltgen Gerrits die wederhelft van toecomt,
+1 CONT Ende dat
+1 CONT sij nae dode van Grietgen Willemerss noch sullen hebben een huis staende
+1 CONT in de
+1 CONT St. Niclaes Strate, daer Gerrit van Amstel tegenwoordich in woont, een
+1 CONT hoff
+1 CONT aen de hout Camp met een Berch daer neffens, Twee dachmaten hoijlandts o
+1 CONC p
+1 CONT de
+1 CONT Westermeen. Een aendeel van Tien Sacken aende Eeckmoele in de Sijpell,
+1 CONT Die
+1 CONT halve Schuire staende bij St. Joosten putte, daer van Grietgen Willemers
+1 CONC s
+1 CONT die
+1 CONT andere helfte toecomt, ende noch vijftich gulden hollants hooftsomme
+1 CONT staende
+1 CONT int huijs van Gerrit Janss Koolhouen Waer van bij Reintgen Aerdtss die
+1 CONT princi-
+1 CONT pale Constititie brief berust. Aen alle welcke parcelen die voorschreven
+1 CONT Griet
+1 CONT gen haer leven lanck geduirende oer Tuchtgerechticheit beholt ende nae
+1 CONT haren
+1 CONT doot opte Erfgenamen van zaliger peter Aerdtss sullen vervallen, Die
+1 CONT welcke
+1 CONT die selve alle Erflick ende Ewelick sullen beholden, sonder met eenige
+1 CONT Lasten,
+1 CONT Schulden ofte Dootschulden te doen te hebben, Dan dat alsulcke Lasten al
+1 CONC s
+1 CONT oick
+1 CONT alle gerede ende mobile goederen, Actien ende Crediten sullen blijven te
+1 CONC n
+1 CONT prou-
+1 CONT fite ende Laste vande voorschreven Grietgen Willemerss ende oeren
+1 CONT Erfgenamen,
+1 CONT Die welcke oick mits desen van alsulcke verbeteringe, als oer in hilicx
+1 CONT vur-
+1 CONT warden versproken was, ten eenemael is renuncierende ende verthiende.
+1 CONT Ende sullen alsoo die voorschreven Erfgenamen ende Weduwe van die
+1 CONT voorschreven
+1 CONT Erfnisse ende daer over ontresene questien Erflick ende Eeuwichlick,
+1 CONT vruntlick
+1 CONT ende minnelick gescheiden sijn ende blijven. Sonder argelist. Actum den
+1 CONT 3. Dec-
+1 CONT emb. 1630.
+1 CONT N.B.: vernaderen : naasten.
+1 CONT 
+1 CONT     ab intestato : volgens testament.
+1 CONT     dachholder : dachhouder, verdediger, advocaat.
+1 CONT     gresen : griesen : grasen : landmaat, vooral in Groningen.
+1 CONT     constitutie : toezegging, instelling.
+1 CONT     ten proufite : ten voordeel.
+1 CONT     renuncieren : ontzeggen, opzeggen.
+1 CONT     verthienden: heffen, tiend van iets betalen.
+1 CONT     vertieren: verruilen, verwisselen.
+1 CONT     1637 januari 29, rec. 146, folio 189 verso. ( ORAH, copie 12:61 )
+1 CONT     Voir Brinck ende Wijnbergen loofden ende worden burgen als voorfanck
+1 CONC s
+1 CONT     recht is
+1 CONT     Aerdt Brandtss ende Adriaen Janss voor het erfhuis van zaliger Reint
+1 CONC gen
+1 CONT     Aerdtss
+1 CONT     Des beloofde Aerdt Brandtss voor hem selve ende sich mede sterck mak
+1 CONC ende
+1 CONT     ende
+1 CONT     cauderende de rato voor sijne mede erffgenamen oere burgen van dese
+1 CONT     burchtochte
+1 CONT     vrij quit ende schadeloes te holden Actum den 29 Januarij.
+1 CONT 
+0 @N3649@ NOTE huwelijksafkondiging: civil 6147 [5 januari 1595] Harderwijk - - or
+1 CONC dinance godsdienst: n.h.
+0 @N3650@ NOTE geloof: n.h.
+0 @N3651@ NOTE  N.B. Evert Goossensz is een broer van Brandt Goossensz.
+1 CONT 
+1 CONT 
+0 @N3652@ NOTE 1638 augustus 10, rec. 146, folio 293 en 293 verso. (ORAH, copie 14
+1 CONC :184/185)
+1 CONT Voor Jacob Voeth ende Holl Overkerkmeisteren ende Schepenen bekende Ja
+1 CONC n Dirrickss ende Arndt Brandtss kerkmeisteren indertijdt ontfangen te he
+1 CONC bben van Joffer Margareta Schrasserts vijff hondert gulden hollants, hee
+1 CONC rcomende van het Legaet bij haer zaliger eheman Elias Trip aen de kerck
+1 CONC e alhier gegeven Ende alsoo die voorschreven Joffer Margareta Schrassert
+1 CONC s daer in belijftuchtiget is haer levenlanck geduirende, sulcx dat die k
+1 CONC ercke niet eer als nae oer doot d'selve vijff hondert gulden hadde conne
+1 CONC n ontfangen, soo beloven sij kerkmeisteren voor oer ende oeren naecomeli
+1 CONC ngen die jaerlicxe rente van dese 500 gulden ( geduirende het leven va
+1 CONC n de voorschreven Joffer Margareta Schrasserts ende langer niet ) te emp
+1 CONC loieren ende aen te leggen tot alsulcke reparatie gebouw ofte circuit de
+1 CONC r kercke, als die voorschreven Joffer Schrasserts sall believen daer va
+1 CONC n gemaeckt te worden, haer mits desen van goede betalinge bedanckende. S
+1 CONC onder argelist.
+1 CONT Actum den X. august. 1638.
+1 CONT 
+1 CONT N.B.:
+1 CONT kerkmeester: lekelid van R.K. kerkbestuur.
+0 @N3653@ NOTE Zie acte 1631 juni 23 bij Hendrick Lieffertsz.
+0 @N3654@ NOTE huwelijksafkondiging: civil 6354 [2 december 1604] Harderwijk - - o
+1 CONC rdinance godsdienst: n.h.
+0 @N3655@ NOTE 1604 december 6, rec. 141, folio 357 en 357 verso. (ORAH, copie 15:
+1 CONC 448/449)
+1 CONT Voor Arnt Wolffss ende Alphert Brinck Bekenden Thonis Cornelijss eens en
+1 CONC de Geertgen Liefferts anderderes Sullende sich die vurschreven Thonis en
+1 CONC de Geertgen vergaderen inden hilligen echten staet Dat zij bij raet va
+1 CONC n beijdes zijden vrunden in hijlicxvurwarden overcoomen ende ter goede
+1 CONC r tijdt verdengen zijn Dat bij aldien Thonis Cornelis eerst voor Geertge
+1 CONC n Liefferts quame afflijvich te worden sonder blijvende gebeurte bij hae
+1 CONC r Geertgen gewonnen naetelaten Dat in sulcken gevalle Geertgen alle de
+1 CONC s vurschreven Cornelis naegelaten goederen soe roerende als onroerende s
+1 CONC al blijven sitten ende dus erfflick ende eeuwichlick voor haer ende haer
+1 CONC en erven hebben ende behouden moegen.
+1 CONT Actum den - 6 December.
+0 @N3656@ NOTE huwelijksafkondiging: civil 6358 [10 mei 1607] Harderwijk - - ordin
+1 CONC ance godsdienst: n.h.
+0 @N3657@ NOTE geloof: n.h.
+0 @N3658@ NOTE doop godsdienst: n.h.
+0 @N3659@ NOTE doop godsdienst: n.h.
+0 @N3660@ NOTE 1551 october 24, rec. 135, folio 100 en 100 verso. (ORAH, copie 15:
+1 CONC 549/550)
+1 CONT Vuer werner ende coelwagen gelaeffden Nale lijffers met Rijcket oer zoe
+1 CONC n ende met Claesgen oer dochter vuerschreven ende hoer erffgenaemen to v
+1 CONC rijen ende quijten henrick beertss woenachtich tho loevenum inden Ampt v
+1 CONC an Ermell van alle alsodaene geloffte ende burchtocht als de nu vuerschr
+1 CONC even gelaefft heefft ende burge geworden is an peter beertss scheen vue
+1 CONC r de huijr ende pacht van eijn halff erff dat sij van denselven gehuijr
+1 CONC t hebben, vernoege eijns placaets van de burchtocht weesende, daer vue
+1 CONC r tonderpande settende ende obligijende alle alsodane goet erff ende eij
+1 CONC gen Reet ende onreet woe dat genoempt ende waer dat gelegen is nijet uij
+1 CONC tbescheijden als sij nu hebben ende sij ende oer erffgenaemen noch nhama
+1 CONC ls krijgen moegen alle gebreck hijnder ende schade daer an tho verhalen.
+1 CONT Actum XXIIII Octobris.
+0 @N3661@ NOTE 1560 januari 31, rec. 136, folio 1. (ORAH, copie 15:527)
+1 CONT Vuer Cortwagen ende Hoeckelom gaff Rijcket Lijffersz bate henricks sij
+1 CONC n echte - wijff vijfftich golden guldens uijt sijn goet to goeder tijt t
+1 CONC o mergengave.
+1 CONT Actum ultima Januaris.
+0 @N3662@ NOTE 1575 mei 2, rec. 138, folio 122 verso. (ORAH, copie 15:493)
+1 CONT Vuer Jan wolterss ende holderp bekende ende gaeff over baete zalige Rijc
+1 CONC ket lijeffertss naegelaten weduwe mit gerrit messemaecker in desen oere
+1 CONC n gecorene momber dat in gevalle enige oerer kijnderen na datum van dese
+1 CONC n offlijvich werden ende alsoe enige erffnisse van deen op oer vallen mo
+1 CONC chte dat sij mits desen daer van onterfft wesen ende blijven sal ende da
+1 CONC t het eene kijndt op het andere erven sall ter lesten doet toe alsoe da
+1 CONC t sij van oere voerschreven kijnderen bij Rijcket lijeffertss gewonnen g
+1 CONC heen erffnisse boeren en sall ....... het leste in godt verstorven is.
+1 CONT Actum den II maij 1575.
+0 @N3663@ NOTE geloof: n.h.
+0 @N3664@ NOTE 1575 juni 19, rec. 138, folio 127. ( ORAH, copie 15:495 )
+1 CONT Vuer walter berger ende wijllem velick gaff Egbert Scheen sijn vijff voe
+1 CONC r
+1 CONT kijnderen hondert ende vijffendetwintich gulden ad achtentwintich
+1 CONT stuijvers
+1 CONT brab. faluatie stuck ende daer toe noch de helffte van sijn inmobels end
+1 CONC e
+1 CONT erffgoederen ende sijn vier dochteren elcx een kijste met twe rocken off
+1 CONT tabberden wat sij tot oere mundige daegen .... begeven ende sijn soen VI
+1 CONT schapen voer de kiste ende benoempte klederen ende dit alles voer oer
+1 CONT moeders
+1 CONT guedt ende geloeffden de voerschreven kijnderen tot oere mondigen daegen
+1 CONT to to
+1 CONT onderhalden onvermindert desse penningen ende benoempte guederen mede
+1 CONT over-
+1 CONT gevende vuer hem ende sijne erven dat de vijff voer kijnderen erff ende
+1 CONT ver-
+1 CONT starven sullen opte andere tot de leste to. Actum den XIX Junij 1575.
+1 CONT 1575 november 27, rec. 138, folio 136. ( ORAH, copie 15:496 )
+1 CONT Vuer velick ende Johan vande wall bekenden Egbert Scheen ter eener ende
+1 CONT Jan
+1 CONT haeversaeck ende lubbertgen Creen als oem ende momber van henrijckgen
+1 CONT brouwers
+1 CONT ter ander sijden dat ende alsoo den voerschreven Egbert ende henrijckgen
+1 CONT ver-
+1 CONT gaderen sullen inden hilligen echten Staet nae forme ende gewoente der
+1 CONT hil-
+1 CONT ligen echte Staet nae forme ende gewoente der hilligen kercken dat sij
+1 CONT ter
+1 CONT gueder tijt verdragen ende overcoemen sijnen in maten ende manieren hier
+1 CONT nae
+1 CONT volgende Inden ersten brengt Egbert voerschreven an henrijckgen sijn to
+1 CONT koemende echte huisrouw alsulck goedt als hij nu tot sich heeft hier en
+1 CONT tegens
+1 CONT gijfft jan ende lubbertgen voerschreven mit ...... ende oere dochter in
+1 CONT rechte
+1 CONT hilicxvoerwarden de somma van hondert ende derthiende halve gulden
+1 CONT hollants to
+1 CONT betalen nu Sunte Marten naestcoemende ende een kijste ende een bedde mit
+1 CONT sijn
+1 CONT to behoerende off sich begeve dat enige van hen beiden offlivich worde
+1 CONT sunder
+1 CONT nae te laten echte wijttelijcke blijckende blijvende gebuerte bij den
+1 CONT anderen
+1 CONT to werven ende nae to laten sall elck mit sijn aengebrachte guedt offgae
+1 CONC n
+1 CONT ende
+1 CONT alle aengewonnen ende aengeworven guedt staende oer beider echte sall
+1 CONT halff
+1 CONT ende halff sijn voerts soo gift Egbert voerschreven sijn toecoemende
+1 CONT echte
+1 CONT huisfrouw indien hij voer oer offlivich wordt hondert daeler tot een
+1 CONT verbeter-
+1 CONT ringe to genieten uit sijn guedt. Actum den XXVII novembris 1575.
+1 CONT 1588 maart 29, rec. 139, folio 223 verso en 224. ( ORAH, copie 15:465/46
+1 CONC 6
+1 CONT )
+1 CONT Vuer Gerridt voeth ende Ripperbandt bekenden Egbert Scheen schuldich to
+1 CONT wesen
+1 CONT sijne vijff kijnderen geprocreert bij zaliger Petergen barts, vuer oers
+1 CONT moe-
+1 CONT der guedt, boeven tgene hij den kijnderen voerschreven naer inholt deser
+1 CONT Stadt-
+1 CONT bouck, bekent hefft, idt rechte vierendeell so hij enichsins hefft aen
+1 CONT een
+1 CONT erff ende guedtgen, daer tijman lubbertss die eene helffte ende den
+1 CONT kijnderen
+1 CONT voerschreven dat ander vierendeell van toebehoert, ende so dat selve met
+1 CONT allen
+1 CONT sijnen toebehoeren ende gerechticheit to hulshorst in Goesen vinck ende
+1 CONT win-
+1 CONT ckers guedtgen gelegen is, mit noch vijfftich daelers die beloeft sijnen
+1 CONT in
+1 CONT Bartgen Lijfferts guedt, ende dese voerschreven bekenninge hefft
+1 CONT henrickgen
+1 CONT Brouwers ....... huijsfrouwe van Egbert voerschreven alsoe mede believet
+1 CONT ende
+1 CONT geratificeert, Actum den XXIX Martij.
+1 CONT 1588 september 13, rec. 139, folio 248. ( ORAH, copie 15:468 )
+1 CONT Vuer Brinck van Vanevelt ende Dirck Voeth tuijchden Egbert Scheen ende
+1 CONT Jutte
+1 CONT Creen beijde eindrachtelicken volstaeffs Godtss daer sij ter Instantie
+1 CONT van
+1 CONT Henrick gerridtss haversack mit rechte to gebodet waren, hoe dat oer
+1 CONT wittich
+1 CONT ende kundich is, dat Henrick voirschreven eertijts sijnen natuijrlicken
+1 CONT Sohn
+1 CONT Peter Henrickss, gerichtelicken bekent hefft schuldich to wesen die somm
+1 CONC e
+1 CONT van
+1 CONT twehondert Carolus gulden ad XX stuijvers 't stuck, ende dat vuer
+1 CONT .......... ,
+1 CONT dieselve pennongen to betalen nae affstervinge van Henrick vurschreven
+1 CONT ende
+1 CONT ere niet, Actum den XIIIe Septembris anno 88.
+1 CONT 1590 maart 15, rec. 139, folio 316 en 316 verso. ( ORAH, copie 15:470/47
+1 CONC 1
+1 CONT )
+1 CONT Vuer gerrit ende Dirck Voeth bekenden Egbert Scheen, ende Henrickgen sij
+1 CONC n
+1 CONT huijsvrouwe, Rende Creen, Bart gerridtsen ende willemtgen sijn
+1 CONT huijsvrouwe,
+1 CONT ende Jutte Creen schuldich toe wesen Henrick Gerridtss Haversack, die
+1 CONT somme van
+1 CONT hondert gulden tot ses ende twintich stuijvers brab. fall. stuck,
+1 CONT hercoemende
+1 CONT vanden affstandt van Henricks vurschreven andeell, toeseggen ende
+1 CONT gerechticheit
+1 CONT dat hij enichsins gehadt offte hefft aen Tijman Janss Hoelboenis erve
+1 CONT ende
+1 CONT guedt, beloevende Egbert, Rende, Bart ende Jutte met oere vurschreven
+1 CONT respec-
+1 CONT tive huijsvrouwen, t'samen offte elcx een vuer all, tot Henricks keur
+1 CONT ende
+1 CONT welgevallen, die voornoemde somme van penningen to betalen nu Sunte Gall
+1 CONT naest-
+1 CONT coemende, bij verwonnen pandtsterckinge, Actum den XV Martij Anno 1590.
+1 CONT N.B.: Sunte Gall : Sint Gallus : 16 oktober.
+1 CONT 1611 juli 7, rec. 143, folio 24 verso en 25. ( ORAH, copie 15:422/423 )
+1 CONT Voir Meurs ende Dedem transporteerden Harmen Cree ende Jacobgen Claes
+1 CONT echte-
+1 CONT luijden gave oere scholden te goede ende vertegen daer op als recht is
+1 CONT ten
+1 CONT behoeve van Egbert Scheen ende Henrickgen Renden echteluijden ende oeren
+1 CONT erven
+1 CONT het gerechte vierdendeel aen een goetgen genaempt Colthoeven Daer die
+1 CONT vur-
+1 CONT schreven Coopers die drie deelen te bevoerens van toebehoerden liggende
+1 CONT te
+1 CONT hierden naest die Stadts van harderwijckx Landerijen aende eene ende die
+1 CONT arme
+1 CONT Weeshuijs aen de andere zijde ende bedanckten zij transportanten die
+1 CONT vurnoemde
+1 CONT Coopers daer van goeder verneuginge ende betalinge des lesten penningen
+1 CONT met den
+1 CONT eersten Gelooven 't selve vierdepart goedt te waeren op alsulcke 15
+1 CONT stuyvers 12
+1 CONT penningen sjaers als die Stadt daer uuijt heeft ende dat voorts
+1 CONT commervrij ende
+1 CONT alle voorcommer aff tho doen als erffcoops recht is. Actum ut supra.
+1 CONT N.B.: gave: oprecht.
+0 @N3665@ NOTE doop godsdienst: n.h.
+0 @N3666@ NOTE 1646 mei 2, rec. 147, folio 116, 116 verso. (ORAH, copie 16:145/146
+1 CONC /147)
+1 CONT Voor Tegnagel ende Holl Schepen compareerde Egbert Renden, sullende sic
+1 CONC h op een reijse over zee begeven: ende heeft op 't bundichste geconstitu
+1 CONC eert ende volmachtich gemaeckt sijn neef Willem Harmss, om van sijnert w
+1 CONC egen te innen vorderen ende ontfangen soodane schulden ende restanten, a
+1 CONC ls hij soo van sijne vercoste goederen als anders, in ende buiten de vri
+1 CONC jheidt deser stadt ten achteren is ende noch te ontfangen heeft: Als nae
+1 CONC mptlick van Brenner Bosch drie hondert ende vijftich guldens van Alber
+1 CONC t Jacobss van Colthoren drie hondert twe ende sestich gulden, X stuiver
+1 CONC s van Lubbert Lubbertss, van 't huis achter de muiren hondert acht end
+1 CONC e twintich gulden van Jan Visch, van Lobberich Noijen hondert gulden me
+1 CONC t twe jaeren renthen op paesschen 1647 sullende verschijnen, ende van Ge
+1 CONC rrit van Arler t'achtentich gulden. Om de penningen te ontfangen, quitan
+1 CONC ties passeren, oock brieven van cessie ende opdracht in der bester form
+1 CONC e ende tot den meeste verheerkeringe van copers te doen ........ ende ge
+1 CONC neraliter alles anders te doen naer Constituant selfs present sijnde sol
+1 CONC de cunnen ende mogen doen. Cum potestate substituendi et ratificatione a
+1 CONC ctum midts doende reckeninge ende reliqua nae behorens. Voorts heeft Com
+1 CONC parant in cas hij van dese reijse niet wederom mochte comen, bij forme v
+1 CONC an testament codicille uijterste wille, ofte woe sulcx anders op 't bund
+1 CONC ichste sal cunnen ofte mogen bestaen, gelegateert ende bemaeckt midts de
+1 CONC sen aen sijn neef willem harmss d'eene helfft ende aen den Armen deser S
+1 CONC tadt d'andere helfft van de boven gespecificeerde coopspenningen, restan
+1 CONC te rente ende achterstedigheden: om d'selve gelijcklick door te deilen e
+1 CONC nde erflick ende ewichlick te beholden. verclaerende sulcx sijne uijters
+1 CONC te wille ende begeerte te sijn. Sonder argelist.
+1 CONT Actum den 2e Maij 1646.
 0 @O0001@ OBJE
 1 FILE /home/bert/workspace/git/MFT/persons/1897-1972 Lambert Johan Hendrik Timmerman/00172570.pdf
 2 FORM pdf
